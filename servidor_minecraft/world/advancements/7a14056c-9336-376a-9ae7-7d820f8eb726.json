@@ -1941,6 +1941,7 @@
       "minecraft:old_growth_pine_taiga": "2025-09-02 20:49:01 +0000",
       "minecraft:taiga": "2025-09-02 19:29:47 +0000",
       "minecraft:beach": "2025-09-02 20:51:04 +0000",
+      "minecraft:river": "2025-09-02 21:35:00 +0000",
       "minecraft:swamp": "2025-09-02 19:33:07 +0000",
       "minecraft:cold_ocean": "2025-09-02 20:50:42 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-09-02 20:50:50 +0000"
@@ -5581,6 +5582,18 @@
   "aether:recipes/combat/golden_dart": {
     "criteria": {
       "has_feather": "2025-09-02 21:17:07 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-09-02 21:35:55 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-09-02 21:35:55 +0000"
     },
     "done": true
   },

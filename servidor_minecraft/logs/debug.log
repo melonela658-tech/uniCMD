@@ -21046,3 +21046,18 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Sep2025 21:25:40.556] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-837, y=73, z=686} BlockPos{x=-838, y=72, z=685}
 [02Sep2025 21:27:57.264] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Sep2025 21:27:57.284] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Sep2025 21:28:21.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Diamonds!]
+[02Sep2025 21:31:23.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Hot Stuff]
+[02Sep2025 21:31:41.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [Crops of the Wild]
+[02Sep2025 21:31:49.688] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gerhell'/52907, l='ServerLevel[world]', x=-722.28, y=-22.00, z=-16.35] died: Gerhell was slain by Melosito_Neo
+[02Sep2025 21:31:55.443] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[02Sep2025 21:32:09.726] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[02Sep2025 21:32:32.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [Hunt and Gather]
+[02Sep2025 21:32:57.268] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Sep2025 21:32:57.291] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Sep2025 21:33:21.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Bunfy_edd]
+[02Sep2025 21:35:55.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [When in Rome]
+[02Sep2025 21:36:43.781] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [90e9e226-3313-35a6-9e6c-a232bbfd4e03]
+[02Sep2025 21:37:27.790] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1211, y=70, z=830} BlockPos{x=-1212, y=69, z=830}
+[02Sep2025 21:37:57.261] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Sep2025 21:37:57.282] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -1279,3 +1279,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Sep2025 21:25:40.496] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-837, y=73, z=686} BlockPos{x=-838, y=72, z=685}
 [02Sep2025 21:25:40.500] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-837, y=73, z=686} BlockPos{x=-838, y=72, z=685}
 [02Sep2025 21:25:40.556] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-837, y=73, z=686} BlockPos{x=-838, y=72, z=685}
+[02Sep2025 21:28:21.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Diamonds!]
+[02Sep2025 21:31:23.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Hot Stuff]
+[02Sep2025 21:31:41.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [Crops of the Wild]
+[02Sep2025 21:31:49.688] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gerhell'/52907, l='ServerLevel[world]', x=-722.28, y=-22.00, z=-16.35] died: Gerhell was slain by Melosito_Neo
+[02Sep2025 21:32:32.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [Hunt and Gather]
+[02Sep2025 21:33:21.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Bunfy_edd]
+[02Sep2025 21:35:55.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [When in Rome]
+[02Sep2025 21:37:27.790] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1211, y=70, z=830} BlockPos{x=-1212, y=69, z=830}
