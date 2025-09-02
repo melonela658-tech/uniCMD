@@ -1381,3 +1381,22 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Sep2025 22:26:52.513] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [02Sep2025 22:27:10.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [Far From Perfect]
 [02Sep2025 22:27:13.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [Disme A Dozen]
+[02Sep2025 22:30:14.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Bunfy_edd to Melosito_Neo]
+[02Sep2025 22:30:37.601] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[02Sep2025 22:30:37.601] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[02Sep2025 22:30:37.601] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[02Sep2025 22:30:39.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [We Need to Go Deeper]
+[02Sep2025 22:30:40.933] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4239ms or 84 ticks behind
+[02Sep2025 22:33:03.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo was slain by Chancellor Nathaniel the Mighty
+[02Sep2025 22:33:24.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Applied effect Strength to Melosito_Neo]
+[02Sep2025 22:33:32.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Applied effect Strength to Melosito_Neo]
+[02Sep2025 22:33:34.268] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zoglin['Chancellor Nathaniel the Mighty'/87381, l='ServerLevel[world]', x=-91.49, y=44.00, z=-19.36] died: Chancellor Nathaniel the Mighty was slain by Melosito_Neo
+[02Sep2025 22:33:34.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Epic!]
+[02Sep2025 22:35:00.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [We Need to Go Deeper]
+[02Sep2025 22:35:10.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [Hot Stuff]
+[02Sep2025 22:35:17.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [The Alloy That Started it All]
+[02Sep2025 22:37:30.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set 30 experience levels on Melosito_Neo]
+[02Sep2025 22:38:05.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [Diamonds!]
+[02Sep2025 22:38:20.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [The Secrets of Enchanting]
+[02Sep2025 22:39:14.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [Take Aim]
+[02Sep2025 22:39:14.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [A Throwaway Joke]
