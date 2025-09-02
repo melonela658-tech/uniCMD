@@ -2011,7 +2011,8 @@
       "minecraft:cold_ocean": "2025-09-02 19:39:55 +0000",
       "minecraft:forest": "2025-09-02 19:31:06 +0000",
       "minecraft:windswept_forest": "2025-09-02 19:38:33 +0000",
-      "minecraft:old_growth_spruce_taiga": "2025-09-02 19:39:19 +0000"
+      "minecraft:old_growth_spruce_taiga": "2025-09-02 19:39:19 +0000",
+      "minecraft:plains": "2025-09-02 22:13:57 +0000"
     },
     "done": false
   },
@@ -3365,6 +3366,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-09-02 19:46:30 +0000",
+      "cooked_mutton": "2025-09-02 22:11:39 +0000",
       "cooked_beef": "2025-09-02 20:08:25 +0000",
       "rotten_flesh": "2025-09-02 21:31:32 +0000"
     },
@@ -3729,6 +3731,8 @@
       "minecraft:pillager": "2025-09-02 21:05:14 +0000",
       "minecraft:skeleton": "2025-09-02 19:50:23 +0000",
       "minecraft:spider": "2025-09-02 20:16:27 +0000",
+      "minecraft:creeper": "2025-09-02 22:17:10 +0000",
+      "minecraft:witch": "2025-09-02 22:15:17 +0000",
       "minecraft:cave_spider": "2025-09-02 21:07:04 +0000",
       "minecraft:enderman": "2025-09-02 20:15:57 +0000",
       "minecraft:zombie": "2025-09-02 20:06:07 +0000"
@@ -6220,6 +6224,12 @@
     },
     "done": true
   },
+  "mekanism:basic_control_circuit": {
+    "criteria": {
+      "basic_control_circuit": "2025-09-02 22:11:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-09-02 21:28:21 +0000"
@@ -6340,6 +6350,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-09-02 22:17:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-09-02 21:21:00 +0000"
@@ -6379,6 +6395,12 @@
   "tconstruct:recipes/decorations/gadgets/frame/diamond": {
     "criteria": {
       "has_item": "2025-09-02 21:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-09-02 22:17:44 +0000"
     },
     "done": true
   },
@@ -6520,6 +6542,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/chainmail_boots_repairing": {
+    "criteria": {
+      "has_chainmail_boots": "2025-09-02 22:15:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-09-02 21:45:50 +0000"
@@ -6541,6 +6569,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-09-02 21:44:57 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2025-09-02 22:15:32 +0000"
     },
     "done": true
   },
@@ -6592,6 +6626,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-09-02 22:17:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-09-02 21:44:57 +0000"
@@ -6619,6 +6659,12 @@
   "kaleidoscope_cookery:recipes/decorations/chair_dark_oak": {
     "criteria": {
       "has_fence": "2025-09-02 21:22:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_boots_repairing": {
+    "criteria": {
+      "has_iron_boots": "2025-09-02 22:15:32 +0000"
     },
     "done": true
   },
@@ -6799,6 +6845,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-09-02 21:39:25 +0000"
+    },
+    "done": true
+  },
+  "mekanism:metallurgic_infuser": {
+    "criteria": {
+      "metallurgic_infuser": "2025-09-02 22:09:59 +0000"
     },
     "done": true
   },
@@ -6991,6 +7043,12 @@
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2025-09-02 21:21:00 +0000"
+    },
+    "done": true
+  },
+  "mekanismgenerators:heat_generator": {
+    "criteria": {
+      "heat_generator": "2025-09-02 22:09:21 +0000"
     },
     "done": true
   },

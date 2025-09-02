@@ -1946,7 +1946,8 @@
       "minecraft:cold_ocean": "2025-09-02 20:50:42 +0000",
       "minecraft:forest": "2025-09-02 21:43:52 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-09-02 20:50:50 +0000",
-      "minecraft:old_growth_birch_forest": "2025-09-02 21:41:50 +0000"
+      "minecraft:old_growth_birch_forest": "2025-09-02 21:41:50 +0000",
+      "minecraft:plains": "2025-09-02 22:13:36 +0000"
     },
     "done": false
   },
@@ -5618,6 +5619,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/very_very_frightening": {
+    "criteria": {
+      "struck_villager": "2025-09-02 22:14:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2025-09-02 21:42:55 +0000"
@@ -5684,6 +5691,12 @@
     },
     "done": false
   },
+  "aether:recipes/tools/flint_and_steel_repairing": {
+    "criteria": {
+      "has_flint_and_steel": "2025-09-02 22:10:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-09-02 21:58:36 +0000"
@@ -5720,9 +5733,21 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_leggings_repairing": {
+    "criteria": {
+      "has_golden_leggings": "2025-09-02 22:10:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-09-02 21:42:51 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-09-02 22:17:40 +0000"
     },
     "done": true
   },
@@ -5771,6 +5796,12 @@
   "farmersdelight:recipes/food/bacon_and_eggs": {
     "criteria": {
       "has_bacon": "2025-09-02 21:47:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_hoe_repairing": {
+    "criteria": {
+      "has_golden_hoe": "2025-09-02 22:10:16 +0000"
     },
     "done": true
   },
