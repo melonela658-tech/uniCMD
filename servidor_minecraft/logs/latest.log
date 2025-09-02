@@ -1229,3 +1229,53 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Sep2025 21:07:33.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Principyto> GRRR
 [02Sep2025 21:07:41.528] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Irene'/36964, l='ServerLevel[world]', x=-733.69, y=-21.00, z=14.73] died: Irene was slain by Melosito_Neo
 [02Sep2025 21:07:43.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Suit Up]
+[02Sep2025 21:08:04.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Disme A Dozen]
+[02Sep2025 21:08:15.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Far From Perfect]
+[02Sep2025 21:10:37.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Principyto]
+[02Sep2025 21:11:11.709] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto lost connection: Disconnected
+[02Sep2025 21:11:11.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto left the game
+[02Sep2025 21:11:11.759] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Sep2025 21:11:50.637] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Principyto[/127.42.131.13:48639] logged in with entity id 38382 at (-683.3000000119209, 20.801412796256447, 95.18312421908828)
+[02Sep2025 21:11:50.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto joined the game
+[02Sep2025 21:11:50.837] [Server thread/INFO] [Jade/]: Syncing config to Principyto (7a14056c-9336-376a-9ae7-7d820f8eb726)
+[02Sep2025 21:12:29.904] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto lost connection: Disconnected
+[02Sep2025 21:12:29.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto left the game
+[02Sep2025 21:12:36.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Creative Mode]
+[02Sep2025 21:12:40.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
+[02Sep2025 21:12:46.658] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo lost connection: Disconnected
+[02Sep2025 21:12:46.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo left the game
+[02Sep2025 21:13:05.526] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Melosito_Neo[/127.159.187.102:42047] logged in with entity id 39541 at (-678.6035396104731, 38.0, 114.66610990737033)
+[02Sep2025 21:13:05.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo joined the game
+[02Sep2025 21:13:05.701] [Server thread/INFO] [Jade/]: Syncing config to Melosito_Neo (e021c79e-37d6-3b8c-b53e-a73c06ecc29e)
+[02Sep2025 21:13:08.213] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@79c95f66[id=<null>,name=Principyto,properties={},legacy=false] (/127.42.131.13:35955) lost connection: Disconnected
+[02Sep2025 21:13:18.352] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/37314, l='ServerLevel[world]', x=-610.87, y=64.41, z=203.14] died: Undead Knight suffocated in a wall
+[02Sep2025 21:13:18.823] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Principyto[/127.42.131.13:33649] logged in with entity id 40315 at (-672.3357876392038, 36.0, 109.69999998807907)
+[02Sep2025 21:13:18.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto joined the game
+[02Sep2025 21:13:18.997] [Server thread/INFO] [Jade/]: Syncing config to Principyto (7a14056c-9336-376a-9ae7-7d820f8eb726)
+[02Sep2025 21:13:48.909] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto lost connection: Timed out
+[02Sep2025 21:13:48.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto left the game
+[02Sep2025 21:14:14.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd was blown up by Melosito_Neo using [Fireball!]
+[02Sep2025 21:14:32.836] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Principyto[/127.42.131.13:55363] logged in with entity id 41561 at (-672.3357876392038, 36.0, 109.69999998807907)
+[02Sep2025 21:14:32.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto joined the game
+[02Sep2025 21:14:33.021] [Server thread/INFO] [Jade/]: Syncing config to Principyto (7a14056c-9336-376a-9ae7-7d820f8eb726)
+[02Sep2025 21:14:59.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Bunfy_edd to Melosito_Neo]
+[02Sep2025 21:15:12.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [Sweet Dreams]
+[02Sep2025 21:15:15.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Principyto> que gays
+[02Sep2025 21:18:35.766] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto lost connection: Disconnected
+[02Sep2025 21:18:35.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto left the game
+[02Sep2025 21:19:25.934] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Principyto[/127.42.131.13:52999] logged in with entity id 44105 at (-561.8109662080414, 65.01539977385654, 517.7973278356269)
+[02Sep2025 21:19:25.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto joined the game
+[02Sep2025 21:19:26.052] [Server thread/INFO] [Jade/]: Syncing config to Principyto (7a14056c-9336-376a-9ae7-7d820f8eb726)
+[02Sep2025 21:20:20.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [Disme A Dozen]
+[02Sep2025 21:20:47.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [Monster Hunter]
+[02Sep2025 21:21:05.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [Not a Diamond]
+[02Sep2025 21:21:10.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Magery]
+[02Sep2025 21:22:18.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has reached the goal [Quaint Scribe]
+[02Sep2025 21:24:06.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [I Found It Underground]
+[02Sep2025 21:25:29.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Bunfy_edd to Melosito_Neo]
+[02Sep2025 21:25:40.284] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-837, y=73, z=686} BlockPos{x=-838, y=72, z=685}
+[02Sep2025 21:25:40.372] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-837, y=73, z=686} BlockPos{x=-838, y=72, z=685}
+[02Sep2025 21:25:40.495] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-837, y=73, z=686} BlockPos{x=-838, y=72, z=685}
+[02Sep2025 21:25:40.496] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-837, y=73, z=686} BlockPos{x=-838, y=72, z=685}
+[02Sep2025 21:25:40.500] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-837, y=73, z=686} BlockPos{x=-838, y=72, z=685}
+[02Sep2025 21:25:40.556] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-837, y=73, z=686} BlockPos{x=-838, y=72, z=685}
