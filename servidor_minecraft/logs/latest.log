@@ -1287,3 +1287,24 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Sep2025 21:33:21.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Bunfy_edd]
 [02Sep2025 21:35:55.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [When in Rome]
 [02Sep2025 21:37:27.790] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1211, y=70, z=830} BlockPos{x=-1212, y=69, z=830}
+[02Sep2025 21:39:25.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Ice Bucket Challenge]
+[02Sep2025 21:39:42.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Bunfy_edd]
+[02Sep2025 21:39:46.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has reached the goal [Worthy Equipment]
+[02Sep2025 21:39:46.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [Apothic Affixes]
+[02Sep2025 21:39:46.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [How'd You Get This?]
+[02Sep2025 21:40:05.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [Alex's Mobs]
+[02Sep2025 21:44:02.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [The Secrets of Enchanting]
+[02Sep2025 21:46:39.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Bunfy_edd to Melosito_Neo]
+[02Sep2025 21:46:49.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Principyto to Bunfy_edd]
+[02Sep2025 21:49:15.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd was slain by Grizzly Bear
+[02Sep2025 21:50:21.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has completed the challenge [He Wasn't So Strong]
+[02Sep2025 21:55:31.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [How'd You Get This?]
+[02Sep2025 21:57:12.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd was struck by lightning
+[02Sep2025 21:57:13.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto was struck by lightning
+[02Sep2025 21:58:30.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Principyto to Melosito_Neo]
+[02Sep2025 21:59:30.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Principyto to Melosito_Neo]
+[02Sep2025 21:59:39.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo was struck by lightning
+[02Sep2025 22:01:16.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Principyto]
+[02Sep2025 22:04:36.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has reached the goal [Skyslime Island]
+[02Sep2025 22:04:40.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to -699.500000, 55.500000, 113.500000]
+[02Sep2025 22:06:49.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has reached the goal [Flawless Crystals]
