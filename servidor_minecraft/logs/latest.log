@@ -1165,3 +1165,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Sep2025 20:04:07.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Principyto> pot
 [02Sep2025 20:04:33.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Made Principyto a server operator]
 [02Sep2025 20:07:03.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Second Age]
+[02Sep2025 20:10:12.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [Suit Up]
+[02Sep2025 20:14:47.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Principyto to Melosito_Neo]
+[02Sep2025 20:16:05.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: The difficulty has been set to Normal]
+[02Sep2025 20:16:40.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Principyto]
