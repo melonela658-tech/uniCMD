@@ -1688,3 +1688,20 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [02Sep2025 23:05:35.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Bunfy_edd to Melosito_Neo]
 [02Sep2025 23:05:57.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Principyto]
 [02Sep2025 23:08:40.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Principyto]
+[02Sep2025 23:10:01.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [Hunt and Gather]
+[02Sep2025 23:10:16.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Hunt and Gather]
+[02Sep2025 23:10:51.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Tools of the Trade]
+[02Sep2025 23:13:17.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Melosito_Neo) moved wrongly! 1.603054396444577
+[02Sep2025 23:13:17.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Melosito_Neo) moved wrongly! 1.1768769865759623
+[02Sep2025 23:13:17.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Melosito_Neo) moved wrongly! 0.7514696565863233
+[02Sep2025 23:13:17.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Melosito_Neo) moved wrongly! 0.3271118789846241
+[02Sep2025 23:13:31.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Principyto]
+[02Sep2025 23:14:42.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [Ol' Betsy]
+[02Sep2025 23:14:56.618] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1971, y=64, z=1023} BlockPos{x=-1970, y=63, z=1022}
+[02Sep2025 23:14:58.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd was doomed to fall by Necromancer
+[02Sep2025 23:15:00.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Bunfy_edd]
+[02Sep2025 23:15:10.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Bunfy_edd to Melosito_Neo]
+[02Sep2025 23:16:14.116] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[02Sep2025 23:16:14.117] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[02Sep2025 23:17:41.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Bunfy_edd) moved wrongly! 0.5
+[02Sep2025 23:19:06.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Into Fire]
