@@ -1,5 +1,49 @@
 
 #.
+#Create's liquid manipulation tools
+[fluids]
+	#.
+	#Whether hose pulleys should continue filling up above-threshold sources.
+	fillInfinite = true
+	#.
+	#.
+	#[in Buckets]
+	#The amount of liquid a tank can hold per block.
+	#Range: > 1
+	fluidTankCapacity = 8
+	#.
+	#[in Blocks]
+	#The maximum height a fluid tank can reach.
+	#Range: > 1
+	fluidTankMaxHeight = 32
+	#.
+	#[in Blocks]
+	#The maximum distance a mechanical pump can push or pull liquids on either side.
+	#Range: > 1
+	mechanicalPumpRange = 16
+	#.
+	#[in Blocks]
+	#The maximum distance a hose pulley can draw fluid blocks from.
+	#Range: > 1
+	hosePulleyRange = 128
+	#.
+	#[in Blocks]
+	#[-1 to disable this behaviour]
+	#The minimum amount of fluid blocks the hose pulley needs to find before deeming it an infinite source.
+	#Range: > -1
+	hosePulleyBlockThreshold = 10000
+	#.
+	#Configure which fluids can be drained infinitely.
+	#Allowed Values: ALLOW_ALL, DENY_ALL, ALLOW_BY_TAG, DENY_BY_TAG
+	bottomlessFluidMode = "ALLOW_BY_TAG"
+	#.
+	#Whether hose pulleys should be allowed to place fluid sources.
+	fluidFillPlaceFluidSourceBlocks = true
+	#.
+	#Whether open-ended pipes should be allowed to place fluid sources.
+	pipesPlaceFluidSourceBlocks = true
+
+#.
 #The Backbone of Create
 [infrastructure]
 	#.
@@ -308,50 +352,6 @@
 				creative_motor = 16384.0
 				large_water_wheel = 128.0
 				windmill_bearing = 512.0
-
-#.
-#Create's liquid manipulation tools
-[fluids]
-	#.
-	#.
-	#[in Buckets]
-	#The amount of liquid a tank can hold per block.
-	#Range: > 1
-	fluidTankCapacity = 8
-	#.
-	#[in Blocks]
-	#The maximum height a fluid tank can reach.
-	#Range: > 1
-	fluidTankMaxHeight = 32
-	#.
-	#[in Blocks]
-	#The maximum distance a mechanical pump can push or pull liquids on either side.
-	#Range: > 1
-	mechanicalPumpRange = 16
-	#.
-	#[in Blocks]
-	#The maximum distance a hose pulley can draw fluid blocks from.
-	#Range: > 1
-	hosePulleyRange = 128
-	#.
-	#[in Blocks]
-	#[-1 to disable this behaviour]
-	#The minimum amount of fluid blocks the hose pulley needs to find before deeming it an infinite source.
-	#Range: > -1
-	hosePulleyBlockThreshold = 10000
-	#.
-	#Whether hose pulleys should continue filling up above-threshold sources.
-	fillInfinite = false
-	#.
-	#Configure which fluids can be drained infinitely.
-	#Allowed Values: ALLOW_ALL, DENY_ALL, ALLOW_BY_TAG, DENY_BY_TAG
-	bottomlessFluidMode = "ALLOW_BY_TAG"
-	#.
-	#Whether hose pulleys should be allowed to place fluid sources.
-	fluidFillPlaceFluidSourceBlocks = true
-	#.
-	#Whether open-ended pipes should be allowed to place fluid sources.
-	pipesPlaceFluidSourceBlocks = true
 
 #.
 #Tweaks for logistical components

@@ -1,0 +1,34 @@
+
+[breeder]
+	#The time in ticks the breeder takes to create a new villager
+	#Range: > 20
+	breeding_time = 1200
+
+[auto_trader]
+	max_restock_time = 10
+	trade_cooldown = 1
+
+[converter]
+	#The time in ticks the converter takes to convert a villager
+	#Range: > 20
+	converting_time = 6000
+
+[farmer]
+	#The chance that a crop grows a stage in a farmer
+	#Lower values mean faster growth
+	#Range: > 1
+	farm_speed = 10
+
+[iron_farm]
+	#The time in ticks the iron farm takes to spawn a golem
+	#Range: > 201
+	spawn_time = 4800
+
+[trader]
+	#The minimum amount of time in ticks the trader takes to restock
+	#Range: > 1
+	min_restock_time = 1200
+	#The maximum amount of time in ticks the trader takes to restock
+	#Range: > 2
+	max_restock_time = 3600
+

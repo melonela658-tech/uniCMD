@@ -1146,3 +1146,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Sep2025 19:44:21.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Gamerule playersSleepingPercentage is now set to: 20]
 [02Sep2025 19:45:17.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Principyto> 56
 [02Sep2025 19:46:38.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [Monster Hunter]
+[02Sep2025 19:47:12.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [Pic-A-Nic Basket?]
+[02Sep2025 19:48:11.136] [Thread-3/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/uniCMD/servidor_minecraft/./world/serverconfig/create-server.toml is not correct. Correcting
+[02Sep2025 19:48:25.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Gamerule playersSleepingPercentage is now set to: 20]
+[02Sep2025 19:48:26.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Principyto]
+[02Sep2025 19:49:51.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Principyto]
+[02Sep2025 19:50:23.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Monster Hunter]
+[02Sep2025 19:51:12.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo was slain by Principyto
+[02Sep2025 19:53:12.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Acquire Hardware]
+[02Sep2025 19:54:31.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Isn't It Iron Pick]
+[02Sep2025 19:56:15.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [First Age]
+[02Sep2025 19:56:18.425] [Thread-3/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/uniCMD/servidor_minecraft/./world/serverconfig/easy_villagers-server.toml is not correct. Correcting
+[02Sep2025 19:57:02.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [Acquire Hardware]
