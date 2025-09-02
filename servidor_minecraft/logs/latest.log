@@ -1705,3 +1705,35 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [02Sep2025 23:16:14.117] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
 [02Sep2025 23:17:41.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Bunfy_edd) moved wrongly! 0.5
 [02Sep2025 23:19:06.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Into Fire]
+[02Sep2025 23:22:29.354] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Reverend Hera the Odd-Smelling'/124979, l='ServerLevel[world]', x=-664.35, y=65.00, z=84.76] died: Reverend Hera the Odd-Smelling was slain by Melosito_Neo
+[02Sep2025 23:25:19.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Local Librarian]
+[02Sep2025 23:30:50.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd fell from a high place
+[02Sep2025 23:31:52.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Quite the Renovation]
+[02Sep2025 23:31:57.744] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[02Sep2025 23:31:57.744] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[02Sep2025 23:32:30.430] [Worker-Main-16/WARN] [lithostitched/]: Non-existent template pool reference: structory:harvest/well_bottoms
+[02Sep2025 23:32:31.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Bunfy_edd]
+[02Sep2025 23:32:53.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Bunfy_edd]
+[02Sep2025 23:33:03.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Bunfy_edd to Melosito_Neo]
+[02Sep2025 23:34:36.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [Penteconter]
+[02Sep2025 23:34:48.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Principyto]
+[02Sep2025 23:35:54.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Penteconter]
+[02Sep2025 23:42:49.932] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14488ms or 289 ticks behind
+[02Sep2025 23:42:49.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bunfy_edd moved too quickly! 6.74364363343318,1.1415608452156576,-7.370261697580645
+[02Sep2025 23:44:36.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [Cover Me with Diamonds]
+[02Sep2025 23:45:10.976] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Sep2025 23:45:11.067] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Sep2025 23:45:11.195] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Sep2025 23:45:11.410] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Sep2025 23:45:11.535] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Sep2025 23:45:11.599] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Sep2025 23:45:12.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo was slain by Zombie
+[02Sep2025 23:45:22.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to -819.500000, 45.500000, 1721.500000]
+[02Sep2025 23:45:48.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [Mine? Mine? Mine?]
+[02Sep2025 23:47:37.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Bunfy_edd) moved too quickly! 4.964181755947948,-1.7693139355318692,-11.326671847902503
+[02Sep2025 23:47:37.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Bunfy_edd) moved too quickly! 4.797060276933507,-1.7582422001520541,-11.434207010835621
+[02Sep2025 23:47:37.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Bunfy_edd) moved too quickly! 4.569103862745351,-1.6566622715800605,-10.73809826822378
+[02Sep2025 23:47:37.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Bunfy_edd) moved too quickly! 4.4112375644867825,-1.560503757958898,-10.00709259319558
+[02Sep2025 23:47:37.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Bunfy_edd) moved too quickly! 4.322313975854968,-1.469162906360637,-9.250103539898078
+[02Sep2025 23:50:14.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [Not Today, Thank You]
+[02Sep2025 23:50:36.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Captured!]

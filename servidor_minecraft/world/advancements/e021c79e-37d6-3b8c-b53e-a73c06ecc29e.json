@@ -2010,8 +2010,10 @@
       "minecraft:beach": "2025-09-02 19:39:56 +0000",
       "minecraft:river": "2025-09-02 23:07:02 +0000",
       "minecraft:swamp": "2025-09-02 19:35:14 +0000",
+      "minecraft:grove": "2025-09-02 23:38:44 +0000",
       "minecraft:cold_ocean": "2025-09-02 19:39:55 +0000",
       "minecraft:forest": "2025-09-02 19:31:06 +0000",
+      "minecraft:lush_caves": "2025-09-02 23:34:49 +0000",
       "minecraft:windswept_forest": "2025-09-02 19:38:33 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-09-02 19:39:19 +0000",
       "minecraft:old_growth_birch_forest": "2025-09-02 23:07:08 +0000",
@@ -3744,6 +3746,7 @@
       "minecraft:cave_spider": "2025-09-02 21:07:04 +0000",
       "minecraft:enderman": "2025-09-02 20:15:57 +0000",
       "minecraft:silverfish": "2025-09-02 22:18:00 +0000",
+      "minecraft:stray": "2025-09-02 23:41:45 +0000",
       "minecraft:zombie": "2025-09-02 20:06:07 +0000"
     },
     "done": false
@@ -6245,6 +6248,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-09-02 23:19:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/dark_oak_window": {
     "criteria": {
       "has_ingredient": "2025-09-02 21:22:07 +0000"
@@ -6302,6 +6311,18 @@
   "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2025-09-02 22:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-09-02 23:19:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-09-02 23:22:25 +0000"
     },
     "done": true
   },
@@ -6368,6 +6389,18 @@
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2025-09-02 22:03:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/orange_postbox": {
+    "criteria": {
+      "has_barrel": "2025-09-02 23:33:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-02 23:22:25 +0000"
     },
     "done": true
   },
@@ -6473,6 +6506,12 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-09-02 23:35:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/copper_table_cloth_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-09-02 21:21:00 +0000"
@@ -6497,6 +6536,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/gray_postbox": {
+    "criteria": {
+      "has_barrel": "2025-09-02 23:33:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-09-02 22:52:01 +0000"
@@ -6512,6 +6557,12 @@
   "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
     "criteria": {
       "has_item": "2025-09-02 21:21:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-09-02 23:29:55 +0000"
     },
     "done": true
   },
@@ -6611,6 +6662,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/lime_postbox": {
+    "criteria": {
+      "has_barrel": "2025-09-02 23:33:34 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/make_inscription_table": {
     "criteria": {
       "inscription_table": "2025-09-02 21:22:18 +0000"
@@ -6674,6 +6731,12 @@
   "kaleidoscope_cookery:recipes/decorations/cook_stool_dark_oak": {
     "criteria": {
       "has_wood": "2025-09-02 21:22:07 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-09-02 23:46:36 +0000"
     },
     "done": true
   },
@@ -6761,6 +6824,12 @@
     },
     "done": true
   },
+  "aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_egg": "2025-09-02 23:22:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-09-02 21:45:50 +0000"
@@ -6776,6 +6845,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-09-02 23:11:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/white_postbox": {
+    "criteria": {
+      "has_barrel": "2025-09-02 23:33:34 +0000"
     },
     "done": true
   },
@@ -6863,6 +6938,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2025-09-02 23:42:07 +0000"
+    },
+    "done": true
+  },
   "buildinggadgets2:recipes/misc/gadget_building": {
     "criteria": {
       "has_diamond": "2025-09-02 21:28:21 +0000"
@@ -6875,9 +6956,27 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2025-09-02 23:31:52 +0000"
+    },
+    "done": false
+  },
   "apotheosis:affix/epic": {
     "criteria": {
       "sword": "2025-09-02 22:33:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/pink_postbox": {
+    "criteria": {
+      "has_barrel": "2025-09-02 23:33:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/black_postbox": {
+    "criteria": {
+      "has_barrel": "2025-09-02 23:33:34 +0000"
     },
     "done": true
   },
@@ -6899,6 +6998,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/red_postbox": {
+    "criteria": {
+      "has_barrel": "2025-09-02 23:33:34 +0000"
+    },
+    "done": true
+  },
   "kaleidoscope_cookery:recipes/decorations/chair_dark_oak": {
     "criteria": {
       "has_fence": "2025-09-02 21:22:15 +0000"
@@ -6917,6 +7022,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-09-02 23:19:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-09-02 23:48:16 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
     "criteria": {
       "has_pickup_upgrade": "2025-09-02 22:53:42 +0000"
@@ -6932,6 +7049,12 @@
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-09-02 21:45:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/brown_postbox": {
+    "criteria": {
+      "has_barrel": "2025-09-02 23:33:34 +0000"
     },
     "done": true
   },
@@ -6956,6 +7079,12 @@
   "create:recipes/misc/crafting/appliances/copper_backtank": {
     "criteria": {
       "has_item": "2025-09-02 21:21:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/magenta_postbox": {
+    "criteria": {
+      "has_barrel": "2025-09-02 23:33:34 +0000"
     },
     "done": true
   },
@@ -7007,6 +7136,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/light_blue_postbox": {
+    "criteria": {
+      "has_barrel": "2025-09-02 23:33:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-09-02 21:21:00 +0000"
@@ -7016,6 +7151,12 @@
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-09-02 21:44:57 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-09-02 23:31:52 +0000"
     },
     "done": true
   },
@@ -7031,9 +7172,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-09-02 23:19:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-09-02 21:22:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/green_postbox": {
+    "criteria": {
+      "has_barrel": "2025-09-02 23:33:34 +0000"
     },
     "done": true
   },
@@ -7067,6 +7220,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/shield_repairing": {
+    "criteria": {
+      "has_shield": "2025-09-02 23:35:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-09-02 22:35:26 +0000"
@@ -7085,6 +7244,18 @@
     },
     "done": true
   },
+  "aether:recipes/tools/golden_pickaxe_repairing": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-09-02 23:33:29 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-09-02 23:25:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_pump": {
     "criteria": {
       "has_item": "2025-09-02 21:21:00 +0000"
@@ -7100,6 +7271,12 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-09-02 21:28:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_leggings_repairing": {
+    "criteria": {
+      "has_golden_leggings": "2025-09-02 23:45:11 +0000"
     },
     "done": true
   },
@@ -7127,6 +7304,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/spruce_barrel_from_vanilla_barrel": {
+    "criteria": {
+      "has_vanilla_barrel": "2025-09-02 23:33:34 +0000"
+    },
+    "done": true
+  },
   "jetboots:recipes/misc/jetboots_template_smithing": {
     "criteria": {
       "has_obsidian": "2025-09-02 21:39:25 +0000"
@@ -7136,6 +7319,12 @@
   "farmersdelight:recipes/cooking/dumplings": {
     "criteria": {
       "has_any_ingredient": "2025-09-02 21:19:49 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_cut_paste": {
+    "criteria": {
+      "has_shear": "2025-09-02 23:24:53 +0000"
     },
     "done": true
   },
@@ -7193,9 +7382,27 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_sword_repairing": {
+    "criteria": {
+      "has_diamond_sword": "2025-09-02 23:42:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-09-02 23:19:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
     "criteria": {
       "has_item": "2025-09-02 21:21:00 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:zelkova_forest": "2025-09-02 23:38:45 +0000"
     },
     "done": true
   },
@@ -7211,6 +7418,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/cyan_postbox": {
+    "criteria": {
+      "has_barrel": "2025-09-02 23:33:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/yellow_postbox": {
+    "criteria": {
+      "has_barrel": "2025-09-02 23:33:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-09-02 21:22:07 +0000"
@@ -7220,6 +7439,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-09-02 21:28:21 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-09-02 23:32:08 +0000"
     },
     "done": true
   },
@@ -7235,9 +7460,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/blue_postbox": {
+    "criteria": {
+      "has_barrel": "2025-09-02 23:33:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-09-02 23:22:25 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/brewing/common/slime/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-09-02 23:19:14 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-09-02 21:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-09-02 23:22:25 +0000"
     },
     "done": true
   },
@@ -7250,6 +7499,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-09-02 21:28:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-09-02 23:36:23 +0000"
     },
     "done": true
   },
@@ -7280,6 +7535,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-09-02 21:19:22 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_leggings_repairing": {
+    "criteria": {
+      "has_leather_leggings": "2025-09-02 23:43:29 +0000"
     },
     "done": true
   },
@@ -7331,6 +7592,12 @@
     },
     "done": true
   },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:zelkova_forest": "2025-09-02 23:38:45 +0000"
+    },
+    "done": false
+  },
   "aether:recipes/combat/golden_sword_repairing": {
     "criteria": {
       "has_golden_sword": "2025-09-02 23:10:02 +0000"
@@ -7370,6 +7637,12 @@
   "tconstruct:recipes/decorations/common/gold_platform": {
     "criteria": {
       "has_gold": "2025-09-02 22:35:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/purple_postbox": {
+    "criteria": {
+      "has_barrel": "2025-09-02 23:33:34 +0000"
     },
     "done": true
   },
@@ -7457,6 +7730,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-09-02 23:33:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-09-02 21:21:00 +0000"
@@ -7499,6 +7778,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-09-02 23:19:06 +0000"
+    },
+    "done": true
+  },
   "mekanismgenerators:heat_generator": {
     "criteria": {
       "heat_generator": "2025-09-02 22:09:21 +0000"
@@ -7529,6 +7814,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-09-02 23:33:34 +0000"
+    },
+    "done": true
+  },
   "buildinggadgets2:recipes/misc/gadget_exchanging": {
     "criteria": {
       "has_diamond": "2025-09-02 21:28:21 +0000"
@@ -7547,9 +7838,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/light_gray_postbox": {
+    "criteria": {
+      "has_barrel": "2025-09-02 23:33:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-09-02 22:35:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-09-02 23:22:25 +0000"
     },
     "done": true
   },

@@ -1944,8 +1944,10 @@
       "minecraft:beach": "2025-09-02 20:51:04 +0000",
       "minecraft:river": "2025-09-02 21:35:00 +0000",
       "minecraft:swamp": "2025-09-02 19:33:07 +0000",
+      "minecraft:grove": "2025-09-02 23:32:16 +0000",
       "minecraft:cold_ocean": "2025-09-02 20:50:42 +0000",
       "minecraft:forest": "2025-09-02 21:43:52 +0000",
+      "minecraft:lush_caves": "2025-09-02 23:33:23 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-09-02 20:50:50 +0000",
       "minecraft:windswept_savanna": "2025-09-02 22:22:31 +0000",
       "minecraft:old_growth_birch_forest": "2025-09-02 21:41:50 +0000",
@@ -3250,6 +3252,7 @@
       "cooked_mutton": "2025-09-02 19:41:51 +0000",
       "cooked_beef": "2025-09-02 20:59:15 +0000",
       "bread": "2025-09-02 20:21:13 +0000",
+      "golden_apple": "2025-09-02 23:48:05 +0000",
       "cooked_chicken": "2025-09-02 19:53:53 +0000"
     },
     "done": false
@@ -3269,6 +3272,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-09-02 19:51:03 +0000",
+      "minecraft:spider": "2025-09-02 23:34:47 +0000",
       "minecraft:zombie": "2025-09-02 19:46:38 +0000"
     },
     "done": false
@@ -5389,6 +5393,8 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:zelkova_forest": "2025-09-02 23:23:35 +0000",
+      "biomeswevegone:dacite_ridges": "2025-09-02 23:22:32 +0000",
       "biomeswevegone:dacite_shore": "2025-09-02 20:46:55 +0000",
       "biomeswevegone:skyrise_vale": "2025-09-02 20:49:20 +0000"
     },
@@ -6284,6 +6290,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_gloves": "2025-09-02 23:40:34 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_loom": {
     "criteria": {
       "has_string": "2025-09-02 23:15:03 +0000"
@@ -6293,6 +6305,18 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-09-02 22:53:49 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_gloves": "2025-09-02 23:43:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-09-02 23:44:36 +0000"
     },
     "done": true
   },
@@ -6350,6 +6374,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-09-02 23:22:00 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-09-02 23:34:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-02 23:41:52 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_destruction": {
+    "criteria": {
+      "has_ender_pearl": "2025-09-02 23:44:06 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/decorations/nether_brick_smoker": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-02 23:41:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-09-02 23:00:22 +0000"
@@ -6359,6 +6413,18 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-09-02 23:00:12 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-09-02 23:46:22 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_helmet_repairing": {
+    "criteria": {
+      "has_golden_helmet": "2025-09-02 23:44:41 +0000"
     },
     "done": true
   },
@@ -6398,6 +6464,36 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-09-02 23:47:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_gloves_repairing": {
+    "criteria": {
+      "has_golden_gloves": "2025-09-02 23:40:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-02 23:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-02 23:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-02 23:41:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
     "criteria": {
       "has_golden_knife": "2025-09-02 23:10:01 +0000"
@@ -6410,9 +6506,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-02 23:41:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-09-02 23:47:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves_repairing": {
+    "criteria": {
+      "has_leather_gloves": "2025-09-02 23:36:08 +0000"
+    },
+    "done": true
+  },
   "kaleidoscope_cookery:recipes/decorations/chopping_board": {
     "criteria": {
       "has_wood": "2025-09-02 23:00:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-09-02 23:46:28 +0000"
     },
     "done": true
   },
@@ -6422,9 +6542,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-09-02 23:35:50 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-09-02 23:22:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-09-02 23:27:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-09-02 23:22:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/shield_repairing": {
+    "criteria": {
+      "has_shield": "2025-09-02 23:21:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/throw_trident": {
     "criteria": {
       "shot_trident": "2025-09-02 22:53:49 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_compass": "2025-09-02 23:35:50 +0000"
     },
     "done": true
   },
@@ -6446,6 +6602,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-02 23:41:52 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/oak": {
     "criteria": {
       "has_wood": "2025-09-02 23:00:12 +0000"
@@ -6455,6 +6617,18 @@
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "golden_knife": "2025-09-02 23:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-02 23:41:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-09-02 23:34:54 +0000"
     },
     "done": true
   },
@@ -6470,15 +6644,33 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2025-09-02 23:44:36 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/oak_barrel": {
     "criteria": {
       "has_oak_plank": "2025-09-02 23:00:22 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-02 23:41:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-09-02 23:15:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-02 23:41:52 +0000"
     },
     "done": true
   },
@@ -6494,9 +6686,33 @@
     },
     "done": true
   },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_recipe": "2025-09-02 23:35:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_gloves": "2025-09-02 23:43:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-09-02 23:00:22 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_gloves_repairing": {
+    "criteria": {
+      "has_iron_gloves": "2025-09-02 23:43:30 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_recipe": "2025-09-02 23:35:50 +0000"
     },
     "done": true
   },
@@ -6512,15 +6728,33 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_gloves": "2025-09-02 23:40:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/oak_window": {
     "criteria": {
       "has_ingredient": "2025-09-02 23:00:22 +0000"
     },
     "done": true
   },
+  "aether:recipes/combat/chainmail_leggings_repairing": {
+    "criteria": {
+      "has_chainmail_leggings": "2025-09-02 23:39:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-09-02 23:15:03 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_shovel_repairing": {
+    "criteria": {
+      "has_diamond_shovel": "2025-09-02 23:45:44 +0000"
     },
     "done": true
   },
