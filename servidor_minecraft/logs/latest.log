@@ -1158,3 +1158,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Sep2025 19:56:15.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [First Age]
 [02Sep2025 19:56:18.425] [Thread-3/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/uniCMD/servidor_minecraft/./world/serverconfig/easy_villagers-server.toml is not correct. Correcting
 [02Sep2025 19:57:02.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [Acquire Hardware]
+[02Sep2025 19:57:13.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [Isn't It Iron Pick]
+[02Sep2025 19:59:30.159] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/14906, l='ServerLevel[world]', x=-650.98, y=57.41, z=184.24] died: Undead Knight suffocated in a wall
+[02Sep2025 20:01:37.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [First Age]
+[02Sep2025 20:04:04.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Principyto]
+[02Sep2025 20:04:07.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Principyto> pot
+[02Sep2025 20:04:33.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Made Principyto a server operator]
+[02Sep2025 20:07:03.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Second Age]

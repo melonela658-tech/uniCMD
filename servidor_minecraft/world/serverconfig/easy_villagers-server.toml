@@ -34,14 +34,14 @@
 [trader]
 	#The minimum amount of time in ticks the trader takes to restock
 	#Range: > 1
-	min_restock_time = 1200
+	min_restock_time = 20
 	#The maximum amount of time in ticks the trader takes to restock
 	#Range: > 2
-	max_restock_time = 3600
+	max_restock_time = 120
 
 [villager]
 	#If villagers should make sounds while in the players inventory
-	inventory_sounds = true
+	inventory_sounds = false
 	#How frequent a villager block should make a villager sound
 	#Lower values mean more frequent sounds
 	#Range: > 1

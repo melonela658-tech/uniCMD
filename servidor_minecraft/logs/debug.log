@@ -14706,3 +14706,22 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Sep2025 19:57:02.080] [Thread-3/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file easy_villagers-server.toml changed, sending notifies
 [02Sep2025 19:57:02.081] [Thread-3/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file easy_villagers-server.toml changed, sending notifies
 [02Sep2025 19:57:02.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [Acquire Hardware]
+[02Sep2025 19:57:12.857] [Thread-3/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file easy_villagers-server.toml changed, sending notifies
+[02Sep2025 19:57:12.858] [Thread-3/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file easy_villagers-server.toml changed, sending notifies
+[02Sep2025 19:57:12.858] [Thread-3/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file easy_villagers-server.toml changed, sending notifies
+[02Sep2025 19:57:12.858] [Thread-3/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file easy_villagers-server.toml changed, sending notifies
+[02Sep2025 19:57:13.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [Isn't It Iron Pick]
+[02Sep2025 19:57:23.064] [Thread-3/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file easy_villagers-server.toml changed, sending notifies
+[02Sep2025 19:57:23.064] [Thread-3/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file easy_villagers-server.toml changed, sending notifies
+[02Sep2025 19:57:57.247] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Sep2025 19:57:57.270] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Sep2025 19:59:30.159] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/14906, l='ServerLevel[world]', x=-650.98, y=57.41, z=184.24] died: Undead Knight suffocated in a wall
+[02Sep2025 20:01:06.943] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.world.CompoundContainer
+[02Sep2025 20:01:06.943] [Server thread/DEBUG] [mixin/]: ftblibrary-common.mixins.json:CompoundContainerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[02Sep2025 20:01:37.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [First Age]
+[02Sep2025 20:02:57.242] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Sep2025 20:02:57.264] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Sep2025 20:04:04.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Principyto]
+[02Sep2025 20:04:07.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Principyto> pot
+[02Sep2025 20:04:33.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Made Principyto a server operator]
+[02Sep2025 20:07:03.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Second Age]
