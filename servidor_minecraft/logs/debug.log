@@ -14766,3 +14766,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Sep2025 20:25:48.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Amateur Archaeologist]
 [02Sep2025 20:26:51.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Principyto]
 [02Sep2025 20:26:51.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! -5.4538725477469825,3.5625,42.11221900058759
+[02Sep2025 20:27:30.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to -453.500000, 63.500000, 364.500000]
+[02Sep2025 20:27:43.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Principyto to Melosito_Neo]
+[02Sep2025 20:27:57.299] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Sep2025 20:27:57.326] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Sep2025 20:28:02.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Spectator Mode]
+[02Sep2025 20:28:29.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
+[02Sep2025 20:28:41.215] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[02Sep2025 20:29:02.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [Far From Perfect]
+[02Sep2025 20:29:50.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Principyto to Melosito_Neo]
+[02Sep2025 20:32:57.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Sep2025 20:32:57.264] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

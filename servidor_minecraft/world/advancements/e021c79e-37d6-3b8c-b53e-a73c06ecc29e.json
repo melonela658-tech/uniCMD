@@ -2004,6 +2004,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-09-02 20:28:05 +0000",
       "minecraft:taiga": "2025-09-02 09:50:26 +0000",
       "minecraft:beach": "2025-09-02 19:39:56 +0000",
       "minecraft:swamp": "2025-09-02 19:35:14 +0000",
@@ -2170,6 +2171,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2025-09-02 20:23:23 +0000"
+    },
+    "done": true
+  },
   "kaleidoscope_cookery:recipes/decorations/kitchenware_racks": {
     "criteria": {
       "has_ingot_iron": "2025-09-02 19:53:12 +0000"
@@ -2215,6 +2222,12 @@
   "immersive_aircraft:misc/aircraftery": {
     "criteria": {
       "has_item": "2025-09-02 19:53:12 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_iron_nugget_from_smelting": {
+    "criteria": {
+      "has_chainmail_gloves": "2025-09-02 20:27:10 +0000"
     },
     "done": true
   },
@@ -2632,6 +2645,12 @@
     },
     "done": true
   },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-09-02 20:23:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-09-02 20:06:56 +0000"
@@ -2836,6 +2855,12 @@
     },
     "done": true
   },
+  "mekanismtools:alternate_tools": {
+    "criteria": {
+      "tools": "2025-09-02 20:31:59 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/leather_gloves": {
     "criteria": {
       "has_leather": "2025-09-02 19:37:31 +0000"
@@ -2869,6 +2894,12 @@
   "biomesoplenty:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2025-09-02 19:48:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-09-02 20:23:19 +0000"
     },
     "done": true
   },
@@ -2932,6 +2963,12 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-09-02 20:25:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2025-09-02 20:03:55 +0000"
@@ -2965,6 +3002,12 @@
   "kaleidoscope_cookery:recipes/decorations/fruit_basket": {
     "criteria": {
       "has_chest": "2025-09-02 20:00:49 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-09-02 20:29:27 +0000"
     },
     "done": true
   },
@@ -3244,6 +3287,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/gold_to_diamond_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-09-02 20:29:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/powered_latch": {
     "criteria": {
       "has_item": "2025-09-02 20:18:41 +0000"
@@ -3325,6 +3374,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-09-02 20:01:13 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2025-09-02 20:23:33 +0000"
     },
     "done": true
   },
@@ -3415,6 +3470,12 @@
   "aether:recipes/decorations/skyroot_smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-09-02 19:53:12 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-09-02 20:29:27 +0000"
     },
     "done": true
   },
@@ -3706,6 +3767,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-09-02 20:25:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-09-02 20:01:08 +0000"
@@ -3733,6 +3800,12 @@
   "kaleidoscope_cookery:recipes/tools/iron_kitchen_knife": {
     "criteria": {
       "has_ingot_iron": "2025-09-02 19:53:12 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_to_netherite_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-09-02 20:29:27 +0000"
     },
     "done": true
   },
@@ -3989,6 +4062,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/copper_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-09-02 20:29:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-09-02 20:01:08 +0000"
@@ -4130,6 +4209,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/basic_to_copper_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-09-02 20:29:27 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-09-02 19:53:12 +0000"
@@ -4163,6 +4248,12 @@
   "biomesoplenty:recipes/transportation/maple_chest_boat": {
     "criteria": {
       "has_boat": "2025-09-02 19:48:43 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_from_basic_to_copper_tier": {
+    "criteria": {
+      "has_redstone_torch": "2025-09-02 20:29:27 +0000"
     },
     "done": true
   },
@@ -4238,6 +4329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-09-02 20:29:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-09-02 20:18:41 +0000"
@@ -4276,6 +4373,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-09-02 20:23:35 +0000",
       "opened_chest": "2025-09-02 20:17:57 +0000"
     },
     "done": false
@@ -4487,6 +4585,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-09-02 20:01:08 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2025-09-02 20:23:23 +0000"
     },
     "done": true
   },
@@ -4763,6 +4867,12 @@
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-09-02 19:37:31 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-09-02 20:29:27 +0000"
     },
     "done": true
   },
@@ -5081,6 +5191,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/chainmail_gloves_repairing": {
+    "criteria": {
+      "has_chainmail_gloves": "2025-09-02 20:27:10 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/generic_limited_barrel_2": {
     "criteria": {
       "has _plank": "2025-09-02 19:44:07 +0000"
@@ -5117,6 +5233,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_chainmail_gloves": "2025-09-02 20:27:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-09-02 20:01:13 +0000"
@@ -5126,6 +5248,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-09-02 19:35:31 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2025-09-02 20:23:38 +0000"
     },
     "done": true
   },
@@ -5267,6 +5395,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/storage_tool": {
+    "criteria": {
+      "has_redstone_torch": "2025-09-02 20:29:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-09-02 20:01:08 +0000"
@@ -5324,6 +5458,12 @@
   "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-09-02 19:48:43 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_basic_to_iron_tier_upgrade": "2025-09-02 20:29:33 +0000"
     },
     "done": true
   },
