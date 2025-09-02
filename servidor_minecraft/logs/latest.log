@@ -1200,3 +1200,32 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Sep2025 20:28:29.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
 [02Sep2025 20:29:02.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [Far From Perfect]
 [02Sep2025 20:29:50.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Principyto to Melosito_Neo]
+[02Sep2025 20:39:13.145] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[02Sep2025 20:39:13.148] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[02Sep2025 20:41:10.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Principyto to Melosito_Neo]
+[02Sep2025 20:43:08.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto was blown up by Spruce Creeper
+[02Sep2025 20:43:21.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Principyto to Melosito_Neo]
+[02Sep2025 20:45:58.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [A True Source of Evil]
+[02Sep2025 20:48:00.669] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/28554, l='ServerLevel[world]', x=-750.70, y=65.53, z=742.65] died, message: 'Unemployed tried to swim in lava'
+[02Sep2025 20:51:49.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Principyto to Melosito_Neo]
+[02Sep2025 20:52:18.106] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo lost connection: Disconnected
+[02Sep2025 20:52:18.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo left the game
+[02Sep2025 20:52:50.351] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Melosito_Neo[/127.159.187.102:36437] logged in with entity id 31421 at (-667.6532699587244, 19.67647087614427, 170.15111402164916)
+[02Sep2025 20:52:50.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo joined the game
+[02Sep2025 20:52:50.538] [Server thread/INFO] [Jade/]: Syncing config to Melosito_Neo (e021c79e-37d6-3b8c-b53e-a73c06ecc29e)
+[02Sep2025 20:56:09.713] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bunfy_edd[/127.108.94.114:47353] logged in with entity id 32518 at (-92.5, 101.0, 265.5)
+[02Sep2025 20:56:09.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd joined the game
+[02Sep2025 20:56:09.892] [Server thread/INFO] [Jade/]: Syncing config to Bunfy_edd (90e9e226-3313-35a6-9e6c-a232bbfd4e03)
+[02Sep2025 20:56:46.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [A Seedy Place]
+[02Sep2025 20:57:30.218] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-86, y=100, z=267}
+[02Sep2025 20:59:08.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Bunfy_edd to Melosito_Neo]
+[02Sep2025 20:59:21.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd was slain by Principyto
+[02Sep2025 20:59:27.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Bunfy_edd to Melosito_Neo]
+[02Sep2025 20:59:28.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Bunfy_edd to Melosito_Neo]
+[02Sep2025 21:00:38.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [Stone Age]
+[02Sep2025 21:01:32.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [Getting an Upgrade]
+[02Sep2025 21:02:51.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [Acquire Hardware]
+[02Sep2025 21:03:58.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [Isn't It Iron Pick]
+[02Sep2025 21:07:33.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Principyto> GRRR
+[02Sep2025 21:07:41.528] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Irene'/36964, l='ServerLevel[world]', x=-733.69, y=-21.00, z=14.73] died: Irene was slain by Melosito_Neo
+[02Sep2025 21:07:43.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Suit Up]
