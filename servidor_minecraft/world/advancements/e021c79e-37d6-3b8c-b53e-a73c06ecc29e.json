@@ -2006,12 +2006,15 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-09-02 20:28:05 +0000",
       "minecraft:taiga": "2025-09-02 09:50:26 +0000",
+      "minecraft:birch_forest": "2025-09-02 23:05:58 +0000",
       "minecraft:beach": "2025-09-02 19:39:56 +0000",
+      "minecraft:river": "2025-09-02 23:07:02 +0000",
       "minecraft:swamp": "2025-09-02 19:35:14 +0000",
       "minecraft:cold_ocean": "2025-09-02 19:39:55 +0000",
       "minecraft:forest": "2025-09-02 19:31:06 +0000",
       "minecraft:windswept_forest": "2025-09-02 19:38:33 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-09-02 19:39:19 +0000",
+      "minecraft:old_growth_birch_forest": "2025-09-02 23:07:08 +0000",
       "minecraft:plains": "2025-09-02 22:13:57 +0000"
     },
     "done": false
@@ -3094,7 +3097,10 @@
     "criteria": {
       "maple_woods": "2025-09-02 19:41:20 +0000",
       "crystalline_chasm": "2025-09-02 22:30:41 +0000",
+      "field": "2025-09-02 23:07:51 +0000",
       "pumpkin_patch": "2025-09-02 19:48:51 +0000",
+      "grassland": "2025-09-02 22:52:45 +0000",
+      "prairie": "2025-09-02 22:55:22 +0000",
       "glowing_grotto": "2025-09-02 20:04:06 +0000",
       "gravel_beach": "2025-09-02 19:40:27 +0000"
     },
@@ -6209,9 +6215,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-02 23:05:19 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/packed_ice_freezing": {
     "criteria": {
       "has_water_bucket": "2025-09-02 21:45:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-09-02 22:52:01 +0000"
     },
     "done": true
   },
@@ -6281,6 +6299,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-02 22:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-09-02 22:53:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/steam_engine": {
     "criteria": {
       "has_item": "2025-09-02 21:21:00 +0000"
@@ -6305,6 +6335,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/storage_pickup_upgrade_from_backpack_pickup_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-09-02 22:53:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-09-02 21:28:21 +0000"
@@ -6320,6 +6356,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-09-02 22:35:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-09-02 22:56:33 +0000"
     },
     "done": true
   },
@@ -6428,6 +6470,18 @@
   "sophisticatedstorage:recipes/misc/dark_oak_chest": {
     "criteria": {
       "has_dark_oak_plank": "2025-09-02 21:22:07 +0000"
+    },
+    "done": true
+  },
+  "mekanism:energy_transport": {
+    "criteria": {
+      "basic_universal_cable": "2025-09-02 22:50:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-09-02 22:52:01 +0000"
     },
     "done": true
   },
@@ -6725,6 +6779,12 @@
     },
     "done": true
   },
+  "mekanism:steel_casing": {
+    "criteria": {
+      "steel_casing": "2025-09-02 22:44:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_lily_of_the_valley": "2025-09-02 22:17:45 +0000"
@@ -6782,6 +6842,12 @@
   "aether:recipes/combat/iron_boots_repairing": {
     "criteria": {
       "has_iron_boots": "2025-09-02 22:15:32 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-09-02 22:53:42 +0000"
     },
     "done": true
   },
@@ -6851,6 +6917,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-09-02 22:53:42 +0000"
+    },
+    "done": true
+  },
   "mekanism:infused_alloy": {
     "criteria": {
       "alloy_infused": "2025-09-02 22:35:17 +0000"
@@ -6917,6 +6989,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/socket": {
+    "criteria": {
+      "socket": "2025-09-02 22:39:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
     "criteria": {
       "has_item": "2025-09-02 21:21:00 +0000"
@@ -6953,6 +7031,12 @@
     },
     "done": true
   },
+  "mekanism:liquifier": {
+    "criteria": {
+      "nutritional_liquifier": "2025-09-02 22:44:22 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/iron_axe_repairing": {
     "criteria": {
       "has_iron_axe": "2025-09-02 21:40:23 +0000"
@@ -6977,6 +7061,12 @@
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-09-02 23:05:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-09-02 21:28:21 +0000"
@@ -6998,6 +7088,12 @@
   "mekanism:metallurgic_infuser": {
     "criteria": {
       "metallurgic_infuser": "2025-09-02 22:09:59 +0000"
+    },
+    "done": true
+  },
+  "mekanism:steel_ingot": {
+    "criteria": {
+      "ingot_steel": "2025-09-02 22:43:59 +0000"
     },
     "done": true
   },
@@ -7073,6 +7169,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-09-02 22:52:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2025-09-02 22:53:00 +0000"
+    },
+    "done": true
+  },
   "jetboots:recipes/misc/jetboots_template": {
     "criteria": {
       "has_obsidian": "2025-09-02 21:39:25 +0000"
@@ -7139,6 +7247,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-09-02 23:05:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-02 23:05:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/sand_paper": {
     "criteria": {
       "has_item": "2025-09-02 21:19:22 +0000"
@@ -7154,6 +7274,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-09-02 21:22:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_gloves_repairing": {
+    "criteria": {
+      "has_iron_gloves": "2025-09-02 22:52:52 +0000"
     },
     "done": true
   },
@@ -7220,6 +7346,12 @@
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2025-09-02 21:21:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-09-02 23:05:19 +0000"
     },
     "done": true
   },
