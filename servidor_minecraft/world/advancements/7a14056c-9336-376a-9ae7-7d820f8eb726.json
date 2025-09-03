@@ -3273,6 +3273,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-09-02 19:51:03 +0000",
       "minecraft:spider": "2025-09-02 23:34:47 +0000",
+      "minecraft:stray": "2025-09-02 23:48:31 +0000",
       "minecraft:zombie": "2025-09-02 19:46:38 +0000"
     },
     "done": false
@@ -6302,6 +6303,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-09-02 23:50:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-09-02 22:53:49 +0000"
@@ -6410,6 +6417,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_helmet_repairing": {
+    "criteria": {
+      "has_iron_helmet": "2025-09-02 23:50:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-09-02 23:00:12 +0000"
@@ -6425,6 +6438,12 @@
   "aether:recipes/combat/golden_helmet_repairing": {
     "criteria": {
       "has_golden_helmet": "2025-09-02 23:44:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2025-09-02 23:48:37 +0000"
     },
     "done": true
   },
@@ -6491,6 +6510,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-09-02 23:41:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2025-09-02 23:51:12 +0000"
     },
     "done": true
   },
@@ -6596,9 +6621,21 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-09-02 23:50:31 +0000"
+    },
+    "done": true
+  },
   "kaleidoscope_cookery:recipes/decorations/cook_stool_oak": {
     "criteria": {
       "has_wood": "2025-09-02 23:00:22 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_sword_repairing": {
+    "criteria": {
+      "has_diamond_sword": "2025-09-02 23:48:49 +0000"
     },
     "done": true
   },
@@ -6695,6 +6732,12 @@
   "aether:recipes/misc/aether_iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_gloves": "2025-09-02 23:43:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_gloves_repairing": {
+    "criteria": {
+      "has_diamond_gloves": "2025-09-02 23:51:46 +0000"
     },
     "done": true
   },

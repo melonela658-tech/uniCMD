@@ -1737,3 +1737,11 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [02Sep2025 23:47:37.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Bunfy_edd) moved too quickly! 4.322313975854968,-1.469162906360637,-9.250103539898078
 [02Sep2025 23:50:14.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [Not Today, Thank You]
 [02Sep2025 23:50:36.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Captured!]
+[02Sep2025 23:52:21.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Bunfy_edd to Melosito_Neo]
+[02Sep2025 23:52:26.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to -699.500000, 55.500000, 113.500000]
+[02Sep2025 23:53:59.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [Penteconter]
+[02Sep2025 23:55:14.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set 30 experience levels on Melosito_Neo]
+[02Sep2025 23:57:37.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Bunfy_edd to Melosito_Neo]
+[02Sep2025 23:57:53.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Principyto to Melosito_Neo]
+[02Sep2025 23:58:43.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto was blown up by Spruce Creeper
+[02Sep2025 23:59:16.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Principyto to Melosito_Neo]
