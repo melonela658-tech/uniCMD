@@ -3309,6 +3309,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-09-03 22:49:46 +0000",
       "minecraft:skeleton": "2025-09-02 19:51:03 +0000",
       "minecraft:spider": "2025-09-02 23:34:47 +0000",
       "minecraft:creeper": "2025-09-03 04:05:57 +0000",
@@ -8040,6 +8041,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-09-03 22:48:56 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/basic_to_copper_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-09-03 20:59:58 +0000"
@@ -8111,6 +8118,12 @@
       "swasher": "2025-09-03 22:35:31 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-09-03 22:48:56 +0000"
+    },
+    "done": true
   },
   "create:recipes/building_blocks/veridium_pillar_from_stone_types_veridium_stonecutting": {
     "criteria": {
@@ -8205,6 +8218,12 @@
   "sophisticatedstorage:recipes/misc/storage_tool": {
     "criteria": {
       "has_redstone_torch": "2025-09-03 20:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-09-03 22:48:56 +0000"
     },
     "done": true
   },
