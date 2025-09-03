@@ -1159,3 +1159,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Sep2025 05:19:53.424] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [03Sep2025 05:19:53.425] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
 [03Sep2025 05:21:35.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Principyto> me pica la pata
+[03Sep2025 05:28:24.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Tunnel Treasures]
+[03Sep2025 05:29:20.739] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Patti the Cracked'/57890, l='ServerLevel[world]', x=-755.30, y=-14.00, z=119.76] died: Patti the Cracked was slain by Melosito_Neo

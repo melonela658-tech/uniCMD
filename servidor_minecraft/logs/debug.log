@@ -19170,3 +19170,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Sep2025 05:20:46.088] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Sep2025 05:20:46.110] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Sep2025 05:21:35.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Principyto> me pica la pata
+[03Sep2025 05:25:46.095] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Sep2025 05:25:46.117] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Sep2025 05:28:24.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Tunnel Treasures]
+[03Sep2025 05:28:24.362] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[03Sep2025 05:29:20.739] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Patti the Cracked'/57890, l='ServerLevel[world]', x=-755.30, y=-14.00, z=119.76] died: Patti the Cracked was slain by Melosito_Neo
+[03Sep2025 05:29:22.192] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[03Sep2025 05:29:57.593] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[03Sep2025 05:30:46.092] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Sep2025 05:30:46.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

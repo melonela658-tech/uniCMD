@@ -5476,7 +5476,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-09-02 20:23:35 +0000",
-      "opened_chest": "2025-09-02 20:17:57 +0000"
+      "opened_chest": "2025-09-02 20:17:57 +0000",
+      "opened_cart": "2025-09-03 05:28:24 +0000"
     },
     "done": false
   },
@@ -9061,6 +9062,12 @@
     },
     "done": true
   },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-09-03 05:28:24 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/fluix_upgrade_smithing_template": {
     "criteria": {
       "has_fluix_crystal": "2025-09-03 03:46:20 +0000"
@@ -9106,6 +9113,12 @@
   "ae2:recipes/misc/network/blocks/energy_energy_acceptor": {
     "criteria": {
       "has_crystals/fluix": "2025-09-03 03:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-09-03 05:28:10 +0000"
     },
     "done": true
   },
@@ -9181,6 +9194,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-09-03 05:28:10 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/blocks/controller": {
     "criteria": {
       "has_purified_fluix_crystal": "2025-09-03 03:46:20 +0000"
@@ -9253,6 +9272,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-09-03 05:28:10 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/shaped/slabs/smooth_sky_stone_block": {
     "criteria": {
       "has_smooth_sky_stone_block": "2025-09-03 04:23:04 +0000"
@@ -9304,6 +9329,12 @@
   "ae2:recipes/misc/tools/nether_quartz_pickaxe": {
     "criteria": {
       "has_nether_quartz": "2025-09-03 03:45:49 +0000"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/table_oak": {
+    "criteria": {
+      "has_fence": "2025-09-03 05:28:10 +0000"
     },
     "done": true
   },
@@ -9394,6 +9425,12 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-09-03 03:45:49 +0000"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/chair_oak": {
+    "criteria": {
+      "has_fence": "2025-09-03 05:28:10 +0000"
     },
     "done": true
   },
