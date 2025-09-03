@@ -10230,15 +10230,21 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_gloves": "2025-09-03 20:41:25 +0000"
+    },
+    "done": true
+  },
   "mekanism:item_transport": {
     "criteria": {
       "basic_logistical_transporter": "2025-09-03 20:42:01 +0000"
     },
     "done": true
   },
-  "aether:recipes/misc/aether_gold_nugget_from_blasting": {
+  "mekanism:configurator": {
     "criteria": {
-      "has_golden_gloves": "2025-09-03 20:41:25 +0000"
+      "configurator": "2025-09-03 21:39:21 +0000"
     },
     "done": true
   },

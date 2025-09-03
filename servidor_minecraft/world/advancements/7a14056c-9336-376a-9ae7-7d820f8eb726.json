@@ -1961,6 +1961,7 @@
       "minecraft:windswept_savanna": "2025-09-02 22:22:31 +0000",
       "minecraft:old_growth_birch_forest": "2025-09-02 21:41:50 +0000",
       "minecraft:deep_dark": "2025-09-03 06:03:37 +0000",
+      "minecraft:savanna": "2025-09-03 21:27:23 +0000",
       "minecraft:plains": "2025-09-02 22:13:36 +0000"
     },
     "done": false
@@ -5445,7 +5446,8 @@
       "biomeswevegone:dacite_shore": "2025-09-02 20:46:55 +0000",
       "biomeswevegone:skyrise_vale": "2025-09-02 20:49:20 +0000",
       "biomeswevegone:allium_shrubland": "2025-09-03 05:04:19 +0000",
-      "biomeswevegone:pumpkin_valley": "2025-09-03 00:04:20 +0000"
+      "biomeswevegone:pumpkin_valley": "2025-09-03 00:04:20 +0000",
+      "biomeswevegone:baobab_savanna": "2025-09-03 21:26:05 +0000"
     },
     "done": false
   },
@@ -7751,6 +7753,120 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-09-03 21:19:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-09-03 21:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-09-03 21:30:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-09-03 21:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-09-03 21:30:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-09-03 21:19:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-09-03 21:19:15 +0000"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/table_dark_oak": {
+    "criteria": {
+      "has_fence": "2025-09-03 21:27:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-09-03 21:19:15 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-09-03 20:59:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-09-03 21:19:15 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/gold_to_diamond_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-09-03 20:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-09-03 21:30:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-09-03 21:19:15 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-09-03 20:59:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-09-03 21:19:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-09-03 21:19:15 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_to_netherite_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-09-03 20:59:58 +0000"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/chair_dark_oak": {
+    "criteria": {
+      "has_fence": "2025-09-03 21:27:51 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
       "has_backpack": "2025-09-03 20:29:05 +0000"
@@ -7766,6 +7882,114 @@
   "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2025-09-03 20:47:28 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-09-03 20:59:58 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_copper_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-09-03 20:59:58 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_from_basic_to_copper_tier": {
+    "criteria": {
+      "has_redstone_torch": "2025-09-03 20:59:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-09-03 21:19:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-09-03 21:19:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-09-03 21:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-09-03 20:59:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-09-03 21:19:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/veridium_pillar_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-09-03 21:19:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-09-03 21:19:15 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-09-03 20:59:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-09-03 21:19:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-09-03 21:19:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-09-03 21:19:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/oak_banister": {
+    "criteria": {
+      "has_item": "2025-09-03 21:28:18 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_tool": {
+    "criteria": {
+      "has_redstone_torch": "2025-09-03 20:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-09-03 21:01:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-09-03 21:30:39 +0000"
     },
     "done": true
   },
