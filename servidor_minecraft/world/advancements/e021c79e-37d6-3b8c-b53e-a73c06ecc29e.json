@@ -3100,11 +3100,13 @@
       "maple_woods": "2025-09-02 19:41:20 +0000",
       "crystalline_chasm": "2025-09-02 22:30:41 +0000",
       "field": "2025-09-02 23:07:51 +0000",
+      "fir_clearing": "2025-09-03 00:29:21 +0000",
       "pumpkin_patch": "2025-09-02 19:48:51 +0000",
       "grassland": "2025-09-02 22:52:45 +0000",
       "prairie": "2025-09-02 22:55:22 +0000",
       "glowing_grotto": "2025-09-02 20:04:06 +0000",
-      "gravel_beach": "2025-09-02 19:40:27 +0000"
+      "gravel_beach": "2025-09-02 19:40:27 +0000",
+      "undergrowth": "2025-09-03 00:37:10 +0000"
     },
     "done": false
   },
@@ -3738,10 +3740,13 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-09-02 21:05:14 +0000",
+      "minecraft:blaze": "2025-09-03 00:38:30 +0000",
       "minecraft:skeleton": "2025-09-02 19:50:23 +0000",
       "minecraft:zoglin": "2025-09-02 22:33:34 +0000",
+      "minecraft:magma_cube": "2025-09-03 00:34:51 +0000",
       "minecraft:spider": "2025-09-02 20:16:27 +0000",
       "minecraft:creeper": "2025-09-02 22:17:10 +0000",
+      "minecraft:zombified_piglin": "2025-09-03 00:35:44 +0000",
       "minecraft:witch": "2025-09-02 22:15:17 +0000",
       "minecraft:wither_skeleton": "2025-09-02 23:49:20 +0000",
       "minecraft:cave_spider": "2025-09-02 21:07:04 +0000",
@@ -6219,9 +6224,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/misc/tank_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2025-09-03 00:29:40 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_rice": {
     "criteria": {
       "has_any_ingredient": "2025-09-02 23:05:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/chute": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:16 +0000"
     },
     "done": true
   },
@@ -6240,6 +6257,12 @@
   "nethersdelight:recipes/tools/golden_machete": {
     "criteria": {
       "has_gold_ingot": "2025-09-02 22:35:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gantry_shaft": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:16 +0000"
     },
     "done": true
   },
@@ -6270,6 +6293,24 @@
   "mekanism:basic_control_circuit": {
     "criteria": {
       "basic_control_circuit": "2025-09-02 22:11:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_press": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-09-03 00:41:53 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/rope_pulley": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:16 +0000"
     },
     "done": true
   },
@@ -6309,6 +6350,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/andesite_door": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-09-02 22:35:26 +0000"
@@ -6318,6 +6365,12 @@
   "sophisticatedstorage:recipes/misc/chipped/botanist_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-02 23:59:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/spout": {
+    "criteria": {
+      "has_item": "2025-09-03 00:24:41 +0000"
     },
     "done": true
   },
@@ -6342,6 +6395,12 @@
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2025-09-02 23:22:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:25 +0000"
     },
     "done": true
   },
@@ -6417,6 +6476,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/wooden_bracket": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/weighted_ejector": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/orange_postbox": {
     "criteria": {
       "has_barrel": "2025-09-02 23:33:34 +0000"
@@ -6483,6 +6554,12 @@
     },
     "done": false
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_plough": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:25 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_2": {
     "criteria": {
       "has_dark_oak_plank": "2025-09-02 21:22:07 +0000"
@@ -6513,15 +6590,39 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/belt_connector": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:16 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-02 23:59:58 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-09-03 00:35:39 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/smelting/smooth_sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-09-03 00:29:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-09-02 21:22:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_harvester": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:25 +0000"
     },
     "done": true
   },
@@ -6533,6 +6634,7 @@
   },
   "tconstruct:world/slime_collector": {
     "criteria": {
+      "magma_cream": "2025-09-03 00:34:52 +0000",
       "earth": "2025-09-02 23:11:54 +0000"
     },
     "done": false
@@ -6540,6 +6642,12 @@
   "aether:recipes/combat/golden_ring": {
     "criteria": {
       "has_gold_ingot": "2025-09-02 22:35:26 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/cut_quartz_block_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-09-03 00:30:06 +0000"
     },
     "done": true
   },
@@ -6561,9 +6669,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/curiosities/minecart_coupling": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:16 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
     "criteria": {
       "has_golden_knife": "2025-09-02 23:10:16 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_spade": {
+    "criteria": {
+      "has_certus_quartz": "2025-09-03 00:30:32 +0000"
     },
     "done": true
   },
@@ -6609,6 +6729,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/metal_girder": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:16 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/smeltery/copper_can": {
     "criteria": {
       "has_item": "2025-09-02 21:21:00 +0000"
@@ -6651,6 +6777,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/encased_chain_drive": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_drill": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-09-02 22:35:26 +0000"
@@ -6669,6 +6807,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tools/gadgets/throwball/efln_ball": {
+    "criteria": {
+      "has_item": "2025-09-03 00:22:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-09-02 22:17:44 +0000"
@@ -6684,6 +6828,12 @@
   "bygonenether:root": {
     "criteria": {
       "entered_nether": "2025-09-02 22:30:39 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/stairs/sky_stone_stairs": {
+    "criteria": {
+      "has_sky_stone_block": "2025-09-03 00:29:40 +0000"
     },
     "done": true
   },
@@ -6711,6 +6861,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-09-03 00:36:34 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_cartography_table": {
     "criteria": {
       "has_paper": "2025-09-02 21:19:22 +0000"
@@ -6729,9 +6885,27 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/gadgets/frame/gold": {
+    "criteria": {
+      "has_item": "2025-09-03 00:35:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
     "criteria": {
       "has_item": "2025-09-02 21:21:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-09-03 00:35:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_piston": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:25 +0000"
     },
     "done": true
   },
@@ -6747,9 +6921,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-09-03 00:35:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/lime_postbox": {
     "criteria": {
       "has_barrel": "2025-09-02 23:33:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-09-03 00:26:12 +0000"
     },
     "done": true
   },
@@ -6765,9 +6951,27 @@
     },
     "done": true
   },
+  "create:recipes/decorations/andesite_scaffolding_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2025-09-03 00:26:16 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/gadgets/throwball/glow_ball": {
+    "criteria": {
+      "has_item": "2025-09-03 00:22:46 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/lodestone": {
     "criteria": {
       "has_chiseled_stone_bricks": "2025-09-02 23:10:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/speedometer": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:16 +0000"
     },
     "done": true
   },
@@ -6777,9 +6981,27 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2025-09-03 00:39:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/cuckoo_clock": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:16 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/dark_oak_banister": {
     "criteria": {
       "has_item": "2025-09-02 21:22:09 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-09-03 00:26:16 +0000"
     },
     "done": true
   },
@@ -6795,15 +7017,39 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/certus_quartz_axe": {
+    "criteria": {
+      "has_certus_quartz": "2025-09-03 00:30:32 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/void_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-02 23:59:58 +0000"
     },
     "done": true
   },
+  "ae2:recipes/misc/misc/deconstruction_certus_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-09-03 00:30:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/desk_bell": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_sword": "2025-09-02 23:10:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_roller": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:25 +0000"
     },
     "done": true
   },
@@ -6816,6 +7062,18 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-09-02 22:30:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/filter": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/white_sail": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:16 +0000"
     },
     "done": true
   },
@@ -6867,6 +7125,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/decorative/quartz_block": {
+    "criteria": {
+      "has_certus_quartz_crystal": "2025-09-03 00:30:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-09-02 23:11:54 +0000"
@@ -6891,6 +7155,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/stripped_maple_wood": {
+    "criteria": {
+      "has_log": "2025-09-03 00:24:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/schematics/empty_schematic": {
     "criteria": {
       "has_item": "2025-09-02 21:19:22 +0000"
@@ -6903,15 +7173,39 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/clipboard": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-09-02 23:51:05 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/linear_chassis": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gantry_carriage": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:25 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/ice_from_bucket_freezing": {
     "criteria": {
       "has_water_bucket": "2025-09-02 21:45:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
+    "criteria": {
+      "has_rose_quartz_chunk": "2025-09-03 00:35:10 +0000"
     },
     "done": true
   },
@@ -6933,15 +7227,33 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/block_cutter/slabs/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-09-03 00:30:06 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/food/skyroot_milk_bucket_cake": {
     "criteria": {
       "has_egg": "2025-09-02 23:22:25 +0000"
     },
     "done": true
   },
+  "aether:recipes/combat/golden_chestplate_repairing": {
+    "criteria": {
+      "has_golden_chestplate": "2025-09-03 00:36:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-09-02 21:45:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/millstone": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:25 +0000"
     },
     "done": true
   },
@@ -6993,6 +7305,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/large_cogwheel": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-09-02 21:28:21 +0000"
@@ -7002,6 +7320,12 @@
   "create:recipes/misc/crafting/kinetics/fluid_valve": {
     "criteria": {
       "has_item": "2025-09-02 21:21:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/andesite_table_cloth_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2025-09-03 00:26:16 +0000"
     },
     "done": true
   },
@@ -7035,6 +7359,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/encased_chain_drive_from_zinc": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-09-02 21:44:57 +0000"
@@ -7050,6 +7380,12 @@
   "mekanism:steel_casing": {
     "criteria": {
       "steel_casing": "2025-09-02 22:44:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-09-03 00:25:20 +0000"
     },
     "done": true
   },
@@ -7113,6 +7449,18 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/block_cutter/walls/sky_stone_wall": {
+    "criteria": {
+      "has_sky_stone_block": "2025-09-03 00:29:40 +0000"
+    },
+    "done": true
+  },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2025-09-03 00:24:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/pink_postbox": {
     "criteria": {
       "has_barrel": "2025-09-02 23:33:34 +0000"
@@ -7122,6 +7470,12 @@
   "create:recipes/building_blocks/crafting/logistics/black_postbox": {
     "criteria": {
       "has_barrel": "2025-09-02 23:33:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/item_hatch": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:16 +0000"
     },
     "done": true
   },
@@ -7137,9 +7491,21 @@
     },
     "done": true
   },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-09-03 00:38:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-09-02 22:35:26 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/not_so_mysterious_cube": {
+    "criteria": {
+      "press": "2025-09-03 00:29:55 +0000"
     },
     "done": true
   },
@@ -7155,9 +7521,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-09-03 00:25:38 +0000"
+    },
+    "done": true
+  },
   "kaleidoscope_cookery:recipes/decorations/chair_dark_oak": {
     "criteria": {
       "has_fence": "2025-09-02 21:22:15 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/nether_grout": {
+    "criteria": {
+      "has_item": "2025-09-03 00:34:52 +0000"
     },
     "done": true
   },
@@ -7191,6 +7569,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/nether_grout_multiple": {
+    "criteria": {
+      "has_item": "2025-09-03 00:34:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-09-02 21:44:57 +0000"
@@ -7203,15 +7587,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-09-03 00:35:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_saw": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/brown_postbox": {
     "criteria": {
       "has_barrel": "2025-09-02 23:33:34 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
+    "criteria": {
+      "has_item": "2025-09-03 00:24:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/wrench": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2025-09-02 21:21:00 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_pickaxe": {
+    "criteria": {
+      "has_certus_quartz": "2025-09-03 00:30:32 +0000"
     },
     "done": true
   },
@@ -7242,6 +7656,12 @@
   "create:recipes/building_blocks/crafting/logistics/magenta_postbox": {
     "criteria": {
       "has_barrel": "2025-09-02 23:33:34 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/stairs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-09-03 00:29:40 +0000"
     },
     "done": true
   },
@@ -7299,9 +7719,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/water_wheel": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:16 +0000"
+    },
+    "done": true
+  },
   "mekanism:infused_alloy": {
     "criteria": {
       "alloy_infused": "2025-09-02 22:35:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/large_cogwheel_from_little": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:16 +0000"
     },
     "done": true
   },
@@ -7311,9 +7743,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/andesite_alloy_block": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-09-03 00:35:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-09-02 21:21:00 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_sword": {
+    "criteria": {
+      "has_certus_quartz": "2025-09-03 00:30:32 +0000"
     },
     "done": true
   },
@@ -7401,6 +7851,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/block_cutter/slabs/sky_stone_slab": {
+    "criteria": {
+      "has_sky_stone_block": "2025-09-03 00:29:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-09-02 21:28:21 +0000"
@@ -7431,9 +7887,24 @@
     },
     "done": true
   },
+  "ae2:main/presses": {
+    "criteria": {
+      "calculation": "2025-09-03 00:29:55 +0000",
+      "silicon": "2025-09-03 00:29:55 +0000",
+      "engineering": "2025-09-03 00:29:55 +0000",
+      "logic": "2025-09-03 00:29:55 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/socket": {
     "criteria": {
       "socket": "2025-09-02 22:39:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-09-03 00:25:20 +0000"
     },
     "done": true
   },
@@ -7497,15 +7968,39 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/blocks/energy_energy_cell": {
+    "criteria": {
+      "has_crystals/certus": "2025-09-03 00:30:32 +0000"
+    },
+    "done": true
+  },
   "mekanism:liquifier": {
     "criteria": {
       "nutritional_liquifier": "2025-09-02 22:44:22 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/clutch": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:25 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/iron_axe_repairing": {
     "criteria": {
       "has_iron_axe": "2025-09-02 21:40:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/depot": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-09-03 00:26:12 +0000"
     },
     "done": true
   },
@@ -7539,6 +8034,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/shaft": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:16 +0000"
+    },
+    "done": true
+  },
   "lootr:25loot": {
     "criteria": {
       "loot_stat": "2025-09-02 23:05:05 +0000"
@@ -7554,6 +8055,12 @@
   "sophisticatedstorage:recipes/misc/chipped/mason_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-02 23:59:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/hand_crank": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:16 +0000"
     },
     "done": true
   },
@@ -7575,15 +8082,33 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-09-03 00:42:26 +0000"
+    },
+    "done": true
+  },
   "mekanism:steel_ingot": {
     "criteria": {
       "ingot_steel": "2025-09-02 22:43:59 +0000"
     },
     "done": true
   },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-09-03 00:29:00 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_gloves": {
     "criteria": {
       "has_diamond": "2025-09-02 21:28:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/turntable": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:16 +0000"
     },
     "done": true
   },
@@ -7599,15 +8124,39 @@
     },
     "done": true
   },
+  "create:recipes/decorations/andesite_bars_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2025-09-03 00:26:16 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_sword_repairing": {
     "criteria": {
       "has_diamond_sword": "2025-09-02 23:42:28 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/sticker": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:16 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/walls/quartz_wall": {
+    "criteria": {
+      "has_quartz_block": "2025-09-03 00:30:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-09-02 23:19:14 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/walls/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-09-03 00:29:40 +0000"
     },
     "done": true
   },
@@ -7659,6 +8208,36 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/shaped/stairs/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-09-03 00:30:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/radial_chassis": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:16 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_hoe": {
+    "criteria": {
+      "has_certus_quartz": "2025-09-03 00:30:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sticky_mechanical_piston": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-09-03 00:22:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-09-02 21:22:07 +0000"
@@ -7671,15 +8250,51 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/goggles": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:16 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2025-09-02 23:32:08 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_block": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_door": {
+    "criteria": {
+      "has_item": "2025-09-03 00:24:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-09-03 00:35:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/display_board": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-09-02 23:13:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/piston_extension_pole": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:16 +0000"
     },
     "done": true
   },
@@ -7704,6 +8319,12 @@
   "tconstruct:recipes/brewing/common/slime/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-09-02 23:19:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-09-03 00:34:52 +0000"
     },
     "done": true
   },
@@ -7755,9 +8376,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/analog_lever": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:16 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/golden_shovel_repairing": {
     "criteria": {
       "has_golden_shovel": "2025-09-02 23:10:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/redstone_link": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/cart_assembler": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:16 +0000"
     },
     "done": true
   },
@@ -7791,6 +8430,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/maple_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-09-03 00:24:19 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_leggings_repairing": {
     "criteria": {
       "has_diamond_leggings": "2025-09-02 22:53:00 +0000"
@@ -7809,9 +8454,21 @@
     },
     "done": true
   },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2025-09-03 00:26:24 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_jukebox": {
     "criteria": {
       "has_diamond": "2025-09-02 21:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-09-03 00:35:45 +0000"
     },
     "done": true
   },
@@ -7827,6 +8484,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-09-03 00:35:39 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/common/slime/earth/congealed": {
     "criteria": {
       "has_item": "2025-09-02 23:11:54 +0000"
@@ -7839,9 +8502,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/shaped/walls/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-09-03 00:30:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2025-09-02 23:51:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:25 +0000"
     },
     "done": true
   },
@@ -7860,6 +8535,12 @@
   "aether:recipes/combat/golden_sword_repairing": {
     "criteria": {
       "has_golden_sword": "2025-09-02 23:10:02 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/slabs/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-09-03 00:30:06 +0000"
     },
     "done": true
   },
@@ -7887,6 +8568,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/certus_quartz_wrench": {
+    "criteria": {
+      "has_certus_quartz": "2025-09-03 00:30:32 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_tier_1_from_storage_stack_upgrade_tier_2": {
     "criteria": {
       "has_storage_stack_upgrade": "2025-09-03 00:00:17 +0000"
@@ -7902,6 +8589,12 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-09-02 21:44:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/andesite_tunnel": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:16 +0000"
     },
     "done": true
   },
@@ -7947,6 +8640,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-09-03 00:35:39 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/cooked_rice": {
     "criteria": {
       "has_rice": "2025-09-02 23:05:19 +0000"
@@ -7959,9 +8658,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/windmill_bearing": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/sand_paper": {
     "criteria": {
       "has_item": "2025-09-02 21:19:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/basin": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:16 +0000"
     },
     "done": true
   },
@@ -7977,9 +8688,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/andesite_funnel": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:16 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_gloves_repairing": {
     "criteria": {
       "has_iron_gloves": "2025-09-02 22:52:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/chain_conveyor": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:25 +0000"
     },
     "done": true
   },
@@ -8013,9 +8736,45 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/certus_quartz_cutting_knife": {
+    "criteria": {
+      "has_certus_quartz": "2025-09-03 00:30:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_drain": {
+    "criteria": {
+      "has_item": "2025-09-03 00:24:41 +0000"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/tools/diamond_machete": {
     "criteria": {
       "has_diamond": "2025-09-02 21:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-09-03 00:35:39 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_chestplate_repairing": {
+    "criteria": {
+      "has_leather_chestplate": "2025-09-03 00:40:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_mixer": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/andesite_ladder_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2025-09-03 00:26:16 +0000"
     },
     "done": true
   },
@@ -8049,6 +8808,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/cogwheel": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:16 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/spell_book_equip": {
     "criteria": {
       "requirement": "2025-09-02 21:21:10 +0000"
@@ -8067,9 +8832,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/contraption_controls": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2025-09-02 21:21:00 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/cut_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-09-03 00:30:06 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/stairs/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-09-03 00:30:06 +0000"
     },
     "done": true
   },
@@ -8091,9 +8874,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-09-03 00:22:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-09-02 21:19:22 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/slabs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-09-03 00:29:40 +0000"
     },
     "done": true
   },
@@ -8103,9 +8898,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/metal_bracket": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:16 +0000"
+    },
+    "done": true
+  },
   "ae2:main/root": {
     "criteria": {
       "copper": "2025-09-02 21:21:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_leggings_repairing": {
+    "criteria": {
+      "has_chainmail_leggings": "2025-09-03 00:40:43 +0000"
     },
     "done": true
   },
@@ -8145,9 +8952,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/gearshift": {
+    "criteria": {
+      "has_item": "2025-09-03 00:26:25 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_grindstone": {
     "criteria": {
       "has_stone_slab": "2025-09-03 00:12:48 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/chests_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2025-09-03 00:29:40 +0000"
     },
     "done": true
   },

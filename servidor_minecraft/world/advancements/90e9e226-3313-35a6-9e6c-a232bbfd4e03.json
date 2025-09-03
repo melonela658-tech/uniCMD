@@ -965,6 +965,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-09-03 00:24:07 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/skyroot_tripwire_hook": {
     "criteria": {
       "has_string": "2025-09-02 23:12:43 +0000"
@@ -1166,6 +1172,12 @@
   "kaleidoscope_cookery:recipes/decorations/farmer_boots": {
     "criteria": {
       "has_leather": "2025-09-02 23:12:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-09-03 00:24:07 +0000"
     },
     "done": true
   },
@@ -1763,6 +1775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-03 00:24:07 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/wipe_starby_shard": {
     "criteria": {
       "has_journal": "2025-09-02 20:56:09 +0000"
@@ -1778,6 +1796,30 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-09-02 21:00:38 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_limited_barrel_1": {
+    "criteria": {
+      "has_oak_plank": "2025-09-03 00:24:07 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_limited_barrel_2": {
+    "criteria": {
+      "has_oak_plank": "2025-09-03 00:24:07 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_limited_barrel_3": {
+    "criteria": {
+      "has_oak_plank": "2025-09-03 00:24:07 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_limited_barrel_4": {
+    "criteria": {
+      "has_oak_plank": "2025-09-03 00:24:07 +0000"
     },
     "done": true
   },
@@ -2729,6 +2771,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-03 00:24:07 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tools/tools/building/sky_staff": {
     "criteria": {
       "has_wood": "2025-09-02 22:07:47 +0000"
@@ -3013,6 +3061,12 @@
     },
     "done": true
   },
+  "kaleidoscope_cookery:recipes/decorations/chopping_board": {
+    "criteria": {
+      "has_wood": "2025-09-03 00:24:07 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_pendant": {
     "criteria": {
       "has_gold_ingot": "2025-09-02 23:52:27 +0000"
@@ -3178,6 +3232,12 @@
   "ars_nouveau:recipes/misc/magelight_torch": {
     "criteria": {
       "has_journal": "2025-09-02 20:56:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-09-03 00:24:07 +0000"
     },
     "done": true
   },
@@ -3628,6 +3688,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-09-02 22:18:44 +0000",
+      "minecraft:spider": "2025-09-03 00:19:47 +0000",
       "minecraft:zombie": "2025-09-02 21:20:47 +0000"
     },
     "done": false
@@ -4200,9 +4261,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/oak_chest": {
+    "criteria": {
+      "has_oak_plank": "2025-09-03 00:24:07 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_chicken_cuts": {
     "criteria": {
       "cooked_chicken_cuts": "2025-09-02 21:58:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-03 00:24:07 +0000"
     },
     "done": true
   },
@@ -4384,6 +4457,12 @@
   "ars_nouveau:recipes/misc/redstone_relay": {
     "criteria": {
       "has_journal": "2025-09-02 20:56:09 +0000"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/cook_stool_oak": {
+    "criteria": {
+      "has_wood": "2025-09-03 00:24:07 +0000"
     },
     "done": true
   },
@@ -4875,6 +4954,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/oak_storage_connector": {
+    "criteria": {
+      "has_oak_planks": "2025-09-03 00:24:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-09-02 22:12:07 +0000"
@@ -5067,6 +5152,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/oak_barrel": {
+    "criteria": {
+      "has_oak_plank": "2025-09-03 00:24:07 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/maple_boat": {
     "criteria": {
       "in_water": "2025-09-02 21:02:29 +0000"
@@ -5150,6 +5241,8 @@
       "biomeswevegone:zelkova_forest": "2025-09-02 23:53:50 +0000",
       "biomeswevegone:coconino_meadow": "2025-09-02 22:46:07 +0000",
       "biomeswevegone:maple_taiga": "2025-09-02 22:46:10 +0000",
+      "biomeswevegone:dacite_shore": "2025-09-03 00:26:19 +0000",
+      "biomeswevegone:skyrise_vale": "2025-09-03 00:25:34 +0000",
       "biomeswevegone:pumpkin_valley": "2025-09-02 23:21:16 +0000"
     },
     "done": false
@@ -5199,9 +5292,16 @@
       "forested_field": "2025-09-02 22:46:54 +0000",
       "pumpkin_patch": "2025-09-02 22:04:31 +0000",
       "grassland": "2025-09-02 22:47:02 +0000",
-      "glowing_grotto": "2025-09-02 21:17:14 +0000"
+      "glowing_grotto": "2025-09-02 21:17:14 +0000",
+      "gravel_beach": "2025-09-03 00:27:39 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-03 00:24:07 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
@@ -5242,6 +5342,12 @@
   "ars_nouveau:recipes/misc/smooth_sourcestone_mosaic_stairs": {
     "criteria": {
       "has_journal": "2025-09-02 20:56:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-09-03 00:24:07 +0000"
     },
     "done": true
   },
@@ -5506,6 +5612,12 @@
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_small_bricks_stairs": {
     "criteria": {
       "has_journal": "2025-09-02 20:56:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-09-03 00:24:07 +0000"
     },
     "done": true
   },
@@ -5992,6 +6104,12 @@
   "ars_nouveau:recipes/building_blocks/sourcestone_alternating_slab": {
     "criteria": {
       "has_journal": "2025-09-02 20:56:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-09-03 00:24:07 +0000"
     },
     "done": true
   },

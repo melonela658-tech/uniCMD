@@ -18,3 +18,34 @@
 [03Sep2025 00:14:19.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Bunfy_edd) moved too quickly! 2.0204669375459616,1.5270698477818314,-9.890888960282837
 [03Sep2025 00:15:18.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Principyto to Melosito_Neo]
 [03Sep2025 00:20:23.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bunfy_edd moved wrongly!
+[03Sep2025 00:25:20.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Principyto) moved wrongly! 0.3203534873864555
+[03Sep2025 00:25:20.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Principyto) moved wrongly! 0.6361489336418344
+[03Sep2025 00:25:20.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Principyto) moved wrongly! 0.9518812438245732
+[03Sep2025 00:25:20.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Principyto) moved wrongly! 1.3200767602688757
+[03Sep2025 00:25:20.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Principyto) moved wrongly! 0.5064538482074568
+[03Sep2025 00:25:34.091] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[03Sep2025 00:25:34.092] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[03Sep2025 00:26:24.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [The Andesite Age]
+[03Sep2025 00:29:00.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Bonk!]
+[03Sep2025 00:29:20.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Principyto]
+[03Sep2025 00:29:55.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Unknown Technology]
+[03Sep2025 00:30:26.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bunfy_edd moved wrongly!
+[03Sep2025 00:30:46.125] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bunfy_edd lost connection: Disconnected
+[03Sep2025 00:30:46.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd left the game
+[03Sep2025 00:30:51.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to -699.500000, 55.500000, 113.500000]
+[03Sep2025 00:31:22.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto was slain by Bison
+[03Sep2025 00:35:33.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [A Terrible Fortress]
+[03Sep2025 00:35:51.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto was slain by Spider
+[03Sep2025 00:36:02.424] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPiglin['Olsen the Pathetic'/185368, l='ServerLevel[world]', x=0.42, y=80.00, z=12.86] died: Olsen the Pathetic was slain by Melosito_Neo
+[03Sep2025 00:37:28.924] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto lost connection: Disconnected
+[03Sep2025 00:37:28.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto left the game
+[03Sep2025 00:38:42.582] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor
+[03Sep2025 00:38:43.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has completed the challenge [Centennial]
+[03Sep2025 00:39:29.726] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[03Sep2025 00:39:55.607] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[03Sep2025 00:45:52.979] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Principyto[/127.42.131.13:37527] logged in with entity id 191216 at (-1829.3543084202663, 66.0, 1901.7192447811829)
+[03Sep2025 00:45:53.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto joined the game
+[03Sep2025 00:45:53.087] [Server thread/INFO] [Jade/]: Syncing config to Principyto (7a14056c-9336-376a-9ae7-7d820f8eb726)
+[03Sep2025 00:49:50.597] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[03Sep2025 00:49:50.597] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[03Sep2025 00:51:28.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [Amateur Archaeologist]
