@@ -1243,3 +1243,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Sep2025 23:37:53.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [Berrily Alive]
 [03Sep2025 23:39:18.967] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/120824, l='ServerLevel[world]', x=-598.13, y=66.53, z=173.87] died: Honeyed Archer suffocated in a wall
 [03Sep2025 23:39:49.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [We Need to Go Deeper]
+[03Sep2025 23:49:41.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Bunfy_edd to Melosito_Neo]

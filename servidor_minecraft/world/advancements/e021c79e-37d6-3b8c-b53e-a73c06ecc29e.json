@@ -10283,6 +10283,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cabbage_from_leaves": {
+    "criteria": {
+      "has_cabbage_leaf": "2025-09-03 23:42:06 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-03 22:27:24 +0000"
@@ -10703,6 +10709,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-03 23:42:10 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-03 22:27:24 +0000"
@@ -10712,6 +10724,12 @@
   "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-03 22:27:24 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2025-09-03 23:41:54 +0000"
     },
     "done": true
   },
@@ -10862,6 +10880,12 @@
   "tconstruct:recipes/decorations/smeltery/seared/heater": {
     "criteria": {
       "has_item": "2025-09-03 22:57:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-09-03 23:42:10 +0000"
     },
     "done": true
   },

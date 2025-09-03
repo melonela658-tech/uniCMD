@@ -21820,3 +21820,45 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Sep2025 23:42:30.128] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
 [03Sep2025 23:42:30.128] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
 [03Sep2025 23:42:52.584] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:slow 1: [e021c79e-37d6-3b8c-b53e-a73c06ecc29e]
+[03Sep2025 23:45:10.400] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Sep2025 23:45:10.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Sep2025 23:49:41.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Bunfy_edd to Melosito_Neo]
+[03Sep2025 23:50:10.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Sep2025 23:50:10.397] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Sep2025 23:50:57.570] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:50:57.570] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:50:57.570] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:50:57.819] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:50:57.819] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:50:57.819] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:50:58.070] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:50:58.070] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:50:58.070] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:50:58.319] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:50:58.319] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:50:58.319] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:50:58.569] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:50:58.570] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:50:58.570] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:50:58.820] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:50:58.821] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:50:58.821] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:50:59.069] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:50:59.069] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:50:59.069] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:50:59.318] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:50:59.319] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:50:59.319] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:50:59.568] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:50:59.569] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:50:59.569] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:50:59.820] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:50:59.820] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:50:59.820] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:51:00.069] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:51:00.069] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:51:00.069] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:51:00.323] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:51:00.323] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:51:00.323] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:53:13.700] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:slow 1: [90e9e226-3313-35a6-9e6c-a232bbfd4e03]
