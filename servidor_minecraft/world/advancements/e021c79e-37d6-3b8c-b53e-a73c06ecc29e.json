@@ -10267,6 +10267,16 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/melter": {
+    "criteria": {
+      "seared_heater": "2025-09-03 23:00:30 +0000",
+      "seared_basin": "2025-09-03 23:00:34 +0000",
+      "seared_ingot_gauge": "2025-09-03 23:12:54 +0000",
+      "seared_faucet": "2025-09-03 23:00:36 +0000",
+      "seared_melter": "2025-09-03 23:00:32 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-09-03 22:37:13 +0000"
@@ -10450,6 +10460,12 @@
   "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-09-03 22:37:13 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/structure": {
+    "criteria": {
+      "open_smeltery": "2025-09-03 23:16:01 +0000"
     },
     "done": true
   },

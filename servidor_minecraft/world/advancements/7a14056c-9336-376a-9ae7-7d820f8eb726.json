@@ -3117,6 +3117,7 @@
       "jade_cliffs": "2025-09-03 06:58:45 +0000",
       "old_growth_woodland": "2025-09-03 04:22:55 +0000",
       "maple_woods": "2025-09-02 19:42:07 +0000",
+      "crystalline_chasm": "2025-09-03 23:39:50 +0000",
       "field": "2025-09-02 21:25:31 +0000",
       "orchard": "2025-09-03 04:57:49 +0000",
       "overgrown_greens": "2025-09-02 21:41:15 +0000",
@@ -5440,6 +5441,7 @@
       "biomeswevegone:crag_gardens": "2025-09-03 21:52:07 +0000",
       "biomeswevegone:enchanted_tangle": "2025-09-03 03:47:33 +0000",
       "biomeswevegone:zelkova_forest": "2025-09-02 23:23:35 +0000",
+      "biomeswevegone:temperate_grove": "2025-09-03 23:26:56 +0000",
       "biomeswevegone:forgotten_forest": "2025-09-03 22:57:46 +0000",
       "biomeswevegone:coconino_meadow": "2025-09-03 00:06:30 +0000",
       "biomeswevegone:maple_taiga": "2025-09-03 00:07:07 +0000",
@@ -7762,6 +7764,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-03 23:20:15 +0000"
+    },
+    "done": true
+  },
   "kaleidoscope_cookery:recipes/decorations/table_acacia": {
     "criteria": {
       "has_fence": "2025-09-03 22:28:01 +0000"
@@ -7822,6 +7830,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/storage_output": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-09-03 23:13:01 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/redwood_planks": {
     "criteria": {
       "has_logs": "2025-09-03 22:58:27 +0000"
@@ -7837,6 +7851,12 @@
   "create:recipes/building_blocks/small_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-09-03 21:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-03 23:20:15 +0000"
     },
     "done": true
   },
@@ -7882,9 +7902,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-03 23:20:15 +0000"
+    },
+    "done": true
+  },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2025-09-03 23:39:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-03 23:20:15 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_cartography_table": {
     "criteria": {
       "has_paper": "2025-09-03 22:13:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_chest": {
+    "criteria": {
+      "has_chest": "2025-09-03 23:13:01 +0000"
     },
     "done": true
   },
@@ -7930,6 +7974,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-09-03 23:39:49 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/root": {
     "criteria": {
       "inscription_table": "2025-09-03 22:19:27 +0000"
@@ -7963,6 +8013,12 @@
   "buildinggadgets2:recipes/misc/template_manager": {
     "criteria": {
       "has_paper": "2025-09-03 22:13:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/double_copper_chest": {
+    "criteria": {
+      "has_chest": "2025-09-03 23:13:01 +0000"
     },
     "done": true
   },
@@ -8005,6 +8061,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-09-03 22:38:07 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/double_iron_chest": {
+    "criteria": {
+      "has_chest": "2025-09-03 23:13:01 +0000"
     },
     "done": true
   },
@@ -8080,6 +8142,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-03 23:20:15 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/paintbrush": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-09-03 23:13:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
       "has_log": "2025-09-03 22:48:56 +0000"
@@ -8128,9 +8202,27 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/controller": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-09-03 23:13:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-09-03 22:38:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-09-03 23:19:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_input": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-09-03 23:13:01 +0000"
     },
     "done": true
   },
@@ -8149,6 +8241,12 @@
   "kaleidoscope_cookery:recipes/decorations/table_oak": {
     "criteria": {
       "has_fence": "2025-09-03 22:04:07 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-09-03 23:01:00 +0000"
     },
     "done": true
   },
@@ -8176,15 +8274,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-09-03 23:19:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-09-03 21:19:15 +0000"
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/shulker_from_chest": {
+    "criteria": {
+      "has_chest": "2025-09-03 23:13:01 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/basic_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-09-03 20:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-03 23:20:15 +0000"
     },
     "done": true
   },
@@ -8230,6 +8346,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/copper_chest": {
+    "criteria": {
+      "has_chest": "2025-09-03 23:13:01 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/redwood_button": {
     "criteria": {
       "has_planks": "2025-09-03 22:58:47 +0000"
@@ -8239,6 +8361,12 @@
   "create:recipes/misc/crafting/schematics/schematic_and_quill": {
     "criteria": {
       "has_item": "2025-09-03 22:13:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_io": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-09-03 23:13:01 +0000"
     },
     "done": true
   },
@@ -8308,6 +8436,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-09-03 23:39:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
     "criteria": {
       "has_smooth_sandstone": "2025-09-03 21:30:39 +0000"
@@ -8320,9 +8454,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-03 23:20:15 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-09-03 20:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-09-03 23:19:50 +0000"
     },
     "done": true
   },

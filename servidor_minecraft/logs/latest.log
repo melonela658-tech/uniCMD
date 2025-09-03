@@ -1220,3 +1220,26 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Sep2025 22:58:38.989] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3698, y=64, z=553} BlockPos{x=-3698, y=62, z=553}
 [03Sep2025 23:01:00.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [Chompy]
 [03Sep2025 23:01:04.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto was slain by Crocodile
+[03Sep2025 23:07:16.358] [Worker-Main-17/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2185, y=16, z=-1138}
+[03Sep2025 23:09:05.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bunfy_edd moved wrongly!
+[03Sep2025 23:12:42.378] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[03Sep2025 23:12:56.120] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bunfy_edd moved wrongly!
+[03Sep2025 23:13:54.188] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=186, y=-6, z=458}
+[03Sep2025 23:13:54.189] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=182, y=-6, z=460}
+[03Sep2025 23:13:54.189] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=180, y=-6, z=458}
+[03Sep2025 23:14:10.972] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[03Sep2025 23:14:56.733] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/103043, l='ServerLevel[world]', x=-2023.32, y=70.75, z=-1338.30] died, message: 'Unemployed was slain by Zombie'
+[03Sep2025 23:19:36.396] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/107445, l='ServerLevel[world]', x=-964.40, y=64.85, z=-240.52] died: Honeyed Archer was slain by Bunfy_edd
+[03Sep2025 23:21:53.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Bunfy_edd]
+[03Sep2025 23:22:59.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to -699.500000, 55.500000, 113.500000]
+[03Sep2025 23:22:59.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bunfy_edd moved too quickly! -11.329104590648399,0.0,-0.34599709745151586
+[03Sep2025 23:25:44.830] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bunfy_edd lost connection: Timed out
+[03Sep2025 23:25:44.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd left the game
+[03Sep2025 23:26:26.001] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bunfy_edd[/127.108.94.114:60653] logged in with entity id 114470 at (-685.6999999880791, 43.0, 128.0883275109623)
+[03Sep2025 23:26:26.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd joined the game
+[03Sep2025 23:26:26.146] [Server thread/INFO] [Jade/]: Syncing config to Bunfy_edd (90e9e226-3313-35a6-9e6c-a232bbfd4e03)
+[03Sep2025 23:28:25.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to -699.500000, 55.500000, 113.500000]
+[03Sep2025 23:36:33.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd was shot by Skeleton
+[03Sep2025 23:37:53.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [Berrily Alive]
+[03Sep2025 23:39:18.967] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/120824, l='ServerLevel[world]', x=-598.13, y=66.53, z=173.87] died: Honeyed Archer suffocated in a wall
+[03Sep2025 23:39:49.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [We Need to Go Deeper]
