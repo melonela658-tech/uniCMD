@@ -5254,7 +5254,8 @@
       "apple": "2025-09-02 23:57:24 +0000",
       "potato": "2025-09-03 21:38:34 +0000",
       "pumpkin_pie": "2025-09-02 23:04:26 +0000",
-      "bread": "2025-09-02 22:34:29 +0000"
+      "bread": "2025-09-02 22:34:29 +0000",
+      "carrot": "2025-09-03 21:40:41 +0000"
     },
     "done": false
   },
@@ -6427,6 +6428,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-09-03 21:44:36 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/block_cutter/slabs/sky_stone_slab": {
     "criteria": {
       "has_sky_stone_block": "2025-09-03 21:20:31 +0000"
@@ -6442,6 +6449,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/socket": {
+    "criteria": {
+      "socket": "2025-09-03 21:43:38 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass": {
     "criteria": {
       "has_recipe": "2025-09-03 21:24:52 +0000"
@@ -6451,6 +6464,12 @@
   "ae2:recipes/misc/shaped/walls/sky_stone_block": {
     "criteria": {
       "has_sky_stone_block": "2025-09-03 21:20:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2025-09-03 21:44:34 +0000"
     },
     "done": true
   },
@@ -6475,6 +6494,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-09-03 21:36:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-09-03 21:44:36 +0000"
     },
     "done": true
   },

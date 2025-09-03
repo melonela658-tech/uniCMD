@@ -1168,3 +1168,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Sep2025 21:31:49.968] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/26311, l='ServerLevel[world]', x=-717.35, y=79.85, z=19.43] died: Honeyed Archer burned to death
 [03Sep2025 21:38:38.756] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/33992, l='ServerLevel[world]', x=-811.70, y=63.00, z=-133.70] died: Honeyed Archer was slain by Bunfy_edd
 [03Sep2025 21:39:21.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Configure Everything]
+[03Sep2025 21:43:38.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [The Jeweler]
+[03Sep2025 21:44:41.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto fell from a high place
+[03Sep2025 21:47:51.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [Quite the Renovation]

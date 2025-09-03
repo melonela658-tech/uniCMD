@@ -5673,7 +5673,8 @@
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_zombie_dungeon": "2025-09-02 21:35:55 +0000",
-      "in_better_spider_dungeon": "2025-09-03 04:32:20 +0000"
+      "in_better_spider_dungeon": "2025-09-03 04:32:20 +0000",
+      "in_better_monster_room": "2025-09-03 21:47:51 +0000"
     },
     "done": false
   },
@@ -7894,6 +7895,12 @@
   "sophisticatedstorage:recipes/misc/basic_to_copper_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-09-03 20:59:58 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-09-03 21:47:51 +0000"
     },
     "done": true
   },
