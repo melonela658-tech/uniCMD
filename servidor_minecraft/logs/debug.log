@@ -19876,3 +19876,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Sep2025 05:52:27.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Melosito_Neo) moved too quickly! 9.810912537647027,-0.40558228926241213,6.2991550210440295
 [03Sep2025 05:52:27.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Melosito_Neo) moved too quickly! 9.144887963232009,-0.3676336043440074,5.84899153779206
 [03Sep2025 05:52:27.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Melosito_Neo) moved too quickly! 8.474647890179426,-0.33320373776099643,5.403954662572403
+[03Sep2025 05:55:46.135] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Sep2025 05:55:46.157] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Sep2025 06:00:46.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Sep2025 06:00:46.112] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

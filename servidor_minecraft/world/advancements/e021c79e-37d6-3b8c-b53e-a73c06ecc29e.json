@@ -9160,6 +9160,12 @@
     },
     "done": true
   },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2025-09-03 05:56:31 +0000"
+    },
+    "done": true
+  },
   "expatternprovider:recipes/misc/crystal_fixer": {
     "criteria": {
       "has_item": "2025-09-03 03:46:20 +0000"
@@ -9463,6 +9469,12 @@
   "ae2:recipes/misc/network/blocks/crystal_processing_charger": {
     "criteria": {
       "has_the_recipe": "2025-09-03 03:41:29 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/network_tool": {
+    "criteria": {
+      "has_quartz_wrench": "2025-09-03 05:59:14 +0000"
     },
     "done": true
   },
