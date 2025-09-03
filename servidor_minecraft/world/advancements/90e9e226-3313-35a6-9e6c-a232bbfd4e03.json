@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_slabs": "2025-09-03 00:12:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-09-02 21:06:01 +0000"
@@ -527,6 +533,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-09-03 00:12:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/bacon_sandwich": {
     "criteria": {
       "has_bacon": "2025-09-02 21:55:59 +0000"
@@ -794,6 +806,12 @@
   "sophisticatedstorage:recipes/misc/spruce_limited_barrel_3": {
     "criteria": {
       "has_spruce_plank": "2025-09-02 20:58:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-09-03 00:13:03 +0000"
     },
     "done": true
   },
@@ -1100,6 +1118,12 @@
   "ars_nouveau:recipes/misc/air_essence_to_snow_bucket": {
     "criteria": {
       "has_journal": "2025-09-02 20:56:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-03 00:11:22 +0000"
     },
     "done": true
   },
@@ -1949,9 +1973,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-09-03 00:12:00 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/upgrade_base": {
     "criteria": {
       "has_iron_ingot": "2025-09-02 21:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-09-03 00:12:01 +0000"
     },
     "done": true
   },
@@ -2501,6 +2537,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-03 00:11:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-09-02 21:56:56 +0000"
@@ -2953,6 +2995,12 @@
     },
     "done": true
   },
+  "kaleidoscope_cookery:recipes/decorations/scarecrow": {
+    "criteria": {
+      "has_pumpkin": "2025-09-03 00:13:03 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/common/flint": {
     "criteria": {
       "has_item": "2025-09-02 21:05:36 +0000"
@@ -3106,6 +3154,12 @@
   "ars_nouveau:recipes/misc/polished_sconce": {
     "criteria": {
       "has_journal": "2025-09-02 20:56:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-09-03 00:13:03 +0000"
     },
     "done": true
   },
@@ -3298,6 +3352,12 @@
   "storagedrawers:recipes/storagedrawers/diamond_storage_upgrade": {
     "criteria": {
       "has_template": "2025-09-02 20:56:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-03 00:11:22 +0000"
     },
     "done": true
   },
@@ -4170,6 +4230,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-03 00:11:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-09-02 21:01:42 +0000"
@@ -4567,6 +4633,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/misc/white_dye_from_bwg_tag": {
+    "criteria": {
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_white_dye]": "2025-09-03 00:13:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-09-02 21:05:36 +0000"
@@ -4797,6 +4869,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-03 00:11:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-09-02 22:12:07 +0000"
@@ -4863,6 +4941,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-03 00:11:22 +0000"
+    },
+    "done": true
+  },
   "jetboots:recipes/misc/jetboots_template": {
     "criteria": {
       "has_obsidian": "2025-09-02 22:25:26 +0000"
@@ -4878,6 +4962,12 @@
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2025-09-02 20:58:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-03 00:11:22 +0000"
     },
     "done": true
   },
@@ -5040,6 +5130,18 @@
   "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-09-02 23:28:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-09-03 00:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-09-03 00:13:03 +0000"
     },
     "done": true
   },
@@ -5356,6 +5458,12 @@
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_mosaic_stairs": {
     "criteria": {
       "has_journal": "2025-09-02 20:56:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-03 00:11:22 +0000"
     },
     "done": true
   },
@@ -5963,6 +6071,12 @@
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-09-02 21:04:56 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/moa_egg_pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-09-03 00:13:03 +0000"
     },
     "done": true
   },

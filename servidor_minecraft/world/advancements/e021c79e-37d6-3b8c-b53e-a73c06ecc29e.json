@@ -6243,6 +6243,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-02 23:59:58 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_barrel": {
     "criteria": {
       "has_slabs": "2025-09-02 21:22:09 +0000"
@@ -6309,9 +6315,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/chipped/botanist_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-02 23:59:58 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2025-09-02 22:52:01 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-02 23:59:58 +0000"
     },
     "done": true
   },
@@ -6417,9 +6435,33 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-02 23:59:58 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_stack_upgrade_tier_1": "2025-09-03 00:00:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_stack_upgrade_tier_2": "2025-09-03 00:00:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
     "criteria": {
       "has_item": "2025-09-02 21:21:00 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/compacting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-02 23:59:58 +0000"
     },
     "done": true
   },
@@ -6468,6 +6510,12 @@
   "sophisticatedstorage:recipes/misc/storage_magnet_upgrade_from_backpack_magnet_upgrade": {
     "criteria": {
       "has_backpack_upgrade": "2025-09-02 23:51:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-02 23:59:58 +0000"
     },
     "done": true
   },
@@ -6657,9 +6705,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/chipped/carpenters_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-02 23:59:58 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_cartography_table": {
     "criteria": {
       "has_paper": "2025-09-02 21:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-09-03 00:12:48 +0000"
     },
     "done": true
   },
@@ -6711,6 +6771,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/compression_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-02 23:59:58 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/dark_oak_banister": {
     "criteria": {
       "has_item": "2025-09-02 21:22:09 +0000"
@@ -6726,6 +6792,12 @@
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-09-02 21:22:00 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-02 23:59:58 +0000"
     },
     "done": true
   },
@@ -6885,6 +6957,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/chipped/tinkering_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-02 23:59:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/white_postbox": {
     "criteria": {
       "has_barrel": "2025-09-02 23:33:34 +0000"
@@ -6993,6 +7071,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/chipped/glassblower_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-02 23:59:58 +0000"
+    },
+    "done": true
+  },
   "buildinggadgets2:recipes/misc/gadget_building": {
     "criteria": {
       "has_diamond": "2025-09-02 21:28:21 +0000"
@@ -7008,6 +7092,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-09-02 23:49:31 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/filter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-02 23:59:58 +0000"
     },
     "done": true
   },
@@ -7191,9 +7281,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/smelting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-02 23:59:58 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
     "criteria": {
       "has_pickup_upgrade": "2025-09-02 22:53:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/decoration_table": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-02 23:59:58 +0000"
     },
     "done": true
   },
@@ -7257,9 +7359,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-02 23:59:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/green_postbox": {
     "criteria": {
       "has_barrel": "2025-09-02 23:33:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/alchemy_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-02 23:59:58 +0000"
     },
     "done": true
   },
@@ -7272,6 +7386,12 @@
   "aether:recipes/tools/wooden_pickaxe_repairing": {
     "criteria": {
       "has_wooden_pickaxe": "2025-09-02 21:31:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_1_plus": {
+    "criteria": {
+      "has_stack_upgrade_tier_1": "2025-09-03 00:00:13 +0000"
     },
     "done": true
   },
@@ -7296,6 +7416,12 @@
   "aether:recipes/combat/shield_repairing": {
     "criteria": {
       "has_shield": "2025-09-02 23:35:57 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stonecutter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-02 23:59:58 +0000"
     },
     "done": true
   },
@@ -7350,6 +7476,12 @@
   "aether:recipes/combat/golden_leggings_repairing": {
     "criteria": {
       "has_golden_leggings": "2025-09-02 23:45:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-02 23:59:58 +0000"
     },
     "done": true
   },
@@ -7419,6 +7551,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/chipped/mason_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-02 23:59:58 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_gold_ingot": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/gold]": "2025-09-02 22:35:26 +0000"
@@ -7446,6 +7584,12 @@
   "aether:recipes/combat/diamond_gloves": {
     "criteria": {
       "has_diamond": "2025-09-02 21:28:21 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/hopper_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-02 23:59:58 +0000"
     },
     "done": true
   },
@@ -7671,6 +7815,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-02 23:59:58 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
       "requirement": "2025-09-02 23:10:51 +0000"
@@ -7731,6 +7881,18 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-09-03 00:10:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_tier_1_from_storage_stack_upgrade_tier_2": {
+    "criteria": {
+      "has_storage_stack_upgrade": "2025-09-03 00:00:17 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_emerald_ingot": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:gems/emerald]": "2025-09-02 23:11:54 +0000"
@@ -7752,6 +7914,24 @@
   "create:recipes/building_blocks/crafting/logistics/purple_postbox": {
     "criteria": {
       "has_barrel": "2025-09-02 23:33:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_downgrade_tier_3": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-02 23:59:58 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_downgrade_tier_2": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-02 23:59:58 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_downgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-02 23:59:58 +0000"
     },
     "done": true
   },
@@ -7800,6 +7980,12 @@
   "aether:recipes/combat/iron_gloves_repairing": {
     "criteria": {
       "has_iron_gloves": "2025-09-02 22:52:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/chipped/alchemy_bench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-02 23:59:58 +0000"
     },
     "done": true
   },
@@ -7872,6 +8058,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-09-02 21:44:57 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/chipped/loom_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-02 23:59:58 +0000"
     },
     "done": true
   },
@@ -7950,6 +8142,12 @@
   "buildinggadgets2:recipes/misc/gadget_copy_paste": {
     "criteria": {
       "has_emerald": "2025-09-02 23:11:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-09-03 00:12:48 +0000"
     },
     "done": true
   },
