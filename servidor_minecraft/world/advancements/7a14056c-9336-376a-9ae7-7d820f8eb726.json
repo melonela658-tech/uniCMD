@@ -3290,6 +3290,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-09-02 19:51:03 +0000",
       "minecraft:spider": "2025-09-02 23:34:47 +0000",
+      "minecraft:creeper": "2025-09-03 04:05:57 +0000",
+      "minecraft:witch": "2025-09-03 04:07:55 +0000",
       "minecraft:stray": "2025-09-02 23:48:31 +0000",
       "minecraft:zombie": "2025-09-02 19:46:38 +0000"
     },
@@ -7068,6 +7070,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-03 04:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-03 04:01:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-09-03 03:48:02 +0000"
@@ -7083,6 +7097,12 @@
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-09-03 03:48:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-03 04:01:58 +0000"
     },
     "done": true
   },
@@ -7104,9 +7124,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-03 04:01:58 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_juice": {
     "criteria": {
       "has_melon_slice": "2025-09-03 03:48:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-03 04:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-03 04:01:58 +0000"
     },
     "done": true
   },

@@ -1127,3 +1127,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Sep2025 03:53:36.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto was doomed to fall
 [03Sep2025 03:56:21.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has completed the challenge [Centennial]
 [03Sep2025 04:00:46.930] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/11305, l='ServerLevel[world]', x=-628.35, y=68.25, z=20.16] died: Honeyed Archer suffocated in a wall
+[03Sep2025 04:05:58.189] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/17083, l='ServerLevel[world]', x=-1612.37, y=96.00, z=-506.30] died: Undead Knight suffocated in a wall
+[03Sep2025 04:06:47.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set the time to 1000]
+[03Sep2025 04:07:17.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto was killed by Witch using magic
+[03Sep2025 04:10:39.400] [Worker-Main-14/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[03Sep2025 04:10:39.400] [Worker-Main-14/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[03Sep2025 04:10:39.400] [Worker-Main-14/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
