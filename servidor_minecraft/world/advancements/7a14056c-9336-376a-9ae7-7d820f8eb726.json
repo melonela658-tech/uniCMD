@@ -3104,7 +3104,10 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-09-03 04:23:22 +0000",
+      "floodplain": "2025-09-03 04:33:26 +0000",
       "highland": "2025-09-03 00:11:49 +0000",
+      "old_growth_woodland": "2025-09-03 04:22:55 +0000",
       "maple_woods": "2025-09-02 19:42:07 +0000",
       "field": "2025-09-02 21:25:31 +0000",
       "overgrown_greens": "2025-09-02 21:41:15 +0000",
@@ -3112,6 +3115,7 @@
       "forested_field": "2025-09-03 00:54:08 +0000",
       "redwood_forest": "2025-09-02 22:58:39 +0000",
       "seasonal_forest": "2025-09-03 00:58:50 +0000",
+      "rocky_rainforest": "2025-09-03 04:33:47 +0000",
       "fir_clearing": "2025-09-03 00:29:10 +0000",
       "pumpkin_patch": "2025-09-02 20:38:41 +0000",
       "grassland": "2025-09-03 00:10:44 +0000",
@@ -5417,6 +5421,7 @@
       "biomeswevegone:zelkova_forest": "2025-09-02 23:23:35 +0000",
       "biomeswevegone:coconino_meadow": "2025-09-03 00:06:30 +0000",
       "biomeswevegone:maple_taiga": "2025-09-03 00:07:07 +0000",
+      "biomeswevegone:amaranth_grassland": "2025-09-03 04:24:01 +0000",
       "biomeswevegone:dacite_ridges": "2025-09-02 23:22:32 +0000",
       "biomeswevegone:dacite_shore": "2025-09-02 20:46:55 +0000",
       "biomeswevegone:skyrise_vale": "2025-09-02 20:49:20 +0000",
@@ -5644,7 +5649,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_zombie_dungeon": "2025-09-02 21:35:55 +0000"
+      "in_better_zombie_dungeon": "2025-09-02 21:35:55 +0000",
+      "in_better_spider_dungeon": "2025-09-03 04:32:20 +0000"
     },
     "done": false
   },
@@ -7094,9 +7100,21 @@
     },
     "done": true
   },
+  "aether:recipes/combat/chainmail_boots_repairing": {
+    "criteria": {
+      "has_chainmail_boots": "2025-09-03 04:41:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-09-03 03:48:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-09-03 04:28:15 +0000"
     },
     "done": true
   },
@@ -7157,6 +7175,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-09-03 03:56:29 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-09-03 04:32:20 +0000"
     },
     "done": true
   },

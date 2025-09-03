@@ -9049,6 +9049,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/block_cutter/stairs/smooth_sky_stone_stairs": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-09-03 04:23:04 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/misc/fluixpearl": {
     "criteria": {
       "has_crystals/fluix": "2025-09-03 03:46:20 +0000"
@@ -9058,6 +9064,12 @@
   "ae2:recipes/misc/tools/fluix_upgrade_smithing_template": {
     "criteria": {
       "has_fluix_crystal": "2025-09-03 03:46:20 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/quartz_fiber_part": {
+    "criteria": {
+      "has_dusts/quartz": "2025-09-03 04:49:24 +0000"
     },
     "done": true
   },
@@ -9073,9 +9085,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/shaped/walls/smooth_sky_stone_block": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-09-03 04:23:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-09-03 03:51:28 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/sky_stone_brick_from_stonecutting": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-09-03 04:23:04 +0000"
     },
     "done": true
   },
@@ -9100,6 +9124,12 @@
   "ae2:recipes/misc/tools/misctools_charged_staff": {
     "criteria": {
       "has_charged_certus_quartz_crystal": "2025-09-03 03:41:55 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/sky_stone_brick": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-09-03 04:23:04 +0000"
     },
     "done": true
   },
@@ -9145,6 +9175,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/decorative/quartz_glass": {
+    "criteria": {
+      "has_quartz_dust": "2025-09-03 04:49:24 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/blocks/controller": {
     "criteria": {
       "has_purified_fluix_crystal": "2025-09-03 03:46:20 +0000"
@@ -9163,9 +9199,27 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/misc/chests_smooth_sky_stone": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-09-03 04:23:04 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/stairs/smooth_sky_stone_block": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-09-03 04:23:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2025-09-03 03:51:28 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/blasting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2025-09-03 04:49:24 +0000"
     },
     "done": true
   },
@@ -9193,9 +9247,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/shaped/slabs/smooth_sky_stone_block": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-09-03 04:23:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-09-03 03:45:49 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/sky_stone_small_brick_from_stonecutting": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-09-03 04:23:04 +0000"
     },
     "done": true
   },
@@ -9208,6 +9274,12 @@
   "ae2:recipes/misc/tools/fluix_shovel": {
     "criteria": {
       "has_crystals/fluix": "2025-09-03 03:46:20 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/slabs/smooth_sky_stone_slab": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-09-03 04:23:04 +0000"
     },
     "done": true
   },
@@ -9247,6 +9319,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/block_cutter/walls/smooth_sky_stone_wall": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-09-03 04:23:04 +0000"
+    },
+    "done": true
+  },
   "ae2:main/fluix": {
     "criteria": {
       "certus": "2025-09-03 03:46:20 +0000"
@@ -9274,6 +9352,12 @@
   "tconstruct:recipes/redstone/common/glass/vanilla/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-09-03 03:45:49 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/smelting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2025-09-03 04:49:24 +0000"
     },
     "done": true
   },
