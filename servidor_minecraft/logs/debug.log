@@ -19880,3 +19880,79 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Sep2025 05:55:46.157] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Sep2025 06:00:46.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Sep2025 06:00:46.112] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Sep2025 06:04:40.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Principyto> r
+[03Sep2025 06:05:46.081] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Sep2025 06:05:46.103] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Sep2025 06:05:55.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Principyto> t
+[03Sep2025 06:07:00.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [Sneak 100]
+[03Sep2025 06:09:36.819] [Worker-Main-33/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[03Sep2025 06:09:36.820] [Worker-Main-33/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[03Sep2025 06:09:36.820] [Worker-Main-33/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[03Sep2025 06:10:30.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to -77.500000, 41.500000, 8.500000]
+[03Sep2025 06:10:46.102] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Sep2025 06:10:46.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Sep2025 06:13:32.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Moving Day!]
+[03Sep2025 06:15:46.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Sep2025 06:15:46.144] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Sep2025 06:16:33.018] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[03Sep2025 06:16:36.550] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[03Sep2025 06:16:42.109] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[03Sep2025 06:17:04.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto was doomed to fall
+[03Sep2025 06:17:06.848] [Server thread/DEBUG] [twilightforest/]: Player Principyto (7a14056c-9336-376a-9ae7-7d820f8eb726) respawned and received items held in storage
+[03Sep2025 06:17:18.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Melosito_Neo) moved too quickly! 6.890809153505188,-0.21092390931153204,8.418064242415312
+[03Sep2025 06:17:18.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Melosito_Neo) moved too quickly! 6.857780736384484,-0.21361303841131019,8.377715195019874
+[03Sep2025 06:18:51.922] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[03Sep2025 06:18:51.923] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[03Sep2025 06:20:46.086] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Sep2025 06:20:46.111] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Sep2025 06:21:11.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto suffocated in a wall
+[03Sep2025 06:21:12.961] [Server thread/DEBUG] [twilightforest/]: Player Principyto (7a14056c-9336-376a-9ae7-7d820f8eb726) respawned and received items held in storage
+[03Sep2025 06:23:36.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Melosito_Neo) moved too quickly! -16.160553106258305,-0.7591474131213971,-14.997505898701007
+[03Sep2025 06:23:36.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Melosito_Neo) moved too quickly! -16.038934387547783,-0.7542765962219136,-14.88782775214895
+[03Sep2025 06:23:36.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Melosito_Neo) moved too quickly! -15.46468279747262,-0.7234896866107476,-14.351929152217622
+[03Sep2025 06:23:36.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Melosito_Neo) moved too quickly! -14.890142063285566,-0.6891355225595817,-13.815369884286923
+[03Sep2025 06:23:36.066] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Melosito_Neo) moved too quickly! -14.315412906019674,-0.65091884459207,-13.278591317781206
+[03Sep2025 06:23:36.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Melosito_Neo) moved too quickly! -14.196960445682748,-0.6306302196909144,-13.167954219636158
+[03Sep2025 06:23:36.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Melosito_Neo) moved too quickly! -13.621895184552045,-0.5864449844389981,-12.630849033098201
+[03Sep2025 06:23:36.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Melosito_Neo) moved too quickly! -13.046672443059606,-0.5401763088191416,-12.0935929615286
+[03Sep2025 06:23:36.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Melosito_Neo) moved too quickly! -12.471298554773739,-0.493066401700446,-11.556192240730326
+[03Sep2025 06:23:36.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Melosito_Neo) moved too quickly! -12.35716738028708,-0.46631448575470813,-11.44961560861799
+[03Sep2025 06:23:36.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Melosito_Neo) moved wrongly! 0.30249990600708543
+[03Sep2025 06:23:38.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Melosito_Neo) moved too quickly! -12.081761331368057,-0.5528528311255627,-11.28528997888003
+[03Sep2025 06:23:38.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Melosito_Neo) moved too quickly! -11.975812398615574,-0.5526066995679884,-11.186334180601392
+[03Sep2025 06:23:39.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Melosito_Neo) moved too quickly! -8.724342870209682,-0.39741606881632663,-8.149202326075056
+[03Sep2025 06:23:39.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Melosito_Neo) moved too quickly! -8.252963850540368,-0.3759435179945143,-7.708898332903402
+[03Sep2025 06:23:39.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Melosito_Neo) moved too quickly! -7.639549109866266,-0.3431983735130757,-7.227871269738955
+[03Sep2025 06:23:39.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Melosito_Neo) moved too quickly! -7.495539590232113,-0.3324985749520408,-7.202544248338199
+[03Sep2025 06:24:03.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to -699.500000, 55.500000, 113.500000]
+[03Sep2025 06:24:04.622] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[03Sep2025 06:24:04.622] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[03Sep2025 06:25:46.075] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Sep2025 06:25:46.096] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Sep2025 06:27:10.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has completed the challenge [It's Purple!]
+[03Sep2025 06:27:45.733] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/87823, l='ServerLevel[world]', x=-631.50, y=66.41, z=253.30] died: Undead Knight suffocated in a wall
+[03Sep2025 06:29:14.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Fluix Energy Connection]
+[03Sep2025 06:30:46.085] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Sep2025 06:30:46.108] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Sep2025 06:35:46.083] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Sep2025 06:35:46.105] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Sep2025 06:39:04.902] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3585, y=-43, z=-920} BlockPos{x=-3585, y=-43, z=-921}
+[03Sep2025 06:39:05.103] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3582, y=-44, z=-920} BlockPos{x=-3584, y=-44, z=-920}
+[03Sep2025 06:39:05.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3581, y=-45, z=-922} BlockPos{x=-3582, y=-45, z=-921}
+[03Sep2025 06:39:05.648] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3580, y=-45, z=-923} BlockPos{x=-3581, y=-46, z=-922}
+[03Sep2025 06:39:13.204] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3577, y=-45, z=-920} BlockPos{x=-3577, y=-46, z=-920}
+[03Sep2025 06:39:13.401] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3575, y=-44, z=-921} BlockPos{x=-3576, y=-45, z=-920}
+[03Sep2025 06:39:24.055] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3577, y=-41, z=-921} BlockPos{x=-3577, y=-41, z=-920}
+[03Sep2025 06:39:58.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3595, y=-45, z=-914} BlockPos{x=-3596, y=-46, z=-915}
+[03Sep2025 06:39:58.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3595, y=-43, z=-914} BlockPos{x=-3595, y=-44, z=-913}
+[03Sep2025 06:39:58.650] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3594, y=-44, z=-914} BlockPos{x=-3595, y=-44, z=-913}
+[03Sep2025 06:40:46.078] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Sep2025 06:40:46.100] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Sep2025 06:41:01.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Accelerator is an understatement]
+[03Sep2025 06:41:03.144] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3602, y=-37, z=-908} BlockPos{x=-3603, y=-38, z=-908}
+[03Sep2025 06:41:03.201] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3602, y=-37, z=-907} BlockPos{x=-3603, y=-38, z=-908}
+[03Sep2025 06:41:04.096] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3601, y=-38, z=-911} BlockPos{x=-3601, y=-38, z=-910}
+[03Sep2025 06:41:04.241] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3601, y=-38, z=-911} BlockPos{x=-3601, y=-38, z=-910}
+[03Sep2025 06:41:48.545] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3647, y=-33, z=-878} BlockPos{x=-3647, y=-34, z=-877}
+[03Sep2025 06:41:48.687] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3647, y=-32, z=-878} BlockPos{x=-3648, y=-33, z=-878}
+[03Sep2025 06:41:48.890] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3648, y=-30, z=-877} BlockPos{x=-3648, y=-32, z=-878}
