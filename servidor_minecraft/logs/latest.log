@@ -1139,3 +1139,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Sep2025 04:23:57.456] [Worker-Main-35/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
 [03Sep2025 04:32:20.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [Cobweb Entanglement]
 [03Sep2025 04:36:19.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto was shot by Skeleton
+[03Sep2025 04:55:40.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto was kicked for floating a vehicle too long!
+[03Sep2025 04:55:40.735] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto lost connection: Flying is not enabled on this server
+[03Sep2025 04:55:40.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto left the game
+[03Sep2025 04:55:40.785] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Sep2025 04:55:58.958] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Principyto[/127.42.131.13:47923] logged in with entity id 40397 at (-2832.121246648928, 92.79252550642667, -523.5531644606214)
+[03Sep2025 04:55:59.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto joined the game
+[03Sep2025 04:55:59.747] [Server thread/INFO] [Jade/]: Syncing config to Principyto (7a14056c-9336-376a-9ae7-7d820f8eb726)
+[03Sep2025 05:00:32.724] [Worker-Main-14/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[03Sep2025 05:00:32.724] [Worker-Main-14/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[03Sep2025 05:06:42.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved wrongly! 0.5
+[03Sep2025 05:06:42.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved wrongly! 0.5
+[03Sep2025 05:06:42.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved wrongly! 0.393246215536351
