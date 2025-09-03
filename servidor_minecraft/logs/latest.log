@@ -1202,3 +1202,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Sep2025 22:28:30.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto was slain by Bison
 [03Sep2025 22:30:02.078] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/60081, l='ServerLevel[world]', x=-652.35, y=67.25, z=-12.41] died: Honeyed Archer suffocated in a wall
 [03Sep2025 22:30:20.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Bunfy_edd to Melosito_Neo]
+[03Sep2025 22:31:39.708] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[03Sep2025 22:32:08.653] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bunfy_edd lost connection: Timed out
+[03Sep2025 22:32:08.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd left the game
+[03Sep2025 22:32:08.725] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Sep2025 22:32:54.519] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bunfy_edd[/127.108.94.114:52417] logged in with entity id 70704 at (-711.6160364612757, 67.0, 103.99620454189406)
+[03Sep2025 22:32:54.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd joined the game
+[03Sep2025 22:32:54.667] [Server thread/INFO] [Jade/]: Syncing config to Bunfy_edd (90e9e226-3313-35a6-9e6c-a232bbfd4e03)
+[03Sep2025 22:36:18.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [Warped]
+[03Sep2025 22:38:27.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Principyto> potooooooooooooooooooooooo
+[03Sep2025 22:41:02.108] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[03Sep2025 22:41:02.108] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
