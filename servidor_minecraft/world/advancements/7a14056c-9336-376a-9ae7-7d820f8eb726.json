@@ -1945,6 +1945,8 @@
       "minecraft:dark_forest": "2025-09-03 00:12:21 +0000",
       "minecraft:river": "2025-09-02 21:35:00 +0000",
       "minecraft:stony_shore": "2025-09-03 00:24:52 +0000",
+      "minecraft:snowy_plains": "2025-09-03 01:02:00 +0000",
+      "minecraft:snowy_taiga": "2025-09-03 01:05:52 +0000",
       "minecraft:swamp": "2025-09-02 19:33:07 +0000",
       "minecraft:grove": "2025-09-02 23:32:16 +0000",
       "minecraft:cold_ocean": "2025-09-02 20:50:42 +0000",
@@ -3106,11 +3108,14 @@
       "field": "2025-09-02 21:25:31 +0000",
       "overgrown_greens": "2025-09-02 21:41:15 +0000",
       "coniferous_forest": "2025-09-03 00:28:50 +0000",
+      "forested_field": "2025-09-03 00:54:08 +0000",
       "redwood_forest": "2025-09-02 22:58:39 +0000",
+      "seasonal_forest": "2025-09-03 00:58:50 +0000",
       "fir_clearing": "2025-09-03 00:29:10 +0000",
       "pumpkin_patch": "2025-09-02 20:38:41 +0000",
       "grassland": "2025-09-03 00:10:44 +0000",
       "prairie": "2025-09-02 22:53:56 +0000",
+      "tundra": "2025-09-03 01:00:54 +0000",
       "glowing_grotto": "2025-09-02 19:58:07 +0000",
       "gravel_beach": "2025-09-02 19:40:54 +0000",
       "crag": "2025-09-03 00:12:28 +0000"
@@ -7008,6 +7013,18 @@
   "buildinggadgets2:recipes/misc/gadget_copy_paste": {
     "criteria": {
       "has_emerald": "2025-09-03 00:11:33 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-09-03 00:51:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-09-03 01:04:04 +0000"
     },
     "done": true
   },

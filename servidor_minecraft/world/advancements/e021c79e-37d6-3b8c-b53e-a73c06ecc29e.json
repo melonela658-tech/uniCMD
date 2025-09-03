@@ -6386,6 +6386,12 @@
     },
     "done": true
   },
+  "mekanism:moving_blocks": {
+    "criteria": {
+      "cardboard_box": "2025-09-03 00:56:47 +0000"
+    },
+    "done": false
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-09-02 23:19:06 +0000"
@@ -6634,6 +6640,7 @@
   },
   "tconstruct:world/slime_collector": {
     "criteria": {
+      "sky": "2025-09-03 01:03:39 +0000",
       "magma_cream": "2025-09-03 00:34:52 +0000",
       "earth": "2025-09-02 23:11:54 +0000"
     },
@@ -7065,6 +7072,12 @@
     },
     "done": true
   },
+  "tconstruct:world/sky_island": {
+    "criteria": {
+      "found_island": "2025-09-03 01:03:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/filter": {
     "criteria": {
       "has_item": "2025-09-03 00:26:16 +0000"
@@ -7218,6 +7231,12 @@
   "tconstruct:recipes/decorations/common/gold_bars": {
     "criteria": {
       "has_ingot": "2025-09-02 22:35:26 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/common/slime/sky/congealed": {
+    "criteria": {
+      "has_item": "2025-09-03 01:03:39 +0000"
     },
     "done": true
   },
@@ -7605,6 +7624,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-09-03 00:49:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
     "criteria": {
       "has_item": "2025-09-03 00:24:41 +0000"
@@ -7650,6 +7675,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-09-02 23:51:09 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/tinkers_gadgetry": {
+    "criteria": {
+      "has_item": "2025-09-03 01:03:39 +0000"
     },
     "done": true
   },
@@ -8316,6 +8347,12 @@
     },
     "done": true
   },
+  "mekanism:sawmill": {
+    "criteria": {
+      "precision_sawmill": "2025-09-03 00:54:09 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/brewing/common/slime/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-09-02 23:19:14 +0000"
@@ -8676,6 +8713,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/redstone/common/slime/sky/slimeblock": {
+    "criteria": {
+      "has_item": "2025-09-03 01:03:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/transmitter": {
     "criteria": {
       "has_item": "2025-09-02 21:21:00 +0000"
@@ -8901,6 +8944,12 @@
   "create:recipes/misc/crafting/kinetics/metal_bracket": {
     "criteria": {
       "has_item": "2025-09-03 00:26:16 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/inscribers": {
+    "criteria": {
+      "has_the_recipe": "2025-09-03 01:00:05 +0000"
     },
     "done": true
   },

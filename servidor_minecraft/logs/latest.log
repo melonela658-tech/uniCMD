@@ -49,3 +49,23 @@
 [03Sep2025 00:49:50.597] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [03Sep2025 00:49:50.597] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
 [03Sep2025 00:51:28.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [Amateur Archaeologist]
+[03Sep2025 00:55:56.270] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto was kicked for floating too long!
+[03Sep2025 00:55:56.320] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto lost connection: Flying is not enabled on this server
+[03Sep2025 00:55:56.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto left the game
+[03Sep2025 00:56:11.876] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Principyto[/127.42.131.13:47059] logged in with entity id 197795 at (-1833.2053880004082, 84.99063547482689, 1852.396165436335)
+[03Sep2025 00:56:11.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto joined the game
+[03Sep2025 00:56:11.954] [Server thread/INFO] [Jade/]: Syncing config to Principyto (7a14056c-9336-376a-9ae7-7d820f8eb726)
+[03Sep2025 00:56:28.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto fell from a high place
+[03Sep2025 00:56:57.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to -1776.500000, 56.500000, 1878.500000]
+[03Sep2025 00:57:18.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to -1176.500000, 82.500000, 766.500000]
+[03Sep2025 00:57:24.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to -1172.500000, 89.500000, 694.500000]
+[03Sep2025 00:57:34.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to -623.500000, 9.500000, 176.500000]
+[03Sep2025 00:58:51.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to -699.500000, 55.500000, 113.500000]
+[03Sep2025 01:00:21.378] [Server thread/INFO] [AE2:S/]: Assigning ME player id 0 to Minecraft profile e021c79e-37d6-3b8c-b53e-a73c06ecc29e (Melosito_Neo)
+[03Sep2025 01:01:11.131] [Worker-Main-301/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1998, y=-19, z=2523}
+[03Sep2025 01:02:06.386] [Worker-Main-16/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2085, y=16, z=2505}
+[03Sep2025 01:03:33.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has reached the goal [Skyslime Island]
+[03Sep2025 01:11:20.446] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[03Sep2025 01:11:20.446] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[03Sep2025 01:12:00.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [How'd You Get This?]
+[03Sep2025 01:12:36.462] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/208597, l='ServerLevel[world]', x=-1277.72, y=86.17, z=19.63] died, message: 'Unemployed was slain by Zombie'
