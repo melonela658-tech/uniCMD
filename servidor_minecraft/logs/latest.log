@@ -1215,3 +1215,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Sep2025 22:41:02.108] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
 [03Sep2025 22:46:26.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd was slain by Zombie
 [03Sep2025 22:48:16.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to -699.500000, 55.500000, 113.500000]
+[03Sep2025 22:56:47.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to -699.500000, 55.500000, 113.500000]
+[03Sep2025 22:57:30.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bunfy_edd moved wrongly!
+[03Sep2025 22:58:38.989] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3698, y=64, z=553} BlockPos{x=-3698, y=62, z=553}
+[03Sep2025 23:01:00.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [Chompy]
+[03Sep2025 23:01:04.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto was slain by Crocodile
