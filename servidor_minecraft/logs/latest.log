@@ -1115,3 +1115,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Sep2025 03:35:22.818] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.TamableAnimal from interface com.hollingsworth.arsnouveau.common.entity.IFollowingSummon
 [03Sep2025 03:35:22.951] [Server thread/INFO] [Jade/]: Syncing config to Melosito_Neo (e021c79e-37d6-3b8c-b53e-a73c06ecc29e)
 [03Sep2025 03:35:26.210] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4541ms or 90 ticks behind
+[03Sep2025 03:39:49.483] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Principyto[/127.42.131.13:33331] logged in with entity id 1508 at (-878.3204294020147, 64.0, -415.1526785210556)
+[03Sep2025 03:39:49.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto joined the game
+[03Sep2025 03:39:49.747] [Server thread/INFO] [Jade/]: Syncing config to Principyto (7a14056c-9336-376a-9ae7-7d820f8eb726)
+[03Sep2025 03:39:52.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2689ms or 53 ticks behind
+[03Sep2025 03:41:29.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [It's Chargin' Time !]
+[03Sep2025 03:41:55.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Shocking]
+[03Sep2025 03:46:20.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Unnatural]
+[03Sep2025 03:50:09.157] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2033, y=22, z=-528} but found not block entity block Block{minecraft:air} at location
+[03Sep2025 03:50:09.157] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-2033, y=22, z=-528}
+[03Sep2025 03:53:36.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto was doomed to fall
+[03Sep2025 03:56:21.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has completed the challenge [Centennial]
+[03Sep2025 04:00:46.930] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/11305, l='ServerLevel[world]', x=-628.35, y=68.25, z=20.16] died: Honeyed Archer suffocated in a wall

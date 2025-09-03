@@ -1943,6 +1943,7 @@
       "minecraft:birch_forest": "2025-09-02 23:05:53 +0000",
       "minecraft:beach": "2025-09-02 20:51:04 +0000",
       "minecraft:dark_forest": "2025-09-03 00:12:21 +0000",
+      "minecraft:sparse_jungle": "2025-09-03 03:47:03 +0000",
       "minecraft:river": "2025-09-02 21:35:00 +0000",
       "minecraft:stony_shore": "2025-09-03 00:24:52 +0000",
       "minecraft:snowy_plains": "2025-09-03 01:02:00 +0000",
@@ -3118,6 +3119,7 @@
       "tundra": "2025-09-03 01:00:54 +0000",
       "glowing_grotto": "2025-09-02 19:58:07 +0000",
       "gravel_beach": "2025-09-02 19:40:54 +0000",
+      "rainforest": "2025-09-03 03:47:41 +0000",
       "crag": "2025-09-03 00:12:28 +0000"
     },
     "done": false
@@ -3267,6 +3269,7 @@
       "cooked_beef": "2025-09-02 20:59:15 +0000",
       "bread": "2025-09-02 20:21:13 +0000",
       "golden_apple": "2025-09-02 23:48:05 +0000",
+      "melon_slice": "2025-09-03 03:48:16 +0000",
       "cooked_chicken": "2025-09-02 19:53:53 +0000"
     },
     "done": false
@@ -5408,6 +5411,7 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:enchanted_tangle": "2025-09-03 03:47:33 +0000",
       "biomeswevegone:zelkova_forest": "2025-09-02 23:23:35 +0000",
       "biomeswevegone:coconino_meadow": "2025-09-03 00:06:30 +0000",
       "biomeswevegone:maple_taiga": "2025-09-03 00:07:07 +0000",
@@ -7022,6 +7026,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-09-03 01:04:04 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/misc/red_dye_from_bwg_tag": {
     "criteria": {
       "TagKey[minecraft:item / biomeswevegone:dye/makes_red_dye]": "2025-09-03 01:11:24 +0000"
@@ -7040,15 +7050,75 @@
     },
     "done": true
   },
-  "twilightforest:recipes/decorations/iron_ladder": {
-    "criteria": {
-      "has_iron_bars": "2025-09-03 01:04:04 +0000"
-    },
-    "done": true
-  },
   "apotheosis:affix/random": {
     "criteria": {
       "sword": "2025-09-03 01:12:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-09-03 03:48:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-09-03 03:57:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-09-03 03:48:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-09-03 03:56:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-09-03 03:48:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-09-03 03:56:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-09-03 03:57:47 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-09-03 03:56:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-09-03 03:48:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-09-03 03:48:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-09-03 03:56:29 +0000"
     },
     "done": true
   },
