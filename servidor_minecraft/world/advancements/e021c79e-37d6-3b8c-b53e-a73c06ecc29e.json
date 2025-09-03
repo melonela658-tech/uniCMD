@@ -7827,7 +7827,8 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
-      "biomeswevegone:zelkova_forest": "2025-09-02 23:38:45 +0000"
+      "biomeswevegone:zelkova_forest": "2025-09-02 23:38:45 +0000",
+      "biomeswevegone:weeping_witch_forest": "2025-09-03 06:54:58 +0000"
     },
     "done": false
   },
@@ -9047,6 +9048,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/package_filter": {
+    "criteria": {
+      "has_item": "2025-09-03 06:44:55 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/fluix_sword": {
     "criteria": {
       "has_crystals/fluix": "2025-09-03 03:46:20 +0000"
@@ -9068,6 +9075,18 @@
   "ae2:recipes/misc/misc/fluixpearl": {
     "criteria": {
       "has_crystals/fluix": "2025-09-03 03:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-09-03 06:44:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/gold_shulker_from_gold_chest": {
+    "criteria": {
+      "has_gold_chest": "2025-09-03 06:44:41 +0000"
     },
     "done": true
   },
@@ -9104,6 +9123,24 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-09-03 06:23:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-09-03 06:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-09-03 06:44:54 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_vibrant_glass": {
+    "criteria": {
+      "has_quartz_glass": "2025-09-03 06:40:53 +0000"
     },
     "done": true
   },
@@ -9155,6 +9192,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/diamond_chest": {
+    "criteria": {
+      "has_gold_chest": "2025-09-03 06:44:41 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/covered_yellow": {
     "criteria": {
       "has_fluix_covered_cable": "2025-09-03 06:30:18 +0000"
@@ -9164,6 +9207,12 @@
   "ae2:recipes/misc/network/cables/glass_yellow": {
     "criteria": {
       "has_fluix_glass_cable": "2025-09-03 06:29:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-09-03 06:44:55 +0000"
     },
     "done": true
   },
@@ -9209,6 +9258,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/shaped/stairs/fluix_block": {
+    "criteria": {
+      "has_fluix_block": "2025-09-03 06:40:57 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/glass_cyan": {
     "criteria": {
       "has_fluix_glass_cable": "2025-09-03 06:29:14 +0000"
@@ -9218,6 +9273,12 @@
   "minecraft:husbandry/axolotl_in_a_bucket": {
     "criteria": {
       "axolotl_bucket": "2025-09-03 05:42:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-09-03 06:44:55 +0000"
     },
     "done": true
   },
@@ -9269,6 +9330,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-09-03 06:44:54 +0000"
+    },
+    "done": true
+  },
   "create:water_wheel": {
     "criteria": {
       "0": "2025-09-03 05:56:31 +0000"
@@ -9287,6 +9354,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/block_cutter/stairs/fluix_stairs": {
+    "criteria": {
+      "has_fluix_block": "2025-09-03 06:40:57 +0000"
+    },
+    "done": true
+  },
   "expatternprovider:recipes/misc/crystal_fixer": {
     "criteria": {
       "has_item": "2025-09-03 03:46:20 +0000"
@@ -9296,6 +9369,18 @@
   "ae2:recipes/misc/tools/misctools_charged_staff": {
     "criteria": {
       "has_charged_certus_quartz_crystal": "2025-09-03 03:41:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-09-03 06:44:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-09-03 06:43:18 +0000"
     },
     "done": true
   },
@@ -9323,9 +9408,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/crystal_resonance_generator": {
+    "criteria": {
+      "has_fluix_block": "2025-09-03 06:40:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-09-03 03:51:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_tomato": "2025-09-03 06:44:55 +0000"
     },
     "done": true
   },
@@ -9359,6 +9456,12 @@
     },
     "done": true
   },
+  "create:hose_pulley": {
+    "criteria": {
+      "0": "2025-09-03 06:48:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-09-03 06:18:18 +0000"
@@ -9389,6 +9492,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/misc/deconstruction_fluix_block": {
+    "criteria": {
+      "has_fluix_block": "2025-09-03 06:40:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-09-03 05:28:10 +0000"
@@ -9407,9 +9516,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2025-09-03 06:44:55 +0000"
+    },
+    "done": true
+  },
   "expatternprovider:recipes/misc/silicon_block": {
     "criteria": {
       "has_item": "2025-09-03 05:12:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-09-03 06:44:55 +0000"
     },
     "done": true
   },
@@ -9425,6 +9546,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-09-03 06:44:55 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/fluix_pickaxe": {
     "criteria": {
       "has_crystals/fluix": "2025-09-03 03:46:20 +0000"
@@ -9434,6 +9561,12 @@
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-09-03 03:51:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2025-09-03 06:44:55 +0000"
     },
     "done": true
   },
@@ -9461,6 +9594,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-09-03 06:44:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-09-03 06:18:18 +0000"
@@ -9470,6 +9609,12 @@
   "ae2:recipes/misc/network/blocks/storage_drive": {
     "criteria": {
       "has_engineering_processor": "2025-09-03 05:44:22 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/double_diamond_chest": {
+    "criteria": {
+      "has_gold_chest": "2025-09-03 06:44:41 +0000"
     },
     "done": true
   },
@@ -9485,15 +9630,45 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-09-03 06:44:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-03 06:44:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-09-03 06:18:18 +0000"
     },
     "done": true
   },
+  "ae2:recipes/misc/shaped/walls/fluix_block": {
+    "criteria": {
+      "has_fluix_block": "2025-09-03 06:40:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-09-03 06:44:55 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/shaped/stairs/smooth_sky_stone_block": {
     "criteria": {
       "has_smooth_sky_stone_block": "2025-09-03 04:23:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-09-03 06:44:54 +0000"
     },
     "done": true
   },
@@ -9524,6 +9699,12 @@
   "ae2:recipes/misc/network/cables/glass_lime": {
     "criteria": {
       "has_fluix_glass_cable": "2025-09-03 06:29:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2025-09-03 06:44:55 +0000"
     },
     "done": true
   },
@@ -9563,6 +9744,18 @@
     },
     "done": true
   },
+  "evilcraft:evil_source": {
+    "criteria": {
+      "criteria_0": "2025-09-03 06:44:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/chain_from_zinc": {
+    "criteria": {
+      "has_item": "2025-09-03 06:44:55 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_covered_fluix": {
     "criteria": {
       "has_fluix_covered_cable": "2025-09-03 06:30:18 +0000"
@@ -9599,6 +9792,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/block_cutter/walls/fluix_wall": {
+    "criteria": {
+      "has_fluix_block": "2025-09-03 06:40:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-09-03 03:45:49 +0000"
@@ -9608,6 +9807,12 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-09-03 05:28:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-03 06:44:55 +0000"
     },
     "done": true
   },
@@ -9653,6 +9858,12 @@
     },
     "done": true
   },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2025-09-03 06:48:26 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/covered_light_blue": {
     "criteria": {
       "has_fluix_covered_cable": "2025-09-03 06:30:18 +0000"
@@ -9662,6 +9873,12 @@
   "ae2:recipes/misc/block_cutter/slabs/smooth_sky_stone_slab": {
     "criteria": {
       "has_smooth_sky_stone_block": "2025-09-03 04:23:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-09-03 06:44:55 +0000"
     },
     "done": true
   },
@@ -9683,6 +9900,12 @@
     },
     "done": true
   },
+  "expatternprovider:recipes/misc/assembler_matrix_frame": {
+    "criteria": {
+      "has_item": "2025-09-03 06:40:53 +0000"
+    },
+    "done": true
+  },
   "kaleidoscope_cookery:recipes/decorations/table_oak": {
     "criteria": {
       "has_fence": "2025-09-03 05:28:10 +0000"
@@ -9701,9 +9924,21 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/decorations/foragers_table": {
+    "criteria": {
+      "has_mushrooms": "2025-09-03 06:44:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-09-03 06:18:18 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/growth_accelerator": {
+    "criteria": {
+      "certus": "2025-09-03 06:41:01 +0000"
     },
     "done": true
   },
@@ -9743,6 +9978,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-09-03 06:44:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_violet": {
+    "criteria": {
+      "has_violet": "2025-09-03 06:44:55 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/blocks/spatial_io_port": {
     "criteria": {
       "has_engineering_processor": "2025-09-03 05:44:22 +0000"
@@ -9755,6 +10002,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/block_cutter/slabs/fluix_slab": {
+    "criteria": {
+      "has_fluix_block": "2025-09-03 06:40:57 +0000"
+    },
+    "done": true
+  },
   "ae2:main/fluix": {
     "criteria": {
       "certus": "2025-09-03 03:46:20 +0000"
@@ -9764,6 +10017,12 @@
   "ae2:recipes/misc/network/cables/covered_black": {
     "criteria": {
       "has_fluix_covered_cable": "2025-09-03 06:30:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-09-03 06:44:54 +0000"
     },
     "done": true
   },
@@ -9851,6 +10110,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-09-03 06:44:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-09-03 03:45:49 +0000"
@@ -9902,6 +10167,24 @@
   "ae2:recipes/misc/network/cables/glass_red": {
     "criteria": {
       "has_fluix_glass_cable": "2025-09-03 06:29:14 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/slabs/fluix_block": {
+    "criteria": {
+      "has_fluix_block": "2025-09-03 06:40:57 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/panels_semi_dark_monitor": {
+    "criteria": {
+      "has_quartz_glass": "2025-09-03 06:40:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-09-03 06:44:55 +0000"
     },
     "done": true
   },

@@ -19956,3 +19956,58 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Sep2025 06:41:48.545] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3647, y=-33, z=-878} BlockPos{x=-3647, y=-34, z=-877}
 [03Sep2025 06:41:48.687] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3647, y=-32, z=-878} BlockPos{x=-3648, y=-33, z=-878}
 [03Sep2025 06:41:48.890] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3648, y=-30, z=-877} BlockPos{x=-3648, y=-32, z=-878}
+[03Sep2025 06:44:54.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [A True Source of Evil]
+[03Sep2025 06:45:25.329] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/92252, l='ServerLevel[world]', x=-679.87, y=62.41, z=195.21] died: Undead Knight suffocated in a wall
+[03Sep2025 06:45:46.079] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Sep2025 06:45:46.102] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Sep2025 06:49:50.589] [Thread-3/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file create-server.toml changed, sending notifies
+[03Sep2025 06:49:50.591] [Thread-3/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file create-server.toml changed, sending notifies
+[03Sep2025 06:50:30.817] [Thread-3/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file create-server.toml changed, sending notifies
+[03Sep2025 06:50:30.818] [Thread-3/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file create-server.toml changed, sending notifies
+[03Sep2025 06:50:46.085] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Sep2025 06:50:46.106] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Sep2025 06:51:44.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto was doomed to fall
+[03Sep2025 06:51:45.480] [Server thread/DEBUG] [twilightforest/]: Player Principyto (7a14056c-9336-376a-9ae7-7d820f8eb726) respawned and received items held in storage
+[03Sep2025 06:52:37.989] [Thread-3/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file create-server.toml changed, sending notifies
+[03Sep2025 06:52:37.989] [Thread-3/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file create-server.toml changed, sending notifies
+[03Sep2025 06:52:37.990] [Thread-3/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file create-server.toml changed, sending notifies
+[03Sep2025 06:52:51.603] [Thread-3/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file create-server.toml changed, sending notifies
+[03Sep2025 06:52:51.604] [Thread-3/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file create-server.toml changed, sending notifies
+[03Sep2025 06:52:51.604] [Thread-3/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file create-server.toml changed, sending notifies
+[03Sep2025 06:53:14.989] [Thread-3/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file create-server.toml changed, sending notifies
+[03Sep2025 06:54:16.789] [Thread-3/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file create-server.toml changed, sending notifies
+[03Sep2025 06:54:16.790] [Thread-3/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file create-server.toml changed, sending notifies
+[03Sep2025 06:54:16.791] [Thread-3/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file create-server.toml changed, sending notifies
+[03Sep2025 06:54:16.792] [Thread-3/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file create-server.toml changed, sending notifies
+[03Sep2025 06:54:18.594] [Thread-3/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file create-server.toml changed, sending notifies
+[03Sep2025 06:54:18.595] [Thread-3/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file create-server.toml changed, sending notifies
+[03Sep2025 06:54:46.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Principyto]
+[03Sep2025 06:55:34.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to -699.500000, 55.500000, 113.500000]
+[03Sep2025 06:55:46.124] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Sep2025 06:55:46.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Sep2025 06:56:05.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> me estoy mareando
+[03Sep2025 06:56:06.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> XDDD
+[03Sep2025 06:56:15.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Principyto> okay
+[03Sep2025 06:56:25.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Principyto> cerraras el server?
+[03Sep2025 06:56:28.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> nah
+[03Sep2025 06:56:31.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> lo dejare
+[03Sep2025 06:56:36.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> solo que se cerrara solo
+[03Sep2025 06:56:37.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> xd
+[03Sep2025 06:56:40.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Principyto> a
+[03Sep2025 06:56:40.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> como en 2 horas
+[03Sep2025 06:56:45.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Principyto> okay
+[03Sep2025 06:56:56.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> pero lo estare chencando
+[03Sep2025 06:57:10.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Principyto> okay
+[03Sep2025 07:00:46.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Sep2025 07:00:46.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Sep2025 07:01:51.957] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-3084 | 68 | -2060).
+[03Sep2025 07:01:51.957] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[03Sep2025 07:01:51.957] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 4(0) Rooms
+[03Sep2025 07:01:51.957] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[03Sep2025 07:01:51.958] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 4(0) Rooms
+[03Sep2025 07:01:51.958] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[03Sep2025 07:01:51.958] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 8(0) Nodes and 5(0) Rooms
+[03Sep2025 07:01:51.958] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[03Sep2025 07:01:51.958] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 11(0) Nodes and 5(0) Rooms
+[03Sep2025 07:01:51.958] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[03Sep2025 07:01:51.958] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 8(0) Nodes and 5(0) Rooms
