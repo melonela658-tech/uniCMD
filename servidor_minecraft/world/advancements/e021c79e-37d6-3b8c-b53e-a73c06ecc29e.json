@@ -12294,6 +12294,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/advanced_hopper_upgrade": {
+    "criteria": {
+      "has_feeding_upgrade": "2025-09-04 10:55:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/allium_petal_block": {
     "criteria": {
       "has_allium": "2025-09-04 10:01:37 +0000"
@@ -12537,6 +12543,12 @@
   "ae2:recipes/misc/network/cables/dense_covered_magenta": {
     "criteria": {
       "has_fluix_covered_dense_cable": "2025-09-04 08:38:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_copper_to_iron_tier_upgrade": "2025-09-04 10:52:56 +0000"
     },
     "done": true
   },
