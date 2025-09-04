@@ -156,3 +156,25 @@
 [04Sep2025 01:24:37.592] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Principyto[/127.16.141.48:34447] logged in with entity id 186887 at (-776.6944242595615, 86.99063547482687, 98.98628490983033)
 [04Sep2025 01:24:37.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto joined the game
 [04Sep2025 01:24:37.754] [Server thread/INFO] [Jade/]: Syncing config to Principyto (7a14056c-9336-376a-9ae7-7d820f8eb726)
+[04Sep2025 01:30:41.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Principyto to Melosito_Neo]
+[04Sep2025 01:33:23.174] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Lady Cassandra the Dirt Digger'/189568, l='ServerLevel[world]', x=-713.70, y=68.00, z=78.30] died: Lady Cassandra the Dirt Digger was slain by Melosito_Neo
+[04Sep2025 01:33:27.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Principyto to Melosito_Neo]
+[04Sep2025 01:34:01.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Principyto]
+[04Sep2025 01:34:36.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Creative Mode]
+[04Sep2025 01:34:42.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
+[04Sep2025 01:34:58.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto was kicked for floating too long!
+[04Sep2025 01:34:58.418] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto lost connection: Flying is not enabled on this server
+[04Sep2025 01:34:58.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto left the game
+[04Sep2025 01:35:15.547] [ForkJoinPool.commonPool-worker-30/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[04Sep2025 01:35:15.599] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Principyto[/127.16.141.48:48011] logged in with entity id 190187 at (-726.1084122298832, 73.16535908430706, 91.32863838012163)
+[04Sep2025 01:35:15.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto joined the game
+[04Sep2025 01:35:15.769] [Server thread/INFO] [Jade/]: Syncing config to Principyto (7a14056c-9336-376a-9ae7-7d820f8eb726)
+[04Sep2025 01:35:51.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo fell from a high place
+[04Sep2025 01:35:57.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Principyto]
+[04Sep2025 01:36:10.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Creative Mode]
+[04Sep2025 01:36:13.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Spectator Mode]
+[04Sep2025 01:36:15.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
+[04Sep2025 01:36:20.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has completed the challenge [Cannibal]
+[04Sep2025 01:36:24.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo withered away
+[04Sep2025 01:36:31.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to -724.500000, 68.000000, 89.500000]
+[04Sep2025 01:36:31.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! -635.0,-35.0,-157.0

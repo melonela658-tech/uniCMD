@@ -11166,9 +11166,27 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_button": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2025-09-04 00:37:09 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_soul_torch": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_stone_button": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
     },
     "done": true
   },
@@ -11178,9 +11196,117 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_vertical_stairs": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_iron_door": {
+    "criteria": {
+      "hasFramedDoor": "2025-09-04 01:25:50 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fence_gate": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_gate": {
+    "criteria": {
+      "hasFramedDoor": "2025-09-04 01:25:50 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_chiseled_bookshelf": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fence": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_bouncy_cube": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_thick_lattice": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_gold_pressure_plate": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_obsidian_pressure_plate": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/iron_chest": {
     "criteria": {
       "has_chest": "2025-09-04 00:46:17 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_bars": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_panel": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_stone_pressure_plate": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/misc/framed_reinforcement": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/tools/framed_hammer": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_item_frame": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/tools/framed_screwdriver": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_tube": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
     },
     "done": true
   },
@@ -11190,9 +11316,75 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_fancy_powered_rail": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_bookshelf": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_redstone_block": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/tools/powered_framing_saw": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/double_iron_chest": {
     "criteria": {
       "has_chest": "2025-09-04 00:46:17 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/tools/framed_blueprint": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_hanging_sign": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/tools/framed_wrench": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_one_way_window": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_stairs": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_lattice_block": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_secret_storage": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
     },
     "done": true
   },
@@ -11202,9 +11394,33 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_lever": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fancy_rail": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/controller": {
     "criteria": {
       "has_base_tier_wooden_storage": "2025-09-04 00:46:17 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_redstone_torch": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_door": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
     },
     "done": true
   },
@@ -11214,9 +11430,51 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_pane": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_torch": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slope": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slab": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/tools/framing_saw": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/linked_controller": {
     "criteria": {
       "has_item": "2025-09-04 01:22:23 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fancy_activator_rail": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_flower_pot": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
     },
     "done": true
   },
@@ -11226,15 +11484,93 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_collapsible_block": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_chest": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/copper_chest": {
     "criteria": {
       "has_chest": "2025-09-04 00:46:17 +0000"
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_target": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_ladder": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/storage_io": {
     "criteria": {
       "has_base_tier_wooden_storage": "2025-09-04 00:46:17 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_pressure_plate": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_collapsible_copycat_block": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_sign": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_corner_pillar": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fancy_detector_rail": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_glowing_cube": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_iron_pressure_plate": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/tools/framed_key": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_wall": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
     },
     "done": true
   },
