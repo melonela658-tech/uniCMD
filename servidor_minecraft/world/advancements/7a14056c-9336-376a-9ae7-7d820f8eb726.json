@@ -1944,6 +1944,7 @@
       "minecraft:cherry_grove": "2025-09-03 07:06:12 +0000",
       "minecraft:sunflower_plains": "2025-09-03 06:58:18 +0000",
       "minecraft:birch_forest": "2025-09-02 23:05:53 +0000",
+      "minecraft:windswept_hills": "2025-09-04 03:42:06 +0000",
       "minecraft:bamboo_jungle": "2025-09-03 21:52:28 +0000",
       "minecraft:beach": "2025-09-02 20:51:04 +0000",
       "minecraft:dark_forest": "2025-09-03 00:12:21 +0000",
@@ -1958,6 +1959,7 @@
       "minecraft:forest": "2025-09-02 21:43:52 +0000",
       "minecraft:lush_caves": "2025-09-02 23:33:23 +0000",
       "minecraft:deep_cold_ocean": "2025-09-03 23:58:15 +0000",
+      "minecraft:ice_spikes": "2025-09-04 06:03:43 +0000",
       "minecraft:frozen_ocean": "2025-09-03 23:59:38 +0000",
       "minecraft:windswept_forest": "2025-09-03 00:12:10 +0000",
       "minecraft:deep_frozen_ocean": "2025-09-03 23:59:27 +0000",
@@ -1967,6 +1969,7 @@
       "minecraft:windswept_savanna": "2025-09-02 22:22:31 +0000",
       "minecraft:old_growth_birch_forest": "2025-09-02 21:41:50 +0000",
       "minecraft:deep_dark": "2025-09-03 06:03:37 +0000",
+      "minecraft:meadow": "2025-09-04 08:15:11 +0000",
       "minecraft:savanna": "2025-09-03 21:27:23 +0000",
       "minecraft:plains": "2025-09-02 22:13:36 +0000"
     },
@@ -3122,6 +3125,7 @@
       "highland": "2025-09-03 00:11:49 +0000",
       "jacaranda_glade": "2025-09-03 05:00:06 +0000",
       "jade_cliffs": "2025-09-03 06:58:45 +0000",
+      "cold_desert": "2025-09-04 06:03:54 +0000",
       "old_growth_woodland": "2025-09-03 04:22:55 +0000",
       "maple_woods": "2025-09-02 19:42:07 +0000",
       "crystalline_chasm": "2025-09-03 23:39:50 +0000",
@@ -3134,6 +3138,7 @@
       "redwood_forest": "2025-09-02 22:58:39 +0000",
       "dune_beach": "2025-09-04 01:51:35 +0000",
       "seasonal_forest": "2025-09-03 00:58:50 +0000",
+      "volcano": "2025-09-04 03:56:02 +0000",
       "rocky_rainforest": "2025-09-03 04:33:47 +0000",
       "pasture": "2025-09-03 06:58:17 +0000",
       "volcanic_plains": "2025-09-03 04:56:57 +0000",
@@ -3142,6 +3147,8 @@
       "pumpkin_patch": "2025-09-02 20:38:41 +0000",
       "grassland": "2025-09-03 00:10:44 +0000",
       "prairie": "2025-09-02 22:53:56 +0000",
+      "snowy_coniferous_forest": "2025-09-04 06:11:35 +0000",
+      "snowy_fir_clearing": "2025-09-04 06:03:56 +0000",
       "tundra": "2025-09-03 01:00:54 +0000",
       "glowing_grotto": "2025-09-02 19:58:07 +0000",
       "gravel_beach": "2025-09-02 19:40:54 +0000",
@@ -3324,6 +3331,7 @@
       "minecraft:spider": "2025-09-02 23:34:47 +0000",
       "minecraft:creeper": "2025-09-03 04:05:57 +0000",
       "minecraft:witch": "2025-09-03 04:07:55 +0000",
+      "minecraft:husk": "2025-09-04 04:25:49 +0000",
       "minecraft:cave_spider": "2025-09-03 04:53:16 +0000",
       "minecraft:stray": "2025-09-02 23:48:31 +0000",
       "minecraft:zombie": "2025-09-02 19:46:38 +0000"
@@ -5447,16 +5455,21 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:crag_gardens": "2025-09-03 21:52:07 +0000",
+      "biomeswevegone:fragment_jungle": "2025-09-04 03:53:47 +0000",
+      "biomeswevegone:sakura_grove": "2025-09-04 08:22:44 +0000",
       "biomeswevegone:enchanted_tangle": "2025-09-03 03:47:33 +0000",
       "biomeswevegone:zelkova_forest": "2025-09-02 23:23:35 +0000",
       "biomeswevegone:temperate_grove": "2025-09-03 23:26:56 +0000",
       "biomeswevegone:forgotten_forest": "2025-09-03 22:57:46 +0000",
       "biomeswevegone:coconino_meadow": "2025-09-03 00:06:30 +0000",
+      "biomeswevegone:lush_stacks": "2025-09-04 03:52:39 +0000",
       "biomeswevegone:maple_taiga": "2025-09-03 00:07:07 +0000",
       "biomeswevegone:orchard": "2025-09-03 05:00:54 +0000",
+      "biomeswevegone:ironwood_gour": "2025-09-04 03:49:32 +0000",
       "biomeswevegone:amaranth_grassland": "2025-09-03 04:24:01 +0000",
       "biomeswevegone:weeping_witch_forest": "2025-09-03 05:09:04 +0000",
       "biomeswevegone:prairie": "2025-09-03 22:23:44 +0000",
+      "biomeswevegone:ebony_woods": "2025-09-04 03:57:51 +0000",
       "biomeswevegone:basalt_barrera": "2025-09-03 22:57:18 +0000",
       "biomeswevegone:aspen_boreal": "2025-09-03 05:05:29 +0000",
       "biomeswevegone:dacite_ridges": "2025-09-02 23:22:32 +0000",
@@ -5466,7 +5479,8 @@
       "biomeswevegone:allium_shrubland": "2025-09-03 05:04:19 +0000",
       "biomeswevegone:pumpkin_valley": "2025-09-03 00:04:20 +0000",
       "biomeswevegone:tropical_rainforest": "2025-09-03 21:54:24 +0000",
-      "biomeswevegone:baobab_savanna": "2025-09-03 21:26:05 +0000"
+      "biomeswevegone:baobab_savanna": "2025-09-03 21:26:05 +0000",
+      "biomeswevegone:overgrowth_woodlands": "2025-09-04 08:22:45 +0000"
     },
     "done": false
   },
@@ -8165,7 +8179,8 @@
   },
   "tconstruct:tools/material_master": {
     "criteria": {
-      "blazing_bone": "2025-09-03 22:35:31 +0000"
+      "blazing_bone": "2025-09-03 22:35:31 +0000",
+      "bamboo": "2025-09-04 06:20:48 +0000"
     },
     "done": false
   },
@@ -9045,27 +9060,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-09-04 02:43:32 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/tools/stone_hoe_repairing": {
     "criteria": {
       "has_stone_hoe": "2025-09-04 01:43:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-09-04 02:07:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-09-04 02:07:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-09-04 02:43:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/snow": {
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
-      "has_snowball": "2025-09-04 02:07:52 +0000"
+      "has_mossy_stone_bricks": "2025-09-04 02:43:32 +0000"
     },
     "done": true
   },
@@ -9093,9 +9114,609 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/snow_block": {
+  "aether:recipes/combat/leather_leggings_repairing": {
     "criteria": {
-      "has_snowball": "2025-09-04 02:07:52 +0000"
+      "has_leather_leggings": "2025-09-04 02:48:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-09-04 03:24:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-09-04 03:24:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-09-04 03:24:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-09-04 03:27:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-09-04 03:54:46 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/rainbow_eucalyptus_wood": {
+    "criteria": {
+      "has_log": "2025-09-04 03:59:47 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/rainbow_eucalyptus_planks": {
+    "criteria": {
+      "has_log": "2025-09-04 03:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-09-04 04:12:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-09-04 04:12:43 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_log": "2025-09-04 04:17:40 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2025-09-04 04:17:40 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/green_enchanted_planks": {
+    "criteria": {
+      "has_log": "2025-09-04 04:18:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/green_enchanted_wood": {
+    "criteria": {
+      "has_log": "2025-09-04 04:18:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/purple_wool_from_allium_petal_block": {
+    "criteria": {
+      "has_allium_petal_block": "2025-09-04 04:20:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/allium": {
+    "criteria": {
+      "has_allium_petal_block": "2025-09-04 04:20:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/jacaranda_slab": {
+    "criteria": {
+      "has_planks": "2025-09-04 04:30:42 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/jacaranda_door": {
+    "criteria": {
+      "has_planks": "2025-09-04 04:30:42 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/jacaranda_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-04 04:30:42 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/jacaranda_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-04 04:30:42 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/jacaranda_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-04 04:30:42 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/jacaranda_bookshelf": {
+    "criteria": {
+      "has_jacaranda_planks": "2025-09-04 04:30:42 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/jacaranda_crafting_table": {
+    "criteria": {
+      "has_jacaranda_planks": "2025-09-04 04:30:42 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/jacaranda_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-04 04:30:42 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/jacaranda_fence": {
+    "criteria": {
+      "has_planks": "2025-09-04 04:30:42 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/jacaranda_button": {
+    "criteria": {
+      "has_planks": "2025-09-04 04:30:42 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/jacaranda_sign": {
+    "criteria": {
+      "has_planks": "2025-09-04 04:30:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-09-04 06:12:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_barrel": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-09-04 06:12:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-04 06:12:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_2": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-09-04 06:12:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_1": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-09-04 06:12:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_4": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-09-04 06:12:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_3": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-09-04 06:12:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-09-04 06:12:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_chest": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-09-04 06:12:20 +0000"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/cook_stool_dark_oak": {
+    "criteria": {
+      "has_wood": "2025-09-04 06:12:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-04 06:12:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-09-04 06:12:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-09-04 06:12:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-04 06:12:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-04 06:12:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_storage_connector": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-09-04 06:12:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-09-04 06:12:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-09-04 06:12:20 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2025-09-04 06:14:39 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/netherite_tier": {
+    "criteria": {
+      "harvest_level": "2025-09-04 06:20:48 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_pickaxe_repairing": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-09-04 06:30:37 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2025-09-04 06:32:12 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/gadgets/frame/gold": {
+    "criteria": {
+      "has_item": "2025-09-04 07:06:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-09-04 07:06:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-09-04 07:06:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-09-04 07:08:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-04 07:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-04 07:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-04 07:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-04 07:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-04 07:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-04 07:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-04 07:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-04 07:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-04 07:20:19 +0000"
+    },
+    "done": true
+  },
+  "enchantinginfuser:recipes/decorations/enchanting_infuser": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-04 07:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-04 07:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-04 07:20:19 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-09-04 07:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-09-04 07:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-09-04 07:38:23 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-09-04 07:44:43 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/misc/purple_dye_from_bwg_tag": {
+    "criteria": {
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_purple_dye]": "2025-09-04 07:58:53 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/food/cooked_oddion_bulb_from_smelting": {
+    "criteria": {
+      "has_oddion_bulb": "2025-09-04 08:00:02 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/food/cooked_oddion_bulb_from_campfire": {
+    "criteria": {
+      "has_oddion_bulb": "2025-09-04 08:00:02 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/food/cooked_oddion_bulb_from_smoker": {
+    "criteria": {
+      "has_oddion_bulb": "2025-09-04 08:00:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-09-04 08:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-09-04 08:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-09-04 08:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-09-04 08:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-09-04 08:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper": {
+    "criteria": {
+      "has_oxidized_copper": "2025-09-04 08:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-09-04 08:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-09-04 08:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-09-04 08:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper": "2025-09-04 08:03:42 +0000"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/cook_stool_birch": {
+    "criteria": {
+      "has_wood": "2025-09-04 08:23:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-09-04 08:23:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-09-04 08:23:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-09-04 08:23:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-09-04 08:23:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_storage_connector": {
+    "criteria": {
+      "has_birch_planks": "2025-09-04 08:23:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_chest": {
+    "criteria": {
+      "has_birch_plank": "2025-09-04 08:23:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-04 08:23:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/birch_window": {
+    "criteria": {
+      "has_ingredient": "2025-09-04 08:23:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-09-04 08:23:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-04 08:23:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-04 08:23:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_limited_barrel_4": {
+    "criteria": {
+      "has_birch_plank": "2025-09-04 08:23:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_limited_barrel_3": {
+    "criteria": {
+      "has_birch_plank": "2025-09-04 08:23:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_limited_barrel_2": {
+    "criteria": {
+      "has_birch_plank": "2025-09-04 08:23:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_limited_barrel_1": {
+    "criteria": {
+      "has_birch_plank": "2025-09-04 08:23:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_barrel": {
+    "criteria": {
+      "has_birch_plank": "2025-09-04 08:23:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-04 08:23:48 +0000"
     },
     "done": true
   },

@@ -2006,6 +2006,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-09-02 20:28:05 +0000",
       "minecraft:taiga": "2025-09-02 09:50:26 +0000",
+      "minecraft:frozen_river": "2025-09-04 07:44:06 +0000",
       "minecraft:birch_forest": "2025-09-02 23:05:58 +0000",
       "minecraft:beach": "2025-09-02 19:39:56 +0000",
       "minecraft:river": "2025-09-02 23:07:02 +0000",
@@ -2020,6 +2021,7 @@
       "minecraft:ocean": "2025-09-03 05:42:33 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-09-02 19:39:19 +0000",
       "minecraft:old_growth_birch_forest": "2025-09-02 23:07:08 +0000",
+      "minecraft:meadow": "2025-09-04 08:19:22 +0000",
       "minecraft:plains": "2025-09-02 22:13:57 +0000"
     },
     "done": false
@@ -3386,6 +3388,7 @@
       "cooked_porkchop": "2025-09-02 19:46:30 +0000",
       "cooked_mutton": "2025-09-02 22:11:39 +0000",
       "cooked_beef": "2025-09-02 20:08:25 +0000",
+      "baked_potato": "2025-09-04 07:41:25 +0000",
       "apple": "2025-09-03 22:05:15 +0000",
       "rotten_flesh": "2025-09-02 21:31:32 +0000"
     },
@@ -6306,6 +6309,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "cabbage": "2025-09-02 21:19:54 +0000",
+      "sugar_cane": "2025-09-04 06:07:10 +0000",
       "carrot": "2025-09-03 21:56:39 +0000"
     },
     "done": false
@@ -7839,11 +7843,13 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:zelkova_forest": "2025-09-02 23:38:45 +0000",
+      "biomeswevegone:temperate_grove": "2025-09-04 06:23:37 +0000",
       "biomeswevegone:forgotten_forest": "2025-09-04 02:16:42 +0000",
       "biomeswevegone:orchard": "2025-09-03 22:03:38 +0000",
       "biomeswevegone:weeping_witch_forest": "2025-09-03 06:54:58 +0000",
       "biomeswevegone:prairie": "2025-09-03 22:04:17 +0000",
-      "biomeswevegone:allium_shrubland": "2025-09-03 22:05:29 +0000"
+      "biomeswevegone:allium_shrubland": "2025-09-03 22:05:29 +0000",
+      "biomeswevegone:pumpkin_valley": "2025-09-04 06:05:11 +0000"
     },
     "done": false
   },
@@ -11168,15 +11174,81 @@
     },
     "done": true
   },
-  "framedblocks:recipes/building_blocks/framed_button": {
-    "criteria": {
-      "hasFramedCube": "2025-09-04 01:25:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2025-09-04 00:37:09 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_output": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-09-04 00:46:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_chest": {
+    "criteria": {
+      "has_chest": "2025-09-04 00:46:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/double_copper_chest": {
+    "criteria": {
+      "has_chest": "2025-09-04 00:46:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/double_iron_chest": {
+    "criteria": {
+      "has_chest": "2025-09-04 00:46:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/paintbrush": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-09-04 00:46:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/controller": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-09-04 00:46:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_input": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-09-04 00:46:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/shulker_from_chest": {
+    "criteria": {
+      "has_chest": "2025-09-04 00:46:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_chest": {
+    "criteria": {
+      "has_chest": "2025-09-04 00:46:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_io": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-09-04 00:46:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/linked_controller": {
+    "criteria": {
+      "has_item": "2025-09-04 01:22:23 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_button": {
+    "criteria": {
+      "hasFramedCube": "2025-09-04 01:25:41 +0000"
     },
     "done": true
   },
@@ -11192,33 +11264,15 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/storage_output": {
-    "criteria": {
-      "has_base_tier_wooden_storage": "2025-09-04 00:46:17 +0000"
-    },
-    "done": true
-  },
   "framedblocks:recipes/building_blocks/framed_vertical_stairs": {
     "criteria": {
       "hasFramedCube": "2025-09-04 01:25:41 +0000"
     },
     "done": true
   },
-  "framedblocks:recipes/building_blocks/framed_iron_door": {
-    "criteria": {
-      "hasFramedDoor": "2025-09-04 01:25:50 +0000"
-    },
-    "done": true
-  },
   "framedblocks:recipes/building_blocks/framed_fence_gate": {
     "criteria": {
       "hasFramedCube": "2025-09-04 01:25:41 +0000"
-    },
-    "done": true
-  },
-  "framedblocks:recipes/building_blocks/framed_gate": {
-    "criteria": {
-      "hasFramedDoor": "2025-09-04 01:25:50 +0000"
     },
     "done": true
   },
@@ -11246,12 +11300,6 @@
     },
     "done": true
   },
-  "evilcraft:cannibal": {
-    "criteria": {
-      "criteria_0": "2025-09-04 01:36:20 +0000"
-    },
-    "done": true
-  },
   "framedblocks:recipes/building_blocks/framed_gold_pressure_plate": {
     "criteria": {
       "hasFramedCube": "2025-09-04 01:25:41 +0000"
@@ -11261,12 +11309,6 @@
   "framedblocks:recipes/building_blocks/framed_obsidian_pressure_plate": {
     "criteria": {
       "hasFramedCube": "2025-09-04 01:25:41 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/iron_chest": {
-    "criteria": {
-      "has_chest": "2025-09-04 00:46:17 +0000"
     },
     "done": true
   },
@@ -11285,18 +11327,6 @@
   "framedblocks:recipes/building_blocks/framed_stone_pressure_plate": {
     "criteria": {
       "hasFramedCube": "2025-09-04 01:25:41 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/stone_hoe_repairing": {
-    "criteria": {
-      "has_stone_hoe": "2025-09-04 01:44:06 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/misc/smeltery/sand_cast": {
-    "criteria": {
-      "has_casting": "2025-09-04 01:56:35 +0000"
     },
     "done": true
   },
@@ -11330,12 +11360,6 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/double_copper_chest": {
-    "criteria": {
-      "has_chest": "2025-09-04 00:46:17 +0000"
-    },
-    "done": true
-  },
   "framedblocks:recipes/building_blocks/framed_fancy_powered_rail": {
     "criteria": {
       "hasFramedCube": "2025-09-04 01:25:41 +0000"
@@ -11357,12 +11381,6 @@
   "framedblocks:recipes/tools/powered_framing_saw": {
     "criteria": {
       "hasFramedCube": "2025-09-04 01:25:41 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/double_iron_chest": {
-    "criteria": {
-      "has_chest": "2025-09-04 00:46:17 +0000"
     },
     "done": true
   },
@@ -11408,33 +11426,15 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/paintbrush": {
-    "criteria": {
-      "has_base_tier_wooden_storage": "2025-09-04 00:46:17 +0000"
-    },
-    "done": true
-  },
   "framedblocks:recipes/building_blocks/framed_lever": {
     "criteria": {
       "hasFramedCube": "2025-09-04 01:25:41 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2025-09-04 01:39:25 +0000"
-    },
-    "done": true
-  },
   "framedblocks:recipes/building_blocks/framed_fancy_rail": {
     "criteria": {
       "hasFramedCube": "2025-09-04 01:25:41 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/controller": {
-    "criteria": {
-      "has_base_tier_wooden_storage": "2025-09-04 00:46:17 +0000"
     },
     "done": true
   },
@@ -11447,12 +11447,6 @@
   "framedblocks:recipes/building_blocks/framed_door": {
     "criteria": {
       "hasFramedCube": "2025-09-04 01:25:41 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_input": {
-    "criteria": {
-      "has_base_tier_wooden_storage": "2025-09-04 00:46:17 +0000"
     },
     "done": true
   },
@@ -11474,33 +11468,15 @@
     },
     "done": true
   },
-  "apotheosis:spawner/modifier": {
-    "criteria": {
-      "modifier": "2025-09-04 02:13:52 +0000"
-    },
-    "done": true
-  },
   "framedblocks:recipes/building_blocks/framed_slab": {
     "criteria": {
       "hasFramedCube": "2025-09-04 01:25:41 +0000"
     },
     "done": true
   },
-  "apotheosis:spawner/redstone": {
-    "criteria": {
-      "modifier": "2025-09-04 02:13:52 +0000"
-    },
-    "done": true
-  },
   "framedblocks:recipes/tools/framing_saw": {
     "criteria": {
       "hasFramedCube": "2025-09-04 01:25:41 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/linked_controller": {
-    "criteria": {
-      "has_item": "2025-09-04 01:22:23 +0000"
     },
     "done": true
   },
@@ -11516,18 +11492,6 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/shulker_from_chest": {
-    "criteria": {
-      "has_chest": "2025-09-04 00:46:17 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/misc/smeltery/red_sand_cast": {
-    "criteria": {
-      "has_casting": "2025-09-04 01:56:35 +0000"
-    },
-    "done": true
-  },
   "framedblocks:recipes/building_blocks/framed_collapsible_block": {
     "criteria": {
       "hasFramedCube": "2025-09-04 01:25:41 +0000"
@@ -11537,12 +11501,6 @@
   "framedblocks:recipes/building_blocks/framed_chest": {
     "criteria": {
       "hasFramedCube": "2025-09-04 01:25:41 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/copper_chest": {
-    "criteria": {
-      "has_chest": "2025-09-04 00:46:17 +0000"
     },
     "done": true
   },
@@ -11558,21 +11516,9 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/storage_io": {
-    "criteria": {
-      "has_base_tier_wooden_storage": "2025-09-04 00:46:17 +0000"
-    },
-    "done": true
-  },
   "framedblocks:recipes/building_blocks/framed_pressure_plate": {
     "criteria": {
       "hasFramedCube": "2025-09-04 01:25:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-09-04 01:37:31 +0000"
     },
     "done": true
   },
@@ -11621,6 +11567,594 @@
   "framedblocks:recipes/building_blocks/framed_wall": {
     "criteria": {
       "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_iron_door": {
+    "criteria": {
+      "hasFramedDoor": "2025-09-04 01:25:50 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_gate": {
+    "criteria": {
+      "hasFramedDoor": "2025-09-04 01:25:50 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:cannibal": {
+    "criteria": {
+      "criteria_0": "2025-09-04 01:36:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-09-04 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-09-04 01:39:25 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_hoe_repairing": {
+    "criteria": {
+      "has_stone_hoe": "2025-09-04 01:44:06 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/smeltery/sand_cast": {
+    "criteria": {
+      "has_casting": "2025-09-04 01:56:35 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/smeltery/red_sand_cast": {
+    "criteria": {
+      "has_casting": "2025-09-04 01:56:35 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/modifier": {
+    "criteria": {
+      "modifier": "2025-09-04 02:13:52 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/redstone": {
+    "criteria": {
+      "modifier": "2025-09-04 02:13:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_ingot": {
+    "criteria": {
+      "has_item": "2025-09-04 05:34:25 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/30ench": {
+    "criteria": {
+      "enchanted_item": "2025-09-04 05:45:49 +0000"
+    },
+    "done": true
+  },
+  "mekanism:fluid_transport": {
+    "criteria": {
+      "basic_mechanical_pipe": "2025-09-04 05:49:06 +0000"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/assembler_matrix_wall": {
+    "criteria": {
+      "has_item": "2025-09-04 06:17:03 +0000"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/assembler_matrix_glass": {
+    "criteria": {
+      "has_item": "2025-09-04 06:17:03 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/materials/formationcore": {
+    "criteria": {
+      "has_logic_processor": "2025-09-04 06:17:03 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/item_storage_components_cell_1k_part": {
+    "criteria": {
+      "has_logic_processor": "2025-09-04 06:17:03 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/terminals": {
+    "criteria": {
+      "has_logic_processor": "2025-09-04 06:17:03 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/materials/annihilationcore": {
+    "criteria": {
+      "has_logic_processor": "2025-09-04 06:17:03 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/io_condenser": {
+    "criteria": {
+      "has_dusts/fluix": "2025-09-04 06:18:14 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/pattern_providers_interface": {
+    "criteria": {
+      "has_formation_core": "2025-09-04 06:18:43 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/export_bus": {
+    "criteria": {
+      "has_formation_core": "2025-09-04 06:18:43 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/matter_cannon": {
+    "criteria": {
+      "has_formation_core": "2025-09-04 06:18:43 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/formation_plane_alt": {
+    "criteria": {
+      "has_formation_core": "2025-09-04 06:18:43 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/network_color_applicator": {
+    "criteria": {
+      "has_formation_core": "2025-09-04 06:18:43 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/formation_plane": {
+    "criteria": {
+      "has_formation_core": "2025-09-04 06:18:43 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/interfaces_interface": {
+    "criteria": {
+      "has_formation_core": "2025-09-04 06:18:43 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/crafting/molecular_assembler": {
+    "criteria": {
+      "has_formation_core": "2025-09-04 06:18:43 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/import_bus": {
+    "criteria": {
+      "has_annihilation_core": "2025-09-04 06:18:48 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/annihilation_plane_alt": {
+    "criteria": {
+      "has_annihilation_core": "2025-09-04 06:18:48 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/annihilation_plane_alt2": {
+    "criteria": {
+      "has_annihilation_core": "2025-09-04 06:18:48 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/mindelay": {
+    "criteria": {
+      "modifier": "2025-09-04 06:23:12 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/storage_bus": {
+    "criteria": {
+      "has_interface": "2025-09-04 06:38:39 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/interfaces_interface_part": {
+    "criteria": {
+      "has_interface": "2025-09-04 06:38:39 +0000"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/precise_storage_bus": {
+    "criteria": {
+      "has_item": "2025-09-04 06:39:21 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/storage_bus": {
+    "criteria": {
+      "part": "2025-09-04 06:39:21 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/panels_monitor": {
+    "criteria": {
+      "has_semi_dark_monitor": "2025-09-04 06:48:58 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/monitors_storage": {
+    "criteria": {
+      "has_illuminated_panel": "2025-09-04 06:48:58 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/view_cell_storage": {
+    "criteria": {
+      "has_terminal": "2025-09-04 06:49:02 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/view_cell": {
+    "criteria": {
+      "has_terminal": "2025-09-04 06:49:02 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/wireless_terminal": {
+    "criteria": {
+      "has_terminal": "2025-09-04 06:49:02 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/terminals_crafting": {
+    "criteria": {
+      "has_terminal": "2025-09-04 06:49:02 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/cell_workbench": {
+    "criteria": {
+      "has_calculation_processor": "2025-09-04 06:49:52 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/upgrade_wireless_crafting_terminal": {
+    "criteria": {
+      "has_calculation_processor": "2025-09-04 06:49:52 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/energy_level_emitter": {
+    "criteria": {
+      "has_calculation_processor": "2025-09-04 06:49:52 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/network_memory_card": {
+    "criteria": {
+      "has_calculation_processor": "2025-09-04 06:49:52 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/level_emitter": {
+    "criteria": {
+      "has_calculation_processor": "2025-09-04 06:49:52 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/materials/advancedcard": {
+    "criteria": {
+      "has_calculation_processor": "2025-09-04 06:49:52 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/materials/basiccard": {
+    "criteria": {
+      "has_calculation_processor": "2025-09-04 06:49:52 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/crafting/cpu_crafting_unit": {
+    "criteria": {
+      "has_calculation_processor": "2025-09-04 06:49:52 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/wireless_crafting_terminal": {
+    "criteria": {
+      "has_terminal": "2025-09-04 06:50:19 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/crafting_terminal": {
+    "criteria": {
+      "certus": "2025-09-04 06:50:19 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/terminals_pattern_encoding": {
+    "criteria": {
+      "has_crafting_terminal": "2025-09-04 06:50:19 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/crafting/256k_cpu_crafting_storage": {
+    "criteria": {
+      "has_crafting_unit": "2025-09-04 06:56:55 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/crafting/16k_cpu_crafting_storage": {
+    "criteria": {
+      "has_crafting_unit": "2025-09-04 06:56:55 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/crafting/64k_cpu_crafting_storage": {
+    "criteria": {
+      "has_crafting_unit": "2025-09-04 06:56:55 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/crafting/cpu_crafting_monitor": {
+    "criteria": {
+      "has_crafting_unit": "2025-09-04 06:56:55 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/crafting/cpu_crafting_accelerator": {
+    "criteria": {
+      "has_crafting_unit": "2025-09-04 06:56:55 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/crafting/1k_cpu_crafting_storage": {
+    "criteria": {
+      "has_crafting_unit": "2025-09-04 06:56:55 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/crafting_cpu": {
+    "criteria": {
+      "cu": "2025-09-04 06:56:55 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/crafting/4k_cpu_crafting_storage": {
+    "criteria": {
+      "has_crafting_unit": "2025-09-04 06:56:55 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/fluid_storage_cell_1k_storage": {
+    "criteria": {
+      "has_cell_component_1k": "2025-09-04 06:59:27 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/item_storage_cell_1k_storage": {
+    "criteria": {
+      "has_cell_component_1k": "2025-09-04 06:59:27 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/item_storage_cell_1k": {
+    "criteria": {
+      "has_cell_component_1k": "2025-09-04 06:59:27 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/fluid_storage_cell_1k": {
+    "criteria": {
+      "has_cell_component_1k": "2025-09-04 06:59:27 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/item_storage_components_cell_4k_part": {
+    "criteria": {
+      "has_cell_component_1k": "2025-09-04 06:59:27 +0000"
+    },
+    "done": true
+  },
+  "appmek:recipes/misc/chemical_storage_cell_1k": {
+    "criteria": {
+      "has_cell_component_1k": "2025-09-04 06:59:27 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/pattern_providers_interface_part": {
+    "criteria": {
+      "has_pattern_provider": "2025-09-04 07:17:30 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/terminals_pattern_access": {
+    "criteria": {
+      "has_pattern_provider": "2025-09-04 07:17:30 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/crafting/patterns_blank": {
+    "criteria": {
+      "has_pattern_encoding_terminal": "2025-09-04 07:30:18 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/pattern_encoding_terminal": {
+    "criteria": {
+      "certus": "2025-09-04 07:30:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-09-04 07:38:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-09-04 07:38:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-09-04 07:38:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-09-04 07:38:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-09-04 07:38:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-09-04 07:38:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-09-04 07:38:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crimsite_pillar_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-09-04 07:38:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-09-04 07:38:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-09-04 07:38:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-09-04 07:38:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-09-04 07:38:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-09-04 07:38:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-09-04 07:38:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-09-04 07:38:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-09-04 07:38:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-09-04 07:38:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-09-04 07:38:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-09-04 07:38:05 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-09-04 07:44:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-09-04 07:48:36 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/materials/cardredstone": {
+    "criteria": {
+      "has_basic_card": "2025-09-04 08:03:34 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/materials/cardvoid": {
+    "criteria": {
+      "has_basic_card": "2025-09-04 08:03:34 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/materials/cardcapacity": {
+    "criteria": {
+      "has_basic_card": "2025-09-04 08:03:34 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/materials/cardcrafting": {
+    "criteria": {
+      "has_basic_card": "2025-09-04 08:03:34 +0000"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/epp_upgrade": {
+    "criteria": {
+      "has_item": "2025-09-04 08:03:45 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/network1": {
+    "criteria": {
+      "cable": "2025-09-04 08:22:39 +0000"
     },
     "done": true
   },
