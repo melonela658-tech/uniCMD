@@ -3130,6 +3130,7 @@
       "coniferous_forest": "2025-09-03 00:28:50 +0000",
       "forested_field": "2025-09-03 00:54:08 +0000",
       "redwood_forest": "2025-09-02 22:58:39 +0000",
+      "dune_beach": "2025-09-04 01:51:35 +0000",
       "seasonal_forest": "2025-09-03 00:58:50 +0000",
       "rocky_rainforest": "2025-09-03 04:33:47 +0000",
       "pasture": "2025-09-03 06:58:17 +0000",
@@ -9038,6 +9039,12 @@
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2025-09-04 01:31:03 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_hoe_repairing": {
+    "criteria": {
+      "has_stone_hoe": "2025-09-04 01:43:55 +0000"
     },
     "done": true
   },

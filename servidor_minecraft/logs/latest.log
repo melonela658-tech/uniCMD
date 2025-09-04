@@ -178,3 +178,28 @@
 [04Sep2025 01:36:24.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo withered away
 [04Sep2025 01:36:31.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to -724.500000, 68.000000, 89.500000]
 [04Sep2025 01:36:31.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! -635.0,-35.0,-157.0
+[04Sep2025 01:37:31.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [What a Deal!]
+[04Sep2025 01:39:45.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Principyto to Melosito_Neo]
+[04Sep2025 01:43:29.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Principyto to Melosito_Neo]
+[04Sep2025 01:45:42.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! 9.06227452928806,-9.396281358606558,-0.873739309978987
+[04Sep2025 01:45:42.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! 9.393580777019906,-9.87220816948772,-0.897699016852016
+[04Sep2025 01:45:42.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! 9.181509141094011,-9.708636891674473,-0.8743947592037102
+[04Sep2025 01:45:42.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! 9.456323143875125,-10.135047684388411,-0.8923704327152109
+[04Sep2025 01:45:42.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! 9.178660682218833,-9.898764460257397,-0.8632201453821153
+[04Sep2025 01:45:42.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! 8.871531547128598,-9.625613226105187,-0.8316580164052993
+[04Sep2025 01:45:42.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! 9.071904124303273,-9.96634727345402,-0.8430605846010621
+[04Sep2025 01:45:42.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! 8.711558523999429,-9.620924399981703,-0.8074771541034806
+[04Sep2025 01:45:42.859] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! 8.327159426824437,-9.241189095865735,-0.770216121741214
+[04Sep2025 01:45:42.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! 8.468700660400827,-9.498943517644506,-0.777213931166898
+[04Sep2025 01:45:48.055] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! -15.449441650182507,-0.10840121362311095,4.231960581316457
+[04Sep2025 01:45:48.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! -14.14540098322641,-0.18165439540167938,3.8948941959877175
+[04Sep2025 01:45:48.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! -12.837533067106506,-0.2909753874551342,3.5590254564431234
+[04Sep2025 01:45:48.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! -11.526712429127656,-0.43496277716474196,3.22431360941971
+[04Sep2025 01:45:48.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! -10.213669260814186,-0.61078150742307,2.890813492887105
+[04Sep2025 01:45:48.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! -10.172071264219994,-0.8097375319654532,2.914318853534951
+[04Sep2025 01:48:28.651] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Mr. Perry'/198793, l='ServerLevel[world]', x=-645.69, y=-2.00, z=62.50] died: Mr. Perry was scorched to death
+[04Sep2025 01:49:13.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Principyto]
+[04Sep2025 01:50:17.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to -699.500000, 55.500000, 113.500000]
+[04Sep2025 01:54:29.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Creative Mode]
+[04Sep2025 01:56:39.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
+[04Sep2025 01:57:07.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Principyto]

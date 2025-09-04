@@ -11244,6 +11244,12 @@
     },
     "done": true
   },
+  "evilcraft:cannibal": {
+    "criteria": {
+      "criteria_0": "2025-09-04 01:36:20 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/building_blocks/framed_gold_pressure_plate": {
     "criteria": {
       "hasFramedCube": "2025-09-04 01:25:41 +0000"
@@ -11277,6 +11283,12 @@
   "framedblocks:recipes/building_blocks/framed_stone_pressure_plate": {
     "criteria": {
       "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_hoe_repairing": {
+    "criteria": {
+      "has_stone_hoe": "2025-09-04 01:44:06 +0000"
     },
     "done": true
   },
@@ -11397,6 +11409,12 @@
   "framedblocks:recipes/building_blocks/framed_lever": {
     "criteria": {
       "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-09-04 01:39:25 +0000"
     },
     "done": true
   },
@@ -11523,6 +11541,12 @@
   "framedblocks:recipes/building_blocks/framed_pressure_plate": {
     "criteria": {
       "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-09-04 01:37:31 +0000"
     },
     "done": true
   },
