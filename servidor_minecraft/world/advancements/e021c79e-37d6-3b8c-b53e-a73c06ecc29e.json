@@ -3108,7 +3108,9 @@
       "crystalline_chasm": "2025-09-02 22:30:41 +0000",
       "withered_abyss": "2025-09-04 00:08:33 +0000",
       "field": "2025-09-02 23:07:51 +0000",
+      "coniferous_forest": "2025-09-04 10:00:49 +0000",
       "redwood_forest": "2025-09-04 00:16:27 +0000",
+      "seasonal_forest": "2025-09-04 10:00:50 +0000",
       "fir_clearing": "2025-09-03 00:29:21 +0000",
       "pumpkin_patch": "2025-09-02 19:48:51 +0000",
       "grassland": "2025-09-02 22:52:45 +0000",
@@ -7845,6 +7847,7 @@
       "biomeswevegone:zelkova_forest": "2025-09-02 23:38:45 +0000",
       "biomeswevegone:temperate_grove": "2025-09-04 06:23:37 +0000",
       "biomeswevegone:forgotten_forest": "2025-09-04 02:16:42 +0000",
+      "biomeswevegone:maple_taiga": "2025-09-04 10:01:44 +0000",
       "biomeswevegone:orchard": "2025-09-03 22:03:38 +0000",
       "biomeswevegone:weeping_witch_forest": "2025-09-03 06:54:58 +0000",
       "biomeswevegone:prairie": "2025-09-03 22:04:17 +0000",
@@ -12153,6 +12156,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-09-04 10:03:25 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_smart_fluix_clean": {
     "criteria": {
       "has_smart_dense_cable": "2025-09-04 08:48:28 +0000"
@@ -12171,6 +12180,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-09-04 10:03:25 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-09-04 09:51:00 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_smart_brown": {
     "criteria": {
       "has_fluix_smart_dense_cable": "2025-09-04 08:48:28 +0000"
@@ -12180,6 +12201,12 @@
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2025-09-04 09:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2025-09-04 09:57:35 +0000"
     },
     "done": true
   },
@@ -12198,6 +12225,12 @@
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2025-09-04 09:33:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-09-04 10:03:25 +0000"
     },
     "done": true
   },
@@ -12225,6 +12258,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-09-04 10:03:25 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_covered_blue": {
     "criteria": {
       "has_fluix_covered_dense_cable": "2025-09-04 08:38:50 +0000"
@@ -12234,6 +12273,12 @@
   "ae2:recipes/misc/network/cables/dense_covered_lime": {
     "criteria": {
       "has_fluix_covered_dense_cable": "2025-09-04 08:38:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-09-04 10:01:37 +0000"
     },
     "done": true
   },
@@ -12249,6 +12294,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/allium_petal_block": {
+    "criteria": {
+      "has_allium": "2025-09-04 10:01:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-09-04 09:57:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-09-04 09:12:45 +0000"
@@ -12261,9 +12318,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-09-04 10:03:25 +0000"
+    },
+    "done": true
+  },
   "apotheosis:enchanting/quanta0": {
     "criteria": {
       "enchanted_item": "2025-09-04 09:22:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-09-04 09:57:35 +0000"
     },
     "done": true
   },
@@ -12279,6 +12348,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-09-04 09:57:35 +0000"
+    },
+    "done": true
+  },
   "mekanism:infusing_efficiency": {
     "criteria": {
       "enriched_material": "2025-09-04 09:08:14 +0000"
@@ -12288,6 +12363,12 @@
   "ae2:recipes/misc/network/cables/dense_covered_light_blue": {
     "criteria": {
       "has_fluix_covered_dense_cable": "2025-09-04 08:38:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-09-04 10:03:25 +0000"
     },
     "done": true
   },
@@ -12327,6 +12408,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-09-04 09:57:35 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_covered_yellow": {
     "criteria": {
       "has_fluix_covered_dense_cable": "2025-09-04 08:38:50 +0000"
@@ -12345,6 +12432,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-09-04 09:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-09-04 09:57:35 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_covered_gray": {
     "criteria": {
       "has_fluix_covered_dense_cable": "2025-09-04 08:38:50 +0000"
@@ -12357,6 +12456,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2025-09-04 09:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-09-04 09:57:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-09-04 09:25:05 +0000"
@@ -12366,6 +12477,12 @@
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2025-09-04 09:33:22 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_white": {
+    "criteria": {
+      "has_dyes/black": "2025-09-04 09:57:35 +0000"
     },
     "done": true
   },
@@ -12384,6 +12501,12 @@
   "ae2:recipes/misc/network/cables/dense_covered_cyan": {
     "criteria": {
       "has_fluix_covered_dense_cable": "2025-09-04 08:38:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-09-04 09:57:35 +0000"
     },
     "done": true
   },
@@ -12438,6 +12561,12 @@
   "ae2:recipes/misc/network/cables/dense_covered_fluix_clean": {
     "criteria": {
       "has_covered_dense_cable": "2025-09-04 08:38:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-09-04 09:57:35 +0000"
     },
     "done": true
   },
