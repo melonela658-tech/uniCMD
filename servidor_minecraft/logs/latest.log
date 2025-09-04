@@ -3344,3 +3344,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Sep2025 10:22:32.621] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3002ms or 60 ticks behind
 [04Sep2025 10:28:07.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Principyto to Melosito_Neo]
 [04Sep2025 10:31:11.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Principyto to Melosito_Neo]
+[04Sep2025 10:41:20.960] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/88586, l='ServerLevel[world]', x=-481.37, y=64.41, z=196.90] died: Undead Knight was slain by Melosito_Neo
+[04Sep2025 10:49:37.333] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/84982, l='ServerLevel[world]', x=-679.49, y=64.25, z=102.51] died: Honeyed Archer suffocated in a wall
