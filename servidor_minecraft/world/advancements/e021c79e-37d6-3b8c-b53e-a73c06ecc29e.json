@@ -6312,6 +6312,7 @@
     "criteria": {
       "cabbage": "2025-09-02 21:19:54 +0000",
       "sugar_cane": "2025-09-04 06:07:10 +0000",
+      "nether_wart": "2025-09-04 11:44:00 +0000",
       "carrot": "2025-09-03 21:56:39 +0000"
     },
     "done": false
@@ -12180,6 +12181,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-09-04 11:51:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-09-04 10:03:25 +0000"
@@ -12189,6 +12196,12 @@
   "twilightforest:recipes/decorations/wood/spruce_banister": {
     "criteria": {
       "has_item": "2025-09-04 09:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/uneasy_alliance": {
+    "criteria": {
+      "killed_ghast": "2025-09-04 11:37:35 +0000"
     },
     "done": true
   },
@@ -12321,6 +12334,12 @@
   "ae2:recipes/misc/network/cables/dense_smart_magenta": {
     "criteria": {
       "has_fluix_smart_dense_cable": "2025-09-04 08:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-09-04 11:51:55 +0000"
     },
     "done": true
   },
@@ -12504,9 +12523,21 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/hellshelf": {
+    "criteria": {
+      "hellshelf": "2025-09-04 11:46:45 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_smart_red": {
     "criteria": {
       "has_fluix_smart_dense_cable": "2025-09-04 08:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-09-04 11:40:25 +0000"
     },
     "done": true
   },
@@ -12525,6 +12556,12 @@
   "minecraft:recipes/decorations/white_candle": {
     "criteria": {
       "has_white_dye": "2025-09-04 09:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-09-04 11:40:25 +0000"
     },
     "done": true
   },
@@ -12603,6 +12640,12 @@
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-09-04 09:25:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2025-09-04 11:44:00 +0000"
     },
     "done": true
   },

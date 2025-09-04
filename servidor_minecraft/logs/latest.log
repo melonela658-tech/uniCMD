@@ -3355,3 +3355,37 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Sep2025 11:16:30.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has reached the goal [Tapping the Mantle]
 [04Sep2025 11:20:44.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto moved wrongly!
 [04Sep2025 11:29:59.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Principyto to Melosito_Neo]
+[04Sep2025 11:32:47.678] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto lost connection: Timed out
+[04Sep2025 11:32:47.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto left the game
+[04Sep2025 11:32:47.732] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Sep2025 11:33:18.164] [ForkJoinPool.commonPool-worker-9/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[04Sep2025 11:33:18.214] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Principyto[/127.241.221.145:60931] logged in with entity id 102833 at (-698.4205294904389, 51.0, 124.15046975626952)
+[04Sep2025 11:33:18.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto joined the game
+[04Sep2025 11:33:18.437] [Server thread/INFO] [Jade/]: Syncing config to Principyto (7a14056c-9336-376a-9ae7-7d820f8eb726)
+[04Sep2025 11:34:25.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Principyto]
+[04Sep2025 11:35:11.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Principyto to Melosito_Neo]
+[04Sep2025 11:35:25.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Principyto to Melosito_Neo]
+[04Sep2025 11:35:34.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Principyto to Melosito_Neo]
+[04Sep2025 11:37:09.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Principyto to Melosito_Neo]
+[04Sep2025 11:37:35.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has completed the challenge [Uneasy Alliance]
+[04Sep2025 11:38:54.649] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withering Archer'/105057, l='ServerLevel[world]', x=15.35, y=68.00, z=34.35] died: Withering Archer was slain by Melosito_Neo
+[04Sep2025 11:39:02.194] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2976ms or 59 ticks behind
+[04Sep2025 11:39:02.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! 0.041257158562768126,0.3125,10.234522299377602
+[04Sep2025 11:41:04.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Principyto to Melosito_Neo]
+[04Sep2025 11:41:05.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [A Terrible Fortress]
+[04Sep2025 11:42:19.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [Epic!]
+[04Sep2025 11:42:58.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [Warped]
+[04Sep2025 11:42:59.838] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withering Archer'/105869, l='ServerLevel[world]', x=76.86, y=104.00, z=-15.08] died: Withering Archer was slain by Melosito_Neo
+[04Sep2025 11:44:00.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [A Seedy Place]
+[04Sep2025 11:45:10.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Principyto to Melosito_Neo]
+[04Sep2025 11:46:45.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [The Chaos of Hell]
+[04Sep2025 11:48:39.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Principyto to Melosito_Neo]
+[04Sep2025 11:49:45.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [Begone, Flux]
+[04Sep2025 11:49:45.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [Enchanter]
+[04Sep2025 11:51:55.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Take Aim]
+[04Sep2025 11:51:55.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has completed the challenge [Return to Sender]
+[04Sep2025 11:52:38.885] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [torchmaster:main,ponder:main,buildinggadgets2:main_network_channel,mantle:network,jetboots:network,sophisticatedbackpacks:channel,corgilib:network,nitrogen_internals:main,tconstruct:network,enchantinginfuser:1,forge:tier_sorting,alexsmobs:main_channel,cosmeticarmorreworked:main,mekanism:mekanism,caelus:main,lootr:main_network_channel,sophisticatedstorage:channel,create:main,geckolib:main,moonlight:channel,aether:main,carryon:carryonpackets,mekanismgenerators:mekanismgenerators,ic_air:main,citadel:main_channel,curios:main,kaleidoscope_cookery:network,framedblocks:main,blackdogsmoddinglibrary:network,fluxnetworks:network,sophisticatedcore:channel,patchouli:main,storagedrawers:main,easyanvils:1,twilightforest:channel,waystones:network] rejected vanilla connections
+[04Sep2025 11:52:38.885] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.231.27.100:41499] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[04Sep2025 11:52:41.321] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[04Sep2025 11:52:41.321] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[04Sep2025 11:55:04.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Principyto to Melosito_Neo]
