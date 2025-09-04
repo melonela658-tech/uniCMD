@@ -3327,6 +3327,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-09-03 22:49:46 +0000",
+      "minecraft:blaze": "2025-09-04 10:29:03 +0000",
       "minecraft:skeleton": "2025-09-02 19:51:03 +0000",
       "minecraft:vindicator": "2025-09-03 22:51:04 +0000",
       "minecraft:spider": "2025-09-02 23:34:47 +0000",
@@ -9613,6 +9614,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-04 10:13:30 +0000"
+    },
+    "done": true
+  },
   "kaleidoscope_cookery:recipes/decorations/cook_stool_birch": {
     "criteria": {
       "has_wood": "2025-09-04 08:23:48 +0000"
@@ -9622,6 +9629,12 @@
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-09-04 08:23:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-09-04 10:13:21 +0000"
     },
     "done": true
   },
@@ -9667,6 +9680,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2025-09-04 10:13:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-09-04 10:13:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-09-04 10:13:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2025-09-04 09:32:54 +0000"
@@ -9685,6 +9716,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2025-09-04 10:13:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-04 08:23:48 +0000"
@@ -9694,6 +9731,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-09-04 09:27:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-09-04 10:13:30 +0000"
     },
     "done": true
   },
@@ -9730,6 +9773,12 @@
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-09-04 09:27:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-04 10:13:30 +0000"
     },
     "done": true
   },
@@ -9811,9 +9860,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-09-04 10:13:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-04 10:13:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2025-09-04 10:13:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/beehive": {
     "criteria": {
       "has_honeycomb": "2025-09-04 08:39:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-09-04 10:13:21 +0000"
     },
     "done": true
   },
