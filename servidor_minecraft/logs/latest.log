@@ -3349,3 +3349,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Sep2025 10:57:57.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Principyto> tttt
 [04Sep2025 10:58:24.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Principyto to Melosito_Neo]
 [04Sep2025 11:00:12.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [Defunct Machinery]
+[04Sep2025 11:01:06.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [The Alloy That Started it All]
+[04Sep2025 11:01:34.412] [Server thread/INFO] [AE2:S/]: Assigning ME player id 1 to Minecraft profile 7a14056c-9336-376a-9ae7-7d820f8eb726 (Principyto)
+[04Sep2025 11:03:33.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved wrongly!
