@@ -1122,3 +1122,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Sep2025 23:45:03.812] [Server thread/INFO] [Jade/]: Syncing config to Principyto (7a14056c-9336-376a-9ae7-7d820f8eb726)
 [04Sep2025 23:46:35.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto was slain by Enderman
 [04Sep2025 23:46:40.281] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3106ms or 62 ticks behind
+[04Sep2025 23:56:17.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved wrongly! 0.35217675931471604
+[04Sep2025 23:56:17.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved wrongly! 0.5398798203782462

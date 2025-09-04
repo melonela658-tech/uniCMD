@@ -12124,3 +12124,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Sep2025 23:46:35.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto was slain by Enderman
 [04Sep2025 23:46:40.280] [Server thread/DEBUG] [twilightforest/]: Player Principyto (7a14056c-9336-376a-9ae7-7d820f8eb726) respawned and received items held in storage
 [04Sep2025 23:46:40.281] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3106ms or 62 ticks behind
+[04Sep2025 23:49:55.611] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 23:49:55.638] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 23:54:55.577] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 23:54:55.602] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 23:56:17.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved wrongly! 0.35217675931471604
+[04Sep2025 23:56:17.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved wrongly! 0.5398798203782462
