@@ -3352,3 +3352,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Sep2025 11:01:06.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [The Alloy That Started it All]
 [04Sep2025 11:01:34.412] [Server thread/INFO] [AE2:S/]: Assigning ME player id 1 to Minecraft profile 7a14056c-9336-376a-9ae7-7d820f8eb726 (Principyto)
 [04Sep2025 11:03:33.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved wrongly!
+[04Sep2025 11:16:30.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has reached the goal [Tapping the Mantle]
+[04Sep2025 11:20:44.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto moved wrongly!
+[04Sep2025 11:29:59.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Principyto to Melosito_Neo]
