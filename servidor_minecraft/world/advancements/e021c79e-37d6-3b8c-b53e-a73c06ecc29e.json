@@ -9004,7 +9004,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-09-03 00:41:53 +0000"
+      "minecraft:nether_wastes": "2025-09-03 00:41:53 +0000",
+      "minecraft:basalt_deltas": "2025-09-04 09:27:15 +0000"
     },
     "done": false
   },
@@ -12152,9 +12153,75 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_smart_fluix_clean": {
+    "criteria": {
+      "has_smart_dense_cable": "2025-09-04 08:48:28 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_light_gray": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2025-09-04 08:48:28 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_white": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2025-09-04 08:48:28 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_brown": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2025-09-04 08:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-04 09:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-04 09:14:39 +0000"
+    },
+    "done": true
+  },
   "ae2:main/network1": {
     "criteria": {
       "cable": "2025-09-04 08:22:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-09-04 09:33:22 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_orange": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2025-09-04 08:48:28 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/red_cape": {
+    "criteria": {
+      "has_red_wool": "2025-09-04 09:33:22 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_gray": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2025-09-04 08:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-09-04 09:12:45 +0000"
     },
     "done": true
   },
@@ -12170,6 +12237,54 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_smart_cyan": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2025-09-04 08:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-09-04 09:33:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-09-04 09:12:45 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_magenta": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2025-09-04 08:48:28 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/quanta0": {
+    "criteria": {
+      "enchanted_item": "2025-09-04 09:22:42 +0000"
+    },
+    "done": true
+  },
+  "enchantinginfuser:recipes/decorations/enchanting_infuser": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-04 09:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-04 09:14:39 +0000"
+    },
+    "done": true
+  },
+  "mekanism:infusing_efficiency": {
+    "criteria": {
+      "enriched_material": "2025-09-04 09:08:14 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_covered_light_blue": {
     "criteria": {
       "has_fluix_covered_dense_cable": "2025-09-04 08:38:50 +0000"
@@ -12182,9 +12297,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-04 09:14:39 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_covered_brown": {
     "criteria": {
       "has_fluix_covered_dense_cable": "2025-09-04 08:38:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_lime": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2025-09-04 08:48:28 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_blue": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2025-09-04 08:48:28 +0000"
     },
     "done": true
   },
@@ -12206,9 +12339,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-09-04 09:25:05 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_covered_gray": {
     "criteria": {
       "has_fluix_covered_dense_cable": "2025-09-04 08:38:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_light_blue": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2025-09-04 08:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-09-04 09:25:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-09-04 09:33:22 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_red": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2025-09-04 08:48:28 +0000"
     },
     "done": true
   },
@@ -12242,15 +12405,51 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_smart_pink": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2025-09-04 08:48:28 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_covered_magenta": {
     "criteria": {
       "has_fluix_covered_dense_cable": "2025-09-04 08:38:50 +0000"
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_smart_black": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2025-09-04 08:48:28 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_green": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2025-09-04 08:48:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-09-04 09:14:39 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_covered_fluix_clean": {
     "criteria": {
       "has_covered_dense_cable": "2025-09-04 08:38:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_yellow": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2025-09-04 08:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-09-04 09:25:05 +0000"
     },
     "done": true
   },

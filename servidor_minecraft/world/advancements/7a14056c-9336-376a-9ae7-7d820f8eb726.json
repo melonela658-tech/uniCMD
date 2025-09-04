@@ -3136,6 +3136,7 @@
       "coniferous_forest": "2025-09-03 00:28:50 +0000",
       "forested_field": "2025-09-03 00:54:08 +0000",
       "redwood_forest": "2025-09-02 22:58:39 +0000",
+      "aspen_glade": "2025-09-04 08:49:54 +0000",
       "dune_beach": "2025-09-04 01:51:35 +0000",
       "seasonal_forest": "2025-09-03 00:58:50 +0000",
       "volcano": "2025-09-04 03:56:02 +0000",
@@ -9642,6 +9643,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/storage_advanced_magnet_upgrade_from_backpack_advanced_magnet_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-09-04 09:29:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-09-04 08:23:48 +0000"
@@ -9651,6 +9658,12 @@
   "sophisticatedstorage:recipes/misc/birch_storage_connector": {
     "criteria": {
       "has_birch_planks": "2025-09-04 08:23:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-09-04 09:32:54 +0000"
     },
     "done": true
   },
@@ -9666,6 +9679,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-09-04 09:27:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-09-04 09:27:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-09-04 08:41:33 +0000"
@@ -9678,9 +9703,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-09-04 09:27:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/birch_banister": {
+    "criteria": {
+      "has_item": "2025-09-04 09:29:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-09-04 08:23:48 +0000"
+    },
+    "done": true
+  },
+  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
+    "criteria": {
+      "has_cod": "2025-09-04 09:27:15 +0000"
     },
     "done": true
   },
@@ -9699,6 +9742,12 @@
   "aether:recipes/decorations/skyroot_beehive": {
     "criteria": {
       "has_honeycomb": "2025-09-04 08:39:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-04 09:27:15 +0000"
     },
     "done": true
   },
