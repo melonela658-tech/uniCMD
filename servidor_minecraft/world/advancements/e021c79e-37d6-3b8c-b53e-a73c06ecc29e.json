@@ -7839,6 +7839,7 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:zelkova_forest": "2025-09-02 23:38:45 +0000",
+      "biomeswevegone:forgotten_forest": "2025-09-04 02:16:42 +0000",
       "biomeswevegone:orchard": "2025-09-03 22:03:38 +0000",
       "biomeswevegone:weeping_witch_forest": "2025-09-03 06:54:58 +0000",
       "biomeswevegone:prairie": "2025-09-03 22:04:17 +0000",
@@ -10867,10 +10868,11 @@
       "seared_heater": "2025-09-03 23:00:30 +0000",
       "seared_basin": "2025-09-03 23:00:34 +0000",
       "seared_ingot_gauge": "2025-09-03 23:12:54 +0000",
+      "seared_table": "2025-09-04 01:56:40 +0000",
       "seared_faucet": "2025-09-03 23:00:36 +0000",
       "seared_melter": "2025-09-03 23:00:32 +0000"
     },
-    "done": false
+    "done": true
   },
   "tconstruct:smeltery/structure": {
     "criteria": {
@@ -11292,6 +11294,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/smeltery/sand_cast": {
+    "criteria": {
+      "has_casting": "2025-09-04 01:56:35 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/misc/framed_reinforcement": {
     "criteria": {
       "hasFramedCube": "2025-09-04 01:25:41 +0000"
@@ -11466,9 +11474,21 @@
     },
     "done": true
   },
+  "apotheosis:spawner/modifier": {
+    "criteria": {
+      "modifier": "2025-09-04 02:13:52 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/building_blocks/framed_slab": {
     "criteria": {
       "hasFramedCube": "2025-09-04 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/redstone": {
+    "criteria": {
+      "modifier": "2025-09-04 02:13:52 +0000"
     },
     "done": true
   },
@@ -11499,6 +11519,12 @@
   "sophisticatedstorage:recipes/misc/shulker_from_chest": {
     "criteria": {
       "has_chest": "2025-09-04 00:46:17 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/smeltery/red_sand_cast": {
+    "criteria": {
+      "has_casting": "2025-09-04 01:56:35 +0000"
     },
     "done": true
   },

@@ -3114,7 +3114,9 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "muskeg": "2025-09-04 02:07:38 +0000",
       "woodland": "2025-09-03 04:23:22 +0000",
+      "snowblossom_grove": "2025-09-04 02:12:58 +0000",
       "scrubland": "2025-09-03 05:00:48 +0000",
       "floodplain": "2025-09-03 04:33:26 +0000",
       "highland": "2025-09-03 00:11:49 +0000",
@@ -5458,6 +5460,7 @@
       "biomeswevegone:basalt_barrera": "2025-09-03 22:57:18 +0000",
       "biomeswevegone:aspen_boreal": "2025-09-03 05:05:29 +0000",
       "biomeswevegone:dacite_ridges": "2025-09-02 23:22:32 +0000",
+      "biomeswevegone:frosted_coniferous_forest": "2025-09-04 02:13:11 +0000",
       "biomeswevegone:dacite_shore": "2025-09-02 20:46:55 +0000",
       "biomeswevegone:skyrise_vale": "2025-09-02 20:49:20 +0000",
       "biomeswevegone:allium_shrubland": "2025-09-03 05:04:19 +0000",
@@ -9045,6 +9048,18 @@
   "aether:recipes/tools/stone_hoe_repairing": {
     "criteria": {
       "has_stone_hoe": "2025-09-04 01:43:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-09-04 02:07:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-09-04 02:07:52 +0000"
     },
     "done": true
   },
