@@ -12158,5 +12158,101 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_covered_blue": {
+    "criteria": {
+      "has_fluix_covered_dense_cable": "2025-09-04 08:38:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_lime": {
+    "criteria": {
+      "has_fluix_covered_dense_cable": "2025-09-04 08:38:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_light_blue": {
+    "criteria": {
+      "has_fluix_covered_dense_cable": "2025-09-04 08:38:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_light_gray": {
+    "criteria": {
+      "has_fluix_covered_dense_cable": "2025-09-04 08:38:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_brown": {
+    "criteria": {
+      "has_fluix_covered_dense_cable": "2025-09-04 08:38:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_pink": {
+    "criteria": {
+      "has_fluix_covered_dense_cable": "2025-09-04 08:38:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_yellow": {
+    "criteria": {
+      "has_fluix_covered_dense_cable": "2025-09-04 08:38:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_red": {
+    "criteria": {
+      "has_fluix_covered_dense_cable": "2025-09-04 08:38:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_gray": {
+    "criteria": {
+      "has_fluix_covered_dense_cable": "2025-09-04 08:38:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_black": {
+    "criteria": {
+      "has_fluix_covered_dense_cable": "2025-09-04 08:38:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_cyan": {
+    "criteria": {
+      "has_fluix_covered_dense_cable": "2025-09-04 08:38:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_white": {
+    "criteria": {
+      "has_fluix_covered_dense_cable": "2025-09-04 08:38:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_orange": {
+    "criteria": {
+      "has_fluix_covered_dense_cable": "2025-09-04 08:38:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_green": {
+    "criteria": {
+      "has_fluix_covered_dense_cable": "2025-09-04 08:38:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_magenta": {
+    "criteria": {
+      "has_fluix_covered_dense_cable": "2025-09-04 08:38:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_fluix_clean": {
+    "criteria": {
+      "has_covered_dense_cable": "2025-09-04 08:38:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
