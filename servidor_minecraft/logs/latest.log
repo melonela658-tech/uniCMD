@@ -134,3 +134,14 @@
 [04Sep2025 00:33:03.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Principyto to Melosito_Neo]
 [04Sep2025 00:33:38.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> nada
 [04Sep2025 00:34:08.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Principyto to Melosito_Neo]
+[04Sep2025 00:35:06.121] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/168166, l='ServerLevel[world]', x=-642.09, y=62.41, z=156.00] died: Undead Knight suffocated in a wall
+[04Sep2025 00:35:32.343] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bunfy_edd lost connection: Disconnected
+[04Sep2025 00:35:32.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd left the game
+[04Sep2025 00:35:51.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> a
+[04Sep2025 00:35:59.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> wat
+[04Sep2025 00:36:02.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> se bugeo esto
+[04Sep2025 00:36:20.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> dagak
+[04Sep2025 00:37:09.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Local Brewery]
+[04Sep2025 00:37:27.117] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/167953, l='ServerLevel[world]', x=-63.70, y=58.41, z=361.30] died: Undead Knight suffocated in a wall
+[04Sep2025 00:39:39.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Principyto to Melosito_Neo]
+[04Sep2025 00:42:20.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [Second Age]
