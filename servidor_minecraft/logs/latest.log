@@ -3389,3 +3389,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Sep2025 11:52:41.321] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [04Sep2025 11:52:41.321] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
 [04Sep2025 11:55:04.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Principyto to Melosito_Neo]
+[04Sep2025 12:08:00.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto was obliterated by a sonically-charged shriek
+[04Sep2025 12:08:04.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2712ms or 54 ticks behind
+[04Sep2025 12:09:12.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Principyto to Melosito_Neo]
