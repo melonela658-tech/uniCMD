@@ -12848,6 +12848,18 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/xp_pump_upgrade": {
+    "criteria": {
+      "has_advanced_pump_upgrade": "2025-09-05 04:33:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-09-05 04:48:01 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/building_blocks/framed_prism": {
     "criteria": {
       "hasFramedSlope": "2025-09-05 02:32:52 +0000"
@@ -12896,6 +12908,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_pump_upgrade": {
+    "criteria": {
+      "has_pump_upgrade": "2025-09-05 04:33:39 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/building_blocks/framed_fancy_detector_rail_slope": {
     "criteria": {
       "hasFramedSlope": "2025-09-05 02:32:52 +0000"
@@ -12911,6 +12929,12 @@
   "framedblocks:recipes/building_blocks/framed_slab_corner": {
     "criteria": {
       "hasFramedSlab": "2025-09-05 04:07:38 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_stairs_rotate_to_framed_vertical_stairs": {
+    "criteria": {
+      "hasFramedStairs": "2025-09-05 04:51:56 +0000"
     },
     "done": true
   },
@@ -13190,6 +13214,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_double_stairs": {
+    "criteria": {
+      "hasFramedStairs": "2025-09-05 04:51:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2025-09-05 03:15:57 +0000"
@@ -13409,6 +13439,12 @@
   "framedblocks:recipes/building_blocks/framed_inner_prism": {
     "criteria": {
       "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_half_stairs": {
+    "criteria": {
+      "hasFramedStairs": "2025-09-05 04:51:56 +0000"
     },
     "done": true
   },

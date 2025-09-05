@@ -10023,6 +10023,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/gold_shulker_from_gold_chest": {
+    "criteria": {
+      "has_gold_chest": "2025-09-05 04:46:04 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-05 03:16:49 +0000"
@@ -10038,6 +10044,12 @@
   "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-05 03:16:49 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_chest": {
+    "criteria": {
+      "has_gold_chest": "2025-09-05 04:46:04 +0000"
     },
     "done": true
   },
@@ -10110,6 +10122,12 @@
   "sophisticatedbackpacks:recipes/misc/advanced_tool_swapper_upgrade": {
     "criteria": {
       "has_tool_swapper_upgrade": "2025-09-05 03:29:33 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/double_diamond_chest": {
+    "criteria": {
+      "has_gold_chest": "2025-09-05 04:46:04 +0000"
     },
     "done": true
   },
