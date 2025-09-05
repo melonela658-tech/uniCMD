@@ -1128,3 +1128,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Sep2025 10:04:09.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! 5.394142047352034,-0.143115829534608,9.555001332039751
 [05Sep2025 10:33:05.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved wrongly! 0.3922344347688522
 [05Sep2025 10:33:05.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved wrongly! 0.29909884937751485
+[05Sep2025 10:43:16.011] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[05Sep2025 10:43:16.012] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[05Sep2025 10:49:10.440] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2131ms or 42 ticks behind
+[05Sep2025 10:52:03.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] el server hablando
+[05Sep2025 10:52:09.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ya me ire a domir
