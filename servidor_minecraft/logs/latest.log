@@ -18,3 +18,16 @@
 [05Sep2025 00:52:29.141] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/36706, l='ServerLevel[world]', x=-3389.90, y=126.59, z=390.65] died: Honeyed Archer burned to death
 [05Sep2025 00:55:11.397] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/39383, l='ServerLevel[world]', x=-3394.69, y=86.25, z=605.65] died: Honeyed Archer suffocated in a wall
 [05Sep2025 00:55:49.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Principyto]
+[05Sep2025 01:02:18.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> zzz
+[05Sep2025 01:04:18.192] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/42607, l='ServerLevel[world]', x=-639.96, y=63.32, z=158.50] died: Honeyed Archer suffocated in a wall
+[05Sep2025 01:13:35.973] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wathsuyo[/127.41.161.213:48965] logged in with entity id 47688 at (-104.5, 99.0, 252.5)
+[05Sep2025 01:13:36.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wathsuyo joined the game
+[05Sep2025 01:13:36.160] [Server thread/INFO] [Jade/]: Syncing config to Wathsuyo (13486ef7-25f9-3043-bffc-17ea233f178d)
+[05Sep2025 01:13:48.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> ola
+[05Sep2025 01:14:00.209] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto lost connection: Disconnected
+[05Sep2025 01:14:00.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto left the game
+[05Sep2025 01:16:37.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wathsuyo was slain by Zombie
+[05Sep2025 01:16:42.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Wathsuyo]
+[05Sep2025 01:16:56.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set the time to 1000]
+[05Sep2025 01:18:18.633] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wathsuyo lost connection: Disconnected
+[05Sep2025 01:18:18.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wathsuyo left the game
