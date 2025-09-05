@@ -10013,21 +10013,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/advanced_feeding_upgrade": {
-    "criteria": {
-      "has_feeding_upgrade": "2025-09-05 03:56:20 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-05 03:16:49 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/gold_shulker_from_gold_chest": {
-    "criteria": {
-      "has_gold_chest": "2025-09-05 04:46:04 +0000"
     },
     "done": true
   },
@@ -10049,27 +10037,9 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/diamond_chest": {
-    "criteria": {
-      "has_gold_chest": "2025-09-05 04:46:04 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-05 03:16:49 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_feeding_upgrade_from_backpack_feeding_upgrade": {
-    "criteria": {
-      "has_backpack_upgrade": "2025-09-05 03:56:20 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/horse_feed": {
-    "criteria": {
-      "has_golden_carrot": "2025-09-05 03:54:07 +0000"
     },
     "done": true
   },
@@ -10121,27 +10091,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/advanced_tool_swapper_upgrade": {
-    "criteria": {
-      "has_tool_swapper_upgrade": "2025-09-05 03:29:33 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/double_diamond_chest": {
-    "criteria": {
-      "has_gold_chest": "2025-09-05 04:46:04 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-05 03:16:49 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/vegetable_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-09-05 03:52:00 +0000"
     },
     "done": true
   },
@@ -10247,24 +10199,6 @@
     },
     "done": true
   },
-  "aether:recipes/tools/wooden_axe_repairing": {
-    "criteria": {
-      "has_wooden_axe": "2025-09-05 03:27:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-09-05 03:52:00 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/wooden_shovel_repairing": {
-    "criteria": {
-      "has_wooden_shovel": "2025-09-05 03:28:11 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-05 03:16:49 +0000"
@@ -10283,15 +10217,81 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-05 03:16:49 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/wooden_axe_repairing": {
+    "criteria": {
+      "has_wooden_axe": "2025-09-05 03:27:55 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/wooden_shovel_repairing": {
+    "criteria": {
+      "has_wooden_shovel": "2025-09-05 03:28:11 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/wooden_sword_repairing": {
     "criteria": {
       "has_wooden_sword": "2025-09-05 03:28:36 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
+  "sophisticatedbackpacks:recipes/misc/advanced_tool_swapper_upgrade": {
     "criteria": {
-      "has_upgrade_base": "2025-09-05 03:16:49 +0000"
+      "has_tool_swapper_upgrade": "2025-09-05 03:29:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-05 03:52:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-09-05 03:52:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-09-05 03:54:07 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_feeding_upgrade": {
+    "criteria": {
+      "has_feeding_upgrade": "2025-09-05 03:56:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_feeding_upgrade_from_backpack_feeding_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-09-05 03:56:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/gold_shulker_from_gold_chest": {
+    "criteria": {
+      "has_gold_chest": "2025-09-05 04:46:04 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_chest": {
+    "criteria": {
+      "has_gold_chest": "2025-09-05 04:46:04 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/double_diamond_chest": {
+    "criteria": {
+      "has_gold_chest": "2025-09-05 04:46:04 +0000"
     },
     "done": true
   },
