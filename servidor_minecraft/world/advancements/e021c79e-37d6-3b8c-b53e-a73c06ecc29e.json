@@ -13606,6 +13606,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2025-09-05 23:10:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2025-09-05 23:10:55 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_helmet_repairing": {
     "criteria": {
       "has_golden_helmet": "2025-09-05 22:17:46 +0000"
@@ -13687,6 +13699,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-09-05 22:16:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2025-09-05 23:10:55 +0000"
     },
     "done": true
   },
