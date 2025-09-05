@@ -12878,6 +12878,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-09-05 05:15:54 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/building_blocks/framed_inner_threeway_corner": {
     "criteria": {
       "hasFramedSlope": "2025-09-05 02:32:52 +0000"
@@ -12980,6 +12986,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-09-05 05:17:12 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/building_blocks/framed_activator_rail_slope": {
     "criteria": {
       "hasFramedSlope": "2025-09-05 02:32:52 +0000"
@@ -13028,9 +13040,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-09-05 05:15:50 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/building_blocks/framed_threeway_corner": {
     "criteria": {
       "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-09-05 05:15:54 +0000"
     },
     "done": true
   },
@@ -13088,6 +13112,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-09-05 05:15:54 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/cherry_banister": {
     "criteria": {
       "has_item": "2025-09-05 02:17:15 +0000"
@@ -13097,6 +13127,12 @@
   "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
     "criteria": {
       "has_planks": "2025-09-05 01:03:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-09-05 05:15:54 +0000"
     },
     "done": true
   },
@@ -13244,6 +13280,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-09-05 05:15:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-09-05 05:15:54 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/cherry_chest": {
     "criteria": {
       "has_cherry_plank": "2025-09-05 01:55:55 +0000"
@@ -13304,6 +13352,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/misc/purple_dye_from_bwg_tag": {
+    "criteria": {
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_purple_dye]": "2025-09-05 05:45:33 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/gadgets/punji": {
     "criteria": {
       "has_item": "2025-09-05 01:03:18 +0000"
@@ -13349,6 +13403,18 @@
   "minecraft:recipes/building_blocks/cherry_stairs": {
     "criteria": {
       "has_planks": "2025-09-05 01:55:55 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_red": {
+    "criteria": {
+      "has_dyes/black": "2025-09-05 05:15:54 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_post": {
+    "criteria": {
+      "hasFramedFence": "2025-09-05 05:49:32 +0000"
     },
     "done": true
   },

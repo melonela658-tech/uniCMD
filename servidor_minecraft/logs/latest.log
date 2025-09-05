@@ -282,3 +282,19 @@ java.lang.IndexOutOfBoundsException: Index -1 out of bounds for length 19
 [05Sep2025 05:01:36.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Principyto to Melosito_Neo]
 [05Sep2025 05:02:09.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2356ms or 47 ticks behind
 [05Sep2025 05:04:57.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Principyto to Melosito_Neo]
+[05Sep2025 05:10:31.083] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[05Sep2025 05:10:31.083] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[05Sep2025 05:13:27.486] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/150521, l='ServerLevel[world]', x=-3629.83, y=100.41, z=-849.84] died: Undead Knight suffocated in a wall
+[05Sep2025 05:20:03.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Principyto to Melosito_Neo]
+[05Sep2025 05:24:13.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Principyto to Melosito_Neo]
+[05Sep2025 05:26:41.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved wrongly! 0.3757947478597998
+[05Sep2025 05:28:17.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved wrongly! 0.5
+[05Sep2025 05:35:33.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Principyto to Melosito_Neo]
+[05Sep2025 05:47:27.740] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/177467, l='ServerLevel[world]', x=2405.75, y=146.25, z=-2754.28] died: Honeyed Archer suffocated in a wall
+[05Sep2025 05:47:43.745] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Felicia the Curious'/177745, l='ServerLevel[world]', x=-3574.60, y=112.00, z=-941.40] died: Felicia the Curious couldn't take Principyto's heat
+[05Sep2025 05:51:27.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wathsuyo has made the advancement [How'd You Get This?]
+[05Sep2025 05:51:27.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wathsuyo has reached the goal [Worthy Equipment]
+[05Sep2025 05:52:35.286] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/178044, l='ServerLevel[world]', x=2349.46, y=176.00, z=-2797.26] died: Undead Knight burned to death
+[05Sep2025 05:56:26.793] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wathsuyo lost connection: Disconnected
+[05Sep2025 05:56:26.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wathsuyo left the game
+[05Sep2025 05:56:31.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! -3026.604847903835,-144.5,2886.468674993869
