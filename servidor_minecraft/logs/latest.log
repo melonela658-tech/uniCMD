@@ -1139,3 +1139,33 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Sep2025 22:22:59.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bunfy_edd moved wrongly!
 [05Sep2025 22:32:19.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has reached the goal [Who Needs Darkness?]
 [05Sep2025 22:35:34.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! -3024.626469470976,-133.5,2890.3767697655016
+[05Sep2025 22:41:50.236] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[05Sep2025 22:41:50.237] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[05Sep2025 22:44:23.708] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Sep2025 22:44:23.804] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Sep2025 22:44:23.904] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Sep2025 22:44:24.002] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Sep2025 22:44:24.100] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Sep2025 22:44:24.202] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Sep2025 22:44:24.300] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Sep2025 22:44:24.403] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Sep2025 22:44:24.499] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Sep2025 22:44:24.603] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Sep2025 22:44:24.706] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Sep2025 22:44:24.807] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Sep2025 22:44:24.905] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Sep2025 22:44:25.002] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Sep2025 22:44:25.103] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Sep2025 22:46:05.743] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/17400, l='ServerLevel[world]', x=-772.53, y=63.41, z=198.19] died: Undead Knight suffocated in a wall
+[05Sep2025 22:47:00.073] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wathsuyo[/127.240.51.79:58193] logged in with entity id 18808 at (2345.192958496936, 186.0, -2769.736247809409)
+[05Sep2025 22:47:00.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wathsuyo joined the game
+[05Sep2025 22:47:00.231] [Server thread/INFO] [Jade/]: Syncing config to Wathsuyo (13486ef7-25f9-3043-bffc-17ea233f178d)
+[05Sep2025 22:47:01.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bunfy_edd moved too quickly! 3.3468202791381145,-1.0,9.515270992600222
+[05Sep2025 22:52:09.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> xaero-waypoint:Shared Location:S:2351:180:-2763:11:false:0:Internal-overworld-waypoints
+[05Sep2025 22:53:24.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [Pic-A-Nic Basket?]
+[05Sep2025 22:55:00.927] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/28543, l='ServerLevel[world]', x=86.50, y=29.00, z=-434.50]
+[05Sep2025 22:57:11.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bunfy_edd moved too quickly! 5.330815102280212,16.36328669802387,-5.216451312223853
+[05Sep2025 22:57:28.220] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bunfy_edd moved too quickly! 12.941423100503016,-1.7370320212664865,-12.938443549649037
+[05Sep2025 22:57:40.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bunfy_edd moved too quickly! 12.122788472763204,-3.315821907185864,-12.35310621628878
+[05Sep2025 22:57:47.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! -3023.994768414464,-133.5,2890.1544272412466
+[05Sep2025 22:58:55.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! 3027.276131994451,133.5,-2893.0911950121867
