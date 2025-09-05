@@ -91,3 +91,5 @@
 [05Sep2025 01:50:59.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wathsuyo moved wrongly!
 [05Sep2025 01:57:50.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Applied enchantment Efficiency IV to Melosito_Neo's item]
 [05Sep2025 02:09:48.386] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/69849, l='ServerLevel[world]', x=2441.96, y=132.41, z=-2682.06] died: Undead Knight suffocated in a wall
+[05Sep2025 02:13:39.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wathsuyo has made the advancement [Cover Me with Diamonds]
+[05Sep2025 02:16:59.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Kaleidoscope Kitchen]

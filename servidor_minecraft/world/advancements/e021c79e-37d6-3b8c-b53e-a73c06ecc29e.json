@@ -3770,6 +3770,7 @@
       "minecraft:spider": "2025-09-02 20:16:27 +0000",
       "minecraft:piglin_brute": "2025-09-04 00:09:41 +0000",
       "minecraft:creeper": "2025-09-02 22:17:10 +0000",
+      "minecraft:phantom": "2025-09-05 02:10:24 +0000",
       "minecraft:zombified_piglin": "2025-09-03 00:35:44 +0000",
       "minecraft:witch": "2025-09-02 22:15:17 +0000",
       "minecraft:wither_skeleton": "2025-09-02 23:49:20 +0000",
@@ -12871,6 +12872,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/cherry_banister": {
+    "criteria": {
+      "has_item": "2025-09-05 02:17:15 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
     "criteria": {
       "has_planks": "2025-09-05 01:03:27 +0000"
@@ -12907,6 +12914,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/diamond_axe_repairing": {
+    "criteria": {
+      "has_diamond_axe": "2025-09-05 02:12:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-09-05 01:36:37 +0000"
@@ -12931,9 +12944,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_pink_bed": {
+    "criteria": {
+      "has_the_recipe": "2025-09-05 02:14:58 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/cherry_chest": {
     "criteria": {
       "has_cherry_plank": "2025-09-05 01:55:55 +0000"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:root": {
+    "criteria": {
+      "has_pot": "2025-09-05 02:16:59 +0000"
     },
     "done": true
   },
