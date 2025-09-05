@@ -13594,6 +13594,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
+    "criteria": {
+      "requirement": "2025-09-05 23:12:04 +0000"
+    },
+    "done": true
+  },
   "apotheosis:spawner/light": {
     "criteria": {
       "modifier": "2025-09-05 22:32:19 +0000"
@@ -13621,6 +13627,12 @@
   "aether:recipes/combat/golden_helmet_repairing": {
     "criteria": {
       "has_golden_helmet": "2025-09-05 22:17:46 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/maxdelay": {
+    "criteria": {
+      "modifier": "2025-09-05 23:27:53 +0000"
     },
     "done": true
   },
@@ -13693,6 +13705,12 @@
   "sophisticatedstorage:recipes/misc/storage_stack_upgrade_tier_4_from_backpack_stack_upgrade_tier_3": {
     "criteria": {
       "has_backpack_stack_upgrade": "2025-09-05 22:48:55 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2025-09-05 23:29:48 +0000"
     },
     "done": true
   },

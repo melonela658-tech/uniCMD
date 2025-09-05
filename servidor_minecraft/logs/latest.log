@@ -1171,3 +1171,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Sep2025 22:58:55.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! 3027.276131994451,133.5,-2893.0911950121867
 [05Sep2025 23:09:36.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! -3024.7615388037443,-133.5,2891.175231615025
 [05Sep2025 23:12:04.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Defunct Machinery]
+[05Sep2025 23:13:05.250] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/35986, l='ServerLevel[world]', x=2444.98, y=134.41, z=-2699.05] died: Undead Knight suffocated in a wall
+[05Sep2025 23:16:06.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! -3024.9674824600793,-133.5,2890.8025054218588
+[05Sep2025 23:27:53.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has reached the goal [Time-Warped Spawner]
+[05Sep2025 23:29:48.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Flexible Schedule]
+[05Sep2025 23:31:11.435] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[05Sep2025 23:31:11.435] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]

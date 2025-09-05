@@ -3155,6 +3155,12 @@
     },
     "done": true
   },
+  "kaleidoscope_cookery:recipes/decorations/table_cherry": {
+    "criteria": {
+      "has_fence": "2025-09-05 23:28:28 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/sakura_planks": {
     "criteria": {
       "has_log": "2025-09-05 22:52:57 +0000"
@@ -3176,6 +3182,12 @@
   "biomeswevegone:recipes/building_blocks/sakura_wood": {
     "criteria": {
       "has_log": "2025-09-05 22:52:57 +0000"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/chair_cherry": {
+    "criteria": {
+      "has_fence": "2025-09-05 23:28:28 +0000"
     },
     "done": true
   },
