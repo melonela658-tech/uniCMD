@@ -93,3 +93,15 @@
 [05Sep2025 02:09:48.386] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/69849, l='ServerLevel[world]', x=2441.96, y=132.41, z=-2682.06] died: Undead Knight suffocated in a wall
 [05Sep2025 02:13:39.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wathsuyo has made the advancement [Cover Me with Diamonds]
 [05Sep2025 02:16:59.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Kaleidoscope Kitchen]
+[05Sep2025 02:25:44.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! 3025.9480833542702,135.5,-2892.800000011921
+[05Sep2025 02:26:45.340] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2330, y=181, z=-2759} BlockPos{x=2326, y=181, z=-2756}
+[05Sep2025 02:26:45.390] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2330, y=181, z=-2759} BlockPos{x=2326, y=181, z=-2756}
+[05Sep2025 02:26:45.439] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2330, y=181, z=-2759} BlockPos{x=2326, y=181, z=-2756}
+[05Sep2025 02:26:45.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2325, y=182, z=-2755} BlockPos{x=2326, y=181, z=-2756}
+[05Sep2025 02:26:45.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2325, y=182, z=-2755} BlockPos{x=2326, y=181, z=-2756}
+[05Sep2025 02:27:05.723] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2316, y=185, z=-2756} BlockPos{x=2315, y=184, z=-2755}
+[05Sep2025 02:27:05.823] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2316, y=185, z=-2756} BlockPos{x=2315, y=184, z=-2755}
+[05Sep2025 02:30:19.464] [ForkJoinPool.commonPool-worker-13/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[05Sep2025 02:30:19.534] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Principyto[/127.233.102.144:48637] logged in with entity id 75575 at (-3203.7402452486867, 70.0, 472.5699655951672)
+[05Sep2025 02:30:19.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto joined the game
+[05Sep2025 02:30:19.667] [Server thread/INFO] [Jade/]: Syncing config to Principyto (7a14056c-9336-376a-9ae7-7d820f8eb726)

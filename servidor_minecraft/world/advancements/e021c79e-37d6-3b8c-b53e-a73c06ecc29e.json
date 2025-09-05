@@ -12842,6 +12842,12 @@
     },
     "done": true
   },
+  "kaleidoscope_cookery:recipes/decorations/table_cherry": {
+    "criteria": {
+      "has_fence": "2025-09-05 02:27:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-05 01:55:55 +0000"
@@ -12992,6 +12998,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cherry_window_pane": {
+    "criteria": {
+      "has_ingredient": "2025-09-05 02:26:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_stairs": {
     "criteria": {
       "has_planks": "2025-09-05 01:55:55 +0000"
@@ -13037,6 +13049,12 @@
   "create:recipes/building_blocks/cherry_window": {
     "criteria": {
       "has_ingredient": "2025-09-05 01:55:55 +0000"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/chair_cherry": {
+    "criteria": {
+      "has_fence": "2025-09-05 02:27:05 +0000"
     },
     "done": true
   },
