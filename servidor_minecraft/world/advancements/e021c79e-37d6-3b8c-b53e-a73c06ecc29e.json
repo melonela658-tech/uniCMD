@@ -13588,9 +13588,33 @@
     },
     "done": true
   },
+  "apotheosis:spawner/light": {
+    "criteria": {
+      "modifier": "2025-09-05 22:32:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_pickup_upgrade_from_storage_pickup_upgrade": {
+    "criteria": {
+      "has_storage_upgrade": "2025-09-05 22:41:20 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_helmet_repairing": {
     "criteria": {
       "has_golden_helmet": "2025-09-05 22:17:46 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/advanced_pickup_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-09-05 22:41:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-09-05 22:41:20 +0000"
     },
     "done": true
   },
