@@ -13517,3 +13517,35 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Sep2025 22:18:26.464] [Server thread/INFO] [Jade/]: Syncing config to Bunfy_edd (90e9e226-3313-35a6-9e6c-a232bbfd4e03)
 [05Sep2025 22:19:51.658] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
 [05Sep2025 22:20:21.359] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[05Sep2025 22:20:56.781] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[05Sep2025 22:20:59.807] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[05Sep2025 22:21:22.372] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2025 22:21:22.399] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2025 22:21:31.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Nightmare Fuel]
+[05Sep2025 22:22:10.511] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[05Sep2025 22:22:17.060] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[05Sep2025 22:22:22.179] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[05Sep2025 22:22:31.320] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[05Sep2025 22:22:33.175] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[05Sep2025 22:22:37.228] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[05Sep2025 22:22:59.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bunfy_edd moved wrongly!
+[05Sep2025 22:23:25.777] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Sep2025 22:23:29.526] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Sep2025 22:23:31.310] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Sep2025 22:23:34.981] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Sep2025 22:26:04.604] [Server thread/DEBUG] [FTB Chunks/]: force chunk (forge): mod=ftbchunks owner=e021c79e-37d6-3b8c-b53e-a73c06ecc29e, c=(-44,7), load=false, success=true
+[05Sep2025 22:26:06.197] [Server thread/DEBUG] [FTB Chunks/]: Melosito_Neo tried to claim @ minecraft:overworld:-45:7 but got result ALREADY_CLAIMED
+[05Sep2025 22:26:06.595] [Server thread/DEBUG] [FTB Chunks/]: Melosito_Neo tried to claim @ minecraft:overworld:-45:8 but got result ALREADY_CLAIMED
+[05Sep2025 22:26:06.966] [Server thread/DEBUG] [FTB Chunks/]: Melosito_Neo tried to claim @ minecraft:overworld:-44:8 but got result ALREADY_CLAIMED
+[05Sep2025 22:26:08.799] [Server thread/DEBUG] [FTB Chunks/]: Melosito_Neo tried to claim @ minecraft:overworld:-44:8 but got result ALREADY_CLAIMED
+[05Sep2025 22:26:10.104] [Server thread/DEBUG] [FTB Chunks/]: force chunk (forge): mod=ftbchunks owner=e021c79e-37d6-3b8c-b53e-a73c06ecc29e, c=(-44,8), load=false, success=true
+[05Sep2025 22:26:10.598] [Server thread/DEBUG] [FTB Chunks/]: force chunk (forge): mod=ftbchunks owner=e021c79e-37d6-3b8c-b53e-a73c06ecc29e, c=(-45,8), load=false, success=true
+[05Sep2025 22:26:10.599] [Server thread/DEBUG] [FTB Chunks/]: Melosito_Neo tried to unclaim @ minecraft:overworld:-46:8 but got result NOT_CLAIMED
+[05Sep2025 22:26:10.954] [Server thread/DEBUG] [FTB Chunks/]: Melosito_Neo tried to unclaim @ minecraft:overworld:-45:8 but got result NOT_CLAIMED
+[05Sep2025 22:26:11.344] [Server thread/DEBUG] [FTB Chunks/]: force chunk (forge): mod=ftbchunks owner=e021c79e-37d6-3b8c-b53e-a73c06ecc29e, c=(-45,7), load=false, success=true
+[05Sep2025 22:26:11.531] [Server thread/DEBUG] [FTB Chunks/]: Melosito_Neo tried to unclaim @ minecraft:overworld:-45:7 but got result NOT_CLAIMED
+[05Sep2025 22:26:22.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2025 22:26:22.326] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2025 22:30:25.459] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Sep2025 22:30:27.905] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Sep2025 22:30:28.807] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot

@@ -1135,3 +1135,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Sep2025 22:18:26.325] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bunfy_edd[/127.108.94.114:59633] logged in with entity id 6732 at (-703.357076525011, 50.0, 120.9727242649183)
 [05Sep2025 22:18:26.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd joined the game
 [05Sep2025 22:18:26.464] [Server thread/INFO] [Jade/]: Syncing config to Bunfy_edd (90e9e226-3313-35a6-9e6c-a232bbfd4e03)
+[05Sep2025 22:21:31.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Nightmare Fuel]
+[05Sep2025 22:22:59.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bunfy_edd moved wrongly!

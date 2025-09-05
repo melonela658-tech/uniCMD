@@ -3766,6 +3766,7 @@
       "minecraft:skeleton": "2025-09-02 19:50:23 +0000",
       "minecraft:zoglin": "2025-09-02 22:33:34 +0000",
       "minecraft:ghast": "2025-09-04 00:06:49 +0000",
+      "minecraft:hoglin": "2025-09-05 22:16:58 +0000",
       "minecraft:magma_cube": "2025-09-03 00:34:51 +0000",
       "minecraft:spider": "2025-09-02 20:16:27 +0000",
       "minecraft:piglin_brute": "2025-09-04 00:09:41 +0000",
@@ -9021,6 +9022,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-09-05 22:21:30 +0000",
       "minecraft:nether_wastes": "2025-09-03 00:41:53 +0000",
       "minecraft:basalt_deltas": "2025-09-04 09:27:15 +0000"
     },
@@ -13586,9 +13588,33 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_helmet_repairing": {
+    "criteria": {
+      "has_golden_helmet": "2025-09-05 22:17:46 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/food/warped_moldy_meat": {
+    "criteria": {
+      "has_sirloin": "2025-09-05 22:17:02 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
     "criteria": {
       "has_burning_blossom": "2025-09-05 22:16:03 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-09-05 22:21:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-09-05 22:16:35 +0000"
     },
     "done": true
   },
