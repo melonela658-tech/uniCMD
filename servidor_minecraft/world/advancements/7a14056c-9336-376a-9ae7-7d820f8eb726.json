@@ -1938,6 +1938,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-09-05 02:33:24 +0000",
       "minecraft:old_growth_pine_taiga": "2025-09-02 20:49:01 +0000",
       "minecraft:taiga": "2025-09-02 19:29:47 +0000",
       "minecraft:frozen_river": "2025-09-04 00:02:47 +0000",

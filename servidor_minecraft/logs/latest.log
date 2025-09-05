@@ -105,3 +105,8 @@
 [05Sep2025 02:30:19.534] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Principyto[/127.233.102.144:48637] logged in with entity id 75575 at (-3203.7402452486867, 70.0, 472.5699655951672)
 [05Sep2025 02:30:19.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto joined the game
 [05Sep2025 02:30:19.667] [Server thread/INFO] [Jade/]: Syncing config to Principyto (7a14056c-9336-376a-9ae7-7d820f8eb726)
+[05Sep2025 02:32:53.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Principyto to Wathsuyo]
+[05Sep2025 02:35:54.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wathsuyo froze to death
+[05Sep2025 02:36:06.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Wathsuyo to Melosito_Neo]
+[05Sep2025 02:41:45.830] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[05Sep2025 02:41:45.830] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]

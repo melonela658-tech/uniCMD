@@ -12776,6 +12776,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_slope_slab": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
       "has_log": "2025-09-05 01:55:52 +0000"
@@ -12788,9 +12794,21 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_prism_corner": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/redwood_fence_gate": {
     "criteria": {
       "has_planks": "2025-09-05 01:03:27 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_double_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
     },
     "done": true
   },
@@ -12800,15 +12818,45 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_prism": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_sign": {
     "criteria": {
       "has_planks": "2025-09-05 01:55:55 +0000"
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_inner_threeway_corner": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_inner_corner_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
       "has_planks": "2025-09-05 01:55:55 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slope_edge": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fancy_detector_rail_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
     },
     "done": true
   },
@@ -12842,9 +12890,27 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_horizontal_pane": {
+    "criteria": {
+      "hasFramedPane": "2025-09-05 02:32:23 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_activator_rail_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
   "kaleidoscope_cookery:recipes/decorations/table_cherry": {
     "criteria": {
       "has_fence": "2025-09-05 02:27:05 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slope_panel": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
     },
     "done": true
   },
@@ -12857,6 +12923,12 @@
   "minecraft:recipes/redstone/cherry_button": {
     "criteria": {
       "has_planks": "2025-09-05 01:55:55 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_threeway_corner": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
     },
     "done": true
   },
@@ -12890,6 +12962,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_fancy_activator_rail_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
   "kaleidoscope_cookery:recipes/decorations/cook_stool_cherry": {
     "criteria": {
       "has_wood": "2025-09-05 01:55:55 +0000"
@@ -12920,9 +12998,21 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_pyramid_slab": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/diamond_axe_repairing": {
     "criteria": {
       "has_diamond_axe": "2025-09-05 02:12:16 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_half_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
     },
     "done": true
   },
@@ -12962,6 +13052,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_corner_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
   "kaleidoscope_cookery:root": {
     "criteria": {
       "has_pot": "2025-09-05 02:16:59 +0000"
@@ -12998,6 +13094,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_detector_rail_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cherry_window_pane": {
     "criteria": {
       "has_ingredient": "2025-09-05 02:26:09 +0000"
@@ -13010,15 +13112,39 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_fancy_rail_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/redwood_button": {
     "criteria": {
       "has_planks": "2025-09-05 01:03:27 +0000"
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_rail_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_powered_rail_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/cherry_barrel": {
     "criteria": {
       "has_cherry_plank": "2025-09-05 01:55:55 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_inner_prism_corner": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
     },
     "done": true
   },
@@ -13037,6 +13163,18 @@
   "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2025-09-05 01:55:55 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_inner_prism": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fancy_powered_rail_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
     },
     "done": true
   },
