@@ -89,3 +89,5 @@
 [05Sep2025 01:47:34.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Wathsuyo to Melosito_Neo]
 [05Sep2025 01:50:50.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved wrongly!
 [05Sep2025 01:50:59.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wathsuyo moved wrongly!
+[05Sep2025 01:57:50.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Applied enchantment Efficiency IV to Melosito_Neo's item]
+[05Sep2025 02:09:48.386] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/69849, l='ServerLevel[world]', x=2441.96, y=132.41, z=-2682.06] died: Undead Knight suffocated in a wall
