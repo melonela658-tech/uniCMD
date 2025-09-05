@@ -12902,6 +12902,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/sakura_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-05 04:25:18 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/building_blocks/framed_slab_corner": {
     "criteria": {
       "hasFramedSlab": "2025-09-05 04:07:38 +0000"
@@ -12950,6 +12956,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/decorations/sakura_crafting_table": {
+    "criteria": {
+      "has_sakura_planks": "2025-09-05 04:25:18 +0000"
+    },
+    "done": true
+  },
   "kaleidoscope_cookery:recipes/decorations/table_cherry": {
     "criteria": {
       "has_fence": "2025-09-05 02:27:05 +0000"
@@ -12959,6 +12971,12 @@
   "framedblocks:recipes/building_blocks/framed_slope_panel": {
     "criteria": {
       "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/sakura_bookshelf": {
+    "criteria": {
+      "has_sakura_planks": "2025-09-05 04:25:18 +0000"
     },
     "done": true
   },
@@ -13004,6 +13022,18 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/sakura_planks": {
+    "criteria": {
+      "has_log": "2025-09-05 04:23:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/sakura_door": {
+    "criteria": {
+      "has_planks": "2025-09-05 04:25:18 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/cherry": {
     "criteria": {
       "has_wood": "2025-09-05 01:55:52 +0000"
@@ -13016,6 +13046,18 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/redstone/sakura_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-05 04:25:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cherry_cabinet": {
+    "criteria": {
+      "has_cherry_trapdoor": "2025-09-05 04:12:56 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/cherry_banister": {
     "criteria": {
       "has_item": "2025-09-05 02:17:15 +0000"
@@ -13025,6 +13067,12 @@
   "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
     "criteria": {
       "has_planks": "2025-09-05 01:03:27 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/sakura_slab": {
+    "criteria": {
+      "has_planks": "2025-09-05 04:25:18 +0000"
     },
     "done": true
   },
@@ -13067,6 +13115,12 @@
   "framedblocks:recipes/building_blocks/framed_pyramid_slab": {
     "criteria": {
       "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/sakura_button": {
+    "criteria": {
+      "has_planks": "2025-09-05 04:25:18 +0000"
     },
     "done": true
   },
@@ -13118,6 +13172,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/stripped_sakura_wood": {
+    "criteria": {
+      "has_log": "2025-09-05 04:25:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2025-09-05 01:13:58 +0000"
@@ -13154,6 +13214,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/decorations/sakura_fence": {
+    "criteria": {
+      "has_planks": "2025-09-05 04:25:18 +0000"
+    },
+    "done": true
+  },
   "kaleidoscope_cookery:recipes/decorations/shawarma_spit": {
     "criteria": {
       "has_campfire": "2025-09-05 03:12:41 +0000"
@@ -13163,6 +13229,12 @@
   "framedblocks:recipes/building_blocks/framed_corner_slope": {
     "criteria": {
       "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/sakura_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-05 04:25:18 +0000"
     },
     "done": true
   },
@@ -13280,6 +13352,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/decorations/sakura_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-09-05 04:25:16 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/building_blocks/framed_inner_prism_corner": {
     "criteria": {
       "hasFramedSlope": "2025-09-05 02:32:52 +0000"
@@ -13292,9 +13370,21 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/decorations/sakura_sign": {
+    "criteria": {
+      "has_planks": "2025-09-05 04:25:18 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/redwood_door": {
     "criteria": {
       "has_planks": "2025-09-05 01:03:27 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/sakura_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-05 04:25:18 +0000"
     },
     "done": true
   },
@@ -13325,6 +13415,12 @@
   "framedblocks:recipes/building_blocks/framed_fancy_powered_rail_slope": {
     "criteria": {
       "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/sakura_wood": {
+    "criteria": {
+      "has_log": "2025-09-05 04:23:44 +0000"
     },
     "done": true
   },
