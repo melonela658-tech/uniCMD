@@ -1,25 +1,25 @@
-[05Sep2025 10:00:44.959] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[05Sep2025 10:00:44.962] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
-[05Sep2025 10:00:47.855] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[05Sep2025 10:00:47.904] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/uniCMD/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[05Sep2025 10:00:48.319] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/uniCMD/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[05Sep2025 10:00:48.320] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/uniCMD/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[05Sep2025 10:00:48.321] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/uniCMD/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[05Sep2025 10:00:48.322] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/uniCMD/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[05Sep2025 10:00:48.878] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[05Sep2025 10:00:48.880] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: geckolib. Using Mod File: /workspaces/uniCMD/servidor_minecraft/mods/geckolib-forge-1.20.1-4.7.4.jar
-[05Sep2025 10:00:48.880] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: curios. Using Mod File: /workspaces/uniCMD/servidor_minecraft/mods/curios-forge-5.14.1+1.20.1.jar
-[05Sep2025 10:00:48.880] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: cloth_config. Using Mod File: /workspaces/uniCMD/servidor_minecraft/mods/cloth-config-11.1.136-forge.jar
-[05Sep2025 10:00:48.880] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 21 dependencies adding them to mods collection
-[05Sep2025 10:00:52.795] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[05Sep2025 10:00:53.149] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.leobeliik.extremesoundmuffler.MixinConnector]
-[05Sep2025 10:00:53.150] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[05Sep2025 10:00:53.329] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 186 options available, 0 override(s) found
-[05Sep2025 10:00:53.370] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
-[05Sep2025 10:00:53.374] [main/WARN] [mixin/]: Reference map 'bml.refmap.json' for bml.mixins.json could not be read. If this is a development environment you can ignore this message
-[05Sep2025 10:00:53.404] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[05Sep2025 10:00:53.480] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
-[05Sep2025 10:00:53.505] [main/INFO] [Puzzles Lib/]: Loading 140 mods:
+[05Sep2025 21:39:58.827] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[05Sep2025 21:39:58.831] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[05Sep2025 21:40:01.582] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[05Sep2025 21:40:01.640] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/uniCMD/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[05Sep2025 21:40:02.020] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/uniCMD/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[05Sep2025 21:40:02.021] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/uniCMD/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[05Sep2025 21:40:02.022] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/uniCMD/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[05Sep2025 21:40:02.023] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/uniCMD/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[05Sep2025 21:40:02.476] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[05Sep2025 21:40:02.477] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: geckolib. Using Mod File: /workspaces/uniCMD/servidor_minecraft/mods/geckolib-forge-1.20.1-4.7.4.jar
+[05Sep2025 21:40:02.477] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: curios. Using Mod File: /workspaces/uniCMD/servidor_minecraft/mods/curios-forge-5.14.1+1.20.1.jar
+[05Sep2025 21:40:02.478] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: cloth_config. Using Mod File: /workspaces/uniCMD/servidor_minecraft/mods/cloth-config-11.1.136-forge.jar
+[05Sep2025 21:40:02.478] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 21 dependencies adding them to mods collection
+[05Sep2025 21:40:06.069] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[05Sep2025 21:40:06.483] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.leobeliik.extremesoundmuffler.MixinConnector]
+[05Sep2025 21:40:06.484] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[05Sep2025 21:40:06.675] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 186 options available, 0 override(s) found
+[05Sep2025 21:40:06.710] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
+[05Sep2025 21:40:06.716] [main/WARN] [mixin/]: Reference map 'bml.refmap.json' for bml.mixins.json could not be read. If this is a development environment you can ignore this message
+[05Sep2025 21:40:06.748] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[05Sep2025 21:40:06.846] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[05Sep2025 21:40:06.883] [main/INFO] [Puzzles Lib/]: Loading 140 mods:
 	- advancednetherite 2.1.3
 	- advancementplaques 1.6.9
 	- ae2 15.4.8
@@ -162,261 +162,261 @@
 	- xaerominimap 25.2.10
 	- xaeroworldmap 1.39.12
 	- yungsapi 1.20-Forge-4.0.6
-[05Sep2025 10:00:53.885] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
-[05Sep2025 10:00:54.189] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[05Sep2025 10:00:54.200] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[05Sep2025 10:00:54.298] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
-[05Sep2025 10:00:54.301] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
-[05Sep2025 10:00:54.302] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
-[05Sep2025 10:00:54.340] [main/WARN] [mixin/]: Error loading class: org/violetmoon/quark/content/tweaks/module/GoldToolsHaveFortuneModule (java.lang.ClassNotFoundException: org.violetmoon.quark.content.tweaks.module.GoldToolsHaveFortuneModule)
-[05Sep2025 10:00:54.341] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[05Sep2025 10:00:54.342] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[05Sep2025 10:00:55.004] [main/WARN] [mixin/]: Error loading class: blusunrize/immersiveengineering/api/wires/GlobalWireNetwork (java.lang.ClassNotFoundException: blusunrize.immersiveengineering.api.wires.GlobalWireNetwork)
-[05Sep2025 10:00:55.004] [main/WARN] [mixin/]: @Mixin target blusunrize.immersiveengineering.api.wires.GlobalWireNetwork was not found mixins.epp.json:MixinGlobalWireNetwork
-[05Sep2025 10:00:55.038] [main/WARN] [mixin/]: Error loading class: vazkii/quark/addons/oddities/inventory/BackpackMenu (java.lang.ClassNotFoundException: vazkii.quark.addons.oddities.inventory.BackpackMenu)
-[05Sep2025 10:00:55.039] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/inventory/CraftingScreen (java.lang.ClassNotFoundException: net.minecraft.client.gui.screens.inventory.CraftingScreen)
-[05Sep2025 10:00:55.040] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.inventory.CraftingScreen was not found fastbench.mixins.json:MixinCraftingScreen
-[05Sep2025 10:00:55.298] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[05Sep2025 10:00:57.453] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/item/CreativeModeTabs
-[05Sep2025 10:00:59.207] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[05Sep2025 10:00:59.208] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[05Sep2025 10:00:59.331] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
-[05Sep2025 10:01:01.810] [main/WARN] [mixin/]: Method overwrite conflict for scheduleRandomTick in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
-[05Sep2025 10:01:01.810] [main/WARN] [mixin/]: Method overwrite conflict for getScheduledRandomTicks in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
-[05Sep2025 10:01:01.973] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching FishingHook#catchingFish
-[05Sep2025 10:01:02.294] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
-[05Sep2025 10:01:02.294] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isDiscoverable() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
-[05Sep2025 10:01:03.926] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
-[05Sep2025 10:01:05.071] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[05Sep2025 10:01:05.073] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id powah:packet
-[05Sep2025 10:01:05.112] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for pickupnotifier:main
-[05Sep2025 10:01:05.337] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
-[05Sep2025 10:01:05.340] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
-[05Sep2025 10:01:05.534] [modloading-worker-0/INFO] [ironfurnaces.IronFurnaces/]: Initializing Update Checker...
-[05Sep2025 10:01:05.536] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Starting Update Check...
-[05Sep2025 10:01:05.599] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
-[05Sep2025 10:01:05.664] [modloading-worker-0/INFO] [noisium/]: Loading Noisium.
-[05Sep2025 10:01:05.684] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:key_pressed
-[05Sep2025 10:01:05.687] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:mode_changed
-[05Sep2025 10:01:05.689] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:sync_config_to_server
-[05Sep2025 10:01:05.712] [modloading-worker-0/INFO] [com.aetherteam.cumulus.Cumulus/]: Disabling Cumulus as it is on server.
-[05Sep2025 10:01:05.942] [modloading-worker-0/WARN] [yungsapi/]: WARNING: block Block{minecraft:redstone_ore}[lit=false] added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[05Sep2025 10:01:05.984] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for enchantinginfuser:main
-[05Sep2025 10:01:06.029] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftblibrary:edit_nbt_response
-[05Sep2025 10:01:06.071] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:open_gui
-[05Sep2025 10:01:06.077] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:update_settings
-[05Sep2025 10:01:06.084] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:send_message
-[05Sep2025 10:01:06.092] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:create_party
-[05Sep2025 10:01:06.098] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:player_gui_operation
-[05Sep2025 10:01:06.191] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Update Check done!
-[05Sep2025 10:01:06.191] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Iron Furnaces is up to date!
-[05Sep2025 10:01:06.262] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for visualworkbench:main
-[05Sep2025 10:01:06.585] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[05Sep2025 10:01:06.588] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[05Sep2025 10:01:06.600] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[05Sep2025 10:01:06.603] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[05Sep2025 10:01:06.604] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[05Sep2025 10:01:06.617] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[05Sep2025 10:01:06.618] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[05Sep2025 10:01:06.721] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
-[05Sep2025 10:01:06.825] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:request_map_data
-[05Sep2025 10:01:06.828] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:share_waypoint
-[05Sep2025 10:01:06.837] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:request_chunk_change
-[05Sep2025 10:01:06.842] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:teleport_from_map
-[05Sep2025 10:01:06.847] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:sync_tx
-[05Sep2025 10:01:06.859] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:update_force_load_expiry
-[05Sep2025 10:01:06.859] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:server_config_request
-[05Sep2025 10:01:06.926] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[05Sep2025 10:01:06.927] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[05Sep2025 10:01:07.670] [modloading-worker-0/INFO] [PluginManager/]: Scanning classes for titanium
-[05Sep2025 10:01:08.359] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone items
-[05Sep2025 10:01:08.508] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Blocks
-[05Sep2025 10:01:08.588] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Wood
-[05Sep2025 10:01:08.596] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Entities
-[05Sep2025 10:01:08.596] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Entities
-[05Sep2025 10:01:08.598] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Creative Tabs
-[05Sep2025 10:01:08.598] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Sounds
-[05Sep2025 10:01:08.599] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Predicate
-[05Sep2025 10:01:08.603] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone State Providers
-[05Sep2025 10:01:08.605] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Decorators
-[05Sep2025 10:01:08.620] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Features
-[05Sep2025 10:01:08.622] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Structure Pieces
-[05Sep2025 10:01:08.626] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Types
-[05Sep2025 10:01:08.632] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.6 initializing! Commit hash: 338bfa0aec952fa51656e8f61bd621ca9b3b2e00
-[05Sep2025 10:01:08.634] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Configured Features
-[05Sep2025 10:01:08.664] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Configured Features
-[05Sep2025 10:01:08.784] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Configured Features
-[05Sep2025 10:01:08.785] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Configured Features
-[05Sep2025 10:01:08.795] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes You'll Go Overworld Configured Features
-[05Sep2025 10:01:08.809] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Placed Features
-[05Sep2025 10:01:08.818] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Tree Placed Features
-[05Sep2025 10:01:08.830] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Placed Features
-[05Sep2025 10:01:08.832] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Placed Features
-[05Sep2025 10:01:08.833] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Surface Rules
-[05Sep2025 10:01:08.849] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Template Pools
-[05Sep2025 10:01:08.868] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biome's We've Gone Village Template Pools
-[05Sep2025 10:01:08.874] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Poi Types
-[05Sep2025 10:01:08.883] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Villager Professions
-[05Sep2025 10:01:08.890] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Processors
-[05Sep2025 10:01:09.293] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
-[05Sep2025 10:01:09.561] [modloading-worker-0/INFO] [PluginManager/]: Scanning classes for functionalstorage
-[05Sep2025 10:01:09.655] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
-[05Sep2025 10:01:09.670] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[05Sep2025 10:01:09.706] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[05Sep2025 10:01:14.400] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
-[05Sep2025 10:01:14.401] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isTreasureOnly() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
-[05Sep2025 10:01:14.401] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isTradeable() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
-[05Sep2025 10:01:16.525] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.Entity from class it.hurts.octostudios.rarcompat.items.necklace.ScarfOfInvisibilityItem
-[05Sep2025 10:01:16.614] [main/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ae2wtlib:cycle_terminal
-[05Sep2025 10:01:17.367] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / artifacts:mimic] was not realized!
-[05Sep2025 10:01:17.394] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / artifacts:mimic] was not realized!
-[05Sep2025 10:01:17.446] [main/INFO] [Moonlight/]: Initialized block sets in 38ms
-[05Sep2025 10:01:17.565] [main/INFO] [evilcraft/]: 2205 possible Broom base combinations are ready for flying!
-[05Sep2025 10:01:19.131] [main/WARN] [yungsapi/]: WARNING: block Block{minecraft:redstone_ore}[lit=false] added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[05Sep2025 10:01:19.389] [modloading-worker-0/INFO] [evilcraft/]: Registered packet handler.
-[05Sep2025 10:01:19.770] [modloading-worker-0/INFO] [io.github.jamalam360.rightclickharvest.RightClickHarvestModInit/]: Initialized
-[05Sep2025 10:01:19.792] [modloading-worker-0/INFO] [com.black_dog20.bml.Bml/]: Setup Complete!
-[05Sep2025 10:01:19.817] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Version 10.4.16 initializing...
-[05Sep2025 10:01:19.855] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Generators' module.
-[05Sep2025 10:01:19.856] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Tools' module.
-[05Sep2025 10:01:19.867] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[05Sep2025 10:01:19.989] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/cyclops-core.json
-[05Sep2025 10:01:20.004] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
-[05Sep2025 10:01:20.004] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Mod loaded.
-[05Sep2025 10:01:20.056] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
-[05Sep2025 10:01:20.076] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
-[05Sep2025 10:01:20.152] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 4 clay_ball = 1 clay
-[05Sep2025 10:01:20.152] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 4 snowball = 1 snow_block
-[05Sep2025 10:01:20.152] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 4 glowstone_dust = 1 glowstone
-[05Sep2025 10:01:20.152] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 4 brick = 1 bricks
-[05Sep2025 10:01:20.152] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 4 nether_brick = 1 nether_bricks
-[05Sep2025 10:01:20.152] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 9 nether_wart = 1 nether_wart_block
-[05Sep2025 10:01:20.152] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 4 quartz = 1 quartz_block
-[05Sep2025 10:01:20.153] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 9 melon_slice = 1 melon
-[05Sep2025 10:01:20.153] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 9 bamboo = 1 bamboo_block
-[05Sep2025 10:01:20.161] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 4 clay_ball = 1 clay
-[05Sep2025 10:01:20.174] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New denied storage item creative_vending_upgrade
-[05Sep2025 10:01:20.176] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: Adding ore conversions for types: forge:storage_blocks, forge:ingots, forge:nuggets
-[05Sep2025 10:01:20.183] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: Adding ore conversions for materials: aluminum, constantan, steel, uranium, invar, tin, lead, silver, platinum, nickel, osmium, bronze, electrum
-[05Sep2025 10:01:20.388] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Found status: UP_TO_DATE Current: 1.20.1 Target: null
-[05Sep2025 10:01:20.389] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
-[05Sep2025 10:01:20.512] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 8.0.2 Target: null
-[05Sep2025 10:01:20.512] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Starting version check at https://github.com/The-Aether-Team/The-Aether/raw/1.20.1-develop/update.json
-[05Sep2025 10:01:20.893] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Found status: UP_TO_DATE Current: 1.20.1-1.5.2-neoforge Target: null
-[05Sep2025 10:01:20.894] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Starting version check at https://mc-update-check.anthonyhilyard.com/638111
-[05Sep2025 10:01:21.308] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Found status: UP_TO_DATE Current: 1.0.5 Target: null
-[05Sep2025 10:01:21.309] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/evilcraft.json
-[05Sep2025 10:01:21.434] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Found status: UP_TO_DATE Current: 1.2.58 Target: null
-[05Sep2025 10:01:21.435] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pickupnotifier] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/pickupnotifier.json
-[05Sep2025 10:01:21.449] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pickupnotifier] Found status: UP_TO_DATE Current: 8.0.0 Target: null
-[05Sep2025 10:01:21.449] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[05Sep2025 10:01:21.478] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[05Sep2025 10:01:21.478] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[05Sep2025 10:01:21.478] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[05Sep2025 10:01:21.478] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[05Sep2025 10:01:21.479] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[05Sep2025 10:01:21.479] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[05Sep2025 10:01:21.479] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[05Sep2025 10:01:21.556] [main/INFO] [Moonlight/]: Initialized color sets in 74ms
-[05Sep2025 10:01:21.601] [main/INFO] [terrablender/]: Registered region ars_nouveau:overworld to index 4 for type OVERWORLD
-[05Sep2025 10:01:21.653] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_0 to index 5 for type OVERWORLD
-[05Sep2025 10:01:21.653] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_1 to index 6 for type OVERWORLD
-[05Sep2025 10:01:21.653] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_2 to index 7 for type OVERWORLD
-[05Sep2025 10:01:21.722] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[05Sep2025 10:01:21.724] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[05Sep2025 10:01:21.725] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[05Sep2025 10:01:21.725] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[05Sep2025 10:01:21.738] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
-[05Sep2025 10:01:21.751] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
-[05Sep2025 10:01:21.751] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
-[05Sep2025 10:01:21.763] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
-[05Sep2025 10:01:21.763] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
-[05Sep2025 10:01:21.802] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.aetherteam.aether.integration.jade.AetherJadePlugin
-[05Sep2025 10:01:21.810] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at dev.shadowsoffire.gateways.compat.GatewayJadePlugin
-[05Sep2025 10:01:21.811] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at dev.shadowsoffire.apotheosis.spawn.compat.SpawnerHwylaPlugin
-[05Sep2025 10:01:21.813] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at dev.shadowsoffire.apotheosis.ench.compat.EnchHwylaPlugin
-[05Sep2025 10:01:21.814] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at dev.shadowsoffire.apotheosis.adventure.compat.AdventureHwylaPlugin
-[05Sep2025 10:01:21.816] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
-[05Sep2025 10:01:21.816] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
-[05Sep2025 10:01:21.817] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
-[05Sep2025 10:01:21.818] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.JadeAddonsBase
-[05Sep2025 10:01:21.831] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.p3pp3rf1y.sophisticatedstorage.compat.jade.StorageJadePlugin
-[05Sep2025 10:01:21.831] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at mekanism.common.integration.lookingat.jade.MekanismJadePlugin
-[05Sep2025 10:01:21.833] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[05Sep2025 10:01:21.834] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.hollingsworth.arsnouveau.client.waila.WailaArsNouveauPlugin
-[05Sep2025 10:01:21.835] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[05Sep2025 10:01:21.848] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[05Sep2025 10:01:21.853] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[05Sep2025 10:01:21.855] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at appeng.integration.modules.jade.JadeModule
-[05Sep2025 10:01:21.878] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.glodblock.github.extendedae.xmod.jade.JadePlugin
-[05Sep2025 10:01:21.880] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.easyvillagers.integration.waila.PluginEasyVillagers
-[05Sep2025 10:01:21.881] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at xfacthd.framedblocks.common.compat.jade.FramedJadePlugin
-[05Sep2025 10:01:21.882] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.jaquadro.minecraft.storagedrawers.integration.Waila
-[05Sep2025 10:01:21.883] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at me.ramidzkh.mekae2.integration.jade.AMJadePlugin
-[05Sep2025 10:01:21.924] [main/INFO] [citadel/]: adding citadel surface rules via terrablender...
-[05Sep2025 10:01:21.928] [main/INFO] [citadel/]: Added 0 vanilla biome surface rule types via terrablender
-[05Sep2025 10:01:21.928] [main/INFO] [citadel/]: Added 0 modded biome surface rule types via terrablender
-[05Sep2025 10:01:22.478] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.21 Target: null
-[05Sep2025 10:01:22.479] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Starting version check at https://mc-update-check.anthonyhilyard.com/499826
-[05Sep2025 10:01:22.550] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Found status: UP_TO_DATE Current: 1.6.9 Target: null
-[05Sep2025 10:01:22.551] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jetboots] Starting version check at https://raw.githubusercontent.com/Crimix/jetboots/1.20/update.json
-[05Sep2025 10:01:22.564] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jetboots] Found status: UP_TO_DATE Current: 1.2.6 Target: null
-[05Sep2025 10:01:22.564] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
-[05Sep2025 10:01:22.709] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.1.3 Target: 2.1.3
-[05Sep2025 10:01:22.709] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Starting version check at https://github.com/The-Aether-Team/Cumulus/raw/1.20.1-develop/update.json
-[05Sep2025 10:01:22.860] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Found status: UP_TO_DATE Current: 1.20.1-1.0.1-neoforge Target: null
-[05Sep2025 10:01:22.861] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
-[05Sep2025 10:01:22.874] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
-[05Sep2025 10:01:22.874] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
-[05Sep2025 10:01:22.889] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: UP_TO_DATE Current: 8.0.3 Target: null
-[05Sep2025 10:01:22.889] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blackdogsmoddinglibrary] Starting version check at https://raw.githubusercontent.com/Crimix/bml/1.20/update.json
-[05Sep2025 10:01:22.904] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blackdogsmoddinglibrary] Found status: UP_TO_DATE Current: 1.1.8 Target: null
-[05Sep2025 10:01:22.904] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/visualworkbench.json
-[05Sep2025 10:01:22.926] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Found status: UP_TO_DATE Current: 8.0.1 Target: null
-[05Sep2025 10:01:22.927] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[05Sep2025 10:01:22.942] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
-[05Sep2025 10:01:22.942] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[05Sep2025 10:01:23.092] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[05Sep2025 10:01:23.092] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://update.maxhenkel.de/forge/easy_villagers
-[05Sep2025 10:01:23.235] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Found status: OUTDATED Current: 1.20.1-1.1.23 Target: 1.20.1-1.1.35
-[05Sep2025 10:01:23.235] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
-[05Sep2025 10:01:23.306] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.25 Target: null
-[05Sep2025 10:01:23.308] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[05Sep2025 10:01:23.324] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.33 Target: null
-[05Sep2025 10:01:23.324] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [appmek] Starting version check at https://api.modrinth.com/updates/applied-mekanistics/forge_updates.json
-[05Sep2025 10:01:23.530] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [appmek] Found status: BETA Current: 1.4.2 Target: null
-[05Sep2025 10:01:30.406] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[05Sep2025 10:01:36.731] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/uniCMD/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23353!/assets/.mcassetsroot' uses unexpected schema
-[05Sep2025 10:01:36.731] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/uniCMD/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23353!/data/.mcassetsroot' uses unexpected schema
-[05Sep2025 10:01:36.921] [main/INFO] [com.simibubi.create.Create/]: Created 830 recipes which will be injected into the game
-[05Sep2025 10:01:36.940] [main/INFO] [com.simibubi.create.Create/]: Created 4 tags which will be injected into the game
-[05Sep2025 10:01:37.103] [main/INFO] [Moonlight/]: Starting runtime resource generation for pack type SERVER_DATA with generators from mods []: []
-[05Sep2025 10:01:37.104] [main/INFO] [Moonlight/]: Finished runtime resources generation for 0 packs in a total of 0 ms
-[05Sep2025 10:01:38.560] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/server/commands/EnchantCommand
-[05Sep2025 10:01:38.847] [main/INFO] [AE2:C/]: Scanning class appeng.server.testplots.TestPlots for plots
-[05Sep2025 10:01:38.851] [main/INFO] [AE2:C/]: Scanning class appeng.server.testplots.AutoCraftingTestPlots for plots
-[05Sep2025 10:01:38.852] [main/INFO] [AE2:C/]: Scanning class appeng.server.testplots.InscriberTestPlots for plots
-[05Sep2025 10:01:38.864] [main/INFO] [AE2:C/]: Scanning class appeng.server.testplots.P2PTestPlots for plots
-[05Sep2025 10:01:38.864] [main/INFO] [AE2:C/]: Scanning class appeng.server.testplots.ItemP2PTestPlots for plots
-[05Sep2025 10:01:38.864] [main/INFO] [AE2:C/]: Scanning class appeng.server.testplots.MemoryCardTestPlots for plots
-[05Sep2025 10:01:38.865] [main/INFO] [AE2:C/]: Scanning class appeng.server.testplots.PatternProviderLockModePlots for plots
-[05Sep2025 10:01:38.866] [main/INFO] [AE2:C/]: Scanning class appeng.server.testplots.PatternProviderPlots for plots
-[05Sep2025 10:01:38.866] [main/INFO] [AE2:C/]: Scanning class appeng.server.testplots.SpatialTestPlots for plots
-[05Sep2025 10:01:38.867] [main/INFO] [AE2:C/]: Scanning class appeng.server.testplots.QnbTestPlots for plots
-[05Sep2025 10:01:38.867] [main/INFO] [AE2:C/]: Scanning class appeng.server.testplots.GuidebookPlot for plots
-[05Sep2025 10:01:38.867] [main/INFO] [AE2:C/]: Scanning class appeng.server.testplots.SubnetPlots for plots
-[05Sep2025 10:01:38.867] [main/INFO] [AE2:C/]: Scanning class appeng.server.testplots.ChannelTests for plots
-[05Sep2025 10:01:38.868] [main/INFO] [AE2:C/]: Scanning class appeng.server.testplots.AnnihilationPlaneTests for plots
-[05Sep2025 10:01:38.868] [main/INFO] [AE2:C/]: Scanning class de.mari_023.ae2wtlib.AE2WTLibTestPlots for plots
-[05Sep2025 10:01:38.956] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[05Sep2025 10:01:39.240] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:wraith_spawnable as it is missing following references: quark:soul_stone (from bygonenether-1.3.2-1.20.x.jar)
-[05Sep2025 10:01:39.241] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:vertical_slab as it is missing following references: bygonenether:withered_blackstone_vertical_slab (from bygonenether-1.3.2-1.20.x.jar), 
+[05Sep2025 21:40:07.310] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
+[05Sep2025 21:40:07.683] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[05Sep2025 21:40:07.693] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[05Sep2025 21:40:07.788] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[05Sep2025 21:40:07.789] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[05Sep2025 21:40:07.789] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
+[05Sep2025 21:40:07.842] [main/WARN] [mixin/]: Error loading class: org/violetmoon/quark/content/tweaks/module/GoldToolsHaveFortuneModule (java.lang.ClassNotFoundException: org.violetmoon.quark.content.tweaks.module.GoldToolsHaveFortuneModule)
+[05Sep2025 21:40:07.844] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[05Sep2025 21:40:07.845] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[05Sep2025 21:40:08.546] [main/WARN] [mixin/]: Error loading class: blusunrize/immersiveengineering/api/wires/GlobalWireNetwork (java.lang.ClassNotFoundException: blusunrize.immersiveengineering.api.wires.GlobalWireNetwork)
+[05Sep2025 21:40:08.546] [main/WARN] [mixin/]: @Mixin target blusunrize.immersiveengineering.api.wires.GlobalWireNetwork was not found mixins.epp.json:MixinGlobalWireNetwork
+[05Sep2025 21:40:08.599] [main/WARN] [mixin/]: Error loading class: vazkii/quark/addons/oddities/inventory/BackpackMenu (java.lang.ClassNotFoundException: vazkii.quark.addons.oddities.inventory.BackpackMenu)
+[05Sep2025 21:40:08.600] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/inventory/CraftingScreen (java.lang.ClassNotFoundException: net.minecraft.client.gui.screens.inventory.CraftingScreen)
+[05Sep2025 21:40:08.600] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.inventory.CraftingScreen was not found fastbench.mixins.json:MixinCraftingScreen
+[05Sep2025 21:40:08.839] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[05Sep2025 21:40:11.277] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/item/CreativeModeTabs
+[05Sep2025 21:40:13.074] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[05Sep2025 21:40:13.074] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[05Sep2025 21:40:13.324] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
+[05Sep2025 21:40:16.370] [main/WARN] [mixin/]: Method overwrite conflict for scheduleRandomTick in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
+[05Sep2025 21:40:16.370] [main/WARN] [mixin/]: Method overwrite conflict for getScheduledRandomTicks in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
+[05Sep2025 21:40:16.569] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching FishingHook#catchingFish
+[05Sep2025 21:40:17.015] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
+[05Sep2025 21:40:17.015] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isDiscoverable() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
+[05Sep2025 21:40:18.780] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
+[05Sep2025 21:40:19.958] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[05Sep2025 21:40:19.959] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id powah:packet
+[05Sep2025 21:40:20.077] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for pickupnotifier:main
+[05Sep2025 21:40:20.462] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[05Sep2025 21:40:20.462] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[05Sep2025 21:40:20.698] [modloading-worker-0/INFO] [ironfurnaces.IronFurnaces/]: Initializing Update Checker...
+[05Sep2025 21:40:20.710] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Starting Update Check...
+[05Sep2025 21:40:20.777] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
+[05Sep2025 21:40:20.847] [modloading-worker-0/INFO] [noisium/]: Loading Noisium.
+[05Sep2025 21:40:20.861] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:key_pressed
+[05Sep2025 21:40:20.869] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:mode_changed
+[05Sep2025 21:40:20.874] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:sync_config_to_server
+[05Sep2025 21:40:20.888] [modloading-worker-0/INFO] [com.aetherteam.cumulus.Cumulus/]: Disabling Cumulus as it is on server.
+[05Sep2025 21:40:21.173] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for enchantinginfuser:main
+[05Sep2025 21:40:21.208] [modloading-worker-0/WARN] [yungsapi/]: WARNING: block Block{minecraft:redstone_ore}[lit=false] added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[05Sep2025 21:40:21.245] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[05Sep2025 21:40:21.289] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:open_gui
+[05Sep2025 21:40:21.292] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:update_settings
+[05Sep2025 21:40:21.293] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:send_message
+[05Sep2025 21:40:21.302] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:create_party
+[05Sep2025 21:40:21.306] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:player_gui_operation
+[05Sep2025 21:40:21.499] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Update Check done!
+[05Sep2025 21:40:21.499] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Iron Furnaces is up to date!
+[05Sep2025 21:40:21.551] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for visualworkbench:main
+[05Sep2025 21:40:21.936] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[05Sep2025 21:40:21.937] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[05Sep2025 21:40:21.940] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[05Sep2025 21:40:21.943] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[05Sep2025 21:40:21.944] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
+[05Sep2025 21:40:21.948] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[05Sep2025 21:40:21.949] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[05Sep2025 21:40:21.955] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[05Sep2025 21:40:22.204] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:request_map_data
+[05Sep2025 21:40:22.205] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:share_waypoint
+[05Sep2025 21:40:22.208] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:request_chunk_change
+[05Sep2025 21:40:22.217] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:teleport_from_map
+[05Sep2025 21:40:22.222] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:sync_tx
+[05Sep2025 21:40:22.224] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:update_force_load_expiry
+[05Sep2025 21:40:22.227] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:server_config_request
+[05Sep2025 21:40:22.277] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[05Sep2025 21:40:22.277] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[05Sep2025 21:40:23.056] [modloading-worker-0/INFO] [PluginManager/]: Scanning classes for titanium
+[05Sep2025 21:40:23.696] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone items
+[05Sep2025 21:40:23.872] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Blocks
+[05Sep2025 21:40:23.899] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.6 initializing! Commit hash: 338bfa0aec952fa51656e8f61bd621ca9b3b2e00
+[05Sep2025 21:40:23.983] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Wood
+[05Sep2025 21:40:23.992] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Entities
+[05Sep2025 21:40:23.993] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Entities
+[05Sep2025 21:40:23.994] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Creative Tabs
+[05Sep2025 21:40:23.994] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Sounds
+[05Sep2025 21:40:23.995] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Predicate
+[05Sep2025 21:40:24.001] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone State Providers
+[05Sep2025 21:40:24.010] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Decorators
+[05Sep2025 21:40:24.036] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Features
+[05Sep2025 21:40:24.041] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Structure Pieces
+[05Sep2025 21:40:24.042] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Types
+[05Sep2025 21:40:24.050] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Configured Features
+[05Sep2025 21:40:24.069] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Configured Features
+[05Sep2025 21:40:24.198] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Configured Features
+[05Sep2025 21:40:24.202] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Configured Features
+[05Sep2025 21:40:24.212] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes You'll Go Overworld Configured Features
+[05Sep2025 21:40:24.219] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Placed Features
+[05Sep2025 21:40:24.236] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Tree Placed Features
+[05Sep2025 21:40:24.338] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Placed Features
+[05Sep2025 21:40:24.344] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Placed Features
+[05Sep2025 21:40:24.345] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Surface Rules
+[05Sep2025 21:40:24.383] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Template Pools
+[05Sep2025 21:40:24.402] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biome's We've Gone Village Template Pools
+[05Sep2025 21:40:24.407] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Poi Types
+[05Sep2025 21:40:24.408] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Villager Professions
+[05Sep2025 21:40:24.412] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Processors
+[05Sep2025 21:40:24.741] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[05Sep2025 21:40:25.192] [modloading-worker-0/INFO] [PluginManager/]: Scanning classes for functionalstorage
+[05Sep2025 21:40:25.404] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[05Sep2025 21:40:25.439] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
+[05Sep2025 21:40:25.701] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[05Sep2025 21:40:30.458] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[05Sep2025 21:40:30.458] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isTreasureOnly() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[05Sep2025 21:40:30.459] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isTradeable() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[05Sep2025 21:40:32.673] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.Entity from class it.hurts.octostudios.rarcompat.items.necklace.ScarfOfInvisibilityItem
+[05Sep2025 21:40:32.750] [main/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ae2wtlib:cycle_terminal
+[05Sep2025 21:40:33.231] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / artifacts:mimic] was not realized!
+[05Sep2025 21:40:33.252] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / artifacts:mimic] was not realized!
+[05Sep2025 21:40:33.301] [main/INFO] [Moonlight/]: Initialized block sets in 36ms
+[05Sep2025 21:40:33.390] [main/INFO] [evilcraft/]: 2205 possible Broom base combinations are ready for flying!
+[05Sep2025 21:40:34.798] [main/WARN] [yungsapi/]: WARNING: block Block{minecraft:redstone_ore}[lit=false] added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[05Sep2025 21:40:34.994] [modloading-worker-0/INFO] [evilcraft/]: Registered packet handler.
+[05Sep2025 21:40:35.208] [modloading-worker-0/INFO] [io.github.jamalam360.rightclickharvest.RightClickHarvestModInit/]: Initialized
+[05Sep2025 21:40:35.221] [modloading-worker-0/INFO] [com.black_dog20.bml.Bml/]: Setup Complete!
+[05Sep2025 21:40:35.231] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Version 10.4.16 initializing...
+[05Sep2025 21:40:35.246] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Generators' module.
+[05Sep2025 21:40:35.248] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Tools' module.
+[05Sep2025 21:40:35.262] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[05Sep2025 21:40:35.333] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/cyclops-core.json
+[05Sep2025 21:40:35.375] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[05Sep2025 21:40:35.377] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Mod loaded.
+[05Sep2025 21:40:35.396] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
+[05Sep2025 21:40:35.406] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
+[05Sep2025 21:40:35.481] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 4 clay_ball = 1 clay
+[05Sep2025 21:40:35.481] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 4 snowball = 1 snow_block
+[05Sep2025 21:40:35.481] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 4 glowstone_dust = 1 glowstone
+[05Sep2025 21:40:35.482] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 4 brick = 1 bricks
+[05Sep2025 21:40:35.482] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 4 nether_brick = 1 nether_bricks
+[05Sep2025 21:40:35.482] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 9 nether_wart = 1 nether_wart_block
+[05Sep2025 21:40:35.482] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 4 quartz = 1 quartz_block
+[05Sep2025 21:40:35.482] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 9 melon_slice = 1 melon
+[05Sep2025 21:40:35.482] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 9 bamboo = 1 bamboo_block
+[05Sep2025 21:40:35.487] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 4 clay_ball = 1 clay
+[05Sep2025 21:40:35.489] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New denied storage item creative_vending_upgrade
+[05Sep2025 21:40:35.493] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: Adding ore conversions for types: forge:storage_blocks, forge:ingots, forge:nuggets
+[05Sep2025 21:40:35.493] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: Adding ore conversions for materials: aluminum, constantan, steel, uranium, invar, tin, lead, silver, platinum, nickel, osmium, bronze, electrum
+[05Sep2025 21:40:35.607] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Found status: UP_TO_DATE Current: 1.20.1 Target: null
+[05Sep2025 21:40:35.609] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
+[05Sep2025 21:40:35.628] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 8.0.2 Target: null
+[05Sep2025 21:40:35.628] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Starting version check at https://github.com/The-Aether-Team/The-Aether/raw/1.20.1-develop/update.json
+[05Sep2025 21:40:35.990] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Found status: UP_TO_DATE Current: 1.20.1-1.5.2-neoforge Target: null
+[05Sep2025 21:40:35.991] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Starting version check at https://mc-update-check.anthonyhilyard.com/638111
+[05Sep2025 21:40:36.412] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Found status: UP_TO_DATE Current: 1.0.5 Target: null
+[05Sep2025 21:40:36.412] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/evilcraft.json
+[05Sep2025 21:40:36.527] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Found status: UP_TO_DATE Current: 1.2.58 Target: null
+[05Sep2025 21:40:36.528] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pickupnotifier] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/pickupnotifier.json
+[05Sep2025 21:40:36.542] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pickupnotifier] Found status: UP_TO_DATE Current: 8.0.0 Target: null
+[05Sep2025 21:40:36.542] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[05Sep2025 21:40:36.704] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[05Sep2025 21:40:36.704] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[05Sep2025 21:40:36.704] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[05Sep2025 21:40:36.704] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[05Sep2025 21:40:36.704] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[05Sep2025 21:40:36.704] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[05Sep2025 21:40:36.704] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[05Sep2025 21:40:36.745] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[05Sep2025 21:40:36.746] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[05Sep2025 21:40:36.768] [main/INFO] [Moonlight/]: Initialized color sets in 61ms
+[05Sep2025 21:40:36.785] [main/INFO] [terrablender/]: Registered region ars_nouveau:overworld to index 4 for type OVERWORLD
+[05Sep2025 21:40:36.832] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_0 to index 5 for type OVERWORLD
+[05Sep2025 21:40:36.832] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_1 to index 6 for type OVERWORLD
+[05Sep2025 21:40:36.832] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_2 to index 7 for type OVERWORLD
+[05Sep2025 21:40:36.898] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[05Sep2025 21:40:36.905] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[05Sep2025 21:40:36.910] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[05Sep2025 21:40:36.910] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[05Sep2025 21:40:36.926] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[05Sep2025 21:40:36.942] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
+[05Sep2025 21:40:36.944] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
+[05Sep2025 21:40:36.996] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.aetherteam.aether.integration.jade.AetherJadePlugin
+[05Sep2025 21:40:37.005] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at dev.shadowsoffire.gateways.compat.GatewayJadePlugin
+[05Sep2025 21:40:37.005] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at dev.shadowsoffire.apotheosis.spawn.compat.SpawnerHwylaPlugin
+[05Sep2025 21:40:37.006] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at dev.shadowsoffire.apotheosis.ench.compat.EnchHwylaPlugin
+[05Sep2025 21:40:37.008] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at dev.shadowsoffire.apotheosis.adventure.compat.AdventureHwylaPlugin
+[05Sep2025 21:40:37.009] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
+[05Sep2025 21:40:37.010] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
+[05Sep2025 21:40:37.010] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
+[05Sep2025 21:40:37.012] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.JadeAddonsBase
+[05Sep2025 21:40:37.027] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.p3pp3rf1y.sophisticatedstorage.compat.jade.StorageJadePlugin
+[05Sep2025 21:40:37.028] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at mekanism.common.integration.lookingat.jade.MekanismJadePlugin
+[05Sep2025 21:40:37.030] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[05Sep2025 21:40:37.031] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.hollingsworth.arsnouveau.client.waila.WailaArsNouveauPlugin
+[05Sep2025 21:40:37.031] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[05Sep2025 21:40:37.045] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[05Sep2025 21:40:37.050] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[05Sep2025 21:40:37.053] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at appeng.integration.modules.jade.JadeModule
+[05Sep2025 21:40:37.069] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.glodblock.github.extendedae.xmod.jade.JadePlugin
+[05Sep2025 21:40:37.071] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.easyvillagers.integration.waila.PluginEasyVillagers
+[05Sep2025 21:40:37.071] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at xfacthd.framedblocks.common.compat.jade.FramedJadePlugin
+[05Sep2025 21:40:37.072] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.jaquadro.minecraft.storagedrawers.integration.Waila
+[05Sep2025 21:40:37.073] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at me.ramidzkh.mekae2.integration.jade.AMJadePlugin
+[05Sep2025 21:40:37.089] [main/INFO] [citadel/]: adding citadel surface rules via terrablender...
+[05Sep2025 21:40:37.091] [main/INFO] [citadel/]: Added 0 vanilla biome surface rule types via terrablender
+[05Sep2025 21:40:37.091] [main/INFO] [citadel/]: Added 0 modded biome surface rule types via terrablender
+[05Sep2025 21:40:37.370] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.21 Target: null
+[05Sep2025 21:40:37.371] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Starting version check at https://mc-update-check.anthonyhilyard.com/499826
+[05Sep2025 21:40:37.438] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Found status: UP_TO_DATE Current: 1.6.9 Target: null
+[05Sep2025 21:40:37.438] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jetboots] Starting version check at https://raw.githubusercontent.com/Crimix/jetboots/1.20/update.json
+[05Sep2025 21:40:37.558] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jetboots] Found status: UP_TO_DATE Current: 1.2.6 Target: null
+[05Sep2025 21:40:37.559] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
+[05Sep2025 21:40:37.664] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.1.3 Target: 2.1.3
+[05Sep2025 21:40:37.665] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Starting version check at https://github.com/The-Aether-Team/Cumulus/raw/1.20.1-develop/update.json
+[05Sep2025 21:40:37.737] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Found status: UP_TO_DATE Current: 1.20.1-1.0.1-neoforge Target: null
+[05Sep2025 21:40:37.740] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
+[05Sep2025 21:40:37.752] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
+[05Sep2025 21:40:37.752] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
+[05Sep2025 21:40:37.765] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: UP_TO_DATE Current: 8.0.3 Target: null
+[05Sep2025 21:40:37.766] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blackdogsmoddinglibrary] Starting version check at https://raw.githubusercontent.com/Crimix/bml/1.20/update.json
+[05Sep2025 21:40:37.880] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blackdogsmoddinglibrary] Found status: UP_TO_DATE Current: 1.1.8 Target: null
+[05Sep2025 21:40:37.880] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/visualworkbench.json
+[05Sep2025 21:40:37.892] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[05Sep2025 21:40:37.893] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[05Sep2025 21:40:37.905] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
+[05Sep2025 21:40:37.905] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[05Sep2025 21:40:38.088] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[05Sep2025 21:40:38.088] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://update.maxhenkel.de/forge/easy_villagers
+[05Sep2025 21:40:38.229] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Found status: OUTDATED Current: 1.20.1-1.1.23 Target: 1.20.1-1.1.35
+[05Sep2025 21:40:38.230] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[05Sep2025 21:40:38.296] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.25 Target: null
+[05Sep2025 21:40:38.296] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[05Sep2025 21:40:38.308] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.33 Target: null
+[05Sep2025 21:40:38.308] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [appmek] Starting version check at https://api.modrinth.com/updates/applied-mekanistics/forge_updates.json
+[05Sep2025 21:40:38.494] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [appmek] Found status: BETA Current: 1.4.2 Target: null
+[05Sep2025 21:40:44.635] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05Sep2025 21:40:50.615] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/uniCMD/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23353!/assets/.mcassetsroot' uses unexpected schema
+[05Sep2025 21:40:50.616] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/uniCMD/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23353!/data/.mcassetsroot' uses unexpected schema
+[05Sep2025 21:40:50.867] [main/INFO] [com.simibubi.create.Create/]: Created 830 recipes which will be injected into the game
+[05Sep2025 21:40:50.904] [main/INFO] [com.simibubi.create.Create/]: Created 4 tags which will be injected into the game
+[05Sep2025 21:40:51.048] [main/INFO] [Moonlight/]: Starting runtime resource generation for pack type SERVER_DATA with generators from mods []: []
+[05Sep2025 21:40:51.048] [main/INFO] [Moonlight/]: Finished runtime resources generation for 0 packs in a total of 0 ms
+[05Sep2025 21:40:52.337] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/server/commands/EnchantCommand
+[05Sep2025 21:40:52.614] [main/INFO] [AE2:C/]: Scanning class appeng.server.testplots.TestPlots for plots
+[05Sep2025 21:40:52.617] [main/INFO] [AE2:C/]: Scanning class appeng.server.testplots.AutoCraftingTestPlots for plots
+[05Sep2025 21:40:52.618] [main/INFO] [AE2:C/]: Scanning class appeng.server.testplots.InscriberTestPlots for plots
+[05Sep2025 21:40:52.627] [main/INFO] [AE2:C/]: Scanning class appeng.server.testplots.P2PTestPlots for plots
+[05Sep2025 21:40:52.627] [main/INFO] [AE2:C/]: Scanning class appeng.server.testplots.ItemP2PTestPlots for plots
+[05Sep2025 21:40:52.628] [main/INFO] [AE2:C/]: Scanning class appeng.server.testplots.MemoryCardTestPlots for plots
+[05Sep2025 21:40:52.628] [main/INFO] [AE2:C/]: Scanning class appeng.server.testplots.PatternProviderLockModePlots for plots
+[05Sep2025 21:40:52.629] [main/INFO] [AE2:C/]: Scanning class appeng.server.testplots.PatternProviderPlots for plots
+[05Sep2025 21:40:52.629] [main/INFO] [AE2:C/]: Scanning class appeng.server.testplots.SpatialTestPlots for plots
+[05Sep2025 21:40:52.630] [main/INFO] [AE2:C/]: Scanning class appeng.server.testplots.QnbTestPlots for plots
+[05Sep2025 21:40:52.630] [main/INFO] [AE2:C/]: Scanning class appeng.server.testplots.GuidebookPlot for plots
+[05Sep2025 21:40:52.630] [main/INFO] [AE2:C/]: Scanning class appeng.server.testplots.SubnetPlots for plots
+[05Sep2025 21:40:52.630] [main/INFO] [AE2:C/]: Scanning class appeng.server.testplots.ChannelTests for plots
+[05Sep2025 21:40:52.630] [main/INFO] [AE2:C/]: Scanning class appeng.server.testplots.AnnihilationPlaneTests for plots
+[05Sep2025 21:40:52.631] [main/INFO] [AE2:C/]: Scanning class de.mari_023.ae2wtlib.AE2WTLibTestPlots for plots
+[05Sep2025 21:40:52.694] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[05Sep2025 21:40:52.919] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:wraith_spawnable as it is missing following references: quark:soul_stone (from bygonenether-1.3.2-1.20.x.jar)
+[05Sep2025 21:40:52.920] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:vertical_slab as it is missing following references: bygonenether:withered_blackstone_vertical_slab (from bygonenether-1.3.2-1.20.x.jar), 
 	bygonenether:cracked_withered_blackstone_vertical_slab (from bygonenether-1.3.2-1.20.x.jar), 
 	bygonenether:warped_nether_brick_vertical_slab (from bygonenether-1.3.2-1.20.x.jar)
-[05Sep2025 10:01:39.266] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:vertical_slab as it is missing following references: bygonenether:withered_blackstone_vertical_slab (from bygonenether-1.3.2-1.20.x.jar), 
+[05Sep2025 21:40:52.989] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:vertical_slab as it is missing following references: bygonenether:withered_blackstone_vertical_slab (from bygonenether-1.3.2-1.20.x.jar), 
 	bygonenether:cracked_withered_blackstone_vertical_slab (from bygonenether-1.3.2-1.20.x.jar), 
 	bygonenether:warped_nether_brick_vertical_slab (from bygonenether-1.3.2-1.20.x.jar)
-[05Sep2025 10:01:40.192] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:bygonenether:blocks/withered_blackstone_vertical_slab
+[05Sep2025 21:40:53.723] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:bygonenether:blocks/withered_blackstone_vertical_slab
 java.lang.IllegalArgumentException: Can't find block bygonenether:withered_blackstone_vertical_slab
 	at net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition$Serializer.m_81802_(LootItemBlockStatePropertyCondition.java:79) ~[server-1.20.1-20230612.114412-srg.jar%23353!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -488,7 +488,7 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:withered_black
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[05Sep2025 10:01:40.299] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:bygonenether:blocks/cracked_withered_blackstone_vertical_slab
+[05Sep2025 21:40:53.824] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:bygonenether:blocks/cracked_withered_blackstone_vertical_slab
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'bygonenether:cracked_withered_blackstone_vertical_slab'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23353!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -540,8 +540,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[05Sep2025 10:01:40.312] [Worker-Main-3/INFO] [Mantle/]: Loaded 20 loot table injectors injecting into 18 tables in 19.66695 ms
-[05Sep2025 10:01:40.622] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:expatternprovider:blocks/ex_emc_interface
+[05Sep2025 21:40:53.841] [Worker-Main-3/INFO] [Mantle/]: Loaded 20 loot table injectors injecting into 18 tables in 25.977318 ms
+[05Sep2025 21:40:54.317] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:expatternprovider:blocks/ex_emc_interface
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'expatternprovider:ex_emc_interface'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23353!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -593,7 +593,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[05Sep2025 10:01:40.761] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:bygonenether:blocks/warped_nether_brick_vertical_slab
+[05Sep2025 21:40:54.488] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:bygonenether:blocks/warped_nether_brick_vertical_slab
 java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_brick_vertical_slab
 	at net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition$Serializer.m_81802_(LootItemBlockStatePropertyCondition.java:79) ~[server-1.20.1-20230612.114412-srg.jar%23353!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -665,9 +665,9 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[05Sep2025 10:01:40.843] [main/INFO] [placebo/]: Registered 34 additional loot tables.
-[05Sep2025 10:01:41.023] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expatternprovider:ex_emc_import_bus as it's serializer returned null
-[05Sep2025 10:01:41.080] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mob_grinding_utils:beheading/piglin
+[05Sep2025 21:40:54.565] [main/INFO] [placebo/]: Registered 34 additional loot tables.
+[05Sep2025 21:40:54.739] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expatternprovider:ex_emc_import_bus as it's serializer returned null
+[05Sep2025 21:40:54.785] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mob_grinding_utils:beheading/piglin
 com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown string 'tconstruct:piglin_head'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23353!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -704,10 +704,10 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[05Sep2025 10:01:41.118] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[05Sep2025 10:01:41.214] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe jetboots:wireless_crafting_upgrade_rs as it's serializer returned null
-[05Sep2025 10:01:41.216] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expatternprovider:ex_emc_interface as it's serializer returned null
-[05Sep2025 10:01:41.244] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe jetboots:wireless_crafting_upgrade_rs_smithing
+[05Sep2025 21:40:54.801] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[05Sep2025 21:40:54.880] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe jetboots:wireless_crafting_upgrade_rs as it's serializer returned null
+[05Sep2025 21:40:54.881] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expatternprovider:ex_emc_interface as it's serializer returned null
+[05Sep2025 21:40:54.906] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe jetboots:wireless_crafting_upgrade_rs_smithing
 com.google.gson.JsonSyntaxException: Unknown item 'jetboots:wireless_crafting_upgrade_rs'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23353!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -745,8 +745,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'jetboots:wireless_crafting_up
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[05Sep2025 10:01:41.249] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[05Sep2025 10:01:41.286] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe jetboots:wireless_range_upgrade_rs_smithing
+[05Sep2025 21:40:54.909] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[05Sep2025 21:40:54.947] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe jetboots:wireless_range_upgrade_rs_smithing
 com.google.gson.JsonSyntaxException: Unknown item 'jetboots:wireless_range_upgrade_rs'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23353!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -784,11 +784,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'jetboots:wireless_range_upgra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[05Sep2025 10:01:41.290] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expatternprovider:ex_emc_interface_upgrade as it's serializer returned null
-[05Sep2025 10:01:41.364] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[05Sep2025 10:01:41.382] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[05Sep2025 10:01:41.393] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe jetboots:wireless_range_upgrade_rs as it's serializer returned null
-[05Sep2025 10:01:41.411] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet
+[05Sep2025 21:40:54.952] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expatternprovider:ex_emc_interface_upgrade as it's serializer returned null
+[05Sep2025 21:40:55.031] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[05Sep2025 21:40:55.045] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[05Sep2025 21:40:55.057] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe jetboots:wireless_range_upgrade_rs as it's serializer returned null
+[05Sep2025 21:40:55.076] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet
 com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingot'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23353!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -826,8 +826,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[05Sep2025 10:01:41.433] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[05Sep2025 10:01:41.444] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alexsdelight:barbecue_on_a_stick
+[05Sep2025 21:40:55.101] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[05Sep2025 21:40:55.114] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alexsdelight:barbecue_on_a_stick
 com.google.gson.JsonSyntaxException: Unknown item 'amfd:singular_cooked_moose_rib'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23353!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -865,40 +865,40 @@ com.google.gson.JsonSyntaxException: Unknown item 'amfd:singular_cooked_moose_ri
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[05Sep2025 10:01:41.457] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expatternprovider:ex_emc_interface_alt as it's serializer returned null
-[05Sep2025 10:01:41.495] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[05Sep2025 10:01:41.499] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expatternprovider:cutter/accumulation as it's serializer returned null
-[05Sep2025 10:01:41.507] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expatternprovider:ex_emc_import_bus_upgrade as it's serializer returned null
-[05Sep2025 10:01:41.555] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[05Sep2025 10:01:41.562] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expatternprovider:ex_emc_interface_part as it's serializer returned null
-[05Sep2025 10:01:41.577] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expatternprovider:ex_emc_export_bus as it's serializer returned null
-[05Sep2025 10:01:41.591] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[05Sep2025 10:01:41.605] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 112 recipes
-[05Sep2025 10:01:41.641] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/backpack_chipped_mason_table_upgrade_from_storage_chipped_mason_table_upgrade: Unknown item id 'sophisticatedstorage:chipped/mason_table_upgrade'
-[05Sep2025 10:01:41.650] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/backpack_chipped_glassblower_upgrade_from_storage_chipped_glassblower_upgrade: Unknown item id 'sophisticatedstorage:chipped/glassblower_upgrade'
-[05Sep2025 10:01:41.652] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/storage_chipped_carpenters_table_upgrade_from_backpack_chipped_carpenters_table_upgrade: Unknown item id 'sophisticatedbackpacks:chipped/carpenters_table_upgrade'
-[05Sep2025 10:01:41.661] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/storage_chipped_alchemy_bench_upgrade_from_backpack_chipped_alchemy_bench_upgrade: Unknown item id 'sophisticatedbackpacks:chipped/alchemy_bench_upgrade'
-[05Sep2025 10:01:41.671] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/backpack_chipped_loom_table_upgrade_from_storage_chipped_loom_table_upgrade: Unknown item id 'sophisticatedstorage:chipped/loom_table_upgrade'
-[05Sep2025 10:01:41.694] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/storage_chipped_botanist_workbench_upgrade_from_backpack_chipped_botanist_workbench_upgrade: Unknown item id 'sophisticatedbackpacks:chipped/botanist_workbench_upgrade'
-[05Sep2025 10:01:41.699] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/storage_chipped_tinkering_table_upgrade_from_backpack_chipped_tinkering_table_upgrade: Unknown item id 'sophisticatedbackpacks:chipped/tinkering_table_upgrade'
-[05Sep2025 10:01:41.730] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/storage_chipped_loom_table_upgrade_from_backpack_chipped_loom_table_upgrade: Unknown item id 'sophisticatedbackpacks:chipped/loom_table_upgrade'
-[05Sep2025 10:01:41.735] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/backpack_chipped_carpenters_table_upgrade_from_storage_chipped_carpenters_table_upgrade: Unknown item id 'sophisticatedstorage:chipped/carpenters_table_upgrade'
-[05Sep2025 10:01:41.769] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/backpack_chipped_botanist_workbench_upgrade_from_storage_chipped_botanist_workbench_upgrade: Unknown item id 'sophisticatedstorage:chipped/botanist_workbench_upgrade'
-[05Sep2025 10:01:41.770] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/storage_chipped_glassblower_upgrade_from_backpack_chipped_glassblower_upgrade: Unknown item id 'sophisticatedbackpacks:chipped/glassblower_upgrade'
-[05Sep2025 10:01:41.773] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/storage_chipped_mason_table_upgrade_from_backpack_chipped_mason_table_upgrade: Unknown item id 'sophisticatedbackpacks:chipped/mason_table_upgrade'
-[05Sep2025 10:01:41.780] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/backpack_chipped_tinkering_table_upgrade_from_storage_chipped_tinkering_table_upgrade: Unknown item id 'sophisticatedstorage:chipped/tinkering_table_upgrade'
-[05Sep2025 10:01:41.782] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/backpack_chipped_alchemy_bench_upgrade_from_storage_chipped_alchemy_bench_upgrade: Unknown item id 'sophisticatedstorage:chipped/alchemy_bench_upgrade'
-[05Sep2025 10:01:41.817] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 6696 advancements
-[05Sep2025 10:01:41.836] [main/INFO] [placebo/]: Registered 26 additional recipes.
-[05Sep2025 10:01:41.872] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[05Sep2025 10:01:41.903] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 19 curio slots
-[05Sep2025 10:01:41.910] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
-[05Sep2025 10:01:41.911] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio entities
-[05Sep2025 10:01:41.913] [main/INFO] [Dungeon Crawl/]: Loading data...
-[05Sep2025 10:01:42.133] [main/INFO] [Dungeon Crawl/]: Done.
-[05Sep2025 10:01:42.141] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id bygonenether:soul_stone_from_block - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: bygonenether:replace_item
-[05Sep2025 10:01:42.141] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id bygonenether:soul_stone_in_catacombs - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: bygonenether:replace_item
-[05Sep2025 10:01:42.149] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Unable to decode loot conditions
+[05Sep2025 21:40:55.129] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expatternprovider:ex_emc_interface_alt as it's serializer returned null
+[05Sep2025 21:40:55.167] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[05Sep2025 21:40:55.173] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expatternprovider:cutter/accumulation as it's serializer returned null
+[05Sep2025 21:40:55.182] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expatternprovider:ex_emc_import_bus_upgrade as it's serializer returned null
+[05Sep2025 21:40:55.233] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[05Sep2025 21:40:55.239] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expatternprovider:ex_emc_interface_part as it's serializer returned null
+[05Sep2025 21:40:55.256] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expatternprovider:ex_emc_export_bus as it's serializer returned null
+[05Sep2025 21:40:55.270] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[05Sep2025 21:40:55.285] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 112 recipes
+[05Sep2025 21:40:55.324] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/backpack_chipped_mason_table_upgrade_from_storage_chipped_mason_table_upgrade: Unknown item id 'sophisticatedstorage:chipped/mason_table_upgrade'
+[05Sep2025 21:40:55.333] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/backpack_chipped_glassblower_upgrade_from_storage_chipped_glassblower_upgrade: Unknown item id 'sophisticatedstorage:chipped/glassblower_upgrade'
+[05Sep2025 21:40:55.335] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/storage_chipped_carpenters_table_upgrade_from_backpack_chipped_carpenters_table_upgrade: Unknown item id 'sophisticatedbackpacks:chipped/carpenters_table_upgrade'
+[05Sep2025 21:40:55.342] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/storage_chipped_alchemy_bench_upgrade_from_backpack_chipped_alchemy_bench_upgrade: Unknown item id 'sophisticatedbackpacks:chipped/alchemy_bench_upgrade'
+[05Sep2025 21:40:55.353] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/backpack_chipped_loom_table_upgrade_from_storage_chipped_loom_table_upgrade: Unknown item id 'sophisticatedstorage:chipped/loom_table_upgrade'
+[05Sep2025 21:40:55.378] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/storage_chipped_botanist_workbench_upgrade_from_backpack_chipped_botanist_workbench_upgrade: Unknown item id 'sophisticatedbackpacks:chipped/botanist_workbench_upgrade'
+[05Sep2025 21:40:55.383] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/storage_chipped_tinkering_table_upgrade_from_backpack_chipped_tinkering_table_upgrade: Unknown item id 'sophisticatedbackpacks:chipped/tinkering_table_upgrade'
+[05Sep2025 21:40:55.411] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/storage_chipped_loom_table_upgrade_from_backpack_chipped_loom_table_upgrade: Unknown item id 'sophisticatedbackpacks:chipped/loom_table_upgrade'
+[05Sep2025 21:40:55.415] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/backpack_chipped_carpenters_table_upgrade_from_storage_chipped_carpenters_table_upgrade: Unknown item id 'sophisticatedstorage:chipped/carpenters_table_upgrade'
+[05Sep2025 21:40:55.451] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/backpack_chipped_botanist_workbench_upgrade_from_storage_chipped_botanist_workbench_upgrade: Unknown item id 'sophisticatedstorage:chipped/botanist_workbench_upgrade'
+[05Sep2025 21:40:55.452] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/storage_chipped_glassblower_upgrade_from_backpack_chipped_glassblower_upgrade: Unknown item id 'sophisticatedbackpacks:chipped/glassblower_upgrade'
+[05Sep2025 21:40:55.454] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/storage_chipped_mason_table_upgrade_from_backpack_chipped_mason_table_upgrade: Unknown item id 'sophisticatedbackpacks:chipped/mason_table_upgrade'
+[05Sep2025 21:40:55.458] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/backpack_chipped_tinkering_table_upgrade_from_storage_chipped_tinkering_table_upgrade: Unknown item id 'sophisticatedstorage:chipped/tinkering_table_upgrade'
+[05Sep2025 21:40:55.460] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/backpack_chipped_alchemy_bench_upgrade_from_storage_chipped_alchemy_bench_upgrade: Unknown item id 'sophisticatedstorage:chipped/alchemy_bench_upgrade'
+[05Sep2025 21:40:55.497] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 6696 advancements
+[05Sep2025 21:40:55.512] [main/INFO] [placebo/]: Registered 26 additional recipes.
+[05Sep2025 21:40:55.563] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[05Sep2025 21:40:55.577] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 19 curio slots
+[05Sep2025 21:40:55.589] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
+[05Sep2025 21:40:55.591] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio entities
+[05Sep2025 21:40:55.593] [main/INFO] [Dungeon Crawl/]: Loading data...
+[05Sep2025 21:40:55.844] [main/INFO] [Dungeon Crawl/]: Done.
+[05Sep2025 21:40:55.851] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id bygonenether:soul_stone_from_block - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: bygonenether:replace_item
+[05Sep2025 21:40:55.851] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id bygonenether:soul_stone_in_catacombs - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: bygonenether:replace_item
+[05Sep2025 21:40:55.858] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Unable to decode loot conditions
 com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternatives'
 	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23353!/:?]
 	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
@@ -959,8 +959,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternatives'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[05Sep2025 10:01:42.152] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id nethersdelight:chopping_leather - error: Unknown type 'minecraft:alternatives'
-[05Sep2025 10:01:42.153] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Unable to decode loot conditions
+[05Sep2025 21:40:55.861] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id nethersdelight:chopping_leather - error: Unknown type 'minecraft:alternatives'
+[05Sep2025 21:40:55.861] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Unable to decode loot conditions
 com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23353!/:?]
 	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
@@ -1021,124 +1021,99 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[05Sep2025 10:01:42.154] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id nethersdelight:chopping_string - error: Unknown type 'minecraft:alternative'
-[05Sep2025 10:01:42.162] [main/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 61 materials in 7.866343 ms
-[05Sep2025 10:01:42.168] [main/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 9 material tags for 45 materials in 5.672307 ms
-[05Sep2025 10:01:42.183] [main/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 412 stats loaded for 69 materials in 14.804913 ms
-[05Sep2025 10:01:42.198] [main/INFO] [slimeknights.tconstruct.library.materials.traits.MaterialTraitsManager/]: 229 traits loaded for 69 materials in 14.912144 ms
-[05Sep2025 10:01:42.260] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 154 dynamic modifiers and 4 modifier redirects in 60.742867 ms
-[05Sep2025 10:01:42.264] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 42 modifier tags for 141 modifiers in 4.434397 ms
-[05Sep2025 10:01:42.265] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 50 enchantment to modifier mappings in 0.579291 ms
-[05Sep2025 10:01:42.269] [main/INFO] [tconstruct/]: Loaded 54 spilling fluids in 3.946436 ms
-[05Sep2025 10:01:42.271] [main/INFO] [slimeknights.mantle.fluid.transfer.FluidContainerTransferManager/]: Loaded 25 dynamic modifiers in 1.361782 ms
-[05Sep2025 10:01:42.283] [main/INFO] [placebo/]: Registered 32 gear_sets.
-[05Sep2025 10:01:42.300] [main/INFO] [Gateways to Eternity/]: Registered 7 gateways.
-[05Sep2025 10:01:42.302] [main/INFO] [Apotheosis : Enchantment/]: Registered 29 enchanting_stats.
-[05Sep2025 10:01:42.303] [main/INFO] [Apotheosis : Adventure/]: Registered 6 rarities.
-[05Sep2025 10:01:42.317] [main/INFO] [Apotheosis : Adventure/]: Registered 97 affixes.
-[05Sep2025 10:01:42.321] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:rare for category curios:spellbookRequired: 2; Provided: 0
-[05Sep2025 10:01:42.322] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:epic for category curios:spellbookRequired: 2; Provided: 0
-[05Sep2025 10:01:42.323] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:mythic for category helmetRequired: 3; Provided: 2
-[05Sep2025 10:01:42.323] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:mythic for category bootsRequired: 3; Provided: 2
-[05Sep2025 10:01:42.324] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:mythic for category curios:spellbookRequired: 3; Provided: 0
-[05Sep2025 10:01:42.325] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category helmetRequired: 4; Provided: 2
-[05Sep2025 10:01:42.325] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category bootsRequired: 4; Provided: 2
-[05Sep2025 10:01:42.325] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category curios:spellbookRequired: 4; Provided: 0
-[05Sep2025 10:01:42.325] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category bowRequired: 5; Provided: 4
-[05Sep2025 10:01:42.325] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category crossbowRequired: 5; Provided: 4
-[05Sep2025 10:01:42.325] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category pickaxeRequired: 5; Provided: 4
-[05Sep2025 10:01:42.326] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category shovelRequired: 5; Provided: 4
-[05Sep2025 10:01:42.334] [main/INFO] [Apotheosis : Adventure/]: Registered 34 gems.
-[05Sep2025 10:01:42.342] [main/INFO] [Apotheosis : Adventure/]: Registered 100 affix_loot_entries.
-[05Sep2025 10:01:42.348] [main/INFO] [Apotheosis : Adventure/]: Registered 25 bosses.
-[05Sep2025 10:01:42.353] [main/INFO] [Apotheosis : Adventure/]: Registered 8 rogue_spawners.
-[05Sep2025 10:01:42.356] [main/INFO] [Apotheosis : Adventure/]: Registered 5 minibosses.
-[05Sep2025 10:01:42.362] [main/INFO] [Apotheosis : Village/]: Registered 29 wanderer_trades.
-[05Sep2025 10:01:42.376] [main/INFO] [slimeknights.tconstruct.library.tools.definition.ToolDefinitionLoader/]: Loaded 38 tool definitions in 13.562636 ms
-[05Sep2025 10:01:42.381] [main/INFO] [slimeknights.tconstruct.library.tools.layout.StationSlotLayoutLoader/]: Loaded 19 station slot layouts in 4.113959 ms
-[05Sep2025 10:01:47.600] [main/INFO] [evilcraft/]: 19 Broom modifiers can be applied!
-[05Sep2025 10:01:47.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[05Sep2025 10:01:47.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[05Sep2025 10:01:47.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[05Sep2025 10:01:47.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[05Sep2025 10:01:47.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[05Sep2025 10:01:47.867] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[05Sep2025 10:01:47.953] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05Sep2025 10:01:47.954] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[05Sep2025 10:01:47.954] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05Sep2025 10:01:47.954] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[05Sep2025 10:01:47.973] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
-[05Sep2025 10:01:47.974] [Thread-4/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
-[05Sep2025 10:01:47.976] [Thread-4/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
-[05Sep2025 10:01:47.982] [Server thread/INFO] [Puzzles Lib/]: Loading server config for pickupnotifier
-[05Sep2025 10:01:47.984] [Thread-4/INFO] [Puzzles Lib/]: Reloading server config for pickupnotifier
-[05Sep2025 10:01:47.992] [Server thread/INFO] [Enchanting Infuser API/]: Set new EnchantStatsProvider for mod apotheosis
-[05Sep2025 10:01:47.992] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
-[05Sep2025 10:01:47.994] [Thread-4/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
-[05Sep2025 10:01:47.996] [Thread-4/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
-[05Sep2025 10:01:48.078] [Server thread/INFO] [FluxNetworks/Energy]: Energy blacklist loaded: 1 block entries, 0 item entries
-[05Sep2025 10:01:48.079] [Thread-4/INFO] [FluxNetworks/Energy]: Energy blacklist loaded: 1 block entries, 0 item entries
-[05Sep2025 10:01:48.080] [Thread-4/INFO] [FluxNetworks/Energy]: Energy blacklist loaded: 1 block entries, 0 item entries
-[05Sep2025 10:01:48.427] [Server thread/INFO] [FTB Teams/]: loaded team data: 5 known players, 5 teams total
-[05Sep2025 10:01:49.225] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[05Sep2025 10:01:49.226] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[05Sep2025 10:01:49.226] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[05Sep2025 10:01:49.966] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:redstone_ore}[lit=false] added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[05Sep2025 10:01:58.162] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:redstone_ore}[lit=false] added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[05Sep2025 10:01:58.187] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:redstone_ore}[lit=false] added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[05Sep2025 10:01:58.197] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:redstone_ore}[lit=false] added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[05Sep2025 10:01:58.212] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:redstone_ore}[lit=false] added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[05Sep2025 10:01:58.218] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:redstone_ore}[lit=false] added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[05Sep2025 10:01:58.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[05Sep2025 10:02:01.494] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Sep2025 10:02:01.516] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Sep2025 10:02:01.530] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Sep2025 10:02:01.555] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Sep2025 10:02:01.556] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Sep2025 10:02:01.556] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Sep2025 10:02:01.557] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Sep2025 10:02:01.734] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Sep2025 10:02:02.223] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Sep2025 10:02:02.720] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 24%
-[05Sep2025 10:02:03.221] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
-[05Sep2025 10:02:03.885] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
-[05Sep2025 10:02:04.904] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
-[05Sep2025 10:02:04.906] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
-[05Sep2025 10:02:05.222] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
-[05Sep2025 10:02:05.234] [Server thread/INFO] [FluxNetworks/]: Load 4 chunks by 4 flux devices in minecraft:overworld
-[05Sep2025 10:02:05.235] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7015 ms
-[05Sep2025 10:02:05.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (17.268s)! For help, type "help"
-[05Sep2025 10:02:05.331] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[05Sep2025 10:02:05.345] [Server thread/INFO] [xaero.map.WorldMap/]: Registered synced player tracker system: ftb_teams
-[05Sep2025 10:02:05.353] [Server thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Registered synced player tracker system: ftb_teams
-[05Sep2025 10:02:05.362] [Server thread/INFO] [cyclopscore/]: Loading infobook /data/cyclopscore/info/test.xml
-[05Sep2025 10:02:05.370] [Server thread/INFO] [evilcraft/]: Loading infobook /data/evilcraft/info/book.xml
-[05Sep2025 10:02:05.406] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:witherer has no valid items
-[05Sep2025 10:02:05.406] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:hungerer has no valid items
-[05Sep2025 10:02:05.407] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:kamikaze has no valid items
-[05Sep2025 10:02:05.407] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:withershield has no valid items
-[05Sep2025 10:02:05.455] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
-[05Sep2025 10:03:24.574] [ForkJoinPool.commonPool-worker-2/WARN] [SkinRestorer/]: Failed to fetch skin: not found
-[05Sep2025 10:03:24.614] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[05Sep2025 10:03:24.773] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Principyto[/127.57.151.4:59323] logged in with entity id 79 at (-3597.5, 107.0, -935.5)
-[05Sep2025 10:03:24.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto joined the game
-[05Sep2025 10:03:25.676] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.TamableAnimal from interface com.hollingsworth.arsnouveau.common.entity.IFollowingSummon
-[05Sep2025 10:03:25.786] [Server thread/INFO] [Jade/]: Syncing config to Principyto (7a14056c-9336-376a-9ae7-7d820f8eb726)
-[05Sep2025 10:03:28.023] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3313ms or 66 ticks behind
-[05Sep2025 10:04:09.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! 5.394142047352034,-0.143115829534608,9.555001332039751
-[05Sep2025 10:33:05.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved wrongly! 0.3922344347688522
-[05Sep2025 10:33:05.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved wrongly! 0.29909884937751485
-[05Sep2025 10:43:16.011] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
-[05Sep2025 10:43:16.012] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
-[05Sep2025 10:49:10.440] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2131ms or 42 ticks behind
-[05Sep2025 10:52:03.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] el server hablando
-[05Sep2025 10:52:09.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ya me ire a domir
-[05Sep2025 10:52:56.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] si el server duerme pero antes de ssay dejare el server todo lo que pueda
-[05Sep2025 10:53:01.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] nos vemos
-[05Sep2025 10:53:04.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[05Sep2025 10:53:04.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
-[05Sep2025 10:53:11.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Principyto> bye men cuidese
-[05Sep2025 10:55:45.741] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/18872, l='ServerLevel[world]', x=-248.18, y=79.46, z=789.12] died, message: 'Nitwit was burnt to a crisp whilst fighting Principyto'
-[05Sep2025 11:00:27.685] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Captain Elizabeth the Hungry'/24414, l='ServerLevel[world]', x=-474.05, y=63.00, z=379.52] died: Captain Elizabeth the Hungry was obliterated by Principyto's fireball
-[05Sep2025 11:01:49.030] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/33879, l='ServerLevel[world]', x=582.50, y=17.00, z=545.50]
-[05Sep2025 11:01:50.745] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/33938, l='ServerLevel[world]', x=578.50, y=13.00, z=541.50]
+[05Sep2025 21:40:55.862] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id nethersdelight:chopping_string - error: Unknown type 'minecraft:alternative'
+[05Sep2025 21:40:55.868] [main/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 61 materials in 5.031511 ms
+[05Sep2025 21:40:55.873] [main/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 9 material tags for 45 materials in 4.674365 ms
+[05Sep2025 21:40:55.881] [main/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 412 stats loaded for 69 materials in 8.077951 ms
+[05Sep2025 21:40:55.893] [main/INFO] [slimeknights.tconstruct.library.materials.traits.MaterialTraitsManager/]: 229 traits loaded for 69 materials in 11.490264 ms
+[05Sep2025 21:40:56.007] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 154 dynamic modifiers and 4 modifier redirects in 114.28203 ms
+[05Sep2025 21:40:56.013] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 42 modifier tags for 141 modifiers in 5.45441 ms
+[05Sep2025 21:40:56.014] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 50 enchantment to modifier mappings in 0.834325 ms
+[05Sep2025 21:40:56.018] [main/INFO] [tconstruct/]: Loaded 54 spilling fluids in 4.067512 ms
+[05Sep2025 21:40:56.019] [main/INFO] [slimeknights.mantle.fluid.transfer.FluidContainerTransferManager/]: Loaded 25 dynamic modifiers in 0.94392 ms
+[05Sep2025 21:40:56.036] [main/INFO] [placebo/]: Registered 32 gear_sets.
+[05Sep2025 21:40:56.063] [main/INFO] [Gateways to Eternity/]: Registered 7 gateways.
+[05Sep2025 21:40:56.065] [main/INFO] [Apotheosis : Enchantment/]: Registered 29 enchanting_stats.
+[05Sep2025 21:40:56.068] [main/INFO] [Apotheosis : Adventure/]: Registered 6 rarities.
+[05Sep2025 21:40:56.084] [main/INFO] [Apotheosis : Adventure/]: Registered 97 affixes.
+[05Sep2025 21:40:56.089] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:rare for category curios:spellbookRequired: 2; Provided: 0
+[05Sep2025 21:40:56.090] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:epic for category curios:spellbookRequired: 2; Provided: 0
+[05Sep2025 21:40:56.091] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:mythic for category helmetRequired: 3; Provided: 2
+[05Sep2025 21:40:56.091] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:mythic for category bootsRequired: 3; Provided: 2
+[05Sep2025 21:40:56.092] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:mythic for category curios:spellbookRequired: 3; Provided: 0
+[05Sep2025 21:40:56.093] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category helmetRequired: 4; Provided: 2
+[05Sep2025 21:40:56.093] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category bootsRequired: 4; Provided: 2
+[05Sep2025 21:40:56.094] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category curios:spellbookRequired: 4; Provided: 0
+[05Sep2025 21:40:56.094] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category bowRequired: 5; Provided: 4
+[05Sep2025 21:40:56.094] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category crossbowRequired: 5; Provided: 4
+[05Sep2025 21:40:56.095] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category pickaxeRequired: 5; Provided: 4
+[05Sep2025 21:40:56.095] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category shovelRequired: 5; Provided: 4
+[05Sep2025 21:40:56.108] [main/INFO] [Apotheosis : Adventure/]: Registered 34 gems.
+[05Sep2025 21:40:56.117] [main/INFO] [Apotheosis : Adventure/]: Registered 100 affix_loot_entries.
+[05Sep2025 21:40:56.124] [main/INFO] [Apotheosis : Adventure/]: Registered 25 bosses.
+[05Sep2025 21:40:56.131] [main/INFO] [Apotheosis : Adventure/]: Registered 8 rogue_spawners.
+[05Sep2025 21:40:56.133] [main/INFO] [Apotheosis : Adventure/]: Registered 5 minibosses.
+[05Sep2025 21:40:56.138] [main/INFO] [Apotheosis : Village/]: Registered 29 wanderer_trades.
+[05Sep2025 21:40:56.152] [main/INFO] [slimeknights.tconstruct.library.tools.definition.ToolDefinitionLoader/]: Loaded 38 tool definitions in 14.080243 ms
+[05Sep2025 21:40:56.157] [main/INFO] [slimeknights.tconstruct.library.tools.layout.StationSlotLayoutLoader/]: Loaded 19 station slot layouts in 4.582835 ms
+[05Sep2025 21:41:01.172] [main/INFO] [evilcraft/]: 19 Broom modifiers can be applied!
+[05Sep2025 21:41:01.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[05Sep2025 21:41:01.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[05Sep2025 21:41:01.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[05Sep2025 21:41:01.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[05Sep2025 21:41:01.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[05Sep2025 21:41:01.489] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[05Sep2025 21:41:01.573] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05Sep2025 21:41:01.573] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[05Sep2025 21:41:01.573] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05Sep2025 21:41:01.574] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[05Sep2025 21:41:01.592] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
+[05Sep2025 21:41:01.593] [Thread-4/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
+[05Sep2025 21:41:01.594] [Thread-4/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
+[05Sep2025 21:41:01.599] [Server thread/INFO] [Puzzles Lib/]: Loading server config for pickupnotifier
+[05Sep2025 21:41:01.613] [Server thread/INFO] [Enchanting Infuser API/]: Set new EnchantStatsProvider for mod apotheosis
+[05Sep2025 21:41:01.614] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
+[05Sep2025 21:41:01.621] [Thread-4/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
+[05Sep2025 21:41:01.622] [Thread-4/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
+[05Sep2025 21:41:01.707] [Server thread/INFO] [FluxNetworks/Energy]: Energy blacklist loaded: 1 block entries, 0 item entries
+[05Sep2025 21:41:01.708] [Thread-4/INFO] [FluxNetworks/Energy]: Energy blacklist loaded: 1 block entries, 0 item entries
+[05Sep2025 21:41:01.709] [Thread-4/INFO] [FluxNetworks/Energy]: Energy blacklist loaded: 1 block entries, 0 item entries
+[05Sep2025 21:41:01.975] [Server thread/INFO] [FTB Teams/]: loaded team data: 5 known players, 5 teams total
+[05Sep2025 21:41:02.794] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[05Sep2025 21:41:02.795] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[05Sep2025 21:41:02.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[05Sep2025 21:41:03.553] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:redstone_ore}[lit=false] added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[05Sep2025 21:41:11.274] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:redstone_ore}[lit=false] added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[05Sep2025 21:41:11.297] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:redstone_ore}[lit=false] added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[05Sep2025 21:41:11.303] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:redstone_ore}[lit=false] added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[05Sep2025 21:41:11.312] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:redstone_ore}[lit=false] added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[05Sep2025 21:41:11.321] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:redstone_ore}[lit=false] added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[05Sep2025 21:41:11.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[05Sep2025 21:41:14.513] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Sep2025 21:41:14.544] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Sep2025 21:41:14.550] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Sep2025 21:41:14.557] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Sep2025 21:41:14.572] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Sep2025 21:41:14.589] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Sep2025 21:41:14.614] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Sep2025 21:41:14.843] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Sep2025 21:41:15.327] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Sep2025 21:41:15.827] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 56%
+[05Sep2025 21:41:16.845] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[05Sep2025 21:41:16.858] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[05Sep2025 21:41:18.029] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[05Sep2025 21:41:18.031] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[05Sep2025 21:41:18.409] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[05Sep2025 21:41:18.434] [Server thread/INFO] [FluxNetworks/]: Load 4 chunks by 4 flux devices in minecraft:overworld
+[05Sep2025 21:41:18.435] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7109 ms
+[05Sep2025 21:41:18.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (16.849s)! For help, type "help"
+[05Sep2025 21:41:18.562] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[05Sep2025 21:41:18.587] [Server thread/INFO] [xaero.map.WorldMap/]: Registered synced player tracker system: ftb_teams
+[05Sep2025 21:41:18.595] [Server thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Registered synced player tracker system: ftb_teams
+[05Sep2025 21:41:18.611] [Server thread/INFO] [cyclopscore/]: Loading infobook /data/cyclopscore/info/test.xml
+[05Sep2025 21:41:18.624] [Server thread/INFO] [evilcraft/]: Loading infobook /data/evilcraft/info/book.xml
+[05Sep2025 21:41:18.685] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:witherer has no valid items
+[05Sep2025 21:41:18.686] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:hungerer has no valid items
+[05Sep2025 21:41:18.686] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:kamikaze has no valid items
+[05Sep2025 21:41:18.686] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:withershield has no valid items
+[05Sep2025 21:41:18.779] [Server thread/INFO] [patchouli/]: Sending reload packet to clients

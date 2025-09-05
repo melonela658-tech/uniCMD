@@ -1967,6 +1967,7 @@
       "minecraft:windswept_forest": "2025-09-03 00:12:10 +0000",
       "minecraft:deep_frozen_ocean": "2025-09-03 23:59:27 +0000",
       "minecraft:ocean": "2025-09-03 00:25:00 +0000",
+      "minecraft:jungle": "2025-09-05 11:17:40 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-09-02 20:50:50 +0000",
       "minecraft:snowy_beach": "2025-09-04 00:02:09 +0000",
       "minecraft:windswept_savanna": "2025-09-02 22:22:31 +0000",
@@ -3304,6 +3305,7 @@
     "criteria": {
       "cooked_porkchop": "2025-09-02 21:04:30 +0000",
       "cooked_mutton": "2025-09-02 19:41:51 +0000",
+      "sweet_berries": "2025-09-05 11:06:03 +0000",
       "cooked_beef": "2025-09-02 20:59:15 +0000",
       "porkchop": "2025-09-03 05:39:04 +0000",
       "apple": "2025-09-03 07:09:41 +0000",
@@ -3338,6 +3340,7 @@
       "minecraft:spider": "2025-09-02 23:34:47 +0000",
       "minecraft:creeper": "2025-09-03 04:05:57 +0000",
       "minecraft:evoker": "2025-09-04 12:42:44 +0000",
+      "minecraft:slime": "2025-09-05 11:03:42 +0000",
       "minecraft:phantom": "2025-09-05 05:09:01 +0000",
       "minecraft:witch": "2025-09-03 04:07:55 +0000",
       "minecraft:wither_skeleton": "2025-09-04 11:44:46 +0000",
@@ -3345,6 +3348,7 @@
       "minecraft:cave_spider": "2025-09-03 04:53:16 +0000",
       "minecraft:stray": "2025-09-02 23:48:31 +0000",
       "minecraft:zombie": "2025-09-02 19:46:38 +0000",
+      "minecraft:drowned": "2025-09-05 11:07:40 +0000",
       "minecraft:zombie_villager": "2025-09-05 00:45:51 +0000"
     },
     "done": false
@@ -10293,6 +10297,36 @@
   "sophisticatedstorage:recipes/misc/double_diamond_chest": {
     "criteria": {
       "has_gold_chest": "2025-09-05 04:46:04 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/earth_island": {
+    "criteria": {
+      "found_island": "2025-09-05 11:04:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-09-05 11:12:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-09-05 11:12:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-09-05 11:12:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-09-05 11:12:48 +0000"
     },
     "done": true
   },
