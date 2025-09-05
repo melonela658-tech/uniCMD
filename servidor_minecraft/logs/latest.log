@@ -31,3 +31,61 @@
 [05Sep2025 01:16:56.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set the time to 1000]
 [05Sep2025 01:18:18.633] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wathsuyo lost connection: Disconnected
 [05Sep2025 01:18:18.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wathsuyo left the game
+[05Sep2025 01:21:01.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Made Wathsuyo a server operator]
+[05Sep2025 01:22:07.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set the weather to clear]
+[05Sep2025 01:22:30.999] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wathsuyo[/127.41.161.213:48129] logged in with entity id 51206 at (-104.5, 99.0, 252.5)
+[05Sep2025 01:22:31.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wathsuyo joined the game
+[05Sep2025 01:22:31.145] [Server thread/INFO] [Jade/]: Syncing config to Wathsuyo (13486ef7-25f9-3043-bffc-17ea233f178d)
+[05Sep2025 01:23:07.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Wathsuyo to Melosito_Neo]
+[05Sep2025 01:23:11.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Wathsuyo to Melosito_Neo]
+[05Sep2025 01:24:11.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Wathsuyo to Melosito_Neo]
+[05Sep2025 01:26:14.206] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[05Sep2025 01:26:15.637] [Server thread/INFO] [naturescompass/]: Search succeeded: 4081 radius, 4470 samples
+[05Sep2025 01:29:37.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Creative Mode]
+[05Sep2025 01:29:52.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
+[05Sep2025 01:30:18.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved wrongly!
+[05Sep2025 01:30:39.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Creative Mode]
+[05Sep2025 01:30:46.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
+[05Sep2025 01:32:31.431] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/52273, l='ServerLevel[world]', x=-657.82, y=63.23, z=153.41] died: Honeyed Archer suffocated in a wall
+[05Sep2025 01:32:42.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set the time to 1000]
+[05Sep2025 01:34:42.736] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3510ms or 70 ticks behind
+[05Sep2025 01:34:42.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cargo Airship (vehicle of Melosito_Neo) moved too quickly! 8.417529614978946,0.16586963516652986,-5.839331311910371
+[05Sep2025 01:34:42.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cargo Airship (vehicle of Melosito_Neo) moved too quickly! 8.649397001350934,0.16755253652095803,-5.9955349730569765
+[05Sep2025 01:34:42.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cargo Airship (vehicle of Melosito_Neo) moved too quickly! 8.881470596817877,0.16916046043033361,-6.151648179855613
+[05Sep2025 01:34:42.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cargo Airship (vehicle of Melosito_Neo) moved too quickly! 9.113747893082888,0.17069674160225645,-6.30767061877026
+[05Sep2025 01:34:42.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cargo Airship (vehicle of Melosito_Neo) moved too quickly! 9.346227901171176,0.1721645667366971,-6.463599694398567
+[05Sep2025 01:34:42.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cargo Airship (vehicle of Melosito_Neo) moved too quickly! 9.57890882845183,0.17356698106436852,-6.619433894481006
+[05Sep2025 01:34:42.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cargo Airship (vehicle of Melosito_Neo) moved too quickly! 9.81178802410264,0.17490689459937414,-6.775172860169619
+[05Sep2025 01:34:42.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cargo Airship (vehicle of Melosito_Neo) moved too quickly! 10.044864360590509,0.17618708811825456,-6.930813942274256
+[05Sep2025 01:34:42.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cargo Airship (vehicle of Melosito_Neo) moved too quickly! 10.278135905376445,0.1774102188772133,-7.086355573582068
+[05Sep2025 01:34:42.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cargo Airship (vehicle of Melosito_Neo) moved too quickly! 10.511599872931868,0.1785788260785779,-7.241797345279963
+[05Sep2025 01:34:42.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cargo Airship (vehicle of Melosito_Neo) moved too quickly! 10.745254997411791,0.1796953360974669,-7.3971365525767965
+[05Sep2025 01:34:42.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cargo Airship (vehicle of Melosito_Neo) moved too quickly! 10.979099863765072,0.18076206747878132,-7.552370629794098
+[05Sep2025 01:34:42.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cargo Airship (vehicle of Melosito_Neo) moved too quickly! 11.213132275253997,0.18178123571458116,-7.707498074901139
+[05Sep2025 01:34:42.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cargo Airship (vehicle of Melosito_Neo) moved too quickly! 11.44734919629613,0.18275495781125528,-7.862518528747728
+[05Sep2025 01:34:42.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cargo Airship (vehicle of Melosito_Neo) moved too quickly! 11.681749122491084,0.18368525665565016,-8.017429313912771
+[05Sep2025 01:34:42.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cargo Airship (vehicle of Melosito_Neo) moved too quickly! 11.91633040971746,0.1845740651887411,-8.172227879719173
+[05Sep2025 01:34:42.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cargo Airship (vehicle of Melosito_Neo) moved too quickly! 12.151091289337899,0.18542323039538644,-8.326911782025036
+[05Sep2025 01:34:42.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cargo Airship (vehicle of Melosito_Neo) moved too quickly! 12.386029880522898,0.18623451711800953,-8.481478665960708
+[05Sep2025 01:34:42.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cargo Airship (vehicle of Melosito_Neo) moved too quickly! 12.62114420095159,0.18700961170198127,-8.635926253082971
+[05Sep2025 01:34:42.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cargo Airship (vehicle of Melosito_Neo) moved too quickly! 12.85643281690929,0.18775012548003644,-8.790251379457857
+[05Sep2025 01:34:42.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cargo Airship (vehicle of Melosito_Neo) moved too quickly! 13.09189492391971,0.18845759810263019,-8.944449879326271
+[05Sep2025 01:34:42.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cargo Airship (vehicle of Melosito_Neo) moved too quickly! 13.327528008307013,0.1891335007211694,-9.098520047596708
+[05Sep2025 01:34:42.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cargo Airship (vehicle of Melosito_Neo) moved too quickly! 13.563330157699198,0.1897792390303863,-9.252459203621981
+[05Sep2025 01:34:42.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cargo Airship (vehicle of Melosito_Neo) moved too quickly! 8.457495405343536,0.03185758272636008,-5.557232592041714
+[05Sep2025 01:35:28.227] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/55836, l='ServerLevel[world]', x=80.50, y=34.00, z=-445.50]
+[05Sep2025 01:35:40.287] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/55964, l='ServerLevel[world]', x=82.50, y=36.00, z=-438.50]
+[05Sep2025 01:36:19.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved wrongly!
+[05Sep2025 01:38:58.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wathsuyo moved wrongly!
+[05Sep2025 01:40:39.438] [Worker-Main-107/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=186, y=-6, z=458}
+[05Sep2025 01:40:39.444] [Worker-Main-107/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=182, y=-6, z=460}
+[05Sep2025 01:40:39.444] [Worker-Main-107/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=180, y=-6, z=458}
+[05Sep2025 01:46:36.117] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved wrongly!
+[05Sep2025 01:46:55.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wathsuyo moved wrongly!
+[05Sep2025 01:47:02.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wathsuyo moved wrongly!
+[05Sep2025 01:47:19.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wathsuyo was blown up by Spruce Creeper
+[05Sep2025 01:47:26.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Wathsuyo to Melosito_Neo]
+[05Sep2025 01:47:31.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Wathsuyo to Melosito_Neo]
+[05Sep2025 01:47:34.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Wathsuyo to Melosito_Neo]
+[05Sep2025 01:50:50.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved wrongly!
+[05Sep2025 01:50:59.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wathsuyo moved wrongly!
