@@ -7,3 +7,6 @@
 [05Sep2025 00:17:30.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Principyto]
 [05Sep2025 00:27:40.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> upgrader
 [05Sep2025 00:27:43.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> upgrade
+[05Sep2025 00:36:27.629] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3303ms or 66 ticks behind
+[05Sep2025 00:39:38.878] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[05Sep2025 00:39:38.878] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
