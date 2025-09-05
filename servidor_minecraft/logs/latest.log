@@ -203,3 +203,32 @@
 [05Sep2025 02:51:24.782] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/90788, l='ServerLevel[world]', x=2352.70, y=154.41, z=-2653.87] died: Undead Knight suffocated in a wall
 [05Sep2025 02:51:37.736] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2461ms or 49 ticks behind
 [05Sep2025 03:01:23.212] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/95104, l='ServerLevel[world]', x=-3504.65, y=81.25, z=663.56] died: Honeyed Archer suffocated in a wall
+[05Sep2025 03:04:16.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Principyto to Melosito_Neo]
+[05Sep2025 03:08:26.295] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Victoria the Wimpy'/105170, l='ServerLevel[world]', x=2384.16, y=151.00, z=-2765.70] died: Victoria the Wimpy was slain by Melosito_Neo
+[05Sep2025 03:11:15.416] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Nelly the Pathetic'/95679, l='ServerLevel[world]', x=2319.05, y=184.00, z=-2781.86] died: Nelly the Pathetic was slain by Melosito_Neo
+[05Sep2025 03:12:46.456] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto lost connection: Disconnected
+[05Sep2025 03:12:46.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto left the game
+[05Sep2025 03:13:31.595] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[05Sep2025 03:13:31.596] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[05Sep2025 03:13:42.055] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity NecromancerEntity['Leo'/107126, l='ServerLevel[world]', x=-651.18, y=21.00, z=168.35] died: Leo was slain by Melosito_Neo
+[05Sep2025 03:14:33.145] [ForkJoinPool.commonPool-worker-15/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[05Sep2025 03:14:33.172] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Principyto[/127.233.102.144:47867] logged in with entity id 107454 at (2337.699999988079, 162.0, -2766.300000011921)
+[05Sep2025 03:14:33.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto joined the game
+[05Sep2025 03:14:33.345] [Server thread/INFO] [Jade/]: Syncing config to Principyto (7a14056c-9336-376a-9ae7-7d820f8eb726)
+[05Sep2025 03:18:14.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wathsuyo has made the advancement [Apothic Affixes]
+[05Sep2025 03:19:06.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Principyto> gaaaaaaaaaaaaaa
+[05Sep2025 03:19:27.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Principyto> kakarotoooooooooo
+[05Sep2025 03:19:35.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Principyto> ven y sanami dolooor
+[05Sep2025 03:19:47.427] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[05Sep2025 03:19:47.428] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[05Sep2025 03:19:48.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Principyto> aaaaaaaaaaaaaaaaaah
+[05Sep2025 03:25:54.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> n
+[05Sep2025 03:26:02.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> ...
+[05Sep2025 03:26:12.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> SI ESTAN JUGANDO CON MI CORAZON
+[05Sep2025 03:26:13.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> QWQ
+[05Sep2025 03:26:19.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> SE RIEN DE MI PIPIPI
+[05Sep2025 03:26:26.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> XXXDDDD
+[05Sep2025 03:26:33.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> QUIERO SER DRAMATICO
+[05Sep2025 03:26:40.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Principyto> ya pe
+[05Sep2025 03:32:42.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wathsuyo has made the advancement [Stone Age]
+[05Sep2025 03:34:46.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wathsuyo has made the advancement [Kaleidoscope Kitchen]
