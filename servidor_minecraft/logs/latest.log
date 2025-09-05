@@ -202,3 +202,4 @@
 [05Sep2025 02:50:57.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! -9.913770873924022,1.758285973761616,0.8969039395583422
 [05Sep2025 02:51:24.782] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/90788, l='ServerLevel[world]', x=2352.70, y=154.41, z=-2653.87] died: Undead Knight suffocated in a wall
 [05Sep2025 02:51:37.736] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2461ms or 49 ticks behind
+[05Sep2025 03:01:23.212] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/95104, l='ServerLevel[world]', x=-3504.65, y=81.25, z=663.56] died: Honeyed Archer suffocated in a wall
