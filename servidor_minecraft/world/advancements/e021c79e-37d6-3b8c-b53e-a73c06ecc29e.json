@@ -12764,6 +12764,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_vertical_sloped_stairs": {
+    "criteria": {
+      "hasFramedPanel": "2025-09-05 04:07:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2025-09-05 01:55:55 +0000"
@@ -12836,6 +12842,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_vertical_sliced_stairs": {
+    "criteria": {
+      "hasFramedPanel": "2025-09-05 04:07:26 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/building_blocks/framed_prism": {
     "criteria": {
       "hasFramedSlope": "2025-09-05 02:32:52 +0000"
@@ -12887,6 +12899,12 @@
   "framedblocks:recipes/building_blocks/framed_fancy_detector_rail_slope": {
     "criteria": {
       "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slab_corner": {
+    "criteria": {
+      "hasFramedSlab": "2025-09-05 04:07:38 +0000"
     },
     "done": true
   },
@@ -12950,6 +12968,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_sloped_stairs": {
+    "criteria": {
+      "hasFramedSlab": "2025-09-05 04:07:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_button": {
     "criteria": {
       "has_planks": "2025-09-05 01:55:55 +0000"
@@ -12959,6 +12983,12 @@
   "framedblocks:recipes/building_blocks/framed_threeway_corner": {
     "criteria": {
       "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slab_edge": {
+    "criteria": {
+      "hasFramedSlab": "2025-09-05 04:07:38 +0000"
     },
     "done": true
   },
@@ -13040,6 +13070,18 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_slab_rotate_to_framed_panel": {
+    "criteria": {
+      "hasFramedSlab": "2025-09-05 04:07:38 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_centered_slab": {
+    "criteria": {
+      "hasFramedSlab": "2025-09-05 04:07:38 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/diamond_axe_repairing": {
     "criteria": {
       "has_diamond_axe": "2025-09-05 02:12:16 +0000"
@@ -13055,6 +13097,12 @@
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-09-05 01:36:37 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_centered_panel": {
+    "criteria": {
+      "hasFramedPanel": "2025-09-05 04:07:26 +0000"
     },
     "done": true
   },
@@ -13094,6 +13142,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_trapdoor": {
+    "criteria": {
+      "hasFramedSlab": "2025-09-05 04:07:38 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/cherry_chest": {
     "criteria": {
       "has_cherry_plank": "2025-09-05 01:55:55 +0000"
@@ -13109,6 +13163,12 @@
   "framedblocks:recipes/building_blocks/framed_corner_slope": {
     "criteria": {
       "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_floor_board": {
+    "criteria": {
+      "hasFramedSlab": "2025-09-05 04:07:38 +0000"
     },
     "done": true
   },
@@ -13142,6 +13202,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_panel_rotate_to_framed_slab": {
+    "criteria": {
+      "hasFramedPanel": "2025-09-05 04:07:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_slab": {
     "criteria": {
       "has_planks": "2025-09-05 01:55:55 +0000"
@@ -13151,6 +13217,12 @@
   "framedblocks:recipes/building_blocks/framed_detector_rail_slope": {
     "criteria": {
       "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_sliced_stairs_panel": {
+    "criteria": {
+      "hasFramedPanel": "2025-09-05 04:07:26 +0000"
     },
     "done": true
   },
@@ -13187,6 +13259,12 @@
   "framedblocks:recipes/building_blocks/framed_rail_slope": {
     "criteria": {
       "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_wall_board": {
+    "criteria": {
+      "hasFramedPanel": "2025-09-05 04:07:26 +0000"
     },
     "done": true
   },
@@ -13283,6 +13361,12 @@
   "sophisticatedstorage:recipes/misc/cherry_storage_connector": {
     "criteria": {
       "has_cherry_planks": "2025-09-05 01:55:55 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_sliced_stairs_slab": {
+    "criteria": {
+      "hasFramedSlab": "2025-09-05 04:07:38 +0000"
     },
     "done": true
   },

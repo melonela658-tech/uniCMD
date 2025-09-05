@@ -232,3 +232,6 @@
 [05Sep2025 03:26:40.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Principyto> ya pe
 [05Sep2025 03:32:42.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wathsuyo has made the advancement [Stone Age]
 [05Sep2025 03:34:46.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wathsuyo has made the advancement [Kaleidoscope Kitchen]
+[05Sep2025 04:07:11.617] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6942ms or 138 ticks behind
+[05Sep2025 04:07:11.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! -7.974018536278891,-2.0,6.072100746547221
+[05Sep2025 04:07:57.197] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5372ms or 107 ticks behind
