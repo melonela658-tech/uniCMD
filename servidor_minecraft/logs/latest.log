@@ -277,3 +277,8 @@ java.lang.IndexOutOfBoundsException: Index -1 out of bounds for length 19
 [05Sep2025 04:39:49.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> un mini jardin
 [05Sep2025 04:42:27.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Principyto> necesitamos renstooooooooooooooooooooooooooon
 [05Sep2025 04:43:49.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Principyto to Melosito_Neo]
+[05Sep2025 04:55:43.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Principyto to Melosito_Neo]
+[05Sep2025 05:01:23.812] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3287ms or 65 ticks behind
+[05Sep2025 05:01:36.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Principyto to Melosito_Neo]
+[05Sep2025 05:02:09.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2356ms or 47 ticks behind
+[05Sep2025 05:04:57.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Principyto to Melosito_Neo]
