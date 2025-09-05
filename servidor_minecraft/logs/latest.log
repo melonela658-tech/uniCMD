@@ -1133,3 +1133,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Sep2025 10:49:10.440] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2131ms or 42 ticks behind
 [05Sep2025 10:52:03.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] el server hablando
 [05Sep2025 10:52:09.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ya me ire a domir
+[05Sep2025 10:52:56.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] si el server duerme pero antes de ssay dejare el server todo lo que pueda
+[05Sep2025 10:53:01.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] nos vemos
+[05Sep2025 10:53:04.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[05Sep2025 10:53:04.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[05Sep2025 10:53:11.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Principyto> bye men cuidese
+[05Sep2025 10:55:45.741] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/18872, l='ServerLevel[world]', x=-248.18, y=79.46, z=789.12] died, message: 'Nitwit was burnt to a crisp whilst fighting Principyto'
+[05Sep2025 11:00:27.685] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Captain Elizabeth the Hungry'/24414, l='ServerLevel[world]', x=-474.05, y=63.00, z=379.52] died: Captain Elizabeth the Hungry was obliterated by Principyto's fireball
+[05Sep2025 11:01:49.030] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/33879, l='ServerLevel[world]', x=582.50, y=17.00, z=545.50]
+[05Sep2025 11:01:50.745] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/33938, l='ServerLevel[world]', x=578.50, y=13.00, z=541.50]
