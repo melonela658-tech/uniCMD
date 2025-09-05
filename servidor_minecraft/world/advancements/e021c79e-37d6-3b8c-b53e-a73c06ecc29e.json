@@ -12764,15 +12764,27 @@
     },
     "done": true
   },
-  "framedblocks:recipes/building_blocks/framed_vertical_sloped_stairs": {
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
-      "hasFramedPanel": "2025-09-05 04:07:26 +0000"
+      "has_bamboo": "2025-09-05 01:03:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cherry_fence": {
+  "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
-      "has_planks": "2025-09-05 01:55:55 +0000"
+      "has_bamboo": "2025-09-05 01:03:18 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/gadgets/punji": {
+    "criteria": {
+      "has_item": "2025-09-05 01:03:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-09-05 01:03:18 +0000"
     },
     "done": true
   },
@@ -12782,39 +12794,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
-    "criteria": {
-      "has_pink_dye": "2025-09-05 03:18:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_candle": {
-    "criteria": {
-      "has_pink_dye": "2025-09-05 03:18:05 +0000"
-    },
-    "done": true
-  },
-  "framedblocks:recipes/building_blocks/framed_slope_slab": {
-    "criteria": {
-      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_planks": {
-    "criteria": {
-      "has_log": "2025-09-05 01:55:52 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/decorations/redwood_sign": {
     "criteria": {
       "has_planks": "2025-09-05 01:03:27 +0000"
-    },
-    "done": true
-  },
-  "framedblocks:recipes/building_blocks/framed_prism_corner": {
-    "criteria": {
-      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
     },
     "done": true
   },
@@ -12824,51 +12806,105 @@
     },
     "done": true
   },
-  "framedblocks:recipes/building_blocks/framed_double_slope": {
+  "biomesoplenty:recipes/decorations/redwood_fence": {
     "criteria": {
-      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+      "has_planks": "2025-09-05 01:03:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_slab": {
+  "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
     "criteria": {
-      "has_polished_granite": "2025-09-05 03:15:57 +0000"
+      "has_planks": "2025-09-05 01:03:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_cherry_wood": {
+  "biomesoplenty:recipes/redstone/redwood_button": {
     "criteria": {
-      "has_log": "2025-09-05 02:03:30 +0000"
+      "has_planks": "2025-09-05 01:03:27 +0000"
     },
     "done": true
   },
-  "framedblocks:recipes/building_blocks/framed_vertical_sliced_stairs": {
+  "biomesoplenty:recipes/redstone/redwood_door": {
     "criteria": {
-      "hasFramedPanel": "2025-09-05 04:07:26 +0000"
+      "has_planks": "2025-09-05 01:03:27 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/xp_pump_upgrade": {
+  "biomesoplenty:recipes/building_blocks/redwood_slab": {
     "criteria": {
-      "has_advanced_pump_upgrade": "2025-09-05 04:33:53 +0000"
+      "has_planks": "2025-09-05 01:03:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/pink_stained_glass_pane": {
+  "biomesoplenty:recipes/building_blocks/redwood_stairs": {
     "criteria": {
-      "has_glass": "2025-09-05 04:48:01 +0000"
+      "has_planks": "2025-09-05 01:03:27 +0000"
     },
     "done": true
   },
-  "framedblocks:recipes/building_blocks/framed_prism": {
+  "minecraft:recipes/misc/map": {
     "criteria": {
-      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+      "has_compass": "2025-09-05 01:13:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
-      "has_polished_granite": "2025-09-05 03:15:57 +0000"
+      "has_cod": "2025-09-05 01:36:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-09-05 01:36:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-09-05 01:36:37 +0000"
+    },
+    "done": true
+  },
+  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
+    "criteria": {
+      "has_cod": "2025-09-05 01:36:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-09-05 01:51:04 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/misc/white_dye_from_bwg_tag": {
+    "criteria": {
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_white_dye]": "2025-09-05 01:51:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-09-05 01:55:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-09-05 01:55:52 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-09-05 01:55:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-09-05 01:55:55 +0000"
     },
     "done": true
   },
@@ -12878,75 +12914,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
-    "criteria": {
-      "has_red_dye": "2025-09-05 05:15:54 +0000"
-    },
-    "done": true
-  },
-  "framedblocks:recipes/building_blocks/framed_inner_threeway_corner": {
-    "criteria": {
-      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
-    },
-    "done": true
-  },
-  "framedblocks:recipes/building_blocks/framed_inner_corner_slope": {
-    "criteria": {
-      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
       "has_planks": "2025-09-05 01:55:55 +0000"
-    },
-    "done": true
-  },
-  "framedblocks:recipes/building_blocks/framed_slope_edge": {
-    "criteria": {
-      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/smart_pink": {
-    "criteria": {
-      "has_dyes/black": "2025-09-05 03:18:05 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/advanced_pump_upgrade": {
-    "criteria": {
-      "has_pump_upgrade": "2025-09-05 04:33:39 +0000"
-    },
-    "done": true
-  },
-  "framedblocks:recipes/building_blocks/framed_fancy_detector_rail_slope": {
-    "criteria": {
-      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/sakura_stairs": {
-    "criteria": {
-      "has_planks": "2025-09-05 04:25:18 +0000"
-    },
-    "done": true
-  },
-  "framedblocks:recipes/building_blocks/framed_double_stairs_rotate_to_framed_vertical_double_stairs": {
-    "criteria": {
-      "hasFramedDoubleStairs": "2025-09-05 05:01:42 +0000"
-    },
-    "done": true
-  },
-  "framedblocks:recipes/building_blocks/framed_slab_corner": {
-    "criteria": {
-      "hasFramedSlab": "2025-09-05 04:07:38 +0000"
-    },
-    "done": true
-  },
-  "framedblocks:recipes/building_blocks/framed_stairs_rotate_to_framed_vertical_stairs": {
-    "criteria": {
-      "hasFramedStairs": "2025-09-05 04:51:56 +0000"
     },
     "done": true
   },
@@ -12974,63 +12944,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
-    "criteria": {
-      "has_pink_petals": "2025-09-05 01:51:04 +0000"
-    },
-    "done": true
-  },
-  "framedblocks:recipes/building_blocks/framed_horizontal_pane": {
-    "criteria": {
-      "hasFramedPane": "2025-09-05 02:32:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-09-05 05:17:12 +0000"
-    },
-    "done": true
-  },
-  "framedblocks:recipes/building_blocks/framed_activator_rail_slope": {
-    "criteria": {
-      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/sakura_crafting_table": {
-    "criteria": {
-      "has_sakura_planks": "2025-09-05 04:25:18 +0000"
-    },
-    "done": true
-  },
-  "kaleidoscope_cookery:recipes/decorations/table_cherry": {
-    "criteria": {
-      "has_fence": "2025-09-05 02:27:05 +0000"
-    },
-    "done": true
-  },
-  "framedblocks:recipes/building_blocks/framed_slope_panel": {
-    "criteria": {
-      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/sakura_bookshelf": {
-    "criteria": {
-      "has_sakura_planks": "2025-09-05 04:25:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/cherry_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-05 01:55:55 +0000"
-    },
-    "done": true
-  },
-  "framedblocks:recipes/building_blocks/framed_sloped_stairs": {
-    "criteria": {
-      "hasFramedSlab": "2025-09-05 04:07:38 +0000"
     },
     "done": true
   },
@@ -13040,81 +12956,105 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+  "kaleidoscope_cookery:recipes/decorations/cook_stool_cherry": {
     "criteria": {
-      "has_dandelion": "2025-09-05 05:15:50 +0000"
+      "has_wood": "2025-09-05 01:55:55 +0000"
     },
     "done": true
   },
-  "framedblocks:recipes/building_blocks/framed_threeway_corner": {
+  "sophisticatedstorage:recipes/misc/cherry_chest": {
     "criteria": {
-      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+      "has_cherry_plank": "2025-09-05 01:55:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_red_carpet": {
+  "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
-      "has_needed_dye": "2025-09-05 05:15:54 +0000"
+      "has_planks": "2025-09-05 01:55:55 +0000"
     },
     "done": true
   },
-  "framedblocks:recipes/building_blocks/framed_slab_edge": {
+  "minecraft:recipes/building_blocks/cherry_slab": {
     "criteria": {
-      "hasFramedSlab": "2025-09-05 04:07:38 +0000"
+      "has_planks": "2025-09-05 01:55:55 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/decorations/redwood_fence": {
+  "minecraft:recipes/building_blocks/cherry_stairs": {
     "criteria": {
-      "has_planks": "2025-09-05 01:03:27 +0000"
+      "has_planks": "2025-09-05 01:55:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cherry_wood": {
+  "sophisticatedstorage:recipes/misc/cherry_barrel": {
     "criteria": {
-      "has_log": "2025-09-05 01:55:52 +0000"
+      "has_cherry_plank": "2025-09-05 01:55:55 +0000"
     },
     "done": true
   },
-  "biomeswevegone:recipes/building_blocks/sakura_planks": {
+  "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
-      "has_log": "2025-09-05 04:23:44 +0000"
+      "has_planks": "2025-09-05 01:55:55 +0000"
     },
     "done": true
   },
-  "biomeswevegone:recipes/redstone/sakura_door": {
+  "create:recipes/building_blocks/cherry_window": {
     "criteria": {
-      "has_planks": "2025-09-05 04:25:18 +0000"
+      "has_ingredient": "2025-09-05 01:55:55 +0000"
     },
     "done": true
   },
-  "mcwfurnitures:recipes/cherry": {
+  "sophisticatedstorage:recipes/misc/cherry_storage_connector": {
     "criteria": {
-      "has_wood": "2025-09-05 01:55:52 +0000"
+      "has_cherry_planks": "2025-09-05 01:55:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+  "aether:recipes/tools/diamond_shovel_repairing": {
     "criteria": {
-      "has_polished_granite": "2025-09-05 03:15:57 +0000"
+      "has_diamond_shovel": "2025-09-05 01:57:08 +0000"
     },
     "done": true
   },
-  "biomeswevegone:recipes/redstone/sakura_fence_gate": {
+  "minecraft:recipes/decorations/snow": {
     "criteria": {
-      "has_planks": "2025-09-05 04:25:18 +0000"
+      "has_snowball": "2025-09-05 01:59:12 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/cherry_cabinet": {
+  "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
-      "has_cherry_trapdoor": "2025-09-05 04:12:56 +0000"
+      "has_snowball": "2025-09-05 01:59:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/purple_dye": {
+  "minecraft:recipes/building_blocks/stripped_cherry_wood": {
     "criteria": {
-      "has_red_dye": "2025-09-05 05:15:54 +0000"
+      "has_log": "2025-09-05 02:03:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-09-05 02:03:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_axe_repairing": {
+    "criteria": {
+      "has_diamond_axe": "2025-09-05 02:12:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_bed": {
+    "criteria": {
+      "has_the_recipe": "2025-09-05 02:14:58 +0000"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:root": {
+    "criteria": {
+      "has_pot": "2025-09-05 02:16:59 +0000"
     },
     "done": true
   },
@@ -13124,21 +13064,93 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
+  "create:recipes/building_blocks/cherry_window_pane": {
     "criteria": {
-      "has_planks": "2025-09-05 01:03:27 +0000"
+      "has_ingredient": "2025-09-05 02:26:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_candle": {
+  "kaleidoscope_cookery:recipes/decorations/table_cherry": {
     "criteria": {
-      "has_red_dye": "2025-09-05 05:15:54 +0000"
+      "has_fence": "2025-09-05 02:27:05 +0000"
     },
     "done": true
   },
-  "biomeswevegone:recipes/building_blocks/sakura_slab": {
+  "kaleidoscope_cookery:recipes/decorations/chair_cherry": {
     "criteria": {
-      "has_planks": "2025-09-05 04:25:18 +0000"
+      "has_fence": "2025-09-05 02:27:05 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_horizontal_pane": {
+    "criteria": {
+      "hasFramedPane": "2025-09-05 02:32:23 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slope_slab": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_prism_corner": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_double_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_prism": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_inner_threeway_corner": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_inner_corner_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slope_edge": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fancy_detector_rail_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_activator_rail_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slope_panel": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_threeway_corner": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
     },
     "done": true
   },
@@ -13148,45 +13160,189 @@
     },
     "done": true
   },
-  "kaleidoscope_cookery:recipes/decorations/cook_stool_cherry": {
-    "criteria": {
-      "has_wood": "2025-09-05 01:55:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2025-09-05 01:36:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
-    "criteria": {
-      "has_bamboo": "2025-09-05 01:03:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2025-09-05 01:36:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_block": {
-    "criteria": {
-      "has_bamboo": "2025-09-05 01:03:18 +0000"
-    },
-    "done": true
-  },
   "framedblocks:recipes/building_blocks/framed_pyramid_slab": {
     "criteria": {
       "hasFramedSlope": "2025-09-05 02:32:52 +0000"
     },
     "done": true
   },
-  "biomeswevegone:recipes/redstone/sakura_button": {
+  "framedblocks:recipes/building_blocks/framed_half_slope": {
     "criteria": {
-      "has_planks": "2025-09-05 04:25:18 +0000"
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_corner_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_detector_rail_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fancy_rail_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_rail_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_powered_rail_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_inner_prism_corner": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_inner_prism": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fancy_powered_rail_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/redstone/stove_campfire": {
+    "criteria": {
+      "has_campfire": "2025-09-05 03:12:41 +0000"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/shawarma_spit": {
+    "criteria": {
+      "has_campfire": "2025-09-05 03:12:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-09-05 03:12:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2025-09-05 03:15:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-09-05 03:15:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2025-09-05 03:15:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-09-05 03:15:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_pink_dye": "2025-09-05 03:18:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2025-09-05 03:18:05 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_pink": {
+    "criteria": {
+      "has_dyes/black": "2025-09-05 03:18:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-09-05 03:18:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-09-05 03:18:05 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_vertical_sloped_stairs": {
+    "criteria": {
+      "hasFramedPanel": "2025-09-05 04:07:26 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_vertical_sliced_stairs": {
+    "criteria": {
+      "hasFramedPanel": "2025-09-05 04:07:26 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_centered_panel": {
+    "criteria": {
+      "hasFramedPanel": "2025-09-05 04:07:26 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_panel_rotate_to_framed_slab": {
+    "criteria": {
+      "hasFramedPanel": "2025-09-05 04:07:26 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_sliced_stairs_panel": {
+    "criteria": {
+      "hasFramedPanel": "2025-09-05 04:07:26 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_wall_board": {
+    "criteria": {
+      "hasFramedPanel": "2025-09-05 04:07:26 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slab_corner": {
+    "criteria": {
+      "hasFramedSlab": "2025-09-05 04:07:38 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_sloped_stairs": {
+    "criteria": {
+      "hasFramedSlab": "2025-09-05 04:07:38 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slab_edge": {
+    "criteria": {
+      "hasFramedSlab": "2025-09-05 04:07:38 +0000"
     },
     "done": true
   },
@@ -13202,39 +13358,39 @@
     },
     "done": true
   },
-  "aether:recipes/tools/diamond_axe_repairing": {
+  "framedblocks:recipes/building_blocks/framed_trapdoor": {
     "criteria": {
-      "has_diamond_axe": "2025-09-05 02:12:16 +0000"
+      "hasFramedSlab": "2025-09-05 04:07:38 +0000"
     },
     "done": true
   },
-  "framedblocks:recipes/building_blocks/framed_half_slope": {
+  "framedblocks:recipes/building_blocks/framed_floor_board": {
     "criteria": {
-      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
+      "hasFramedSlab": "2025-09-05 04:07:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
+  "framedblocks:recipes/building_blocks/framed_sliced_stairs_slab": {
     "criteria": {
-      "has_cod": "2025-09-05 01:36:37 +0000"
+      "hasFramedSlab": "2025-09-05 04:07:38 +0000"
     },
     "done": true
   },
-  "framedblocks:recipes/building_blocks/framed_centered_panel": {
+  "farmersdelight:recipes/decorations/cherry_cabinet": {
     "criteria": {
-      "hasFramedPanel": "2025-09-05 04:07:26 +0000"
+      "has_cherry_trapdoor": "2025-09-05 04:12:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/snow": {
+  "biomeswevegone:recipes/building_blocks/sakura_planks": {
     "criteria": {
-      "has_snowball": "2025-09-05 01:59:12 +0000"
+      "has_log": "2025-09-05 04:23:44 +0000"
     },
     "done": true
   },
-  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
+  "biomeswevegone:recipes/building_blocks/sakura_wood": {
     "criteria": {
-      "has_cod": "2025-09-05 01:36:37 +0000"
+      "has_log": "2025-09-05 04:23:44 +0000"
     },
     "done": true
   },
@@ -13244,15 +13400,99 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/map": {
+  "biomeswevegone:recipes/decorations/sakura_hanging_sign": {
     "criteria": {
-      "has_compass": "2025-09-05 01:13:58 +0000"
+      "has_stripped_logs": "2025-09-05 04:25:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_pink_bed": {
+  "biomeswevegone:recipes/building_blocks/sakura_stairs": {
     "criteria": {
-      "has_the_recipe": "2025-09-05 02:14:58 +0000"
+      "has_planks": "2025-09-05 04:25:18 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/sakura_crafting_table": {
+    "criteria": {
+      "has_sakura_planks": "2025-09-05 04:25:18 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/sakura_bookshelf": {
+    "criteria": {
+      "has_sakura_planks": "2025-09-05 04:25:18 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/sakura_door": {
+    "criteria": {
+      "has_planks": "2025-09-05 04:25:18 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/sakura_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-05 04:25:18 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/sakura_slab": {
+    "criteria": {
+      "has_planks": "2025-09-05 04:25:18 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/sakura_button": {
+    "criteria": {
+      "has_planks": "2025-09-05 04:25:18 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/sakura_fence": {
+    "criteria": {
+      "has_planks": "2025-09-05 04:25:18 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/sakura_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-05 04:25:18 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/sakura_sign": {
+    "criteria": {
+      "has_planks": "2025-09-05 04:25:18 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/sakura_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-05 04:25:18 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_pump_upgrade": {
+    "criteria": {
+      "has_pump_upgrade": "2025-09-05 04:33:39 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/xp_pump_upgrade": {
+    "criteria": {
+      "has_advanced_pump_upgrade": "2025-09-05 04:33:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-09-05 04:48:01 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_stairs_rotate_to_framed_vertical_stairs": {
+    "criteria": {
+      "hasFramedStairs": "2025-09-05 04:51:56 +0000"
     },
     "done": true
   },
@@ -13262,21 +13502,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+  "framedblocks:recipes/building_blocks/framed_half_stairs": {
     "criteria": {
-      "has_polished_granite": "2025-09-05 03:15:57 +0000"
+      "hasFramedStairs": "2025-09-05 04:51:56 +0000"
     },
     "done": true
   },
-  "kaleidoscope_cookery:recipes/redstone/stove_campfire": {
+  "framedblocks:recipes/building_blocks/framed_vertical_double_stairs_rotate_to_framed_double_stairs": {
     "criteria": {
-      "has_campfire": "2025-09-05 03:12:41 +0000"
+      "hasFramedVerticalDoubleStairs": "2025-09-05 04:59:43 +0000"
     },
     "done": true
   },
-  "framedblocks:recipes/building_blocks/framed_trapdoor": {
+  "framedblocks:recipes/building_blocks/framed_double_stairs_rotate_to_framed_vertical_double_stairs": {
     "criteria": {
-      "hasFramedSlab": "2025-09-05 04:07:38 +0000"
+      "hasFramedDoubleStairs": "2025-09-05 05:01:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-09-05 05:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-09-05 05:15:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-09-05 05:15:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-09-05 05:15:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-09-05 05:15:54 +0000"
     },
     "done": true
   },
@@ -13292,63 +13562,15 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/cherry_chest": {
+  "ae2:recipes/misc/network/cables/smart_red": {
     "criteria": {
-      "has_cherry_plank": "2025-09-05 01:55:55 +0000"
+      "has_dyes/black": "2025-09-05 05:15:54 +0000"
     },
     "done": true
   },
-  "biomeswevegone:recipes/decorations/sakura_fence": {
+  "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
-      "has_planks": "2025-09-05 04:25:18 +0000"
-    },
-    "done": true
-  },
-  "framedblocks:recipes/building_blocks/framed_vertical_double_stairs_rotate_to_framed_double_stairs": {
-    "criteria": {
-      "hasFramedVerticalDoubleStairs": "2025-09-05 04:59:43 +0000"
-    },
-    "done": true
-  },
-  "kaleidoscope_cookery:recipes/decorations/shawarma_spit": {
-    "criteria": {
-      "has_campfire": "2025-09-05 03:12:41 +0000"
-    },
-    "done": true
-  },
-  "framedblocks:recipes/building_blocks/framed_corner_slope": {
-    "criteria": {
-      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/sakura_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-09-05 04:25:18 +0000"
-    },
-    "done": true
-  },
-  "framedblocks:recipes/building_blocks/framed_floor_board": {
-    "criteria": {
-      "hasFramedSlab": "2025-09-05 04:07:38 +0000"
-    },
-    "done": true
-  },
-  "kaleidoscope_cookery:root": {
-    "criteria": {
-      "has_pot": "2025-09-05 02:16:59 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/misc/white_dye_from_bwg_tag": {
-    "criteria": {
-      "TagKey[minecraft:item / biomeswevegone:dye/makes_white_dye]": "2025-09-05 01:51:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_door": {
-    "criteria": {
-      "has_planks": "2025-09-05 01:55:55 +0000"
+      "has_glass": "2025-09-05 05:17:12 +0000"
     },
     "done": true
   },
@@ -13358,231 +13580,9 @@
     },
     "done": true
   },
-  "tconstruct:recipes/decorations/gadgets/punji": {
-    "criteria": {
-      "has_item": "2025-09-05 01:03:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cherry_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-09-05 02:03:30 +0000"
-    },
-    "done": true
-  },
-  "framedblocks:recipes/building_blocks/framed_panel_rotate_to_framed_slab": {
-    "criteria": {
-      "hasFramedPanel": "2025-09-05 04:07:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_slab": {
-    "criteria": {
-      "has_planks": "2025-09-05 01:55:55 +0000"
-    },
-    "done": true
-  },
-  "framedblocks:recipes/building_blocks/framed_detector_rail_slope": {
-    "criteria": {
-      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
-    },
-    "done": true
-  },
-  "framedblocks:recipes/building_blocks/framed_sliced_stairs_panel": {
-    "criteria": {
-      "hasFramedPanel": "2025-09-05 04:07:26 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cherry_window_pane": {
-    "criteria": {
-      "has_ingredient": "2025-09-05 02:26:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_stairs": {
-    "criteria": {
-      "has_planks": "2025-09-05 01:55:55 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/smart_red": {
-    "criteria": {
-      "has_dyes/black": "2025-09-05 05:15:54 +0000"
-    },
-    "done": true
-  },
   "framedblocks:recipes/building_blocks/framed_post": {
     "criteria": {
       "hasFramedFence": "2025-09-05 05:49:32 +0000"
-    },
-    "done": true
-  },
-  "framedblocks:recipes/building_blocks/framed_fancy_rail_slope": {
-    "criteria": {
-      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_pink_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-09-05 03:18:05 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/redwood_button": {
-    "criteria": {
-      "has_planks": "2025-09-05 01:03:27 +0000"
-    },
-    "done": true
-  },
-  "framedblocks:recipes/building_blocks/framed_rail_slope": {
-    "criteria": {
-      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
-    },
-    "done": true
-  },
-  "framedblocks:recipes/building_blocks/framed_wall_board": {
-    "criteria": {
-      "hasFramedPanel": "2025-09-05 04:07:26 +0000"
-    },
-    "done": true
-  },
-  "framedblocks:recipes/building_blocks/framed_powered_rail_slope": {
-    "criteria": {
-      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/cherry_barrel": {
-    "criteria": {
-      "has_cherry_plank": "2025-09-05 01:55:55 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/sakura_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-09-05 04:25:16 +0000"
-    },
-    "done": true
-  },
-  "framedblocks:recipes/building_blocks/framed_inner_prism_corner": {
-    "criteria": {
-      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_pink_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-09-05 03:18:05 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/sakura_sign": {
-    "criteria": {
-      "has_planks": "2025-09-05 04:25:18 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/redwood_door": {
-    "criteria": {
-      "has_planks": "2025-09-05 01:03:27 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/sakura_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-09-05 04:25:18 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/redwood_slab": {
-    "criteria": {
-      "has_planks": "2025-09-05 01:03:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-09-05 01:55:55 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/stove": {
-    "criteria": {
-      "has_campfire": "2025-09-05 03:12:41 +0000"
-    },
-    "done": true
-  },
-  "framedblocks:recipes/building_blocks/framed_inner_prism": {
-    "criteria": {
-      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
-    },
-    "done": true
-  },
-  "framedblocks:recipes/building_blocks/framed_half_stairs": {
-    "criteria": {
-      "hasFramedStairs": "2025-09-05 04:51:56 +0000"
-    },
-    "done": true
-  },
-  "framedblocks:recipes/building_blocks/framed_fancy_powered_rail_slope": {
-    "criteria": {
-      "hasFramedSlope": "2025-09-05 02:32:52 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/sakura_wood": {
-    "criteria": {
-      "has_log": "2025-09-05 04:23:44 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/redwood_stairs": {
-    "criteria": {
-      "has_planks": "2025-09-05 01:03:27 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cherry_window": {
-    "criteria": {
-      "has_ingredient": "2025-09-05 01:55:55 +0000"
-    },
-    "done": true
-  },
-  "kaleidoscope_cookery:recipes/decorations/chair_cherry": {
-    "criteria": {
-      "has_fence": "2025-09-05 02:27:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/scaffolding": {
-    "criteria": {
-      "has_bamboo": "2025-09-05 01:03:18 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/diamond_shovel_repairing": {
-    "criteria": {
-      "has_diamond_shovel": "2025-09-05 01:57:08 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/cherry_storage_connector": {
-    "criteria": {
-      "has_cherry_planks": "2025-09-05 01:55:55 +0000"
-    },
-    "done": true
-  },
-  "framedblocks:recipes/building_blocks/framed_sliced_stairs_slab": {
-    "criteria": {
-      "hasFramedSlab": "2025-09-05 04:07:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/snow_block": {
-    "criteria": {
-      "has_snowball": "2025-09-05 01:59:12 +0000"
     },
     "done": true
   },

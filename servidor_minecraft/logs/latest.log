@@ -1117,3 +1117,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Sep2025 21:41:18.686] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:kamikaze has no valid items
 [05Sep2025 21:41:18.686] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:withershield has no valid items
 [05Sep2025 21:41:18.779] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[05Sep2025 21:53:22.687] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[05Sep2025 21:53:22.849] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Melosito_Neo[/127.159.187.102:59587] logged in with entity id 83 at (-713.6999999880791, 50.0, 131.69999998807907)
+[05Sep2025 21:53:23.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo joined the game
+[05Sep2025 21:53:23.795] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.TamableAnimal from interface com.hollingsworth.arsnouveau.common.entity.IFollowingSummon
+[05Sep2025 21:53:23.930] [Server thread/INFO] [Jade/]: Syncing config to Melosito_Neo (e021c79e-37d6-3b8c-b53e-a73c06ecc29e)
