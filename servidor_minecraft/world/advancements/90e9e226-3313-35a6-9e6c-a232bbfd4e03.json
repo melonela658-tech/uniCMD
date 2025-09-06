@@ -8442,6 +8442,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/firefly_particle_spawner": {
+    "criteria": {
+      "has_jar": "2025-09-06 22:47:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-09-06 22:44:02 +0000"
@@ -8519,6 +8525,24 @@
       "has_planks": "2025-09-06 22:44:02 +0000"
     },
     "done": true
+  },
+  "twilightforest:recipes/tools/charm_of_keeping_2": {
+    "criteria": {
+      "has_item": "2025-09-06 22:47:49 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_hoe_repairing": {
+    "criteria": {
+      "has_golden_hoe": "2025-09-06 22:48:08 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progression_end": {
+    "criteria": {
+      "plateau": "2025-09-06 22:54:20 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

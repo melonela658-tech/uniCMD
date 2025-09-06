@@ -15369,6 +15369,12 @@
     },
     "done": true
   },
+  "mekanism:disassembler": {
+    "criteria": {
+      "atomic_disassembler": "2025-09-06 22:50:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-09-06 22:02:17 +0000"
