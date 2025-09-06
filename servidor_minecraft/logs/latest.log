@@ -1580,3 +1580,42 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06Sep2025 21:31:15.329] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [06Sep2025 21:31:15.330] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
 [06Sep2025 21:32:32.606] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity NecromancerEntity['Joan the Angry'/28248, l='ServerLevel[world]', x=-140.93, y=134.00, z=2162.00] died: Joan the Angry was slain by Principyto
+[06Sep2025 21:35:02.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has completed the challenge [The Power of the Sun]
+[06Sep2025 21:37:46.721] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Melosito_Neo[/127.159.187.102:48527] logged in with entity id 32598 at (-709.0634083032035, 45.84679523252944, 119.30000001192093)
+[06Sep2025 21:37:46.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo joined the game
+[06Sep2025 21:37:46.875] [Server thread/INFO] [Jade/]: Syncing config to Melosito_Neo (e021c79e-37d6-3b8c-b53e-a73c06ecc29e)
+[06Sep2025 21:40:11.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! 9.802978506652266,-2.29495033431121,1.5907366652802466
+[06Sep2025 21:40:11.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! 11.206248786091692,-2.6227796548711666,1.845133247062904
+[06Sep2025 21:40:11.486] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! 12.610123857802591,-2.9553687743163124,2.104816341878859
+[06Sep2025 21:40:11.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! -11.061455178059873,2.660172487669726,-2.066319127607585
+[06Sep2025 21:40:11.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! -11.061455178059873,2.660172487669726,-2.066319127607585
+[06Sep2025 21:40:11.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! -11.061455178059873,2.660172487669726,-2.066319127607585
+[06Sep2025 21:40:11.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! -10.946746263058003,2.622049249140062,-2.0054099790781947
+[06Sep2025 21:40:11.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! -9.753096863008295,2.295588863005378,-1.7554326037470673
+[06Sep2025 21:40:11.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! -9.727792697857808,2.257223883051992,-1.7190986634641376
+[06Sep2025 21:40:11.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! -10.55210336900359,2.475275382542776,-1.866416879808412
+[06Sep2025 21:40:11.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! -10.450795265735678,2.412261663130309,-1.8239242484444276
+[06Sep2025 21:43:29.157] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Chasity the Cracked'/37035, l='ServerLevel[world]', x=-770.30, y=61.00, z=99.30] died: Chasity the Cracked was slain by Bunfy_edd
+[06Sep2025 21:44:15.946] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[06Sep2025 21:44:15.946] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[06Sep2025 21:44:26.211] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[06Sep2025 21:44:26.211] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[06Sep2025 21:48:29.796] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[06Sep2025 21:48:29.798] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[06Sep2025 21:52:19.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! -11.358345707343574,1.0882565065195706,0.7107299399235671
+[06Sep2025 21:52:19.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! -10.117001779138604,0.9684839009052126,0.6477946068057463
+[06Sep2025 21:54:33.204] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[06Sep2025 21:54:33.205] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[06Sep2025 21:58:20.744] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[06Sep2025 21:58:20.788] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[06Sep2025 22:01:33.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto moved too quickly! 9.112764861832147,-2.479893299348362,-3.391239863255919
+[06Sep2025 22:01:33.477] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2700ms or 54 ticks behind
+[06Sep2025 22:01:52.709] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[06Sep2025 22:01:52.709] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[06Sep2025 22:01:52.709] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[06Sep2025 22:02:17.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Spooky Scary Skeleton]
+[06Sep2025 22:17:13.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Principyto to Bunfy_edd]
+[06Sep2025 22:18:56.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Withering Heights]
+[06Sep2025 22:18:56.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [Withering Heights]
+[06Sep2025 22:18:56.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [Withering Heights]
+[06Sep2025 22:24:48.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd was slain by Principyto

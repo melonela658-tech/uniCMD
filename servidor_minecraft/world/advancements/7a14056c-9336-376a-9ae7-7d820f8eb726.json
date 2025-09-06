@@ -1959,6 +1959,7 @@
       "minecraft:dripstone_caves": "2025-09-05 02:44:01 +0000",
       "minecraft:swamp": "2025-09-02 19:33:07 +0000",
       "minecraft:grove": "2025-09-02 23:32:16 +0000",
+      "minecraft:jagged_peaks": "2025-09-06 21:34:47 +0000",
       "minecraft:cold_ocean": "2025-09-02 20:50:42 +0000",
       "minecraft:forest": "2025-09-02 21:43:52 +0000",
       "minecraft:lush_caves": "2025-09-02 23:33:23 +0000",
@@ -3310,6 +3311,7 @@
       "cooked_mutton": "2025-09-02 19:41:51 +0000",
       "sweet_berries": "2025-09-05 11:06:03 +0000",
       "cooked_beef": "2025-09-02 20:59:15 +0000",
+      "beef": "2025-09-06 22:09:21 +0000",
       "porkchop": "2025-09-03 05:39:04 +0000",
       "apple": "2025-09-03 07:09:41 +0000",
       "spider_eye": "2025-09-06 04:09:22 +0000",
@@ -5488,8 +5490,10 @@
       "biomeswevegone:temperate_grove": "2025-09-03 23:26:56 +0000",
       "biomeswevegone:forgotten_forest": "2025-09-03 22:57:46 +0000",
       "biomeswevegone:firecracker_chaparral": "2025-09-06 04:46:00 +0000",
+      "biomeswevegone:canadian_shield": "2025-09-06 21:53:10 +0000",
       "biomeswevegone:coconino_meadow": "2025-09-03 00:06:30 +0000",
       "biomeswevegone:lush_stacks": "2025-09-04 03:52:39 +0000",
+      "biomeswevegone:black_forest": "2025-09-06 21:34:11 +0000",
       "biomeswevegone:maple_taiga": "2025-09-03 00:07:07 +0000",
       "biomeswevegone:orchard": "2025-09-03 05:00:54 +0000",
       "biomeswevegone:ironwood_gour": "2025-09-04 03:49:32 +0000",
@@ -5509,6 +5513,7 @@
       "biomeswevegone:tropical_rainforest": "2025-09-03 21:54:24 +0000",
       "biomeswevegone:baobab_savanna": "2025-09-03 21:26:05 +0000",
       "biomeswevegone:overgrowth_woodlands": "2025-09-04 08:22:45 +0000",
+      "biomeswevegone:coniferous_forest": "2025-09-06 21:34:46 +0000",
       "biomeswevegone:rainbow_beach": "2025-09-06 04:32:58 +0000"
     },
     "done": false
@@ -11139,6 +11144,54 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-09-06 21:30:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-09-06 21:47:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_helmet_repairing": {
+    "criteria": {
+      "has_leather_helmet": "2025-09-06 22:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-09-06 21:47:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-09-06 22:18:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-09-06 21:47:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_axe_repairing": {
+    "criteria": {
+      "has_diamond_axe": "2025-09-06 22:05:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_boots_repairing": {
+    "criteria": {
+      "has_leather_boots": "2025-09-06 22:05:07 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2025-09-06 21:35:02 +0000"
     },
     "done": true
   },

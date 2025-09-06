@@ -3775,6 +3775,7 @@
       "minecraft:spider": "2025-09-02 20:16:27 +0000",
       "minecraft:piglin_brute": "2025-09-04 00:09:41 +0000",
       "minecraft:creeper": "2025-09-02 22:17:10 +0000",
+      "minecraft:wither": "2025-09-06 22:19:29 +0000",
       "minecraft:phantom": "2025-09-05 02:10:24 +0000",
       "minecraft:zombified_piglin": "2025-09-03 00:35:44 +0000",
       "minecraft:witch": "2025-09-02 22:15:17 +0000",
@@ -14942,6 +14943,42 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2025-09-06 10:31:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2025-09-06 10:31:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2025-09-06 10:31:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2025-09-06 10:31:20 +0000"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-09-06 10:37:02 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2025-09-06 10:39:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/brass_bars_from_ingots_brass_stonecutting": {
     "criteria": {
       "has_ingots_brass": "2025-09-06 10:40:09 +0000"
@@ -14966,27 +15003,9 @@
     },
     "done": true
   },
-  "create:mechanical_mixer": {
-    "criteria": {
-      "0": "2025-09-06 10:39:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-09-06 12:35:14 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/logistics/brass_tunnel": {
     "criteria": {
       "has_item": "2025-09-06 10:40:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-09-06 12:35:14 +0000"
     },
     "done": true
   },
@@ -14996,111 +15015,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/logistics/content_observer": {
-    "criteria": {
-      "has_item": "2025-09-06 10:42:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
-    "criteria": {
-      "has_log": "2025-09-06 10:42:46 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/display_link": {
-    "criteria": {
-      "has_item": "2025-09-06 10:42:57 +0000"
-    },
-    "done": true
-  },
   "create:brass": {
     "criteria": {
       "0": "2025-09-06 10:40:09 +0000"
-    },
-    "done": true
-  },
-  "mekanism:injection_chamber": {
-    "criteria": {
-      "chemical_injection_chamber": "2025-09-06 12:36:12 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/deployer": {
-    "criteria": {
-      "has_item": "2025-09-06 10:41:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-09-06 12:35:14 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/propeller": {
-    "criteria": {
-      "has_item": "2025-09-06 10:31:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magenta_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-09-06 12:35:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-09-06 12:35:14 +0000"
-    },
-    "done": true
-  },
-  "create:burner": {
-    "criteria": {
-      "0": "2025-09-06 10:37:02 +0000"
-    },
-    "done": true
-  },
-  "create:shifting_gears": {
-    "criteria": {
-      "0": "2025-09-06 10:45:07 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/encased_fan": {
-    "criteria": {
-      "has_item": "2025-09-06 10:31:20 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/electron_tube": {
-    "criteria": {
-      "has_item": "2025-09-06 10:41:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lime_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-09-06 12:35:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_gray_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-09-06 12:35:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-09-06 12:35:14 +0000"
-    },
-    "done": true
-  },
-  "create:rose_quartz": {
-    "criteria": {
-      "0": "2025-09-06 10:41:36 +0000"
     },
     "done": true
   },
@@ -15110,111 +15027,9 @@
     },
     "done": true
   },
-  "create:speed_controller": {
-    "criteria": {
-      "0": "2025-09-06 11:15:43 +0000"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/water_cell": {
-    "criteria": {
-      "has_item": "2025-09-06 10:54:49 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/redstone_contact": {
-    "criteria": {
-      "has_item": "2025-09-06 10:42:57 +0000"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/cobblestone_cell": {
-    "criteria": {
-      "has_item": "2025-09-06 10:54:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-09-06 12:35:14 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/clockwork_bearing": {
-    "criteria": {
-      "has_item": "2025-09-06 10:42:57 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/curiosities/peculiar_bell": {
     "criteria": {
       "has_item": "2025-09-06 10:40:09 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/adjustable_chain_gearshift": {
-    "criteria": {
-      "has_item": "2025-09-06 10:41:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-09-06 12:35:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/green_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-09-06 12:35:14 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/rotation_speed_controller": {
-    "criteria": {
-      "has_item": "2025-09-06 10:42:57 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_arm": {
-    "criteria": {
-      "has_item": "2025-09-06 10:42:57 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/super_glue": {
-    "criteria": {
-      "has_item": "2025-09-06 10:31:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-09-06 12:35:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_blue_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-09-06 12:35:14 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
-    "criteria": {
-      "has_polished_rose_quartz": "2025-09-06 10:41:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-09-06 12:35:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-09-06 10:42:46 +0000"
     },
     "done": true
   },
@@ -15230,39 +15045,81 @@
     },
     "done": true
   },
-  "create:deployer": {
+  "create:recipes/decorations/brass_scaffolding_from_ingots_brass_stonecutting": {
     "criteria": {
-      "0": "2025-09-06 11:00:07 +0000"
+      "has_ingots_brass": "2025-09-06 10:40:09 +0000"
     },
     "done": true
   },
-  "create:belt": {
+  "create:recipes/misc/crafting/materials/brass_nugget_from_decompacting": {
     "criteria": {
-      "0": "2025-09-06 10:49:09 +0000"
+      "has_item": "2025-09-06 10:40:09 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/whisk": {
+  "create:recipes/misc/crafting/kinetics/flywheel": {
     "criteria": {
-      "has_item": "2025-09-06 10:31:20 +0000"
+      "has_item": "2025-09-06 10:40:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brown_terracotta": {
+  "create:recipes/decorations/brass_table_cloth_from_ingots_brass_stonecutting": {
     "criteria": {
-      "has_terracotta": "2025-09-06 12:35:14 +0000"
+      "has_ingots_brass": "2025-09-06 10:40:09 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/mechanical_crafter": {
+  "create:recipes/misc/crafting/materials/electron_tube": {
     "criteria": {
-      "has_item": "2025-09-06 10:42:57 +0000"
+      "has_item": "2025-09-06 10:41:12 +0000"
     },
     "done": true
   },
-  "mekanism:purification_chamber": {
+  "create:recipes/building_blocks/rose_quartz_block_from_rose_quartz_stonecutting": {
     "criteria": {
-      "purification_chamber": "2025-09-06 12:36:08 +0000"
+      "has_rose_quartz": "2025-09-06 10:41:12 +0000"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2025-09-06 10:41:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2025-09-06 10:41:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2025-09-06 10:41:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/deployer": {
+    "criteria": {
+      "has_item": "2025-09-06 10:41:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/adjustable_chain_gearshift": {
+    "criteria": {
+      "has_item": "2025-09-06 10:41:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-09-06 10:42:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-09-06 10:42:46 +0000"
     },
     "done": true
   },
@@ -15272,15 +15129,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purple_terracotta": {
+  "create:recipes/misc/crafting/logistics/content_observer": {
     "criteria": {
-      "has_terracotta": "2025-09-06 12:35:14 +0000"
+      "has_item": "2025-09-06 10:42:57 +0000"
     },
     "done": true
   },
-  "create:recipes/decorations/brass_scaffolding_from_ingots_brass_stonecutting": {
+  "create:recipes/misc/crafting/logistics/display_link": {
     "criteria": {
-      "has_ingots_brass": "2025-09-06 10:40:09 +0000"
+      "has_item": "2025-09-06 10:42:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/redstone_contact": {
+    "criteria": {
+      "has_item": "2025-09-06 10:42:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/clockwork_bearing": {
+    "criteria": {
+      "has_item": "2025-09-06 10:42:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rotation_speed_controller": {
+    "criteria": {
+      "has_item": "2025-09-06 10:42:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_arm": {
+    "criteria": {
+      "has_item": "2025-09-06 10:42:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_crafter": {
+    "criteria": {
+      "has_item": "2025-09-06 10:42:57 +0000"
     },
     "done": true
   },
@@ -15302,45 +15189,195 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/brass_nugget_from_decompacting": {
-    "criteria": {
-      "has_item": "2025-09-06 10:40:09 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/rose_quartz_block_from_rose_quartz_stonecutting": {
-    "criteria": {
-      "has_rose_quartz": "2025-09-06 10:41:12 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/flywheel": {
-    "criteria": {
-      "has_item": "2025-09-06 10:40:09 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
-    "criteria": {
-      "has_polished_rose_quartz": "2025-09-06 10:41:36 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/decorations/brass_table_cloth_from_ingots_brass_stonecutting": {
-    "criteria": {
-      "has_ingots_brass": "2025-09-06 10:40:09 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/nixie_tube": {
     "criteria": {
       "has_item": "2025-09-06 10:42:57 +0000"
     },
     "done": true
   },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-09-06 10:45:07 +0000"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2025-09-06 10:49:09 +0000"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/water_cell": {
+    "criteria": {
+      "has_item": "2025-09-06 10:54:49 +0000"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/cobblestone_cell": {
+    "criteria": {
+      "has_item": "2025-09-06 10:54:49 +0000"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2025-09-06 11:00:07 +0000"
+    },
+    "done": true
+  },
   "create:precision_mechanism": {
     "criteria": {
       "0": "2025-09-06 11:05:22 +0000"
+    },
+    "done": true
+  },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2025-09-06 11:15:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-09-06 12:35:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-09-06 12:35:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-09-06 12:35:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-09-06 12:35:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-09-06 12:35:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-09-06 12:35:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-09-06 12:35:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-09-06 12:35:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-09-06 12:35:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-09-06 12:35:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-09-06 12:35:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-09-06 12:35:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-09-06 12:35:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-09-06 12:35:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-09-06 12:35:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-09-06 12:35:14 +0000"
+    },
+    "done": true
+  },
+  "mekanism:purification_chamber": {
+    "criteria": {
+      "purification_chamber": "2025-09-06 12:36:08 +0000"
+    },
+    "done": true
+  },
+  "mekanism:injection_chamber": {
+    "criteria": {
+      "chemical_injection_chamber": "2025-09-06 12:36:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-09-06 22:18:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-09-06 22:19:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-09-06 22:02:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-09-06 22:02:17 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/glass/vanilla/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-09-06 22:19:31 +0000"
+    },
+    "done": true
+  },
+  "mekanism:chemical_transport": {
+    "criteria": {
+      "basic_pressurized_tube": "2025-09-06 21:48:44 +0000"
     },
     "done": true
   },
