@@ -4,3 +4,88 @@
 [06Sep2025 00:19:14.295] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/53495, l='ServerLevel[world]', x=2458.05, y=135.25, z=-2689.98] died: Honeyed Archer suffocated in a wall
 [06Sep2025 00:22:05.303] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Professor Jenny the Errant'/58173, l='ServerLevel[world]', x=-1254.65, y=38.00, z=-269.60] died: Professor Jenny the Errant was slain by Bunfy_edd
 [06Sep2025 00:22:08.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has completed the challenge [He Wasn't So Strong]
+[06Sep2025 00:24:12.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved wrongly!
+[06Sep2025 00:24:20.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Bunfy_edd to Melosito_Neo]
+[06Sep2025 00:24:35.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved wrongly!
+[06Sep2025 00:27:24.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! -3024.309584845545,-133.5,2891.5425598227694
+[06Sep2025 00:29:04.583] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[06Sep2025 00:29:16.365] [Server thread/INFO] [naturescompass/]: Search failed: 10001 radius, 24532 samples
+[06Sep2025 00:29:37.316] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[06Sep2025 00:29:44.259] [Server thread/INFO] [naturescompass/]: Search succeeded: 7517 radius, 14712 samples
+[06Sep2025 00:30:04.443] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[06Sep2025 00:30:11.744] [Server thread/INFO] [naturescompass/]: Search failed: 10001 radius, 24532 samples
+[06Sep2025 00:30:18.598] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[06Sep2025 00:30:25.833] [Server thread/INFO] [naturescompass/]: Search failed: 10001 radius, 24532 samples
+[06Sep2025 00:31:14.251] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[06Sep2025 00:31:19.619] [Server thread/INFO] [naturescompass/]: Search succeeded: 7517 radius, 14712 samples
+[06Sep2025 00:32:45.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Bunfy_edd to Melosito_Neo]
+[06Sep2025 00:33:34.963] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[06Sep2025 00:33:43.927] [Server thread/INFO] [naturescompass/]: Search failed: 10001 radius, 24532 samples
+[06Sep2025 00:34:21.109] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[06Sep2025 00:34:29.792] [Server thread/INFO] [naturescompass/]: Search failed: 10001 radius, 24532 samples
+[06Sep2025 00:34:42.102] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[06Sep2025 00:34:51.253] [Server thread/INFO] [naturescompass/]: Search failed: 10001 radius, 24532 samples
+[06Sep2025 00:35:13.133] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[06Sep2025 00:35:22.044] [Server thread/INFO] [naturescompass/]: Search failed: 10001 radius, 24532 samples
+[06Sep2025 00:35:30.650] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[06Sep2025 00:35:39.612] [Server thread/INFO] [naturescompass/]: Search failed: 10001 radius, 24532 samples
+[06Sep2025 00:35:45.051] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[06Sep2025 00:35:53.916] [Server thread/INFO] [naturescompass/]: Search failed: 10001 radius, 24532 samples
+[06Sep2025 00:35:59.765] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[06Sep2025 00:36:08.971] [Server thread/INFO] [naturescompass/]: Search failed: 10001 radius, 24532 samples
+[06Sep2025 00:36:15.217] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[06Sep2025 00:36:24.137] [Server thread/INFO] [naturescompass/]: Search failed: 10001 radius, 24532 samples
+[06Sep2025 00:36:34.033] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[06Sep2025 00:36:39.587] [Server thread/INFO] [naturescompass/]: Search succeeded: 7026 radius, 13375 samples
+[06Sep2025 00:37:15.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bunfy_edd moved too quickly! 11.118176577243913,-2.0141223174755396,13.96129788526764
+[06Sep2025 00:37:27.523] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bunfy_edd moved too quickly! 11.4592214191253,-2.8837646384483264,13.705259506074981
+[06Sep2025 00:37:30.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! 8.633407138769691,-1.8148632601594272,15.044409569280447
+[06Sep2025 00:37:30.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bunfy_edd moved too quickly! 10.313001203992314,-8.454920397209946,12.206076254819664
+[06Sep2025 00:37:35.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bunfy_edd moved too quickly! 11.203170686449795,-5.351554889702527,13.257676079912926
+[06Sep2025 00:37:35.154] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2570ms or 51 ticks behind
+[06Sep2025 00:39:13.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to 4364.500000, 68.500000, 5753.500000]
+[06Sep2025 00:39:13.884] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16200ms or 324 ticks behind
+[06Sep2025 00:39:14.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> a
+[06Sep2025 00:41:02.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bunfy_edd moved too quickly! 9.330224290368378,-2.6193187032286005,15.675407473625228
+[06Sep2025 00:41:02.161] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2927ms or 58 ticks behind
+[06Sep2025 00:41:11.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Removed every effect from Melosito_Neo]
+[06Sep2025 00:42:12.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
+[06Sep2025 00:43:48.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [Who's the Pillager Now?]
+[06Sep2025 00:44:19.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Removed every effect from Melosito_Neo]
+[06Sep2025 00:44:19.821] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[06Sep2025 00:44:22.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to 4364.500000, 50.000000, 5753.500000]
+[06Sep2025 00:44:28.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Bunfy_edd to Melosito_Neo]
+[06Sep2025 00:46:00.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [Eterna, Quanta, Arcana]
+[06Sep2025 00:46:00.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [Enchanter]
+[06Sep2025 00:46:00.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [The Basics]
+[06Sep2025 00:46:00.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [Introduction to Chaos]
+[06Sep2025 00:47:32.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> a
+[06Sep2025 00:50:43.646] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/78735, l='ServerLevel[world]', x=2414.20, y=154.41, z=-2825.90] died: Undead Knight suffocated in a wall
+[06Sep2025 00:51:55.854] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Sep2025 00:51:55.951] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Sep2025 00:51:56.057] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Sep2025 00:51:56.149] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Sep2025 00:52:27.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [Epic!]
+[06Sep2025 00:52:34.274] [Worker-Main-56/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [20, -9], pos: MutableBlockPos{x=320, y=92, z=-134}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[06Sep2025 00:52:34.274] [Worker-Main-56/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [20, -9], pos: MutableBlockPos{x=320, y=93, z=-134}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[06Sep2025 00:52:34.274] [Worker-Main-56/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [20, -9], pos: MutableBlockPos{x=320, y=94, z=-134}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[06Sep2025 00:52:34.276] [Worker-Main-56/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [20, -9], pos: MutableBlockPos{x=320, y=91, z=-133}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[06Sep2025 00:52:34.277] [Worker-Main-56/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [20, -9], pos: MutableBlockPos{x=320, y=92, z=-133}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[06Sep2025 00:52:34.277] [Worker-Main-56/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [20, -9], pos: MutableBlockPos{x=320, y=93, z=-133}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[06Sep2025 00:52:34.277] [Worker-Main-56/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [20, -9], pos: MutableBlockPos{x=320, y=94, z=-133}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[06Sep2025 00:52:34.277] [Worker-Main-56/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [20, -9], pos: MutableBlockPos{x=320, y=95, z=-133}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[06Sep2025 00:52:34.278] [Worker-Main-56/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [20, -9], pos: MutableBlockPos{x=320, y=90, z=-132}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[06Sep2025 00:52:34.278] [Worker-Main-56/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [20, -9], pos: MutableBlockPos{x=320, y=91, z=-132}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[06Sep2025 00:52:34.279] [Worker-Main-56/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [20, -9], pos: MutableBlockPos{x=320, y=92, z=-132}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[06Sep2025 00:52:34.279] [Worker-Main-56/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [20, -9], pos: MutableBlockPos{x=320, y=93, z=-132}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[06Sep2025 00:52:34.279] [Worker-Main-56/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [20, -9], pos: MutableBlockPos{x=320, y=94, z=-132}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[06Sep2025 00:52:34.280] [Worker-Main-56/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [20, -9], pos: MutableBlockPos{x=320, y=90, z=-131}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[06Sep2025 00:52:34.280] [Worker-Main-56/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [20, -9], pos: MutableBlockPos{x=320, y=91, z=-131}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[06Sep2025 00:52:34.280] [Worker-Main-56/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [20, -9], pos: MutableBlockPos{x=320, y=92, z=-131}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[06Sep2025 00:52:34.281] [Worker-Main-56/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [20, -9], pos: MutableBlockPos{x=320, y=93, z=-131}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[06Sep2025 00:52:34.282] [Worker-Main-56/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [20, -9], pos: MutableBlockPos{x=320, y=94, z=-131}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[06Sep2025 00:52:34.283] [Worker-Main-56/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [20, -9], pos: MutableBlockPos{x=320, y=91, z=-130}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[06Sep2025 00:52:34.283] [Worker-Main-56/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [20, -9], pos: MutableBlockPos{x=320, y=92, z=-130}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[06Sep2025 00:57:10.572] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withering Archer'/81019, l='ServerLevel[world]', x=0.89, y=69.44, z=-33.78] died: Withering Archer was slain by Bunfy_edd
+[06Sep2025 01:00:42.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd was slain by Ancient Knight
+[06Sep2025 01:01:28.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Bunfy_edd to Melosito_Neo]

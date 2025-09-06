@@ -2021,10 +2021,12 @@
       "minecraft:lush_caves": "2025-09-02 23:34:49 +0000",
       "minecraft:deep_cold_ocean": "2025-09-05 01:34:11 +0000",
       "minecraft:frozen_ocean": "2025-09-05 01:39:33 +0000",
+      "minecraft:desert": "2025-09-06 00:39:14 +0000",
       "minecraft:windswept_forest": "2025-09-02 19:38:33 +0000",
       "minecraft:deep_frozen_ocean": "2025-09-04 00:00:20 +0000",
       "minecraft:ocean": "2025-09-03 05:42:33 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-09-02 19:39:19 +0000",
+      "minecraft:warm_ocean": "2025-09-06 00:39:38 +0000",
       "minecraft:frozen_peaks": "2025-09-05 01:48:50 +0000",
       "minecraft:old_growth_birch_forest": "2025-09-02 23:07:08 +0000",
       "minecraft:deep_dark": "2025-09-04 12:38:05 +0000",
@@ -7856,6 +7858,7 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:rugged_badlands": "2025-09-06 00:41:22 +0000",
       "biomeswevegone:sakura_grove": "2025-09-05 01:50:34 +0000",
       "biomeswevegone:zelkova_forest": "2025-09-02 23:38:45 +0000",
       "biomeswevegone:temperate_grove": "2025-09-04 06:23:37 +0000",
@@ -7866,6 +7869,7 @@
       "biomeswevegone:weeping_witch_forest": "2025-09-03 06:54:58 +0000",
       "biomeswevegone:prairie": "2025-09-03 22:04:17 +0000",
       "biomeswevegone:howling_peaks": "2025-09-05 01:50:10 +0000",
+      "biomeswevegone:dead_sea": "2025-09-06 00:40:10 +0000",
       "biomeswevegone:allium_shrubland": "2025-09-03 22:05:29 +0000",
       "biomeswevegone:pumpkin_valley": "2025-09-04 06:05:11 +0000"
     },
@@ -13600,6 +13604,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-09-06 00:43:15 +0000"
+    },
+    "done": true
+  },
   "apotheosis:spawner/light": {
     "criteria": {
       "modifier": "2025-09-05 22:32:19 +0000"
@@ -13630,6 +13640,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-09-06 00:43:15 +0000"
+    },
+    "done": true
+  },
   "apotheosis:spawner/maxdelay": {
     "criteria": {
       "modifier": "2025-09-05 23:27:53 +0000"
@@ -13657,6 +13673,12 @@
   "nethersdelight:recipes/food/warped_moldy_meat": {
     "criteria": {
       "has_sirloin": "2025-09-05 22:17:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-09-06 00:43:15 +0000"
     },
     "done": true
   },
@@ -13696,6 +13718,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-09-06 00:43:15 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
       "killed_by": "2025-09-05 22:21:31 +0000"
@@ -13705,6 +13733,12 @@
   "sophisticatedstorage:recipes/misc/storage_stack_upgrade_tier_4_from_backpack_stack_upgrade_tier_3": {
     "criteria": {
       "has_backpack_stack_upgrade": "2025-09-05 22:48:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-09-06 00:41:13 +0000"
     },
     "done": true
   },
