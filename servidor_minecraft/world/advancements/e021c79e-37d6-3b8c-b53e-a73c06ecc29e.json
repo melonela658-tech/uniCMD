@@ -13813,9 +13813,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/portable_item_cell_256k": {
+    "criteria": {
+      "has_item_cell_housing": "2025-09-06 05:57:06 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/mossy_holystone_wall_from_mossy_holystone_stonecutting": {
     "criteria": {
       "has_mossy_holystone": "2025-09-06 04:51:29 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/portable_item_cell_64k": {
+    "criteria": {
+      "has_item_cell_housing": "2025-09-06 05:57:06 +0000"
     },
     "done": true
   },
@@ -13882,6 +13894,12 @@
   "aether:recipes/misc/skyroot_stick": {
     "criteria": {
       "has_planks": "2025-09-06 04:49:21 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_barrel": {
+    "criteria": {
+      "has_gold_barrel": "2025-09-06 05:47:44 +0000"
     },
     "done": true
   },
@@ -14239,6 +14257,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/blocks/interfaces_interface_alt": {
+    "criteria": {
+      "has_cable_interface": "2025-09-06 05:41:18 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/zanite_helmet": {
     "criteria": {
       "has_zanite": "2025-09-06 04:48:10 +0000"
@@ -14320,6 +14344,12 @@
   "ae2:recipes/misc/network/cells/item_storage_cell_4k_storage": {
     "criteria": {
       "has_cell_component_4k": "2025-09-06 05:02:07 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/portable_item_cell_16k": {
+    "criteria": {
+      "has_item_cell_housing": "2025-09-06 05:57:06 +0000"
     },
     "done": true
   },
@@ -14497,6 +14527,18 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/portable_item_cell_1k": {
+    "criteria": {
+      "has_item_cell_housing": "2025-09-06 05:57:06 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/portable_item_cell_4k": {
+    "criteria": {
+      "has_item_cell_housing": "2025-09-06 05:57:06 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/holystone_shovel": {
     "criteria": {
       "has_holystone": "2025-09-06 04:51:25 +0000"
@@ -14554,6 +14596,12 @@
   "minecraft:recipes/food/cooked_pork_belly_from_smoking": {
     "criteria": {
       "has_raw_pork_belly": "2025-09-06 02:03:49 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/io_port": {
+    "criteria": {
+      "has_drive": "2025-09-06 05:38:00 +0000"
     },
     "done": true
   },
