@@ -3343,6 +3343,7 @@
       "minecraft:evoker": "2025-09-04 12:42:44 +0000",
       "minecraft:slime": "2025-09-05 11:03:42 +0000",
       "minecraft:phantom": "2025-09-05 05:09:01 +0000",
+      "minecraft:zombified_piglin": "2025-09-06 06:14:35 +0000",
       "minecraft:witch": "2025-09-03 04:07:55 +0000",
       "minecraft:wither_skeleton": "2025-09-04 11:44:46 +0000",
       "minecraft:husk": "2025-09-04 04:25:49 +0000",
@@ -10571,6 +10572,12 @@
   "aether:recipes/building_blocks/zanite_block": {
     "criteria": {
       "has_zanite_gemstone": "2025-09-06 04:57:13 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/socket": {
+    "criteria": {
+      "socket": "2025-09-06 06:04:19 +0000"
     },
     "done": true
   },

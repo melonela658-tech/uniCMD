@@ -356,3 +356,8 @@
 [06Sep2025 05:37:37.681] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/94660, l='ServerLevel[world]', x=-751.19, y=83.59, z=74.64] died: Honeyed Archer was slain by Bunfy_edd
 [06Sep2025 05:59:09.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Bunfy_edd]
 [06Sep2025 05:59:18.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto moved too quickly! 5078.375686010231,61.022082233305916,-599.0609820040728
+[06Sep2025 06:04:01.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [First Age]
+[06Sep2025 06:04:19.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [The Jeweler]
+[06Sep2025 06:05:33.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Recursive Networking]
+[06Sep2025 06:16:38.798] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/240437, l='ServerLevel[world]', x=-879.12, y=93.85, z=226.67] died: Honeyed Archer was slain by Wolf
+[06Sep2025 06:17:26.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Network Aesthetics]

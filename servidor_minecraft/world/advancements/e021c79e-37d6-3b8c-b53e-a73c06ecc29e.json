@@ -13921,6 +13921,12 @@
     },
     "done": true
   },
+  "ae2:main/storage_cell": {
+    "criteria": {
+      "c16k": "2025-09-06 06:00:20 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cells/fluid_storage_cell_4k": {
     "criteria": {
       "has_cell_component_4k": "2025-09-06 05:02:07 +0000"
@@ -14239,6 +14245,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/parts/cable_anchor": {
+    "criteria": {
+      "has_knife": "2025-09-06 06:16:05 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/holystone_stairs_from_holystone_stonecutting": {
     "criteria": {
       "has_holystone": "2025-09-06 04:51:25 +0000"
@@ -14482,6 +14494,12 @@
   "aether:recipes/building_blocks/skyroot_stairs": {
     "criteria": {
       "has_skyroot_planks": "2025-09-06 04:49:21 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/recursive": {
+    "criteria": {
+      "recursive": "2025-09-06 06:05:33 +0000"
     },
     "done": true
   },
