@@ -380,3 +380,14 @@
 [06Sep2025 06:28:37.000] [Worker-Main-298/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=8, y=46, z=584}
 [06Sep2025 06:29:18.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported 3 entities to Melosito_Neo]
 [06Sep2025 06:30:13.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported 3 entities to Melosito_Neo]
+[06Sep2025 06:32:06.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has reached the goal [Like a Bossaru!]
+[06Sep2025 06:32:06.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has reached the goal [Like a Bossaru!]
+[06Sep2025 06:32:06.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has reached the goal [Like a Bossaru!]
+[06Sep2025 06:33:21.396] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bunfy_edd lost connection: Disconnected
+[06Sep2025 06:33:21.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd left the game
+[06Sep2025 06:36:44.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Principyto to Melosito_Neo]
+[06Sep2025 06:40:17.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Principyto> tu mama
+[06Sep2025 06:42:23.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Eternal Closure]
+[06Sep2025 06:46:24.644] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/256136, l='ServerLevel[world]', x=-1008.60, y=64.94, z=874.62] died: Honeyed Archer was slain by Wolf
+[06Sep2025 06:51:17.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Melosito_Neo]
+[06Sep2025 06:51:19.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Principyto]

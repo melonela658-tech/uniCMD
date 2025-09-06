@@ -13735,9 +13735,21 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/ambrosium_torch": {
+    "criteria": {
+      "has_holystone_pickaxe": "2025-09-06 06:29:11 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
     "criteria": {
       "requirement": "2025-09-05 23:12:04 +0000"
+    },
+    "done": true
+  },
+  "aether:bronze_dungeon": {
+    "criteria": {
+      "kill_slider": "2025-09-06 06:32:06 +0000"
     },
     "done": true
   },
@@ -13915,6 +13927,12 @@
     },
     "done": true
   },
+  "evilcraft:closure": {
+    "criteria": {
+      "criteria_0": "2025-09-06 06:42:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cod_roll": {
     "criteria": {
       "has_cod_slice": "2025-09-06 02:05:05 +0000"
@@ -13978,6 +13996,12 @@
   "farmersdelight:recipes/food/cooked_cod_slice": {
     "criteria": {
       "cooked_cod_slice": "2025-09-06 02:05:05 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/holystone_pickaxe_repairing": {
+    "criteria": {
+      "has_holystone_pickaxe": "2025-09-06 06:29:11 +0000"
     },
     "done": true
   },

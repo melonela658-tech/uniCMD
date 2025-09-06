@@ -10425,6 +10425,12 @@
     },
     "done": true
   },
+  "aether:bronze_dungeon": {
+    "criteria": {
+      "kill_slider": "2025-09-06 06:32:06 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/ambrosium_block": {
     "criteria": {
       "has_ambrosium_shard": "2025-09-06 04:50:38 +0000"
@@ -10548,6 +10554,12 @@
   "aether:recipes/tools/zanite_pickaxe": {
     "criteria": {
       "has_zanite": "2025-09-06 04:57:13 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_boots_repairing": {
+    "criteria": {
+      "has_zanite_boots": "2025-09-06 06:32:44 +0000"
     },
     "done": true
   },
