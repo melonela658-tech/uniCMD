@@ -411,3 +411,4 @@
 [06Sep2025 07:09:54.835] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
 [06Sep2025 07:37:42.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto moved too quickly! 0.5575267628819347,-10.215726157086912,0.7507211930837911
 [06Sep2025 07:40:10.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! -8.245048941110326,6.414580459142314,2.142690056853553
+[06Sep2025 07:44:37.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Principyto to Melosito_Neo]
