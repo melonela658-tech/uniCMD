@@ -3234,6 +3234,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-09-06 02:27:02 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2025-09-06 00:14:48 +0000"
@@ -3243,6 +3249,12 @@
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-09-05 23:51:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-09-06 02:27:02 +0000"
     },
     "done": true
   },
@@ -3279,6 +3291,12 @@
   "minecraft:recipes/decorations/cherry_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-09-06 01:18:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-09-06 02:27:02 +0000"
     },
     "done": true
   },

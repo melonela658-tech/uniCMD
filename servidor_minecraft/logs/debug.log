@@ -21087,3 +21087,1057 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06Sep2025 01:53:57.250] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
 [06Sep2025 01:53:58.253] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
 [06Sep2025 01:53:58.254] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 01:56:53.044] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Sep2025 01:56:53.064] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Sep2025 02:00:16.525] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (2678 | 50 | -2387)
+[06Sep2025 02:00:16.525] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (2678 | 50 | -2387)
+[06Sep2025 02:00:16.526] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (2687 | 50 | -2386)
+[06Sep2025 02:00:16.526] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (2687 | 50 | -2386)
+[06Sep2025 02:00:16.526] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (2683 | 41 | -2389)
+[06Sep2025 02:00:16.527] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (2683 | 41 | -2389)
+[06Sep2025 02:00:16.527] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (2684 | 41 | -2395)
+[06Sep2025 02:00:16.527] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (2684 | 41 | -2395)
+[06Sep2025 02:00:16.527] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation COUNTERCLOCKWISE_90 at (2683 | 41 | -2400)
+[06Sep2025 02:00:16.527] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation COUNTERCLOCKWISE_90 at (2683 | 41 | -2400)
+[06Sep2025 02:00:16.527] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (2675 | 23 | -2399)
+[06Sep2025 02:00:16.528] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (2675 | 23 | -2399)
+[06Sep2025 02:00:17.446] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (2687 | 50 | -2386)
+[06Sep2025 02:00:17.446] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (2687 | 50 | -2386)
+[06Sep2025 02:00:17.447] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation NONE at (2696 | 50 | -2385)
+[06Sep2025 02:00:17.447] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation NONE at (2696 | 50 | -2385)
+[06Sep2025 02:00:17.447] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation NONE at (2701 | 50 | -2391)
+[06Sep2025 02:00:17.447] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation NONE at (2701 | 50 | -2391)
+[06Sep2025 02:00:17.447] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation COUNTERCLOCKWISE_90 at (2689 | 46 | -2394)
+[06Sep2025 02:00:17.447] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation COUNTERCLOCKWISE_90 at (2689 | 46 | -2394)
+[06Sep2025 02:00:17.447] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (2694 | 41 | -2400)
+[06Sep2025 02:00:17.448] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (2694 | 41 | -2400)
+[06Sep2025 02:00:17.448] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (2688 | 41 | -2399)
+[06Sep2025 02:00:17.448] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (2688 | 41 | -2399)
+[06Sep2025 02:00:17.449] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (2700 | 41 | -2395)
+[06Sep2025 02:00:17.449] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (2700 | 41 | -2395)
+[06Sep2025 02:00:17.449] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation COUNTERCLOCKWISE_90 at (2683 | 41 | -2400)
+[06Sep2025 02:00:17.450] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation COUNTERCLOCKWISE_90 at (2683 | 41 | -2400)
+[06Sep2025 02:00:17.450] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (2690 | 23 | -2394)
+[06Sep2025 02:00:17.450] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (2690 | 23 | -2394)
+[06Sep2025 02:00:17.450] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_180 at (2691 | 23 | -2395)
+[06Sep2025 02:00:17.450] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_180 at (2691 | 23 | -2395)
+[06Sep2025 02:00:17.450] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (2675 | 23 | -2399)
+[06Sep2025 02:00:17.451] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (2675 | 23 | -2399)
+[06Sep2025 02:00:17.451] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/room/empty_room with rotation NONE at (2696 | 23 | -2396)
+[06Sep2025 02:00:17.451] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/room/empty_room with rotation NONE at (2696 | 23 | -2396)
+[06Sep2025 02:00:17.451] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (2697 | 23 | -2387)
+[06Sep2025 02:00:17.451] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (2697 | 23 | -2387)
+[06Sep2025 02:00:17.812] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (2678 | 50 | -2387)
+[06Sep2025 02:00:17.812] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (2678 | 50 | -2387)
+[06Sep2025 02:00:17.812] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/light with rotation CLOCKWISE_90 at (2681 | 55 | -2375)
+[06Sep2025 02:00:17.812] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/light with rotation CLOCKWISE_90 at (2681 | 55 | -2375)
+[06Sep2025 02:00:17.812] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/light_switch with rotation CLOCKWISE_90 at (2684 | 50 | -2375)
+[06Sep2025 02:00:17.813] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/light_switch with rotation CLOCKWISE_90 at (2684 | 50 | -2375)
+[06Sep2025 02:00:17.813] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (2679 | 50 | -2375)
+[06Sep2025 02:00:17.813] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (2679 | 50 | -2375)
+[06Sep2025 02:00:17.813] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_light with rotation CLOCKWISE_90 at (2679 | 50 | -2378)
+[06Sep2025 02:00:17.813] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_light with rotation CLOCKWISE_90 at (2679 | 50 | -2378)
+[06Sep2025 02:00:17.813] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (2680 | 50 | -2369)
+[06Sep2025 02:00:17.813] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (2680 | 50 | -2369)
+[06Sep2025 02:00:17.813] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (2687 | 50 | -2386)
+[06Sep2025 02:00:17.813] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (2687 | 50 | -2386)
+[06Sep2025 02:00:17.813] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation COUNTERCLOCKWISE_90 at (2683 | 41 | -2400)
+[06Sep2025 02:00:17.813] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation COUNTERCLOCKWISE_90 at (2683 | 41 | -2400)
+[06Sep2025 02:00:17.813] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (2683 | 41 | -2373)
+[06Sep2025 02:00:17.813] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (2683 | 41 | -2373)
+[06Sep2025 02:00:18.129] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (2687 | 50 | -2386)
+[06Sep2025 02:00:18.129] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (2687 | 50 | -2386)
+[06Sep2025 02:00:18.129] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation NONE at (2696 | 50 | -2385)
+[06Sep2025 02:00:18.129] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation NONE at (2696 | 50 | -2385)
+[06Sep2025 02:00:18.129] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation NONE at (2701 | 50 | -2391)
+[06Sep2025 02:00:18.130] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation NONE at (2701 | 50 | -2391)
+[06Sep2025 02:00:18.130] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (2688 | 41 | -2383)
+[06Sep2025 02:00:18.130] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (2688 | 41 | -2383)
+[06Sep2025 02:00:18.130] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation COUNTERCLOCKWISE_90 at (2683 | 41 | -2400)
+[06Sep2025 02:00:18.130] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation COUNTERCLOCKWISE_90 at (2683 | 41 | -2400)
+[06Sep2025 02:00:18.130] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_90 at (2689 | 41 | -2378)
+[06Sep2025 02:00:18.130] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_90 at (2689 | 41 | -2378)
+[06Sep2025 02:00:18.130] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (2683 | 41 | -2373)
+[06Sep2025 02:00:18.130] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (2683 | 41 | -2373)
+[06Sep2025 02:00:18.130] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_90 at (2702 | 23 | -2384)
+[06Sep2025 02:00:18.131] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_90 at (2702 | 23 | -2384)
+[06Sep2025 02:00:18.131] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation COUNTERCLOCKWISE_90 at (2697 | 23 | -2384)
+[06Sep2025 02:00:18.131] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation COUNTERCLOCKWISE_90 at (2697 | 23 | -2384)
+[06Sep2025 02:00:18.131] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (2697 | 23 | -2387)
+[06Sep2025 02:00:18.131] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (2697 | 23 | -2387)
+[06Sep2025 02:00:18.131] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (2698 | 23 | -2373)
+[06Sep2025 02:00:18.131] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (2698 | 23 | -2373)
+[06Sep2025 02:00:18.131] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (2697 | 23 | -2378)
+[06Sep2025 02:00:18.131] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (2697 | 23 | -2378)
+[06Sep2025 02:00:18.131] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_90 at (2693 | 23 | -2372)
+[06Sep2025 02:00:18.131] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_90 at (2693 | 23 | -2372)
+[06Sep2025 02:00:42.780] [Worker-Main-56/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (2680 | 50 | -2364)
+[06Sep2025 02:00:42.780] [Worker-Main-56/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (2680 | 50 | -2364)
+[06Sep2025 02:00:42.780] [Worker-Main-56/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (2680 | 50 | -2369)
+[06Sep2025 02:00:42.780] [Worker-Main-56/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (2680 | 50 | -2369)
+[06Sep2025 02:00:42.780] [Worker-Main-56/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (2676 | 50 | -2362)
+[06Sep2025 02:00:42.781] [Worker-Main-56/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (2676 | 50 | -2362)
+[06Sep2025 02:00:42.781] [Worker-Main-56/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (2683 | 41 | -2373)
+[06Sep2025 02:00:42.782] [Worker-Main-56/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (2683 | 41 | -2373)
+[06Sep2025 02:00:44.355] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (2676 | 50 | -2362)
+[06Sep2025 02:00:44.355] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (2676 | 50 | -2362)
+[06Sep2025 02:00:44.355] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/light with rotation CLOCKWISE_90 at (2689 | 48 | -2367)
+[06Sep2025 02:00:44.356] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/light with rotation CLOCKWISE_90 at (2689 | 48 | -2367)
+[06Sep2025 02:00:44.356] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (2683 | 41 | -2373)
+[06Sep2025 02:00:44.357] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (2683 | 41 | -2373)
+[06Sep2025 02:00:44.357] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_90 at (2693 | 23 | -2372)
+[06Sep2025 02:00:44.361] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_90 at (2693 | 23 | -2372)
+[06Sep2025 02:00:45.097] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (2718 | 50 | -2386)
+[06Sep2025 02:00:45.097] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (2718 | 50 | -2386)
+[06Sep2025 02:00:45.098] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (2706 | 50 | -2374)
+[06Sep2025 02:00:45.098] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (2706 | 50 | -2374)
+[06Sep2025 02:00:45.098] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation NONE at (2701 | 50 | -2391)
+[06Sep2025 02:00:45.099] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation NONE at (2701 | 50 | -2391)
+[06Sep2025 02:00:45.099] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (2706 | 50 | -2369)
+[06Sep2025 02:00:45.099] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (2706 | 50 | -2369)
+[06Sep2025 02:00:45.099] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (2719 | 32 | -2400)
+[06Sep2025 02:00:45.099] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (2719 | 32 | -2400)
+[06Sep2025 02:00:45.099] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (2719 | 32 | -2400)
+[06Sep2025 02:00:45.099] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (2719 | 32 | -2400)
+[06Sep2025 02:00:45.099] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_90 at (2693 | 23 | -2372)
+[06Sep2025 02:00:45.099] [Worker-Main-93/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_90 at (2693 | 23 | -2372)
+[06Sep2025 02:00:45.118] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (2718 | 50 | -2386)
+[06Sep2025 02:00:45.118] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (2718 | 50 | -2386)
+[06Sep2025 02:00:45.118] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation NONE at (2701 | 50 | -2391)
+[06Sep2025 02:00:45.119] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation NONE at (2701 | 50 | -2391)
+[06Sep2025 02:00:45.119] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (2700 | 41 | -2395)
+[06Sep2025 02:00:45.119] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (2700 | 41 | -2395)
+[06Sep2025 02:00:45.120] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_180 at (2705 | 41 | -2395)
+[06Sep2025 02:00:45.120] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_180 at (2705 | 41 | -2395)
+[06Sep2025 02:00:45.120] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (2714 | 41 | -2396)
+[06Sep2025 02:00:45.121] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (2714 | 41 | -2396)
+[06Sep2025 02:00:45.121] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (2719 | 32 | -2400)
+[06Sep2025 02:00:45.121] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (2719 | 32 | -2400)
+[06Sep2025 02:00:45.121] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (2719 | 32 | -2400)
+[06Sep2025 02:00:45.121] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (2719 | 32 | -2400)
+[06Sep2025 02:00:45.121] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/room/empty_room with rotation NONE at (2696 | 23 | -2396)
+[06Sep2025 02:00:45.121] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/room/empty_room with rotation NONE at (2696 | 23 | -2396)
+[06Sep2025 02:00:45.122] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (2710 | 23 | -2394)
+[06Sep2025 02:00:45.122] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (2710 | 23 | -2394)
+[06Sep2025 02:00:45.122] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation NONE at (2705 | 23 | -2395)
+[06Sep2025 02:00:45.122] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation NONE at (2705 | 23 | -2395)
+[06Sep2025 02:00:45.122] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (2711 | 23 | -2399)
+[06Sep2025 02:00:45.124] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (2711 | 23 | -2399)
+[06Sep2025 02:00:46.672] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner with rotation COUNTERCLOCKWISE_90 at (2706 | 50 | -2366)
+[06Sep2025 02:00:46.673] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner with rotation COUNTERCLOCKWISE_90 at (2706 | 50 | -2366)
+[06Sep2025 02:00:46.673] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation CLOCKWISE_90 at (2711 | 50 | -2366)
+[06Sep2025 02:00:46.673] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation CLOCKWISE_90 at (2711 | 50 | -2366)
+[06Sep2025 02:00:46.673] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (2706 | 50 | -2369)
+[06Sep2025 02:00:46.673] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (2706 | 50 | -2369)
+[06Sep2025 02:00:46.673] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation COUNTERCLOCKWISE_90 at (2706 | 50 | -2355)
+[06Sep2025 02:00:46.673] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation COUNTERCLOCKWISE_90 at (2706 | 50 | -2355)
+[06Sep2025 02:00:46.673] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (2706 | 50 | -2359)
+[06Sep2025 02:00:46.673] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (2706 | 50 | -2359)
+[06Sep2025 02:00:46.673] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_90 at (2711 | 50 | -2355)
+[06Sep2025 02:00:46.673] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_90 at (2711 | 50 | -2355)
+[06Sep2025 02:00:46.673] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_90 at (2711 | 50 | -2359)
+[06Sep2025 02:00:46.673] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_90 at (2711 | 50 | -2359)
+[06Sep2025 02:00:46.673] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation COUNTERCLOCKWISE_90 at (2707 | 50 | -2360)
+[06Sep2025 02:00:46.673] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation COUNTERCLOCKWISE_90 at (2707 | 50 | -2360)
+[06Sep2025 02:00:46.673] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_90 at (2693 | 23 | -2372)
+[06Sep2025 02:00:46.674] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_90 at (2693 | 23 | -2372)
+[06Sep2025 02:00:47.569] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (2676 | 50 | -2362)
+[06Sep2025 02:00:47.569] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (2676 | 50 | -2362)
+[06Sep2025 02:00:48.397] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (2676 | 50 | -2362)
+[06Sep2025 02:00:48.397] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (2676 | 50 | -2362)
+[06Sep2025 02:00:48.406] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_top with rotation NONE at (2705 | 59 | -2351)
+[06Sep2025 02:00:48.406] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_top with rotation NONE at (2705 | 59 | -2351)
+[06Sep2025 02:00:48.406] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (2714 | 59 | -2350)
+[06Sep2025 02:00:48.407] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (2714 | 59 | -2350)
+[06Sep2025 02:00:48.407] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation COUNTERCLOCKWISE_90 at (2707 | 50 | -2360)
+[06Sep2025 02:00:48.407] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation COUNTERCLOCKWISE_90 at (2707 | 50 | -2360)
+[06Sep2025 02:00:48.407] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (2705 | 50 | -2351)
+[06Sep2025 02:00:48.407] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (2705 | 50 | -2351)
+[06Sep2025 02:00:48.407] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (2707 | 50 | -2337)
+[06Sep2025 02:00:48.408] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (2707 | 50 | -2337)
+[06Sep2025 02:00:48.408] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (2706 | 50 | -2342)
+[06Sep2025 02:00:48.408] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (2706 | 50 | -2342)
+[06Sep2025 02:00:57.600] [Worker-Main-98/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (2687 | 59 | -2324)
+[06Sep2025 02:00:57.600] [Worker-Main-98/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (2687 | 59 | -2324)
+[06Sep2025 02:00:57.790] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (2687 | 59 | -2324)
+[06Sep2025 02:00:57.790] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (2687 | 59 | -2324)
+[06Sep2025 02:00:57.790] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (2696 | 59 | -2323)
+[06Sep2025 02:00:57.790] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (2696 | 59 | -2323)
+[06Sep2025 02:00:57.790] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_180 at (2701 | 59 | -2328)
+[06Sep2025 02:00:57.790] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_180 at (2701 | 59 | -2328)
+[06Sep2025 02:00:57.790] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation COUNTERCLOCKWISE_90 at (2703 | 50 | -2335)
+[06Sep2025 02:00:57.790] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation COUNTERCLOCKWISE_90 at (2703 | 50 | -2335)
+[06Sep2025 02:01:53.063] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Sep2025 02:01:53.085] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Sep2025 02:03:27.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Even High Kung Fu Fears Kitchen Knife]
+[06Sep2025 02:03:47.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Chop! Chop! Chop!]
+[06Sep2025 02:04:05.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Heat Up the Wok]
+[06Sep2025 02:04:27.449] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (1572 | 82 | -2988).
+[06Sep2025 02:04:27.449] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[06Sep2025 02:04:27.449] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 5(0) Nodes and 3(0) Rooms
+[06Sep2025 02:04:27.449] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[06Sep2025 02:04:27.449] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 6(0) Nodes and 5(0) Rooms
+[06Sep2025 02:04:27.449] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[06Sep2025 02:04:27.450] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 4(4) Nodes and 5(0) Rooms
+[06Sep2025 02:04:27.450] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[06Sep2025 02:04:27.450] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 4(6) Nodes and 6(0) Rooms
+[06Sep2025 02:04:27.450] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[06Sep2025 02:04:27.451] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 8(0) Nodes and 4(0) Rooms
+[06Sep2025 02:06:53.063] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Sep2025 02:06:53.084] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Sep2025 02:07:46.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/109016, l='ServerLevel[world]', x=2352.87, y=154.41, z=-2653.70] died: Undead Knight suffocated in a wall
+[06Sep2025 02:11:53.059] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Sep2025 02:11:53.081] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Sep2025 02:13:59.507] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Sep2025 02:14:01.158] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Sep2025 02:14:15.303] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Sep2025 02:14:25.058] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Sep2025 02:14:30.608] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Sep2025 02:14:39.153] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Sep2025 02:16:53.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Sep2025 02:16:53.190] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Sep2025 02:17:07.819] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (2687 | 59 | -2324)
+[06Sep2025 02:17:07.819] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (2687 | 59 | -2324)
+[06Sep2025 02:17:07.819] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (2678 | 50 | -2306)
+[06Sep2025 02:17:07.819] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (2678 | 50 | -2306)
+[06Sep2025 02:17:07.819] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (2687 | 50 | -2305)
+[06Sep2025 02:17:07.819] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (2687 | 50 | -2305)
+[06Sep2025 02:17:11.820] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (2687 | 59 | -2324)
+[06Sep2025 02:17:11.821] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (2687 | 59 | -2324)
+[06Sep2025 02:17:11.821] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (2696 | 59 | -2323)
+[06Sep2025 02:17:11.821] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (2696 | 59 | -2323)
+[06Sep2025 02:17:11.821] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_180 at (2701 | 59 | -2328)
+[06Sep2025 02:17:11.821] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_180 at (2701 | 59 | -2328)
+[06Sep2025 02:17:11.821] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation NONE at (2690 | 50 | -2305)
+[06Sep2025 02:17:11.821] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation NONE at (2690 | 50 | -2305)
+[06Sep2025 02:17:11.821] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (2687 | 50 | -2305)
+[06Sep2025 02:17:11.821] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (2687 | 50 | -2305)
+[06Sep2025 02:17:11.821] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (2696 | 50 | -2305)
+[06Sep2025 02:17:11.821] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (2696 | 50 | -2305)
+[06Sep2025 02:17:11.821] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation COUNTERCLOCKWISE_90 at (2703 | 50 | -2308)
+[06Sep2025 02:17:11.821] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation COUNTERCLOCKWISE_90 at (2703 | 50 | -2308)
+[06Sep2025 02:17:14.135] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (2718 | 59 | -2322)
+[06Sep2025 02:17:14.135] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (2718 | 59 | -2322)
+[06Sep2025 02:17:14.135] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_180 at (2701 | 59 | -2328)
+[06Sep2025 02:17:14.136] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_180 at (2701 | 59 | -2328)
+[06Sep2025 02:17:14.136] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (2707 | 50 | -2337)
+[06Sep2025 02:17:14.136] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (2707 | 50 | -2337)
+[06Sep2025 02:17:14.136] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation NONE at (2716 | 50 | -2331)
+[06Sep2025 02:17:14.136] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation NONE at (2716 | 50 | -2331)
+[06Sep2025 02:17:14.136] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (2707 | 50 | -2322)
+[06Sep2025 02:17:14.136] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (2707 | 50 | -2322)
+[06Sep2025 02:17:14.136] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (2718 | 50 | -2332)
+[06Sep2025 02:17:14.136] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (2718 | 50 | -2332)
+[06Sep2025 02:17:14.136] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation COUNTERCLOCKWISE_90 at (2703 | 50 | -2335)
+[06Sep2025 02:17:14.136] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation COUNTERCLOCKWISE_90 at (2703 | 50 | -2335)
+[06Sep2025 02:17:14.178] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (2718 | 59 | -2322)
+[06Sep2025 02:17:14.178] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (2718 | 59 | -2322)
+[06Sep2025 02:17:14.178] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_180 at (2701 | 59 | -2328)
+[06Sep2025 02:17:14.179] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_180 at (2701 | 59 | -2328)
+[06Sep2025 02:17:14.179] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (2706 | 50 | -2320)
+[06Sep2025 02:17:14.179] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (2706 | 50 | -2320)
+[06Sep2025 02:17:14.179] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (2707 | 50 | -2310)
+[06Sep2025 02:17:14.179] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (2707 | 50 | -2310)
+[06Sep2025 02:17:14.179] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (2706 | 50 | -2315)
+[06Sep2025 02:17:14.180] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (2706 | 50 | -2315)
+[06Sep2025 02:17:14.180] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_180 at (2718 | 50 | -2305)
+[06Sep2025 02:17:14.180] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_180 at (2718 | 50 | -2305)
+[06Sep2025 02:17:14.180] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation COUNTERCLOCKWISE_90 at (2703 | 50 | -2308)
+[06Sep2025 02:17:14.180] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation COUNTERCLOCKWISE_90 at (2703 | 50 | -2308)
+[06Sep2025 02:17:15.299] [Worker-Main-32/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (2678 | 50 | -2306)
+[06Sep2025 02:17:15.299] [Worker-Main-32/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (2678 | 50 | -2306)
+[06Sep2025 02:17:15.299] [Worker-Main-32/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (2687 | 50 | -2305)
+[06Sep2025 02:17:15.299] [Worker-Main-32/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (2687 | 50 | -2305)
+[06Sep2025 02:17:15.336] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (2701 | 59 | -2301)
+[06Sep2025 02:17:15.336] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (2701 | 59 | -2301)
+[06Sep2025 02:17:15.337] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest with rotation CLOCKWISE_180 at (2690 | 50 | -2300)
+[06Sep2025 02:17:15.337] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest with rotation CLOCKWISE_180 at (2690 | 50 | -2300)
+[06Sep2025 02:17:15.337] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation NONE at (2690 | 50 | -2305)
+[06Sep2025 02:17:15.337] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation NONE at (2690 | 50 | -2305)
+[06Sep2025 02:17:15.337] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (2687 | 50 | -2305)
+[06Sep2025 02:17:15.337] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (2687 | 50 | -2305)
+[06Sep2025 02:17:15.337] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (2701 | 50 | -2304)
+[06Sep2025 02:17:15.337] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (2701 | 50 | -2304)
+[06Sep2025 02:17:15.337] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (2696 | 50 | -2305)
+[06Sep2025 02:17:15.337] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (2696 | 50 | -2305)
+[06Sep2025 02:17:15.337] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation COUNTERCLOCKWISE_90 at (2703 | 50 | -2308)
+[06Sep2025 02:17:15.337] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation COUNTERCLOCKWISE_90 at (2703 | 50 | -2308)
+[06Sep2025 02:17:15.368] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (2718 | 59 | -2296)
+[06Sep2025 02:17:15.368] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (2718 | 59 | -2296)
+[06Sep2025 02:17:15.368] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (2701 | 59 | -2301)
+[06Sep2025 02:17:15.369] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (2701 | 59 | -2301)
+[06Sep2025 02:17:15.369] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation NONE at (2716 | 50 | -2304)
+[06Sep2025 02:17:15.369] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation NONE at (2716 | 50 | -2304)
+[06Sep2025 02:17:15.369] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (2707 | 50 | -2295)
+[06Sep2025 02:17:15.369] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (2707 | 50 | -2295)
+[06Sep2025 02:17:15.369] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_180 at (2718 | 50 | -2305)
+[06Sep2025 02:17:15.369] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_180 at (2718 | 50 | -2305)
+[06Sep2025 02:17:15.369] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (2706 | 50 | -2293)
+[06Sep2025 02:17:15.369] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (2706 | 50 | -2293)
+[06Sep2025 02:17:15.369] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation COUNTERCLOCKWISE_90 at (2703 | 50 | -2308)
+[06Sep2025 02:17:15.370] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation COUNTERCLOCKWISE_90 at (2703 | 50 | -2308)
+[06Sep2025 02:17:17.970] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/empty_room with rotation NONE at (2725 | 59 | -2354)
+[06Sep2025 02:17:17.970] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/empty_room with rotation NONE at (2725 | 59 | -2354)
+[06Sep2025 02:17:17.970] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (2734 | 59 | -2365)
+[06Sep2025 02:17:17.970] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (2734 | 59 | -2365)
+[06Sep2025 02:17:17.970] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (2728 | 59 | -2382)
+[06Sep2025 02:17:17.971] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (2728 | 59 | -2382)
+[06Sep2025 02:17:17.971] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner with rotation COUNTERCLOCKWISE_90 at (2733 | 59 | -2357)
+[06Sep2025 02:17:17.971] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner with rotation COUNTERCLOCKWISE_90 at (2733 | 59 | -2357)
+[06Sep2025 02:17:17.971] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (2733 | 59 | -2360)
+[06Sep2025 02:17:17.971] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (2733 | 59 | -2360)
+[06Sep2025 02:17:17.972] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/fire with rotation COUNTERCLOCKWISE_90 at (2731 | 50 | -2368)
+[06Sep2025 02:17:17.972] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/fire with rotation COUNTERCLOCKWISE_90 at (2731 | 50 | -2368)
+[06Sep2025 02:17:17.972] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (2733 | 50 | -2364)
+[06Sep2025 02:17:17.972] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (2733 | 50 | -2364)
+[06Sep2025 02:17:17.972] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (2734 | 50 | -2369)
+[06Sep2025 02:17:17.972] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (2734 | 50 | -2369)
+[06Sep2025 02:17:17.972] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (2732 | 50 | -2360)
+[06Sep2025 02:17:17.972] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (2732 | 50 | -2360)
+[06Sep2025 02:17:17.972] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/room/empty_room with rotation NONE at (2723 | 23 | -2369)
+[06Sep2025 02:17:17.973] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/room/empty_room with rotation NONE at (2723 | 23 | -2369)
+[06Sep2025 02:17:17.973] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_180 at (2735 | 23 | -2363)
+[06Sep2025 02:17:17.974] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_180 at (2735 | 23 | -2363)
+[06Sep2025 02:17:17.974] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation NONE at (2735 | 23 | -2368)
+[06Sep2025 02:17:17.974] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation NONE at (2735 | 23 | -2368)
+[06Sep2025 02:17:17.974] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (2732 | 23 | -2368)
+[06Sep2025 02:17:17.974] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (2732 | 23 | -2368)
+[06Sep2025 02:17:17.988] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (2728 | 59 | -2382)
+[06Sep2025 02:17:17.989] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (2728 | 59 | -2382)
+[06Sep2025 02:17:17.989] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (2718 | 50 | -2386)
+[06Sep2025 02:17:17.989] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (2718 | 50 | -2386)
+[06Sep2025 02:17:17.989] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_180 at (2726 | 50 | -2381)
+[06Sep2025 02:17:17.989] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_180 at (2726 | 50 | -2381)
+[06Sep2025 02:17:17.989] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation NONE at (2723 | 50 | -2386)
+[06Sep2025 02:17:17.989] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation NONE at (2723 | 50 | -2386)
+[06Sep2025 02:17:17.989] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_top with rotation NONE at (2732 | 50 | -2387)
+[06Sep2025 02:17:17.989] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_top with rotation NONE at (2732 | 50 | -2387)
+[06Sep2025 02:17:17.989] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (2733 | 50 | -2377)
+[06Sep2025 02:17:17.989] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (2733 | 50 | -2377)
+[06Sep2025 02:17:17.989] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner with rotation COUNTERCLOCKWISE_90 at (2733 | 50 | -2373)
+[06Sep2025 02:17:17.990] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner with rotation COUNTERCLOCKWISE_90 at (2733 | 50 | -2373)
+[06Sep2025 02:17:17.990] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (2734 | 50 | -2378)
+[06Sep2025 02:17:17.990] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (2734 | 50 | -2378)
+[06Sep2025 02:17:17.990] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (2734 | 50 | -2369)
+[06Sep2025 02:17:17.990] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (2734 | 50 | -2369)
+[06Sep2025 02:17:17.990] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (2732 | 41 | -2387)
+[06Sep2025 02:17:17.991] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (2732 | 41 | -2387)
+[06Sep2025 02:17:17.991] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (2730 | 32 | -2388)
+[06Sep2025 02:17:17.992] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (2730 | 32 | -2388)
+[06Sep2025 02:17:17.992] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (2730 | 32 | -2388)
+[06Sep2025 02:17:17.992] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (2730 | 32 | -2388)
+[06Sep2025 02:17:17.992] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (2719 | 32 | -2400)
+[06Sep2025 02:17:17.992] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (2719 | 32 | -2400)
+[06Sep2025 02:17:17.992] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (2719 | 32 | -2400)
+[06Sep2025 02:17:17.992] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (2719 | 32 | -2400)
+[06Sep2025 02:17:17.992] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/room/empty_room with rotation NONE at (2723 | 23 | -2369)
+[06Sep2025 02:17:17.992] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/room/empty_room with rotation NONE at (2723 | 23 | -2369)
+[06Sep2025 02:17:18.008] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (2718 | 50 | -2386)
+[06Sep2025 02:17:18.008] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (2718 | 50 | -2386)
+[06Sep2025 02:17:18.008] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation NONE at (2726 | 50 | -2386)
+[06Sep2025 02:17:18.008] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation NONE at (2726 | 50 | -2386)
+[06Sep2025 02:17:18.008] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation NONE at (2723 | 50 | -2386)
+[06Sep2025 02:17:18.008] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation NONE at (2723 | 50 | -2386)
+[06Sep2025 02:17:18.008] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_top with rotation NONE at (2732 | 50 | -2387)
+[06Sep2025 02:17:18.008] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_top with rotation NONE at (2732 | 50 | -2387)
+[06Sep2025 02:17:18.008] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (2714 | 41 | -2396)
+[06Sep2025 02:17:18.009] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (2714 | 41 | -2396)
+[06Sep2025 02:17:18.009] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation CLOCKWISE_180 at (2726 | 41 | -2390)
+[06Sep2025 02:17:18.009] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation CLOCKWISE_180 at (2726 | 41 | -2390)
+[06Sep2025 02:17:18.009] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner_room with rotation NONE at (2725 | 41 | -2399)
+[06Sep2025 02:17:18.009] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner_room with rotation NONE at (2725 | 41 | -2399)
+[06Sep2025 02:17:18.009] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (2723 | 41 | -2395)
+[06Sep2025 02:17:18.009] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (2723 | 41 | -2395)
+[06Sep2025 02:17:18.009] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (2732 | 41 | -2396)
+[06Sep2025 02:17:18.009] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (2732 | 41 | -2396)
+[06Sep2025 02:17:18.009] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (2732 | 41 | -2387)
+[06Sep2025 02:17:18.009] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (2732 | 41 | -2387)
+[06Sep2025 02:17:18.009] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation CLOCKWISE_180 at (2725 | 37 | -2394)
+[06Sep2025 02:17:18.009] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation CLOCKWISE_180 at (2725 | 37 | -2394)
+[06Sep2025 02:17:18.009] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/flat at (2725 | 37 | -2394)
+[06Sep2025 02:17:18.009] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/flat at (2725 | 37 | -2394)
+[06Sep2025 02:17:18.009] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (2730 | 32 | -2388)
+[06Sep2025 02:17:18.011] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (2730 | 32 | -2388)
+[06Sep2025 02:17:18.011] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (2730 | 32 | -2388)
+[06Sep2025 02:17:18.011] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (2730 | 32 | -2388)
+[06Sep2025 02:17:18.011] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (2730 | 32 | -2400)
+[06Sep2025 02:17:18.012] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (2730 | 32 | -2400)
+[06Sep2025 02:17:18.012] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (2730 | 32 | -2400)
+[06Sep2025 02:17:18.012] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (2730 | 32 | -2400)
+[06Sep2025 02:17:18.012] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (2724 | 32 | -2388)
+[06Sep2025 02:17:18.012] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (2724 | 32 | -2388)
+[06Sep2025 02:17:18.014] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (2724 | 32 | -2388)
+[06Sep2025 02:17:18.014] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (2724 | 32 | -2388)
+[06Sep2025 02:17:18.014] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (2720 | 32 | -2395)
+[06Sep2025 02:17:18.014] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (2720 | 32 | -2395)
+[06Sep2025 02:17:18.015] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (2720 | 32 | -2395)
+[06Sep2025 02:17:18.015] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (2720 | 32 | -2395)
+[06Sep2025 02:17:18.015] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (2724 | 32 | -2399)
+[06Sep2025 02:17:18.015] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (2724 | 32 | -2399)
+[06Sep2025 02:17:18.017] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (2724 | 32 | -2399)
+[06Sep2025 02:17:18.017] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (2724 | 32 | -2399)
+[06Sep2025 02:17:18.017] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (2719 | 32 | -2400)
+[06Sep2025 02:17:18.017] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (2719 | 32 | -2400)
+[06Sep2025 02:17:18.018] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (2719 | 32 | -2400)
+[06Sep2025 02:17:18.018] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (2719 | 32 | -2400)
+[06Sep2025 02:17:18.019] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (2726 | 23 | -2394)
+[06Sep2025 02:17:18.019] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (2726 | 23 | -2394)
+[06Sep2025 02:17:18.019] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_180 at (2727 | 23 | -2395)
+[06Sep2025 02:17:18.019] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_180 at (2727 | 23 | -2395)
+[06Sep2025 02:17:18.019] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (2711 | 23 | -2399)
+[06Sep2025 02:17:18.019] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (2711 | 23 | -2399)
+[06Sep2025 02:17:18.019] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_180 at (2732 | 23 | -2395)
+[06Sep2025 02:17:18.020] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_180 at (2732 | 23 | -2395)
+[06Sep2025 02:17:18.064] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (2714 | 59 | -2350)
+[06Sep2025 02:17:18.064] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (2714 | 59 | -2350)
+[06Sep2025 02:17:18.064] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/secret_room_entrance_bookshelf with rotation CLOCKWISE_180 at (2726 | 59 | -2345)
+[06Sep2025 02:17:18.064] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/secret_room_entrance_bookshelf with rotation CLOCKWISE_180 at (2726 | 59 | -2345)
+[06Sep2025 02:17:18.064] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/empty_room with rotation NONE at (2725 | 59 | -2354)
+[06Sep2025 02:17:18.064] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/empty_room with rotation NONE at (2725 | 59 | -2354)
+[06Sep2025 02:17:18.064] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/secret_room_entrance with rotation CLOCKWISE_180 at (2723 | 59 | -2350)
+[06Sep2025 02:17:18.064] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/secret_room_entrance with rotation CLOCKWISE_180 at (2723 | 59 | -2350)
+[06Sep2025 02:17:18.064] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/secret_room with rotation CLOCKWISE_90 at (2723 | 59 | -2342)
+[06Sep2025 02:17:18.065] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/secret_room with rotation CLOCKWISE_90 at (2723 | 59 | -2342)
+[06Sep2025 02:17:18.065] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (2733 | 59 | -2360)
+[06Sep2025 02:17:18.065] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (2733 | 59 | -2360)
+[06Sep2025 02:17:18.065] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (2732 | 59 | -2351)
+[06Sep2025 02:17:18.065] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (2732 | 59 | -2351)
+[06Sep2025 02:17:18.065] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (2733 | 59 | -2339)
+[06Sep2025 02:17:18.065] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (2733 | 59 | -2339)
+[06Sep2025 02:17:18.065] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (2733 | 59 | -2342)
+[06Sep2025 02:17:18.065] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (2733 | 59 | -2342)
+[06Sep2025 02:17:18.065] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (2732 | 50 | -2360)
+[06Sep2025 02:17:18.065] [Worker-Main-57/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (2732 | 50 | -2360)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (2734 | 68 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (2734 | 68 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (2734 | 69 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (2734 | 69 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (2734 | 70 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (2734 | 70 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (2734 | 71 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (2734 | 71 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (2734 | 72 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (2734 | 72 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (2734 | 73 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (2734 | 73 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (2734 | 74 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (2734 | 74 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (2734 | 75 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (2734 | 75 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (2734 | 76 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (2734 | 76 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (2734 | 77 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (2734 | 77 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (2734 | 78 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (2734 | 78 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (2734 | 79 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (2734 | 79 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (2734 | 80 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (2734 | 80 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (2734 | 81 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (2734 | 81 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (2734 | 82 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (2734 | 82 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (2734 | 83 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (2734 | 83 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (2734 | 84 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (2734 | 84 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (2734 | 85 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (2734 | 85 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (2734 | 86 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (2734 | 86 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (2734 | 87 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (2734 | 87 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (2734 | 88 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (2734 | 88 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (2734 | 89 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (2734 | 89 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (2734 | 90 | -2322)
+[06Sep2025 02:17:18.874] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (2734 | 90 | -2322)
+[06Sep2025 02:17:18.875] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (2734 | 91 | -2322)
+[06Sep2025 02:17:18.875] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (2734 | 91 | -2322)
+[06Sep2025 02:17:18.875] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (2734 | 92 | -2322)
+[06Sep2025 02:17:18.875] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (2734 | 92 | -2322)
+[06Sep2025 02:17:18.875] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (2734 | 93 | -2322)
+[06Sep2025 02:17:18.875] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (2734 | 93 | -2322)
+[06Sep2025 02:17:18.875] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (2734 | 94 | -2322)
+[06Sep2025 02:17:18.875] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (2734 | 94 | -2322)
+[06Sep2025 02:17:18.875] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (2734 | 95 | -2322)
+[06Sep2025 02:17:18.875] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (2734 | 95 | -2322)
+[06Sep2025 02:17:18.875] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (2734 | 96 | -2322)
+[06Sep2025 02:17:18.875] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (2734 | 96 | -2322)
+[06Sep2025 02:17:18.875] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (2734 | 97 | -2322)
+[06Sep2025 02:17:18.875] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (2734 | 97 | -2322)
+[06Sep2025 02:17:18.875] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (2734 | 98 | -2322)
+[06Sep2025 02:17:18.875] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (2734 | 98 | -2322)
+[06Sep2025 02:17:18.875] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (2734 | 99 | -2322)
+[06Sep2025 02:17:18.875] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (2734 | 99 | -2322)
+[06Sep2025 02:17:18.875] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (2734 | 100 | -2322)
+[06Sep2025 02:17:18.875] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (2734 | 100 | -2322)
+[06Sep2025 02:17:18.875] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (2734 | 101 | -2322)
+[06Sep2025 02:17:18.875] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (2734 | 101 | -2322)
+[06Sep2025 02:17:18.875] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (2734 | 102 | -2322)
+[06Sep2025 02:17:18.875] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (2734 | 102 | -2322)
+[06Sep2025 02:17:18.875] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (2734 | 103 | -2322)
+[06Sep2025 02:17:18.875] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (2734 | 103 | -2322)
+[06Sep2025 02:17:18.875] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (2734 | 104 | -2322)
+[06Sep2025 02:17:18.875] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (2734 | 104 | -2322)
+[06Sep2025 02:17:18.875] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (2734 | 105 | -2322)
+[06Sep2025 02:17:18.875] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (2734 | 105 | -2322)
+[06Sep2025 02:17:18.875] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:entrance/roguelike/rogue_tower with rotation CLOCKWISE_180 at (2730 | 106 | -2326)
+[06Sep2025 02:17:18.876] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:entrance/roguelike/rogue_tower with rotation CLOCKWISE_180 at (2730 | 106 | -2326)
+[06Sep2025 02:17:18.876] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (2718 | 59 | -2322)
+[06Sep2025 02:17:18.876] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (2718 | 59 | -2322)
+[06Sep2025 02:17:18.876] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (2723 | 59 | -2323)
+[06Sep2025 02:17:18.876] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (2723 | 59 | -2323)
+[06Sep2025 02:17:18.876] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (2732 | 59 | -2324)
+[06Sep2025 02:17:18.877] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (2732 | 59 | -2324)
+[06Sep2025 02:17:18.877] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (2733 | 59 | -2312)
+[06Sep2025 02:17:18.877] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (2733 | 59 | -2312)
+[06Sep2025 02:17:18.877] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (2733 | 59 | -2315)
+[06Sep2025 02:17:18.877] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (2733 | 59 | -2315)
+[06Sep2025 02:17:18.877] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (2733 | 59 | -2306)
+[06Sep2025 02:17:18.877] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (2733 | 59 | -2306)
+[06Sep2025 02:17:18.877] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_180 at (2718 | 50 | -2305)
+[06Sep2025 02:17:18.877] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_180 at (2718 | 50 | -2305)
+[06Sep2025 02:17:18.878] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (2723 | 50 | -2305)
+[06Sep2025 02:17:18.878] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (2723 | 50 | -2305)
+[06Sep2025 02:17:18.878] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (2732 | 50 | -2305)
+[06Sep2025 02:17:18.878] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (2732 | 50 | -2305)
+[06Sep2025 02:17:18.906] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (2734 | 68 | -2322)
+[06Sep2025 02:17:18.906] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (2734 | 68 | -2322)
+[06Sep2025 02:17:18.906] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (2734 | 69 | -2322)
+[06Sep2025 02:17:18.906] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (2734 | 69 | -2322)
+[06Sep2025 02:17:18.907] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (2734 | 70 | -2322)
+[06Sep2025 02:17:18.907] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (2734 | 70 | -2322)
+[06Sep2025 02:17:18.907] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (2734 | 71 | -2322)
+[06Sep2025 02:17:18.907] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (2734 | 71 | -2322)
+[06Sep2025 02:17:18.907] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (2734 | 72 | -2322)
+[06Sep2025 02:17:18.907] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (2734 | 72 | -2322)
+[06Sep2025 02:17:18.907] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (2734 | 73 | -2322)
+[06Sep2025 02:17:18.907] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (2734 | 73 | -2322)
+[06Sep2025 02:17:18.907] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (2734 | 74 | -2322)
+[06Sep2025 02:17:18.907] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (2734 | 74 | -2322)
+[06Sep2025 02:17:18.907] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (2734 | 75 | -2322)
+[06Sep2025 02:17:18.907] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (2734 | 75 | -2322)
+[06Sep2025 02:17:18.907] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (2734 | 76 | -2322)
+[06Sep2025 02:17:18.907] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (2734 | 76 | -2322)
+[06Sep2025 02:17:18.907] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (2734 | 77 | -2322)
+[06Sep2025 02:17:18.907] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (2734 | 77 | -2322)
+[06Sep2025 02:17:18.907] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (2734 | 78 | -2322)
+[06Sep2025 02:17:18.908] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (2734 | 78 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (2734 | 79 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (2734 | 79 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (2734 | 80 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (2734 | 80 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (2734 | 81 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (2734 | 81 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (2734 | 82 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (2734 | 82 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (2734 | 83 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (2734 | 83 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (2734 | 84 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (2734 | 84 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (2734 | 85 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (2734 | 85 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (2734 | 86 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (2734 | 86 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (2734 | 87 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (2734 | 87 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (2734 | 88 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (2734 | 88 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (2734 | 89 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (2734 | 89 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (2734 | 90 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (2734 | 90 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (2734 | 91 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (2734 | 91 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (2734 | 92 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (2734 | 92 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (2734 | 93 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (2734 | 93 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (2734 | 94 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (2734 | 94 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (2734 | 95 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (2734 | 95 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (2734 | 96 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (2734 | 96 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (2734 | 97 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (2734 | 97 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (2734 | 98 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (2734 | 98 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (2734 | 99 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (2734 | 99 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (2734 | 100 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (2734 | 100 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (2734 | 101 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (2734 | 101 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (2734 | 102 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (2734 | 102 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (2734 | 103 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (2734 | 103 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (2734 | 104 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (2734 | 104 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (2734 | 105 | -2322)
+[06Sep2025 02:17:18.909] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (2734 | 105 | -2322)
+[06Sep2025 02:17:18.910] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:entrance/roguelike/rogue_tower with rotation CLOCKWISE_180 at (2730 | 106 | -2326)
+[06Sep2025 02:17:18.912] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:entrance/roguelike/rogue_tower with rotation CLOCKWISE_180 at (2730 | 106 | -2326)
+[06Sep2025 02:17:18.912] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (2718 | 59 | -2322)
+[06Sep2025 02:17:18.912] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (2718 | 59 | -2322)
+[06Sep2025 02:17:18.912] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/secret_room with rotation CLOCKWISE_90 at (2723 | 59 | -2342)
+[06Sep2025 02:17:18.913] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/secret_room with rotation CLOCKWISE_90 at (2723 | 59 | -2342)
+[06Sep2025 02:17:18.913] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (2723 | 59 | -2323)
+[06Sep2025 02:17:18.913] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (2723 | 59 | -2323)
+[06Sep2025 02:17:18.913] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (2733 | 59 | -2342)
+[06Sep2025 02:17:18.913] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (2733 | 59 | -2342)
+[06Sep2025 02:17:18.914] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/corridor/ceiling with rotation COUNTERCLOCKWISE_90 at (2735 | 64 | -2330)
+[06Sep2025 02:17:18.914] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/corridor/ceiling with rotation COUNTERCLOCKWISE_90 at (2735 | 64 | -2330)
+[06Sep2025 02:17:18.915] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/wall with rotation CLOCKWISE_180 at (2733 | 59 | -2330)
+[06Sep2025 02:17:18.915] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/wall with rotation CLOCKWISE_180 at (2733 | 59 | -2330)
+[06Sep2025 02:17:18.915] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/connector with rotation COUNTERCLOCKWISE_90 at (2734 | 59 | -2333)
+[06Sep2025 02:17:18.915] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/connector with rotation COUNTERCLOCKWISE_90 at (2734 | 59 | -2333)
+[06Sep2025 02:17:18.915] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/connector with rotation CLOCKWISE_90 at (2734 | 59 | -2326)
+[06Sep2025 02:17:18.915] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/connector with rotation CLOCKWISE_90 at (2734 | 59 | -2326)
+[06Sep2025 02:17:18.915] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/corridor/linker/linker with rotation COUNTERCLOCKWISE_90 at (2734 | 59 | -2331)
+[06Sep2025 02:17:18.915] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/corridor/linker/linker with rotation COUNTERCLOCKWISE_90 at (2734 | 59 | -2331)
+[06Sep2025 02:17:18.915] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (2732 | 59 | -2324)
+[06Sep2025 02:17:18.916] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (2732 | 59 | -2324)
+[06Sep2025 02:17:18.916] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (2718 | 50 | -2332)
+[06Sep2025 02:17:18.916] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (2718 | 50 | -2332)
+[06Sep2025 02:17:18.917] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (2723 | 50 | -2333)
+[06Sep2025 02:17:18.920] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (2723 | 50 | -2333)
+[06Sep2025 02:17:18.943] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (2718 | 59 | -2296)
+[06Sep2025 02:17:18.944] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (2718 | 59 | -2296)
+[06Sep2025 02:17:18.944] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (2734 | 59 | -2301)
+[06Sep2025 02:17:18.944] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (2734 | 59 | -2301)
+[06Sep2025 02:17:18.944] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (2728 | 59 | -2295)
+[06Sep2025 02:17:18.944] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (2728 | 59 | -2295)
+[06Sep2025 02:17:18.945] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (2733 | 59 | -2306)
+[06Sep2025 02:17:18.945] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (2733 | 59 | -2306)
+[06Sep2025 02:17:18.945] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation NONE at (2723 | 59 | -2295)
+[06Sep2025 02:17:18.945] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation NONE at (2723 | 59 | -2295)
+[06Sep2025 02:17:18.945] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation NONE at (2730 | 59 | -2299)
+[06Sep2025 02:17:18.946] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation NONE at (2730 | 59 | -2299)
+[06Sep2025 02:17:18.946] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_180 at (2718 | 50 | -2305)
+[06Sep2025 02:17:18.946] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_180 at (2718 | 50 | -2305)
+[06Sep2025 02:17:18.946] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (2723 | 50 | -2305)
+[06Sep2025 02:17:18.946] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (2723 | 50 | -2305)
+[06Sep2025 02:17:18.946] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (2732 | 50 | -2305)
+[06Sep2025 02:17:18.947] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (2732 | 50 | -2305)
+[06Sep2025 02:17:32.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Oil on the Blade]
+[06Sep2025 02:17:54.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Add Oil!]
+[06Sep2025 02:18:04.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Stir-Fry!]
+[06Sep2025 02:18:21.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Ouch!]
+[06Sep2025 02:18:48.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Dark Cuisine]
+[06Sep2025 02:20:31.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd was slain by Zombie
+[06Sep2025 02:20:41.284] [Server thread/DEBUG] [twilightforest/]: Player Bunfy_edd (90e9e226-3313-35a6-9e6c-a232bbfd4e03) respawned and received items held in storage
+[06Sep2025 02:21:13.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Bunfy_edd]
+[06Sep2025 02:21:17.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Wathsuyo]
+[06Sep2025 02:21:30.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [First Step of Soup Making]
+[06Sep2025 02:21:42.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Add Broth!]
+[06Sep2025 02:21:53.070] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Sep2025 02:21:53.092] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Sep2025 02:23:27.302] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Sep2025 02:26:25.131] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Sep2025 02:26:53.066] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Sep2025 02:26:53.088] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Sep2025 02:27:08.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd was slain by Zombie
+[06Sep2025 02:27:46.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Removed every effect from Wathsuyo]
+[06Sep2025 02:27:48.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Removed every effect from Melosito_Neo]
+[06Sep2025 02:28:09.153] [Server thread/DEBUG] [twilightforest/]: Player Bunfy_edd (90e9e226-3313-35a6-9e6c-a232bbfd4e03) respawned and received items held in storage
+[06Sep2025 02:28:11.720] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-90, y=98, z=260}
+[06Sep2025 02:30:58.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd was shot by Skeleton
+[06Sep2025 02:31:04.793] [Server thread/DEBUG] [twilightforest/]: Player Bunfy_edd (90e9e226-3313-35a6-9e6c-a232bbfd4e03) respawned and received items held in storage
+[06Sep2025 02:31:06.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Bunfy_edd to Melosito_Neo]
+[06Sep2025 02:31:46.097] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/125549, l='ServerLevel[world]', x=2447.08, y=132.41, z=-2678.83] died: Undead Knight suffocated in a wall
+[06Sep2025 02:31:53.077] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Sep2025 02:31:53.099] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Sep2025 02:33:59.343] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wathsuyo lost connection: Disconnected
+[06Sep2025 02:33:59.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wathsuyo left the game
+[06Sep2025 02:36:53.059] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Sep2025 02:36:53.082] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Sep2025 02:38:35.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd hit the ground too hard
+[06Sep2025 02:38:44.241] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bunfy_edd lost connection: Disconnected
+[06Sep2025 02:38:44.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd left the game
+[06Sep2025 02:39:59.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:39:59.744] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:39:59.747] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:00.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:00.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:01.242] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:01.243] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:02.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:02.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:03.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:04.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:04.246] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:04.247] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:05.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:05.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:05.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:06.744] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:07.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:09.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:09.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:12.242] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:12.243] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:12.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:14.751] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:14.751] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:14.752] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:15.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:15.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:15.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:16.243] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:18.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:18.744] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:18.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:20.242] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:20.243] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:20.746] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:23.246] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:23.247] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:23.746] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:26.248] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:26.248] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:26.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:26.747] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:27.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:27.746] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:27.746] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:28.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:29.742] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:29.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:31.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:34.242] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:35.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:35.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:37.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:37.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:37.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:38.747] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:38.748] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:38.749] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:41.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:42.243] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:42.742] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:43.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:43.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:43.246] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:44.242] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:44.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:45.249] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:47.744] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:47.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:49.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:49.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:49.742] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:52.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:52.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:52.744] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:52.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:54.242] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:55.242] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:56.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:56.742] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:58.744] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:58.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:40:59.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:01.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:02.247] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:04.243] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:04.742] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:04.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:05.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:06.243] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:06.744] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:08.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:08.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:09.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:11.242] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:11.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:11.744] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:13.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:13.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:13.744] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:13.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:15.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:15.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:15.750] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:15.751] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:16.744] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:18.242] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:18.744] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:19.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:19.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:20.242] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:20.243] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:21.744] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:22.242] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:23.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:24.242] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:25.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:26.243] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:27.752] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:27.753] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:27.753] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:27.754] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:30.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:31.744] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:32.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:35.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:35.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:35.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:36.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:37.243] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:38.243] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:38.742] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:39.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:39.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:40.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:41.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:41.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:43.242] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:43.243] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:44.247] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:44.248] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:44.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:44.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:45.242] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:46.251] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:47.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:48.243] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:48.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:48.742] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:50.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:51.242] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:51.243] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:52.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:52.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:52.744] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:52.744] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:53.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Sep2025 02:41:53.047] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Sep2025 02:41:55.246] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:56.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:57.251] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:57.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:58.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:41:59.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:00.242] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:01.742] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:01.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:02.243] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:04.748] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:04.749] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:05.242] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:06.746] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:07.242] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:07.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:07.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:08.243] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:08.744] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:08.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:10.742] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:10.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:13.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:13.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:14.246] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:14.247] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:14.248] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:15.243] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:16.754] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:17.243] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:17.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:18.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:18.744] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:19.243] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:20.742] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:21.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:21.246] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:21.744] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:23.744] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:23.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:25.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:26.243] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:28.243] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:28.742] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:30.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:30.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:31.243] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:32.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:33.742] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:33.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:34.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:35.744] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:37.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:37.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:38.246] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:39.748] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:39.749] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:40.242] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:40.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:41.744] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:42.242] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:42.742] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:43.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:44.247] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:44.248] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:44.248] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:46.750] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:47.248] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:48.742] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:48.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:49.242] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:50.744] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:52.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:52.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:52.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:53.242] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:53.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:53.744] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:55.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:56.242] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:56.748] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:57.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:57.746] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:58.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:58.748] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:58.749] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:59.242] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:42:59.742] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:01.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:01.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:02.749] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:03.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:03.742] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:04.742] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:04.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:05.242] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:05.742] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:06.243] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:06.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:07.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:08.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:08.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:08.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:10.742] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:11.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:11.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:13.242] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:13.242] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:13.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:14.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:16.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:16.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:18.246] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:18.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:18.746] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:20.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:21.242] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:21.742] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:22.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:23.247] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:23.248] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:23.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:25.247] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:25.247] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:25.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:27.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:27.744] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:31.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:31.246] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:32.242] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:32.243] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:34.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:37.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:37.742] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:37.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:38.246] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:38.744] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:39.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:41.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:41.744] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:42.242] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:43.742] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:44.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:46.742] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:46.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:48.746] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:49.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:49.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:49.744] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:50.243] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:50.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:51.744] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:52.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:52.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:53.742] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:54.744] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:54.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:55.742] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:56.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:56.742] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:56.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:59.748] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:43:59.749] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:00.242] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:00.243] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:01.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:01.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:01.246] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:01.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:02.748] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:03.242] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:03.746] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:03.747] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:07.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:07.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:07.744] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:08.247] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:10.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:10.744] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:10.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:12.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:13.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:13.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:13.246] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:14.746] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:14.747] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:17.744] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:18.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:20.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:20.742] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:20.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:22.247] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:23.742] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:23.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:24.247] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:26.267] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:26.268] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:27.742] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:28.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:28.744] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:33.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:33.746] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:33.747] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:35.747] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:36.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:36.744] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:38.742] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:39.246] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:39.247] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:39.742] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:39.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:41.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:42.746] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:42.747] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:45.742] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:45.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:46.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:49.248] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:49.249] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:50.242] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:50.744] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:52.247] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 02:44:52.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot

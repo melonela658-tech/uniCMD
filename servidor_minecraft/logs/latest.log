@@ -156,3 +156,29 @@
 [06Sep2025 01:39:26.195] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/98714, l='ServerLevel[world]', x=-648.61, y=57.28, z=187.36] died: Honeyed Archer suffocated in a wall
 [06Sep2025 01:52:23.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Creative Mode]
 [06Sep2025 01:52:35.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
+[06Sep2025 02:03:27.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Even High Kung Fu Fears Kitchen Knife]
+[06Sep2025 02:03:47.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Chop! Chop! Chop!]
+[06Sep2025 02:04:05.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Heat Up the Wok]
+[06Sep2025 02:07:46.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/109016, l='ServerLevel[world]', x=2352.87, y=154.41, z=-2653.70] died: Undead Knight suffocated in a wall
+[06Sep2025 02:17:32.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Oil on the Blade]
+[06Sep2025 02:17:54.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Add Oil!]
+[06Sep2025 02:18:04.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Stir-Fry!]
+[06Sep2025 02:18:21.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Ouch!]
+[06Sep2025 02:18:48.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Dark Cuisine]
+[06Sep2025 02:20:31.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd was slain by Zombie
+[06Sep2025 02:21:13.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Bunfy_edd]
+[06Sep2025 02:21:17.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Wathsuyo]
+[06Sep2025 02:21:30.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [First Step of Soup Making]
+[06Sep2025 02:21:42.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Add Broth!]
+[06Sep2025 02:27:08.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd was slain by Zombie
+[06Sep2025 02:27:46.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Removed every effect from Wathsuyo]
+[06Sep2025 02:27:48.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Removed every effect from Melosito_Neo]
+[06Sep2025 02:28:11.720] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-90, y=98, z=260}
+[06Sep2025 02:30:58.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd was shot by Skeleton
+[06Sep2025 02:31:06.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Bunfy_edd to Melosito_Neo]
+[06Sep2025 02:31:46.097] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/125549, l='ServerLevel[world]', x=2447.08, y=132.41, z=-2678.83] died: Undead Knight suffocated in a wall
+[06Sep2025 02:33:59.343] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wathsuyo lost connection: Disconnected
+[06Sep2025 02:33:59.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wathsuyo left the game
+[06Sep2025 02:38:35.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd hit the ground too hard
+[06Sep2025 02:38:44.241] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bunfy_edd lost connection: Disconnected
+[06Sep2025 02:38:44.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd left the game

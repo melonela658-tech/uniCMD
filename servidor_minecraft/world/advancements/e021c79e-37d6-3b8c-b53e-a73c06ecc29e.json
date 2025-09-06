@@ -6324,8 +6324,11 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "cabbage": "2025-09-02 21:19:54 +0000",
+      "onion": "2025-09-06 02:07:12 +0000",
+      "tomato": "2025-09-06 02:06:22 +0000",
       "sugar_cane": "2025-09-04 06:07:10 +0000",
       "nether_wart": "2025-09-04 11:44:00 +0000",
+      "melon": "2025-09-06 02:06:56 +0000",
       "carrot": "2025-09-03 21:56:39 +0000"
     },
     "done": false
@@ -13592,9 +13595,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_cod_slice_from_smoking": {
+    "criteria": {
+      "cooked_cod_slice": "2025-09-06 02:05:05 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/building_blocks/framed_iron_trapdoor": {
     "criteria": {
       "hasFramedTrapdoor": "2025-09-05 23:00:04 +0000"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:add_oil": {
+    "criteria": {
+      "put_oil_in_pot": "2025-09-06 02:17:54 +0000"
     },
     "done": true
   },
@@ -13616,6 +13631,12 @@
     },
     "done": true
   },
+  "kaleidoscope_cookery:burn_hand": {
+    "criteria": {
+      "hurt_when_takeout_from_pot": "2025-09-06 02:18:21 +0000"
+    },
+    "done": true
+  },
   "apotheosis:spawner/light": {
     "criteria": {
       "modifier": "2025-09-05 22:32:19 +0000"
@@ -13634,6 +13655,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_pork_belly_from_smelting": {
+    "criteria": {
+      "has_raw_pork_belly": "2025-09-06 02:03:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_banner": {
     "criteria": {
       "has_pink_wool": "2025-09-05 23:10:55 +0000"
@@ -13646,9 +13673,21 @@
     },
     "done": true
   },
+  "aether:recipes/tools/wooden_hoe_repairing": {
+    "criteria": {
+      "has_wooden_hoe": "2025-09-06 02:06:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/tree_fertilizer": {
     "criteria": {
       "has_item": "2025-09-06 00:43:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cod_roll": {
+    "criteria": {
+      "has_cod_slice": "2025-09-06 02:05:05 +0000"
     },
     "done": true
   },
@@ -13661,6 +13700,12 @@
   "sophisticatedstorage:recipes/misc/advanced_pickup_upgrade": {
     "criteria": {
       "has_pickup_upgrade": "2025-09-05 22:41:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_cod_slice": {
+    "criteria": {
+      "cooked_cod_slice": "2025-09-06 02:05:05 +0000"
     },
     "done": true
   },
@@ -13685,6 +13730,18 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-09-06 00:43:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_pork_belly_from_campfire_cooking": {
+    "criteria": {
+      "has_raw_pork_belly": "2025-09-06 02:03:49 +0000"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:chopping_board": {
+    "criteria": {
+      "use_chopping_board": "2025-09-06 02:03:47 +0000"
     },
     "done": true
   },
@@ -13724,6 +13781,18 @@
     },
     "done": true
   },
+  "kaleidoscope_cookery:stockpot": {
+    "criteria": {
+      "place_stockpot_on_heat_source": "2025-09-06 02:21:30 +0000"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:stove": {
+    "criteria": {
+      "lit_the_stove": "2025-09-06 02:04:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-09-06 00:43:15 +0000"
@@ -13736,15 +13805,39 @@
     },
     "done": true
   },
+  "kaleidoscope_cookery:oil": {
+    "criteria": {
+      "kill_pig": "2025-09-06 02:17:32 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/storage_stack_upgrade_tier_4_from_backpack_stack_upgrade_tier_3": {
     "criteria": {
       "has_backpack_stack_upgrade": "2025-09-05 22:48:55 +0000"
     },
     "done": true
   },
+  "kaleidoscope_cookery:stir_fry": {
+    "criteria": {
+      "stir_fry_in_pot": "2025-09-06 02:18:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2025-09-06 00:41:13 +0000"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:dark_cuisine": {
+    "criteria": {
+      "has_suspicious_stew": "2025-09-06 02:18:48 +0000"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:iron_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-09-06 02:03:27 +0000"
     },
     "done": true
   },
@@ -13760,6 +13853,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_cod_slice_from_campfire_cooking": {
+    "criteria": {
+      "cooked_cod_slice": "2025-09-06 02:05:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-09-05 22:16:35 +0000"
@@ -13769,6 +13868,18 @@
   "minecraft:recipes/decorations/pink_carpet": {
     "criteria": {
       "has_pink_wool": "2025-09-05 23:10:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_pork_belly_from_smoking": {
+    "criteria": {
+      "has_raw_pork_belly": "2025-09-06 02:03:49 +0000"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:add_broth": {
+    "criteria": {
+      "put_soup_base_in_stockpot": "2025-09-06 02:21:42 +0000"
     },
     "done": true
   },
