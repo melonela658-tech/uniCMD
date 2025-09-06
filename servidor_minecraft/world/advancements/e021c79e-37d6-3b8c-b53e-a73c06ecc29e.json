@@ -15056,6 +15056,12 @@
     },
     "done": true
   },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2025-09-06 11:15:43 +0000"
+    },
+    "done": true
+  },
   "expatternprovider:recipes/misc/water_cell": {
     "criteria": {
       "has_item": "2025-09-06 10:54:49 +0000"

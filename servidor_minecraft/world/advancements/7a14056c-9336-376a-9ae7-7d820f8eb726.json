@@ -3312,6 +3312,7 @@
       "porkchop": "2025-09-03 05:39:04 +0000",
       "apple": "2025-09-03 07:09:41 +0000",
       "spider_eye": "2025-09-06 04:09:22 +0000",
+      "potato": "2025-09-06 11:13:56 +0000",
       "bread": "2025-09-02 20:21:13 +0000",
       "golden_apple": "2025-09-02 23:48:05 +0000",
       "rotten_flesh": "2025-09-05 05:07:56 +0000",
@@ -11015,6 +11016,12 @@
   "aether:recipes/tools/holystone_pickaxe_repairing": {
     "criteria": {
       "has_holystone_pickaxe": "2025-09-06 08:40:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/yellow_dye_from_goldenrod": {
+    "criteria": {
+      "has_goldenrod": "2025-09-06 11:12:40 +0000"
     },
     "done": true
   },

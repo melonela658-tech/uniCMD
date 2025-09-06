@@ -1940,3 +1940,8 @@ java.lang.IndexOutOfBoundsException: Index -11 out of bounds for length 20
 [06Sep2025 10:56:46.601] [Server thread/INFO] [Jade/]: Syncing config to Principyto (7a14056c-9336-376a-9ae7-7d820f8eb726)
 [06Sep2025 10:59:02.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set the time to 1000]
 [06Sep2025 11:05:22.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Complex Curiosities]
+[06Sep2025 11:11:25.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto moved wrongly!
+[06Sep2025 11:12:05.950] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/117227, l='ServerLevel[world]', x=1264.38, y=64.00, z=1962.80] died: Undead Knight was slain by Principyto
+[06Sep2025 11:12:49.759] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/117475, l='ServerLevel[world]', x=1317.04, y=66.00, z=2014.21] died: Undead Knight was slain by Principyto
+[06Sep2025 11:17:21.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set the time to 1000]
+[06Sep2025 11:20:41.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Principyto to Melosito_Neo]
