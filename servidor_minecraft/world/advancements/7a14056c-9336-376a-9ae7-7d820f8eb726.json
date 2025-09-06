@@ -5474,6 +5474,7 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:redwood_thicket": "2025-09-06 10:02:07 +0000",
       "biomeswevegone:crag_gardens": "2025-09-03 21:52:07 +0000",
       "biomeswevegone:fragment_jungle": "2025-09-04 03:53:47 +0000",
       "biomeswevegone:sakura_grove": "2025-09-04 08:22:44 +0000",

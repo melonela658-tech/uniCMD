@@ -14690,15 +14690,255 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/paintballs_purple": {
+    "criteria": {
+      "has_matter_ball": "2025-09-06 10:04:41 +0000"
+    },
+    "done": true
+  },
+  "jetboots:recipes/combat/guardian_jacket": {
+    "criteria": {
+      "has_obsidian_infused_gold": "2025-09-06 10:07:41 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_gray": {
+    "criteria": {
+      "has_fluix_smart_cable": "2025-09-06 10:24:53 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_red": {
+    "criteria": {
+      "has_matter_ball": "2025-09-06 10:04:41 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_from_smart": {
+    "criteria": {
+      "has_fluix_smart_cable": "2025-09-06 10:24:53 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_lime": {
+    "criteria": {
+      "has_matter_ball": "2025-09-06 10:04:41 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_brown": {
+    "criteria": {
+      "has_matter_ball": "2025-09-06 10:04:41 +0000"
+    },
+    "done": true
+  },
+  "jetboots:recipes/misc/armor_core": {
+    "criteria": {
+      "has_obsidian_infused_gold": "2025-09-06 10:07:41 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_orange": {
+    "criteria": {
+      "has_fluix_smart_cable": "2025-09-06 10:24:53 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_blue": {
+    "criteria": {
+      "has_matter_ball": "2025-09-06 10:04:41 +0000"
+    },
+    "done": true
+  },
+  "jetboots:recipes/misc/jetboots_template_shapeless": {
+    "criteria": {
+      "has_template": "2025-09-06 10:07:08 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_brown": {
+    "criteria": {
+      "has_fluix_smart_cable": "2025-09-06 10:24:53 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/advanced_void_upgrade": {
     "criteria": {
       "has_void_upgrade": "2025-09-06 09:35:52 +0000"
     },
     "done": true
   },
+  "jetboots:recipes/combat/guardian_helmet": {
+    "criteria": {
+      "has_obsidian_infused_gold": "2025-09-06 10:07:41 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_light_gray": {
+    "criteria": {
+      "has_fluix_smart_cable": "2025-09-06 10:24:53 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_magenta": {
+    "criteria": {
+      "has_fluix_smart_cable": "2025-09-06 10:24:53 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_yellow": {
+    "criteria": {
+      "has_matter_ball": "2025-09-06 10:04:41 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_cyan": {
+    "criteria": {
+      "has_fluix_smart_cable": "2025-09-06 10:24:53 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_black": {
+    "criteria": {
+      "has_matter_ball": "2025-09-06 10:04:41 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_fluix_clean": {
+    "criteria": {
+      "has_smart_cable": "2025-09-06 10:24:53 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_pink": {
+    "criteria": {
+      "has_matter_ball": "2025-09-06 10:04:41 +0000"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/wireless_connector": {
+    "criteria": {
+      "has_item": "2025-09-06 10:21:55 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_yellow": {
+    "criteria": {
+      "has_fluix_smart_cable": "2025-09-06 10:24:53 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_white": {
+    "criteria": {
+      "has_matter_ball": "2025-09-06 10:04:41 +0000"
+    },
+    "done": true
+  },
+  "jetboots:recipes/combat/jetboots": {
+    "criteria": {
+      "has_obsidian_infused_gold": "2025-09-06 10:07:41 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_green": {
+    "criteria": {
+      "has_matter_ball": "2025-09-06 10:04:41 +0000"
+    },
+    "done": true
+  },
+  "jetboots:recipes/combat/rocket_boots": {
+    "criteria": {
+      "has_obsidian_infused_gold": "2025-09-06 10:07:41 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_orange": {
+    "criteria": {
+      "has_matter_ball": "2025-09-06 10:04:41 +0000"
+    },
+    "done": true
+  },
+  "jetboots:recipes/combat/guardian_sword": {
+    "criteria": {
+      "has_obsidian_infused_gold": "2025-09-06 10:07:41 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_lime": {
+    "criteria": {
+      "has_fluix_smart_cable": "2025-09-06 10:24:53 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_blue": {
+    "criteria": {
+      "has_fluix_smart_cable": "2025-09-06 10:24:53 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_light_blue": {
+    "criteria": {
+      "has_matter_ball": "2025-09-06 10:04:41 +0000"
+    },
+    "done": true
+  },
+  "jetboots:recipes/combat/guardian_pants": {
+    "criteria": {
+      "has_obsidian_infused_gold": "2025-09-06 10:07:41 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_magenta": {
+    "criteria": {
+      "has_matter_ball": "2025-09-06 10:04:41 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_gray": {
+    "criteria": {
+      "has_matter_ball": "2025-09-06 10:04:41 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_light_blue": {
+    "criteria": {
+      "has_fluix_smart_cable": "2025-09-06 10:24:53 +0000"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/wireless_tool": {
+    "criteria": {
+      "has_item": "2025-09-06 10:21:19 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/storage_void_upgrade_from_backpack_void_upgrade": {
     "criteria": {
       "has_backpack_upgrade": "2025-09-06 09:35:52 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_cyan": {
+    "criteria": {
+      "has_matter_ball": "2025-09-06 10:04:41 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_light_gray": {
+    "criteria": {
+      "has_matter_ball": "2025-09-06 10:04:41 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_green": {
+    "criteria": {
+      "has_fluix_smart_cable": "2025-09-06 10:24:53 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_black": {
+    "criteria": {
+      "has_fluix_smart_cable": "2025-09-06 10:24:53 +0000"
     },
     "done": true
   },

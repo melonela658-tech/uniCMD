@@ -1788,3 +1788,60 @@ java.lang.IndexOutOfBoundsException: Index -11 out of bounds for length 20
 [06Sep2025 09:57:22.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! 6.981162052993113,-1.4858349679243616,41.9336311850393
 [06Sep2025 09:57:22.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! 5.998996243993133,-1.5429057223290386,40.87816673963198
 [06Sep2025 09:57:23.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! 5.032993651655033,-1.5922632243097325,39.90483871393508
+[06Sep2025 10:00:57.849] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto lost connection: Timed out
+[06Sep2025 10:00:57.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto left the game
+[06Sep2025 10:01:39.837] [ForkJoinPool.commonPool-worker-13/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[06Sep2025 10:01:39.904] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Principyto[/127.14.12.54:47275] logged in with entity id 58068 at (2115.8298299242947, 191.83977150353496, 661.0654094142637)
+[06Sep2025 10:01:39.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto joined the game
+[06Sep2025 10:01:40.859] [Server thread/INFO] [Jade/]: Syncing config to Principyto (7a14056c-9336-376a-9ae7-7d820f8eb726)
+[06Sep2025 10:02:31.992] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto lost connection: Timed out
+[06Sep2025 10:02:31.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto left the game
+[06Sep2025 10:03:32.208] [ForkJoinPool.commonPool-worker-14/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[06Sep2025 10:03:32.254] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Principyto[/127.14.12.54:53023] logged in with entity id 60637 at (2115.8298299242947, 191.83977150353496, 661.0654094142637)
+[06Sep2025 10:03:32.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto joined the game
+[06Sep2025 10:03:32.365] [Server thread/INFO] [Jade/]: Syncing config to Principyto (7a14056c-9336-376a-9ae7-7d820f8eb726)
+[06Sep2025 10:04:05.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto moved too quickly! 11.861456149091737,-1.7131856652954696,-8.67726786110893
+[06Sep2025 10:04:32.434] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto lost connection: Timed out
+[06Sep2025 10:04:32.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto left the game
+[06Sep2025 10:05:02.877] [ForkJoinPool.commonPool-worker-15/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[06Sep2025 10:05:02.951] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Principyto[/127.14.12.54:34037] logged in with entity id 62781 at (2143.300000011921, 109.0, 623.3000000119209)
+[06Sep2025 10:05:02.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto joined the game
+[06Sep2025 10:05:03.057] [Server thread/INFO] [Jade/]: Syncing config to Principyto (7a14056c-9336-376a-9ae7-7d820f8eb726)
+[06Sep2025 10:05:33.091] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto lost connection: Timed out
+[06Sep2025 10:05:33.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto left the game
+[06Sep2025 10:06:03.003] [ForkJoinPool.commonPool-worker-15/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[06Sep2025 10:06:03.048] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Principyto[/127.14.12.54:54117] logged in with entity id 64091 at (2143.300000011921, 109.0, 623.3000000119209)
+[06Sep2025 10:06:03.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto joined the game
+[06Sep2025 10:06:03.149] [Server thread/INFO] [Jade/]: Syncing config to Principyto (7a14056c-9336-376a-9ae7-7d820f8eb726)
+[06Sep2025 10:06:05.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Principyto to Melosito_Neo]
+[06Sep2025 10:06:18.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Principyto to Melosito_Neo]
+[06Sep2025 10:06:33.179] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto lost connection: Timed out
+[06Sep2025 10:06:33.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto left the game
+[06Sep2025 10:06:54.084] [ForkJoinPool.commonPool-worker-15/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[06Sep2025 10:06:54.147] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Principyto[/127.14.12.54:48093] logged in with entity id 65330 at (-699.1870472556109, 50.0, 125.01260457709498)
+[06Sep2025 10:06:54.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto joined the game
+[06Sep2025 10:06:54.281] [Server thread/INFO] [Jade/]: Syncing config to Principyto (7a14056c-9336-376a-9ae7-7d820f8eb726)
+[06Sep2025 10:13:01.284] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/68471, l='ServerLevel[world]', x=-786.25, y=73.00, z=764.70] died, message: 'Nitwit was slain by Zombie'
+[06Sep2025 10:13:03.484] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/68472, l='ServerLevel[world]', x=-783.30, y=73.00, z=764.70] died, message: 'Weaponsmith was slain by Zombie'
+[06Sep2025 10:13:07.884] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/68464, l='ServerLevel[world]', x=-783.30, y=73.00, z=764.30] died, message: 'Farmer was slain by Zombie'
+[06Sep2025 10:15:20.028] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/69740, l='ServerLevel[world]', x=-760.11, y=65.41, z=69.02] died: Undead Knight suffocated in a wall
+[06Sep2025 10:23:29.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! 9.62992689628095,-0.14766879008983835,9.866708114434914
+[06Sep2025 10:23:29.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! 8.768352987036678,-0.16039155767761315,8.996181260595222
+[06Sep2025 10:23:29.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! 8.784229620239216,-0.18892316046907354,9.017865593712258
+[06Sep2025 10:23:29.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! 7.897813546446969,-0.16901003158777428,8.144271844741752
+[06Sep2025 10:23:29.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! 7.000693566566497,-0.14034431462702912,7.270084379022364
+[06Sep2025 10:24:48.055] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto moved too quickly! 13.245831407348987,-16.102541968387044,6.6405276781033535
+[06Sep2025 10:25:56.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto moved too quickly! -2.319563856478169,-2.219396907011614,-13.468102237402945
+[06Sep2025 10:28:24.723] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 31507ms or 630 ticks behind
+[06Sep2025 10:28:24.750] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo lost connection: Disconnected
+[06Sep2025 10:28:24.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo left the game
+[06Sep2025 10:28:24.776] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto lost connection: Disconnected
+[06Sep2025 10:28:24.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto left the game
+[06Sep2025 10:28:24.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola
+[06Sep2025 10:28:41.949] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Melosito_Neo[/127.159.187.102:48299] logged in with entity id 82507 at (-694.5279100611086, 67.0, 101.36966196607078)
+[06Sep2025 10:28:41.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo joined the game
+[06Sep2025 10:28:42.039] [Server thread/INFO] [Jade/]: Syncing config to Melosito_Neo (e021c79e-37d6-3b8c-b53e-a73c06ecc29e)
+[06Sep2025 10:28:43.297] [ForkJoinPool.commonPool-worker-18/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[06Sep2025 10:28:43.356] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Principyto[/127.14.12.54:53251] logged in with entity id 83455 at (-482.30261974463883, 61.778879197030086, 1711.2247463403821)
+[06Sep2025 10:28:43.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto joined the game
+[06Sep2025 10:28:43.444] [Server thread/INFO] [Jade/]: Syncing config to Principyto (7a14056c-9336-376a-9ae7-7d820f8eb726)
