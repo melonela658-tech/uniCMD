@@ -15056,9 +15056,21 @@
     },
     "done": true
   },
+  "expatternprovider:recipes/misc/water_cell": {
+    "criteria": {
+      "has_item": "2025-09-06 10:54:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/redstone_contact": {
     "criteria": {
       "has_item": "2025-09-06 10:42:57 +0000"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/cobblestone_cell": {
+    "criteria": {
+      "has_item": "2025-09-06 10:54:49 +0000"
     },
     "done": true
   },
@@ -15119,6 +15131,18 @@
   "create:recipes/misc/crafting/materials/brass_block_from_compacting": {
     "criteria": {
       "has_item": "2025-09-06 10:40:09 +0000"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2025-09-06 11:00:07 +0000"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2025-09-06 10:49:09 +0000"
     },
     "done": true
   },
@@ -15197,6 +15221,12 @@
   "create:recipes/misc/crafting/kinetics/nixie_tube": {
     "criteria": {
       "has_item": "2025-09-06 10:42:57 +0000"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2025-09-06 11:05:22 +0000"
     },
     "done": true
   },
