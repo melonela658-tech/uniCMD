@@ -184,3 +184,8 @@
 [06Sep2025 02:38:44.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd left the game
 [06Sep2025 03:03:53.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo was slain by Zombie
 [06Sep2025 03:33:01.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set 50 experience levels on Melosito_Neo]
+[06Sep2025 03:52:15.369] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bunfy_edd[/127.108.94.114:48769] logged in with entity id 144315 at (-912.1814982477563, 19.0, -307.23815989979704)
+[06Sep2025 03:52:15.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd joined the game
+[06Sep2025 03:52:15.457] [Server thread/INFO] [Jade/]: Syncing config to Bunfy_edd (90e9e226-3313-35a6-9e6c-a232bbfd4e03)
+[06Sep2025 03:56:17.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has completed the challenge [Cannibal]
+[06Sep2025 03:56:21.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd was slain by Cave Spider
