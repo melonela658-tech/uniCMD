@@ -5501,6 +5501,7 @@
       "biomeswevegone:aspen_boreal": "2025-09-03 05:05:29 +0000",
       "biomeswevegone:dacite_ridges": "2025-09-02 23:22:32 +0000",
       "biomeswevegone:frosted_coniferous_forest": "2025-09-04 02:13:11 +0000",
+      "biomeswevegone:shattered_glacier": "2025-09-06 21:21:22 +0000",
       "biomeswevegone:dacite_shore": "2025-09-02 20:46:55 +0000",
       "biomeswevegone:skyrise_vale": "2025-09-02 20:49:20 +0000",
       "biomeswevegone:allium_shrubland": "2025-09-03 05:04:19 +0000",
@@ -11132,6 +11133,12 @@
   "mekanismtools:better_than_netherite": {
     "criteria": {
       "armor": "2025-09-06 12:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-09-06 21:30:10 +0000"
     },
     "done": true
   },
