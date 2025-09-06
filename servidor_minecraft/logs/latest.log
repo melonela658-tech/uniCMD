@@ -1952,3 +1952,4 @@ java.lang.IndexOutOfBoundsException: Index -11 out of bounds for length 20
 [06Sep2025 11:30:38.196] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4179ms or 83 ticks behind
 [06Sep2025 11:34:49.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Principyto to Melosito_Neo]
 [06Sep2025 11:54:29.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved wrongly!
+[06Sep2025 12:02:37.004] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3488ms or 69 ticks behind
