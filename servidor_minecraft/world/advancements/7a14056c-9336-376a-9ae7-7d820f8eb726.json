@@ -10377,6 +10377,12 @@
     },
     "done": true
   },
+  "aether:silver_dungeon": {
+    "criteria": {
+      "kill_valkyrie_queen": "2025-09-06 06:25:08 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/altar": {
     "criteria": {
       "has_holystone": "2025-09-06 04:51:17 +0000"

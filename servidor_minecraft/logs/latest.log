@@ -361,3 +361,22 @@
 [06Sep2025 06:05:33.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Recursive Networking]
 [06Sep2025 06:16:38.798] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/240437, l='ServerLevel[world]', x=-879.12, y=93.85, z=226.67] died: Honeyed Archer was slain by Wolf
 [06Sep2025 06:17:26.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Network Aesthetics]
+[06Sep2025 06:23:14.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to -599.500000, 103.500000, 71.500000]
+[06Sep2025 06:23:23.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported 3 entities to Melosito_Neo]
+[06Sep2025 06:23:55.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo was slain by Valkyrie Queen
+[06Sep2025 06:24:02.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Principyto]
+[06Sep2025 06:24:13.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto was slain by Valkyrie Queen
+[06Sep2025 06:24:17.283] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2349ms or 46 ticks behind
+[06Sep2025 06:24:33.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Principyto to Melosito_Neo]
+[06Sep2025 06:25:08.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has reached the goal [Dethroned]
+[06Sep2025 06:25:08.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has reached the goal [Dethroned]
+[06Sep2025 06:25:08.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has reached the goal [Dethroned]
+[06Sep2025 06:26:08.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has completed the challenge [Titan-Forged]
+[06Sep2025 06:26:08.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has reached the goal [Earning your Wings]
+[06Sep2025 06:27:55.995] [Worker-Main-301/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-761, y=53, z=759}
+[06Sep2025 06:28:14.503] [Worker-Main-362/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-151, y=46, z=520}
+[06Sep2025 06:28:31.687] [Worker-Main-367/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-38, y=48, z=569}
+[06Sep2025 06:28:35.143] [Worker-Main-367/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-9, y=49, z=568}
+[06Sep2025 06:28:37.000] [Worker-Main-298/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=8, y=46, z=584}
+[06Sep2025 06:29:18.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported 3 entities to Melosito_Neo]
+[06Sep2025 06:30:13.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported 3 entities to Melosito_Neo]

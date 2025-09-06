@@ -13669,6 +13669,12 @@
     },
     "done": true
   },
+  "aether:silver_dungeon": {
+    "criteria": {
+      "kill_valkyrie_queen": "2025-09-06 06:25:08 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cells/item_storage_cell_256k": {
     "criteria": {
       "has_cell_component_256k": "2025-09-06 04:45:55 +0000"
@@ -14074,6 +14080,12 @@
   "nethersdelight:recipes/food/warped_moldy_meat": {
     "criteria": {
       "has_sirloin": "2025-09-05 22:17:02 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/facade": {
+    "criteria": {
+      "facade": "2025-09-06 06:17:26 +0000"
     },
     "done": true
   },
