@@ -89,3 +89,52 @@
 [06Sep2025 00:57:10.572] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withering Archer'/81019, l='ServerLevel[world]', x=0.89, y=69.44, z=-33.78] died: Withering Archer was slain by Bunfy_edd
 [06Sep2025 01:00:42.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd was slain by Ancient Knight
 [06Sep2025 01:01:28.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Bunfy_edd to Melosito_Neo]
+[06Sep2025 01:07:57.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! 3025.737500011921,133.5,-2891.9034040409733
+[06Sep2025 01:09:04.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set Wathsuyo's game mode to Spectator Mode]
+[06Sep2025 01:09:51.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Spectator Mode]
+[06Sep2025 01:10:04.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Wathsuyo]
+[06Sep2025 01:10:12.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
+[06Sep2025 01:10:36.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Wathsuyo]
+[06Sep2025 01:10:40.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Spectator Mode]
+[06Sep2025 01:10:41.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Wathsuyo]
+[06Sep2025 01:10:52.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
+[06Sep2025 01:10:59.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Wathsuyo]
+[06Sep2025 01:11:01.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Wathsuyo]
+[06Sep2025 01:11:03.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Spectator Mode]
+[06Sep2025 01:11:06.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Wathsuyo]
+[06Sep2025 01:11:52.745] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/89090, l='ServerLevel[world]', x=2355.62, y=169.55, z=-2638.08] died: Honeyed Archer suffocated in a wall
+[06Sep2025 01:11:57.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
+[06Sep2025 01:12:06.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Wathsuyo to Melosito_Neo]
+[06Sep2025 01:12:11.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set Wathsuyo's game mode to Survival Mode]
+[06Sep2025 01:12:12.601] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Sep2025 01:12:12.698] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Sep2025 01:12:12.800] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Sep2025 01:14:18.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd was shot by Skeleton
+[06Sep2025 01:14:33.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! -3024.203688765819,-133.5,2889.849430976122
+[06Sep2025 01:14:36.528] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-94, y=94, z=262}
+[06Sep2025 01:14:36.680] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-94, y=94, z=262}
+[06Sep2025 01:14:36.872] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-94, y=94, z=262}
+[06Sep2025 01:14:36.928] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-97, y=94, z=264}
+[06Sep2025 01:14:36.972] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-97, y=94, z=264}
+[06Sep2025 01:14:37.080] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-95, y=94, z=263}
+[06Sep2025 01:14:37.224] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-95, y=94, z=263}
+[06Sep2025 01:14:37.331] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-95, y=94, z=263}
+[06Sep2025 01:14:37.456] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-95, y=94, z=263}
+[06Sep2025 01:14:37.508] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-95, y=94, z=263}
+[06Sep2025 01:14:37.580] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-95, y=94, z=262}
+[06Sep2025 01:14:37.624] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-94, y=94, z=263}
+[06Sep2025 01:14:37.680] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-94, y=94, z=263}
+[06Sep2025 01:14:37.810] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-93, y=94, z=262}
+[06Sep2025 01:14:37.828] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-93, y=94, z=262}
+[06Sep2025 01:14:37.880] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-94, y=94, z=262}
+[06Sep2025 01:14:37.980] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-94, y=94, z=263}
+[06Sep2025 01:14:38.032] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-94, y=94, z=263}
+[06Sep2025 01:14:38.080] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-96, y=94, z=264}
+[06Sep2025 01:14:38.328] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-94, y=94, z=263}
+[06Sep2025 01:14:38.380] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-95, y=94, z=263}
+[06Sep2025 01:14:38.480] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-95, y=94, z=263}
+[06Sep2025 01:14:39.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-94, y=95, z=261}
+[06Sep2025 01:14:39.521] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-94, y=94, z=262}
+[06Sep2025 01:14:39.680] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-95, y=94, z=262}
+[06Sep2025 01:14:39.828] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-95, y=94, z=262}
+[06Sep2025 01:14:56.379] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-101, y=94, z=267}

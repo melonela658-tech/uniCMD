@@ -7241,6 +7241,12 @@
     },
     "done": false
   },
+  "mekanism:moving_blocks": {
+    "criteria": {
+      "cardboard_box": "2025-09-06 01:04:06 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-09-05 22:32:25 +0000"
