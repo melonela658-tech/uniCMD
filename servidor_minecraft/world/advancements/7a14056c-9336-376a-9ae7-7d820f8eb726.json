@@ -10881,6 +10881,30 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_sword_repairing": {
+    "criteria": {
+      "has_golden_sword": "2025-09-06 08:20:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/pillar_from_pillar_top_stonecutting": {
+    "criteria": {
+      "has_pillar_top": "2025-09-06 08:20:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/angelic_stone_from_pillar_top_stonecutting": {
+    "criteria": {
+      "has_pillar_top": "2025-09-06 08:20:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/holystone_sword_repairing": {
+    "criteria": {
+      "has_holystone_sword": "2025-09-06 08:20:48 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/storage_pickup_upgrade_from_backpack_pickup_upgrade": {
     "criteria": {
       "has_backpack_upgrade": "2025-09-06 08:23:01 +0000"
@@ -10899,27 +10923,93 @@
     },
     "done": true
   },
-  "aether:recipes/combat/holystone_sword_repairing": {
+  "aether:recipes/incubation/blue_moa_incubation": {
     "criteria": {
-      "has_holystone_sword": "2025-09-06 08:20:48 +0000"
+      "has_blue_moa_egg": "2025-09-06 08:27:32 +0000"
     },
     "done": true
   },
-  "aether:recipes/building_blocks/pillar_from_pillar_top_stonecutting": {
+  "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
-      "has_pillar_top": "2025-09-06 08:20:43 +0000"
+      "has_stone_slab": "2025-09-06 08:38:18 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/golden_sword_repairing": {
+  "tconstruct:world/slime_collector": {
     "criteria": {
-      "has_golden_sword": "2025-09-06 08:20:30 +0000"
+      "earth": "2025-09-06 08:38:45 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-09-06 08:38:45 +0000"
     },
     "done": true
   },
-  "aether:recipes/building_blocks/angelic_stone_from_pillar_top_stonecutting": {
+  "minecraft:recipes/tools/lead": {
     "criteria": {
-      "has_pillar_top": "2025-09-06 08:20:43 +0000"
+      "has_slime_ball": "2025-09-06 08:38:45 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/common/slime/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-09-06 08:38:45 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/packing_tape": {
+    "criteria": {
+      "has_slime": "2025-09-06 08:38:45 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/common/slime/earth/congealed": {
+    "criteria": {
+      "has_item": "2025-09-06 08:38:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-09-06 08:38:45 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/slime/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-09-06 08:38:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_wood": {
+    "criteria": {
+      "has_log": "2025-09-06 08:38:55 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_planks": {
+    "criteria": {
+      "has_logs": "2025-09-06 08:38:55 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/skyroot_pickaxe_repairing": {
+    "criteria": {
+      "has_skyroot_pickaxe": "2025-09-06 08:39:59 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/ambrosium_torch": {
+    "criteria": {
+      "has_holystone_pickaxe": "2025-09-06 08:40:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/holystone_pickaxe_repairing": {
+    "criteria": {
+      "has_holystone_pickaxe": "2025-09-06 08:40:00 +0000"
     },
     "done": true
   },
