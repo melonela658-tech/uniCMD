@@ -145,3 +145,11 @@
 [06Sep2025 01:20:43.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Bunfy_edd to Melosito_Neo]
 [06Sep2025 01:23:07.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Make Soup!]
 [06Sep2025 01:23:14.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [First Step of Stir-Frying]
+[06Sep2025 01:25:42.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! -3024.078676557097,-133.5,2890.167814932382
+[06Sep2025 01:25:45.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd was shot by Summoned Skeleton
+[06Sep2025 01:26:21.714] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-88, y=95, z=255}
+[06Sep2025 01:26:22.165] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-88, y=95, z=255}
+[06Sep2025 01:26:54.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Bunfy_edd to Melosito_Neo]
+[06Sep2025 01:27:36.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [What a Deal!]
+[06Sep2025 01:28:35.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [Hidden in the Depths]
+[06Sep2025 01:33:38.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wathsuyo has made the advancement [First Step of Stir-Frying]

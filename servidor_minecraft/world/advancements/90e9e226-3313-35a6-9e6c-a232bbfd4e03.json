@@ -7241,6 +7241,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-09-06 01:28:35 +0000"
+    },
+    "done": true
+  },
   "mekanism:moving_blocks": {
     "criteria": {
       "cardboard_box": "2025-09-06 01:04:06 +0000"
@@ -7301,6 +7307,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2025-09-06 01:22:41 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed_by": "2025-09-05 22:53:24 +0000"
@@ -7331,9 +7343,21 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-09-06 01:28:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2025-09-06 00:36:05 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-09-06 01:22:37 +0000"
     },
     "done": true
   },
@@ -7361,9 +7385,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-09-06 01:28:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-09-06 00:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-09-06 01:27:36 +0000"
     },
     "done": true
   },

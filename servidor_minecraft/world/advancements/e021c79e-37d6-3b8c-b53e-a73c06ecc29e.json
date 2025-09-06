@@ -13598,6 +13598,12 @@
     },
     "done": true
   },
+  "kaleidoscope_cookery:make_soup": {
+    "criteria": {
+      "use_lid_on_stockpot": "2025-09-06 01:23:07 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
     "criteria": {
       "requirement": "2025-09-05 23:12:04 +0000"
@@ -13745,6 +13751,12 @@
   "alexsmobs:alexsmobs/murmur": {
     "criteria": {
       "killed_by": "2025-09-05 23:29:48 +0000"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:pot": {
+    "criteria": {
+      "place_pot_on_heat_source": "2025-09-06 01:23:14 +0000"
     },
     "done": true
   },
