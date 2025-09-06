@@ -10437,6 +10437,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2025-09-06 07:04:21 +0000"
+    },
+    "done": false
+  },
   "aether:recipes/tools/zanite_axe": {
     "criteria": {
       "has_zanite": "2025-09-06 04:57:13 +0000"
@@ -10458,6 +10464,12 @@
   "aether:recipes/building_blocks/holystone_brick_stairs_from_holystone_stonecutting": {
     "criteria": {
       "has_holystone": "2025-09-06 04:51:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "naga": "2025-09-06 07:04:21 +0000"
     },
     "done": true
   },
@@ -10488,6 +10500,12 @@
   "aether:recipes/misc/flower_to_white_dye": {
     "criteria": {
       "has_white_flower": "2025-09-06 04:58:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "naga": "2025-09-06 07:04:21 +0000"
     },
     "done": true
   },

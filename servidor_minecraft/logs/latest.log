@@ -404,3 +404,8 @@
 [06Sep2025 06:59:18.199] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! 13.06455610100511,1.1217081003663019,1.6408462912614823
 [06Sep2025 06:59:18.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! 11.588911045896566,0.9816559954963431,1.4499488303132466
 [06Sep2025 06:59:18.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! 10.1129352259195,0.8370529159133291,1.2608449715443157
+[06Sep2025 07:04:21.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has reached the goal [Time To Even The Scales]
+[06Sep2025 07:04:21.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [The Silence of the Forest]
+[06Sep2025 07:09:54.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto moved too quickly! 6.700217597473966,-3.435236685196685,-7.156775317718029
+[06Sep2025 07:09:54.834] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[06Sep2025 07:09:54.835] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
