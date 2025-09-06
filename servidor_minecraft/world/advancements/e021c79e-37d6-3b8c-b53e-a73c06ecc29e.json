@@ -14689,5 +14689,17 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_void_upgrade": {
+    "criteria": {
+      "has_void_upgrade": "2025-09-06 09:35:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_void_upgrade_from_backpack_void_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-09-06 09:35:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
