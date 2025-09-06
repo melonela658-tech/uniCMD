@@ -17631,3 +17631,174 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Sep2025 23:51:22.297] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Sep2025 23:51:22.319] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Sep2025 23:51:49.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wathsuyo has made the advancement [Amateur Archaeologist]
+[05Sep2025 23:54:53.048] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/44724, l='ServerLevel[world]', x=2441.84, y=124.41, z=-2765.95] died: Undead Knight suffocated in a wall
+[05Sep2025 23:55:08.003] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Sep2025 23:55:08.501] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Sep2025 23:55:09.501] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Sep2025 23:55:09.502] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Sep2025 23:55:10.003] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Sep2025 23:55:10.500] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Sep2025 23:55:11.999] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Sep2025 23:55:12.000] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Sep2025 23:55:12.001] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Sep2025 23:55:12.002] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Sep2025 23:55:14.505] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Sep2025 23:55:15.004] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Sep2025 23:55:15.005] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Sep2025 23:55:16.506] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Sep2025 23:55:17.001] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Sep2025 23:55:17.508] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Sep2025 23:55:18.499] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Sep2025 23:55:18.501] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Sep2025 23:55:18.503] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Sep2025 23:55:20.501] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Sep2025 23:55:21.002] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Sep2025 23:55:21.003] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Sep2025 23:55:23.001] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Sep2025 23:55:23.002] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Sep2025 23:55:23.501] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Sep2025 23:55:26.502] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Sep2025 23:56:22.306] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2025 23:56:22.327] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2025 23:56:47.296] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2340, y=180, z=-2771}) doesn't have enough leaves around top most log
+[05Sep2025 23:57:57.164] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:57:57.347] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:57:57.525] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:57:57.701] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:57:57.887] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:57:58.073] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:57:58.267] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:57:58.272] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2377, y=162, z=-2674}) doesn't have enough leaves around top most log
+[05Sep2025 23:57:58.439] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:57:58.443] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2376, y=162, z=-2673}) doesn't have enough leaves around top most log
+[05Sep2025 23:57:58.608] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:57:58.612] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2377, y=162, z=-2673}) doesn't have enough leaves around top most log
+[05Sep2025 23:57:58.779] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:57:58.783] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2376, y=161, z=-2674}) doesn't have enough leaves around top most log
+[05Sep2025 23:57:58.944] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:57:58.947] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2375, y=161, z=-2674}) doesn't have enough leaves around top most log
+[05Sep2025 23:57:58.951] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2377, y=161, z=-2674}) doesn't have enough leaves around top most log
+[05Sep2025 23:57:59.146] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:57:59.150] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2376, y=161, z=-2673}) doesn't have enough leaves around top most log
+[05Sep2025 23:57:59.335] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:57:59.339] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2377, y=161, z=-2675}) doesn't have enough leaves around top most log
+[05Sep2025 23:57:59.342] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2377, y=161, z=-2673}) doesn't have enough leaves around top most log
+[05Sep2025 23:57:59.346] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2376, y=161, z=-2672}) doesn't have enough leaves around top most log
+[05Sep2025 23:57:59.522] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:57:59.525] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2378, y=161, z=-2673}) doesn't have enough leaves around top most log
+[05Sep2025 23:57:59.528] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2376, y=160, z=-2674}) doesn't have enough leaves around top most log
+[05Sep2025 23:57:59.688] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:57:59.691] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2376, y=160, z=-2675}) doesn't have enough leaves around top most log
+[05Sep2025 23:57:59.694] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2376, y=160, z=-2673}) doesn't have enough leaves around top most log
+[05Sep2025 23:57:59.899] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:57:59.902] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2375, y=160, z=-2674}) doesn't have enough leaves around top most log
+[05Sep2025 23:57:59.906] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2377, y=160, z=-2674}) doesn't have enough leaves around top most log
+[05Sep2025 23:57:59.909] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2377, y=160, z=-2673}) doesn't have enough leaves around top most log
+[05Sep2025 23:57:59.912] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2375, y=160, z=-2673}) doesn't have enough leaves around top most log
+[05Sep2025 23:57:59.915] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2377, y=160, z=-2675}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:00.124] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:58:00.335] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:58:00.339] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2376, y=160, z=-2672}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:00.342] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2378, y=160, z=-2674}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:00.344] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2378, y=160, z=-2673}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:00.515] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:58:00.518] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2377, y=160, z=-2672}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:00.520] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2376, y=159, z=-2674}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:00.681] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:58:00.683] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2376, y=159, z=-2673}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:00.850] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:58:00.853] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2376, y=159, z=-2675}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:01.040] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:58:01.042] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2377, y=159, z=-2674}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:01.210] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:58:01.212] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2375, y=159, z=-2674}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:01.214] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2377, y=159, z=-2673}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:01.391] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:58:01.393] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2375, y=159, z=-2673}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:01.395] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2377, y=159, z=-2675}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:01.526] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2376, y=159, z=-2672}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:01.527] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2378, y=159, z=-2674}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:01.684] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:58:01.685] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2378, y=159, z=-2673}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:01.686] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2377, y=159, z=-2672}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:01.869] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:58:02.074] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:58:02.075] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2378, y=158, z=-2674}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:02.076] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5092ms or 101 ticks behind
+[05Sep2025 23:58:06.613] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2378, y=158, z=-2673}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:09.953] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:58:10.083] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:58:10.234] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:58:10.382] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:58:10.545] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:58:10.699] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:58:10.826] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:58:10.989] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:58:11.130] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:58:11.284] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:58:11.444] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:58:11.587] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:58:11.734] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:58:11.902] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:58:12.039] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:58:12.196] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:58:12.203] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2384, y=158, z=-2678}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:12.360] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:58:12.364] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2385, y=158, z=-2677}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:12.369] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2385, y=159, z=-2679}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:12.509] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[05Sep2025 23:58:12.513] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2385, y=158, z=-2678}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:12.741] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2384, y=157, z=-2677}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:12.746] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2385, y=158, z=-2679}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:12.751] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2384, y=157, z=-2678}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:12.755] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2383, y=157, z=-2677}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:12.758] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2385, y=157, z=-2677}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:12.762] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2385, y=157, z=-2678}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:12.766] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2385, y=157, z=-2676}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:12.770] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2384, y=157, z=-2679}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:12.774] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2386, y=157, z=-2678}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:12.777] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2385, y=157, z=-2679}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:12.780] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2384, y=156, z=-2677}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:12.784] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2384, y=156, z=-2676}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:12.787] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2383, y=156, z=-2677}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:12.790] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2385, y=156, z=-2677}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:12.793] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2384, y=156, z=-2678}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:12.796] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2385, y=156, z=-2676}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:12.799] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2383, y=156, z=-2678}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:12.803] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2385, y=156, z=-2678}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:12.806] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2384, y=156, z=-2679}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:12.809] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2386, y=156, z=-2677}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:12.812] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2386, y=156, z=-2678}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:12.814] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2385, y=156, z=-2679}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:16.256] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2384, y=155, z=-2678}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:16.258] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2384, y=155, z=-2677}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:16.260] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2385, y=155, z=-2678}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:16.262] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2385, y=155, z=-2679}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:16.264] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2385, y=154, z=-2678}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:16.265] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2385, y=155, z=-2677}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:16.267] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2385, y=154, z=-2677}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:16.269] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2384, y=155, z=-2676}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:16.270] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2386, y=155, z=-2678}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:16.272] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2384, y=154, z=-2676}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:16.273] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2385, y=155, z=-2676}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:16.274] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2386, y=154, z=-2678}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:16.275] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2386, y=155, z=-2677}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:16.276] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2385, y=154, z=-2676}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:16.277] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2386, y=154, z=-2677}) doesn't have enough leaves around top most log
+[05Sep2025 23:58:16.277] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2386, y=153, z=-2677}) doesn't have enough leaves around top most log
+[06Sep2025 00:00:18.882] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2334, y=180, z=-2773}) doesn't have enough leaves around top most log
+[06Sep2025 00:00:20.175] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2333, y=179, z=-2773}) doesn't have enough leaves around top most log
+[06Sep2025 00:00:20.973] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2334, y=179, z=-2773}) doesn't have enough leaves around top most log
+[06Sep2025 00:00:21.805] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2333, y=180, z=-2773}) doesn't have enough leaves around top most log
+[06Sep2025 00:00:24.382] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2335, y=179, z=-2773}) doesn't have enough leaves around top most log
+[06Sep2025 00:01:27.358] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Sep2025 00:01:27.382] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Sep2025 00:03:15.057] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 00:03:16.549] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 00:03:16.550] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 00:03:17.055] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 00:03:17.555] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 00:03:18.554] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 00:03:19.049] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 00:03:19.553] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Sep2025 00:03:20.056] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot

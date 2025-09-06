@@ -1179,3 +1179,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Sep2025 23:31:11.435] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
 [05Sep2025 23:43:20.691] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/40572, l='ServerLevel[world]', x=2383.00, y=158.25, z=-2638.37] died: Honeyed Archer suffocated in a wall
 [05Sep2025 23:51:49.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wathsuyo has made the advancement [Amateur Archaeologist]
+[05Sep2025 23:54:53.048] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/44724, l='ServerLevel[world]', x=2441.84, y=124.41, z=-2765.95] died: Undead Knight suffocated in a wall
+[05Sep2025 23:58:02.076] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5092ms or 101 ticks behind
