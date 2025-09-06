@@ -13891,3 +13891,25 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06Sep2025 09:05:34.068] [Server thread/DEBUG] [FTB Chunks/]: visible player list sent to e021c79e-37d6-3b8c-b53e-a73c06ecc29e
 [06Sep2025 09:05:34.068] [Server thread/DEBUG] [FTB Teams/]: team login event for e021c79e-37d6-3b8c-b53e-a73c06ecc29e sent
 [06Sep2025 09:05:34.137] [Server thread/INFO] [Jade/]: Syncing config to Melosito_Neo (e021c79e-37d6-3b8c-b53e-a73c06ecc29e)
+[06Sep2025 09:08:02.047] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Sep2025 09:08:02.071] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Sep2025 09:10:01.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Principyto to Melosito_Neo]
+[06Sep2025 09:12:04.703] [Worker-Main-3/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium-common.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[06Sep2025 09:12:04.956] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[06Sep2025 09:12:04.956] [Worker-Main-2/DEBUG] [mixin/]: Mixing common.accessor.WorldGenRegionAccessor from aether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[06Sep2025 09:12:04.956] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betteroceanmonuments.mixins.json into net.minecraft.server.level.WorldGenRegion
+[06Sep2025 09:12:04.956] [Worker-Main-2/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from bygonenether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[06Sep2025 09:12:04.956] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[06Sep2025 09:12:04.957] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[06Sep2025 09:12:04.957] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[06Sep2025 09:12:04.957] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[06Sep2025 09:12:04.957] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[06Sep2025 09:12:04.957] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[06Sep2025 09:12:04.957] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[06Sep2025 09:12:05.107] [Worker-Main-1/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[06Sep2025 09:12:05.109] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[06Sep2025 09:12:05.109] [Worker-Main-1/DEBUG] [mixin/]: Mixing common.BeardifierMixin from lithostitched.forge.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[06Sep2025 09:12:05.111] [Worker-Main-1/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[06Sep2025 09:12:43.110] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1701, y=-5, z=767}
+[06Sep2025 09:13:02.060] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Sep2025 09:13:02.081] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
