@@ -1981,3 +1981,15 @@ java.lang.IndexOutOfBoundsException: Index -11 out of bounds for length 20
 [06Sep2025 12:29:09.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Principyto]
 [06Sep2025 12:29:09.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! -457.7747041790228,48.0,913.9737023074987
 [06Sep2025 12:29:38.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Principyto to Melosito_Neo]
+[06Sep2025 12:35:28.635] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto lost connection: Timed out
+[06Sep2025 12:35:28.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto left the game
+[06Sep2025 12:35:32.758] [ForkJoinPool.commonPool-worker-28/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[06Sep2025 12:35:32.807] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Principyto[/127.14.12.54:38325] logged in with entity id 150671 at (-1338.5, 225.0215999984741, 1581.5)
+[06Sep2025 12:35:32.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto joined the game
+[06Sep2025 12:35:32.895] [Server thread/INFO] [Jade/]: Syncing config to Principyto (7a14056c-9336-376a-9ae7-7d820f8eb726)
+[06Sep2025 12:38:31.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! -201.59203518799234,0.5,543.8028506581484
+[06Sep2025 12:41:00.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto moved wrongly!
+[06Sep2025 12:41:46.588] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/149343, l='ServerLevel[world]', x=-702.93, y=66.00, z=104.30] died: Undead Knight was slain by Melosito_Neo
+[06Sep2025 12:49:57.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! 203.5772247008441,-1.5,-545.3081103693846
+[06Sep2025 12:53:27.189] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo lost connection: Timed out
+[06Sep2025 12:53:27.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo left the game
