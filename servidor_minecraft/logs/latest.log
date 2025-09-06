@@ -409,3 +409,5 @@
 [06Sep2025 07:09:54.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto moved too quickly! 6.700217597473966,-3.435236685196685,-7.156775317718029
 [06Sep2025 07:09:54.834] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [06Sep2025 07:09:54.835] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[06Sep2025 07:37:42.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto moved too quickly! 0.5575267628819347,-10.215726157086912,0.7507211930837911
+[06Sep2025 07:40:10.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! -8.245048941110326,6.414580459142314,2.142690056853553
