@@ -1972,6 +1972,7 @@
       "minecraft:old_growth_spruce_taiga": "2025-09-02 20:50:50 +0000",
       "minecraft:snowy_beach": "2025-09-04 00:02:09 +0000",
       "minecraft:windswept_savanna": "2025-09-02 22:22:31 +0000",
+      "minecraft:frozen_peaks": "2025-09-06 12:23:41 +0000",
       "minecraft:old_growth_birch_forest": "2025-09-02 21:41:50 +0000",
       "minecraft:deep_dark": "2025-09-03 06:03:37 +0000",
       "minecraft:meadow": "2025-09-04 08:15:11 +0000",
@@ -11019,63 +11020,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/end_crystal": {
-    "criteria": {
-      "has_ender_eye": "2025-09-06 11:50:07 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_5": {
-    "criteria": {
-      "has_stack_upgrade_tier_4": "2025-09-06 11:57:03 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_magnet_upgrade_from_backpack_magnet_upgrade": {
-    "criteria": {
-      "has_backpack_upgrade": "2025-09-06 11:43:57 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/xp_pump_upgrade": {
-    "criteria": {
-      "has_advanced_pump_upgrade": "2025-09-06 11:48:41 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_tier_3_from_storage_stack_upgrade_tier_4": {
-    "criteria": {
-      "has_storage_stack_upgrade": "2025-09-06 11:57:03 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/advanced_pump_upgrade": {
-    "criteria": {
-      "has_pump_upgrade": "2025-09-06 11:41:10 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/misc/yellow_dye_from_goldenrod": {
     "criteria": {
       "has_goldenrod": "2025-09-06 11:12:40 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
-    "criteria": {
-      "has_magnet_upgrade": "2025-09-06 11:43:57 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_stack_upgrade_tier_3_from_backpack_stack_upgrade_tier_2": {
-    "criteria": {
-      "has_backpack_stack_upgrade": "2025-09-06 11:54:17 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/decorations/common/glass/vanilla/end_crystal": {
-    "criteria": {
-      "has_ender_eye": "2025-09-06 11:50:07 +0000"
     },
     "done": true
   },
@@ -11085,15 +11032,51 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
+  "sophisticatedstorage:recipes/misc/storage_jukebox_upgrade_from_backpack_jukebox_upgrade": {
     "criteria": {
-      "has_stack_upgrade_tier_2": "2025-09-06 11:54:17 +0000"
+      "has_backpack_upgrade": "2025-09-06 11:23:12 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_4": {
+  "sophisticatedbackpacks:recipes/misc/advanced_pump_upgrade": {
     "criteria": {
-      "has_stack_upgrade_tier_3": "2025-09-06 11:54:36 +0000"
+      "has_pump_upgrade": "2025-09-06 11:41:10 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_magnet_upgrade_from_backpack_magnet_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-09-06 11:43:57 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
+    "criteria": {
+      "has_magnet_upgrade": "2025-09-06 11:43:57 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/xp_pump_upgrade": {
+    "criteria": {
+      "has_advanced_pump_upgrade": "2025-09-06 11:48:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-09-06 11:50:07 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/common/glass/vanilla/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-09-06 11:50:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-09-06 11:50:07 +0000"
     },
     "done": true
   },
@@ -11109,9 +11092,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/ender_chest": {
+  "sophisticatedstorage:recipes/misc/storage_stack_upgrade_tier_3_from_backpack_stack_upgrade_tier_2": {
     "criteria": {
-      "has_ender_eye": "2025-09-06 11:50:07 +0000"
+      "has_backpack_stack_upgrade": "2025-09-06 11:54:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_stack_upgrade_tier_2": "2025-09-06 11:54:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_4": {
+    "criteria": {
+      "has_stack_upgrade_tier_3": "2025-09-06 11:54:36 +0000"
     },
     "done": true
   },
@@ -11121,9 +11116,15 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/storage_jukebox_upgrade_from_backpack_jukebox_upgrade": {
+  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_5": {
     "criteria": {
-      "has_backpack_upgrade": "2025-09-06 11:23:12 +0000"
+      "has_stack_upgrade_tier_4": "2025-09-06 11:57:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_tier_3_from_storage_stack_upgrade_tier_4": {
+    "criteria": {
+      "has_storage_stack_upgrade": "2025-09-06 11:57:03 +0000"
     },
     "done": true
   },

@@ -1953,3 +1953,31 @@ java.lang.IndexOutOfBoundsException: Index -11 out of bounds for length 20
 [06Sep2025 11:34:49.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Principyto to Melosito_Neo]
 [06Sep2025 11:54:29.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved wrongly!
 [06Sep2025 12:02:37.004] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3488ms or 69 ticks behind
+[06Sep2025 12:16:27.142] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto lost connection: Timed out
+[06Sep2025 12:16:27.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto left the game
+[06Sep2025 12:16:54.019] [ForkJoinPool.commonPool-worker-24/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[06Sep2025 12:16:54.046] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Principyto[/127.14.12.54:36623] logged in with entity id 138946 at (-1190.883229086301, 200.1097504361396, 1308.8546147335292)
+[06Sep2025 12:16:54.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto joined the game
+[06Sep2025 12:16:54.996] [Server thread/INFO] [Jade/]: Syncing config to Principyto (7a14056c-9336-376a-9ae7-7d820f8eb726)
+[06Sep2025 12:17:17.878] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/139768, l='ServerLevel[world]', x=-1290.50, y=159.51, z=1362.30] died, message: 'Unemployed froze to death'
+[06Sep2025 12:17:24.153] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto lost connection: Timed out
+[06Sep2025 12:17:24.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto left the game
+[06Sep2025 12:17:57.788] [ForkJoinPool.commonPool-worker-25/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[06Sep2025 12:17:57.855] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Principyto[/127.14.12.54:54403] logged in with entity id 140541 at (-1190.883229086301, 200.1097504361396, 1308.8546147335292)
+[06Sep2025 12:17:57.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto joined the game
+[06Sep2025 12:17:57.953] [Server thread/INFO] [Jade/]: Syncing config to Principyto (7a14056c-9336-376a-9ae7-7d820f8eb726)
+[06Sep2025 12:18:13.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! 203.82854028935606,-1.5,-541.8795522067629
+[06Sep2025 12:18:24.023] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/141356, l='ServerLevel[world]', x=-1291.85, y=159.51, z=1362.60] died, message: 'Unemployed froze to death'
+[06Sep2025 12:18:32.025] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/141358, l='ServerLevel[world]', x=-1293.55, y=167.00, z=1366.90] died, message: 'Unemployed froze to death'
+[06Sep2025 12:18:42.991] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto lost connection: Timed out
+[06Sep2025 12:18:42.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto left the game
+[06Sep2025 12:19:16.980] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! -3227.0,-131.5,3436.0
+[06Sep2025 12:19:26.995] [ForkJoinPool.commonPool-worker-26/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[06Sep2025 12:19:27.055] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Principyto[/127.14.12.54:55039] logged in with entity id 142399 at (-1189.9169290938053, 146.35997923329006, 1310.0103329369426)
+[06Sep2025 12:19:27.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto joined the game
+[06Sep2025 12:19:28.031] [Server thread/INFO] [Jade/]: Syncing config to Principyto (7a14056c-9336-376a-9ae7-7d820f8eb726)
+[06Sep2025 12:20:30.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Principyto> t
+[06Sep2025 12:23:20.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto moved wrongly!
+[06Sep2025 12:29:09.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Principyto]
+[06Sep2025 12:29:09.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! -457.7747041790228,48.0,913.9737023074987
+[06Sep2025 12:29:38.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Principyto to Melosito_Neo]
