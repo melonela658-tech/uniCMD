@@ -1993,3 +1993,10 @@ java.lang.IndexOutOfBoundsException: Index -11 out of bounds for length 20
 [06Sep2025 12:49:57.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! 203.5772247008441,-1.5,-545.3081103693846
 [06Sep2025 12:53:27.189] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo lost connection: Timed out
 [06Sep2025 12:53:27.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo left the game
+[06Sep2025 13:03:26.623] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/157439, l='ServerLevel[world]', x=-1338.48, y=215.06, z=1521.46] died: Honeyed Archer burned to death
+[06Sep2025 13:05:20.977] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto lost connection: Timed out
+[06Sep2025 13:05:20.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto left the game
+[06Sep2025 13:05:39.865] [ForkJoinPool.commonPool-worker-30/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[06Sep2025 13:05:39.890] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Principyto[/127.14.12.54:35679] logged in with entity id 180186 at (-1298.1417563735056, 59.0, 1565.7742014807764)
+[06Sep2025 13:05:39.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto joined the game
+[06Sep2025 13:05:39.980] [Server thread/INFO] [Jade/]: Syncing config to Principyto (7a14056c-9336-376a-9ae7-7d820f8eb726)
