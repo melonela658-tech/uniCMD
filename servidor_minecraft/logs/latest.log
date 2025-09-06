@@ -189,3 +189,64 @@
 [06Sep2025 03:52:15.457] [Server thread/INFO] [Jade/]: Syncing config to Bunfy_edd (90e9e226-3313-35a6-9e6c-a232bbfd4e03)
 [06Sep2025 03:56:17.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has completed the challenge [Cannibal]
 [06Sep2025 03:56:21.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd was slain by Cave Spider
+[06Sep2025 04:01:07.731] [ForkJoinPool.commonPool-worker-25/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[06Sep2025 04:01:07.786] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Principyto[/127.47.31.170:36775] logged in with entity id 148966 at (1752.710614958809, 64.0, 450.99435340132595)
+[06Sep2025 04:01:07.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto joined the game
+[06Sep2025 04:01:07.891] [Server thread/INFO] [Jade/]: Syncing config to Principyto (7a14056c-9336-376a-9ae7-7d820f8eb726)
+[06Sep2025 04:01:11.884] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySeagull['Seagull'/150160, l='ServerLevel[world]', x=1599.81, y=69.46, z=403.86]
+[06Sep2025 04:01:53.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd was slain by Wither Skeleton
+[06Sep2025 04:03:52.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Principyto to Bunfy_edd]
+[06Sep2025 04:05:03.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd couldn't take Principyto's heat
+[06Sep2025 04:06:50.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Bunfy_edd to Principyto]
+[06Sep2025 04:08:26.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Bunfy_edd to Principyto]
+[06Sep2025 04:08:56.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd withered away
+[06Sep2025 04:09:46.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Bunfy_edd to Principyto]
+[06Sep2025 04:11:23.707] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto lost connection: Timed out
+[06Sep2025 04:11:23.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto left the game
+[06Sep2025 04:11:23.760] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Sep2025 04:11:46.411] [ForkJoinPool.commonPool-worker-27/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[06Sep2025 04:11:46.475] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Principyto[/127.14.12.54:35729] logged in with entity id 155810 at (-853.041402666116, 37.0, -340.8355315159822)
+[06Sep2025 04:11:46.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto joined the game
+[06Sep2025 04:11:46.650] [Server thread/INFO] [Jade/]: Syncing config to Principyto (7a14056c-9336-376a-9ae7-7d820f8eb726)
+[06Sep2025 04:12:24.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Bunfy_edd to Principyto]
+[06Sep2025 04:15:52.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> mira martch
+[06Sep2025 04:15:57.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> a
+[06Sep2025 04:16:03.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> a
+[06Sep2025 04:16:15.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> ok prims
+[06Sep2025 04:16:16.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> pero si
+[06Sep2025 04:16:28.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> cuando estes hablando
+[06Sep2025 04:16:30.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd was slain by Cave Spider
+[06Sep2025 04:16:33.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Bunfy_edd to Principyto]
+[06Sep2025 04:16:36.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> cuando este durmiendo
+[06Sep2025 04:16:49.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Bunfy_edd to Principyto]
+[06Sep2025 04:17:25.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd was shot by Skeleton
+[06Sep2025 04:17:28.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> no
+[06Sep2025 04:17:31.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> ando ocupado
+[06Sep2025 04:17:33.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> dx
+[06Sep2025 04:17:51.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> ok
+[06Sep2025 04:19:57.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Bunfy_edd to Principyto]
+[06Sep2025 04:21:16.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> no desaparesen
+[06Sep2025 04:22:44.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd was shot by Skeleton
+[06Sep2025 04:22:50.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> boi
+[06Sep2025 04:23:05.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Bunfy_edd]
+[06Sep2025 04:23:09.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> yo te sigo
+[06Sep2025 04:23:14.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> ola
+[06Sep2025 04:24:12.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> aca
+[06Sep2025 04:24:43.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> aca
+[06Sep2025 04:24:53.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> toma
+[06Sep2025 04:25:04.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> eso de ai
+[06Sep2025 04:25:13.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> es un coso que esta conectado a mi
+[06Sep2025 04:25:15.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> entonces
+[06Sep2025 04:25:22.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> si pongo un punto de sangre
+[06Sep2025 04:25:25.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> eso lo resive
+[06Sep2025 04:25:35.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> y basicamente es sangre a distancia
+[06Sep2025 04:25:37.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> blutu
+[06Sep2025 04:26:25.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> si
+[06Sep2025 04:26:26.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> xd
+[06Sep2025 04:26:43.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> BOLA DE FUEGO
+[06Sep2025 04:26:55.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> xd
+[06Sep2025 04:27:29.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> weno
+[06Sep2025 04:27:32.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> a?
+[06Sep2025 04:27:34.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> ehhh
+[06Sep2025 04:27:36.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> ok
+[06Sep2025 04:27:46.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> XD
