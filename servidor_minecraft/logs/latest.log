@@ -340,3 +340,14 @@
 [06Sep2025 05:10:17.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Principyto]
 [06Sep2025 05:10:28.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bunfy_edd moved too quickly! 5078.975822687201,61.05292981705844,-598.162835552986
 [06Sep2025 05:10:28.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved too quickly! -4.152900162615197,0.34034539789922746,-9.449060618965575
+[06Sep2025 05:21:00.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Creative Mode]
+[06Sep2025 05:21:10.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
+[06Sep2025 05:24:08.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bunfy_edd moved too quickly! -4.415459899112989,3.0,-8.575231343240148
+[06Sep2025 05:24:08.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5872ms or 117 ticks behind
+[06Sep2025 05:24:36.916] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Mr. Diliviel'/217886, l='ServerLevel[world]', x=-109.35, y=44.00, z=-20.66] died: Mr. Diliviel was slain by Melosito_Neo
+[06Sep2025 05:25:21.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Applied enchantment Fortune V to Melosito_Neo's item]
+[06Sep2025 05:25:47.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto was burnt to a crisp whilst fighting Bunfy_edd
+[06Sep2025 05:25:50.793] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[06Sep2025 05:25:50.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! 3.4406766768552473,-5.987623188792497,-8.004918286088298
+[06Sep2025 05:28:28.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bunfy_edd moved wrongly!
+[06Sep2025 05:28:43.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bunfy_edd moved wrongly!
