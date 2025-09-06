@@ -11019,9 +11019,27 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/storage_magnet_upgrade_from_backpack_magnet_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-09-06 11:43:57 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_pump_upgrade": {
+    "criteria": {
+      "has_pump_upgrade": "2025-09-06 11:41:10 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/yellow_dye_from_goldenrod": {
     "criteria": {
       "has_goldenrod": "2025-09-06 11:12:40 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
+    "criteria": {
+      "has_magnet_upgrade": "2025-09-06 11:43:57 +0000"
     },
     "done": true
   },
