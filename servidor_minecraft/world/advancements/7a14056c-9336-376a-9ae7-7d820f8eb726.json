@@ -11191,6 +11191,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/gravitite_chestplate_repairing": {
+    "criteria": {
+      "has_gravitite_chestplate": "2025-09-06 23:03:50 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/leather_boots_repairing": {
     "criteria": {
       "has_leather_boots": "2025-09-06 22:05:07 +0000"
@@ -11202,6 +11208,12 @@
       "all_effects": "2025-09-06 21:35:02 +0000"
     },
     "done": true
+  },
+  "aether:gravitite_armor": {
+    "criteria": {
+      "gravitite_chestplate": "2025-09-06 23:03:50 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

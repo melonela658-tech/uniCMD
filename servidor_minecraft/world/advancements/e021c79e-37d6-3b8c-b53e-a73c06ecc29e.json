@@ -3122,6 +3122,7 @@
       "field": "2025-09-02 23:07:51 +0000",
       "coniferous_forest": "2025-09-04 10:00:49 +0000",
       "redwood_forest": "2025-09-04 00:16:27 +0000",
+      "visceral_heap": "2025-09-06 23:08:21 +0000",
       "seasonal_forest": "2025-09-04 10:00:50 +0000",
       "fir_clearing": "2025-09-03 00:29:21 +0000",
       "pumpkin_patch": "2025-09-02 19:48:51 +0000",
@@ -15345,6 +15346,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-09-06 23:02:31 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/cobalt_ingot_smelting": {
+    "criteria": {
+      "has_item": "2025-09-06 22:56:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2025-09-06 22:18:56 +0000"
@@ -15393,6 +15406,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-09-06 23:02:31 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/common/glass/vanilla/beacon": {
     "criteria": {
       "has_nether_star": "2025-09-06 22:19:31 +0000"
@@ -15402,6 +15421,18 @@
   "mekanism:chemical_transport": {
     "criteria": {
       "basic_pressurized_tube": "2025-09-06 21:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-09-06 23:02:31 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/raw_cobalt_block_from_raws": {
+    "criteria": {
+      "has_item": "2025-09-06 22:56:39 +0000"
     },
     "done": true
   },
