@@ -153,3 +153,6 @@
 [06Sep2025 01:27:36.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [What a Deal!]
 [06Sep2025 01:28:35.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bunfy_edd has made the advancement [Hidden in the Depths]
 [06Sep2025 01:33:38.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wathsuyo has made the advancement [First Step of Stir-Frying]
+[06Sep2025 01:39:26.195] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/98714, l='ServerLevel[world]', x=-648.61, y=57.28, z=187.36] died: Honeyed Archer suffocated in a wall
+[06Sep2025 01:52:23.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Creative Mode]
+[06Sep2025 01:52:35.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]

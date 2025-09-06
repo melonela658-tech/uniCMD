@@ -3324,6 +3324,12 @@
     },
     "done": true
   },
+  "kaleidoscope_cookery:pot": {
+    "criteria": {
+      "place_pot_on_heat_source": "2025-09-06 01:33:38 +0000"
+    },
+    "done": true
+  },
   "kaleidoscope_cookery:recipes/decorations/chair_cherry": {
     "criteria": {
       "has_fence": "2025-09-05 23:28:28 +0000"
