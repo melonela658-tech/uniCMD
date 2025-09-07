@@ -245,3 +245,5 @@
 [07Sep2025 06:43:02.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has reached the goal [Trapped Inside]
 [07Sep2025 06:43:24.182] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/1037365, l='ServerLevel[world]', x=-710.45, y=65.25, z=117.65] died: Honeyed Archer suffocated in a wall
 [07Sep2025 06:43:45.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! 2674.0335152629295,-64.5,1615.3177736093826
+[07Sep2025 08:50:11.328] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[07Sep2025 08:50:11.329] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
