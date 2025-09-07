@@ -27,3 +27,11 @@
 [07Sep2025 01:40:04.834] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/366185, l='ServerLevel[world]', x=-803.55, y=80.25, z=215.35] died: Honeyed Archer suffocated in a wall
 [07Sep2025 01:49:38.854] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4426ms or 88 ticks behind
 [07Sep2025 01:56:38.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has completed the challenge [Factory-Ready]
+[07Sep2025 02:09:55.581] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[07Sep2025 02:09:55.582] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[07Sep2025 02:20:38.688] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/410457, l='ServerLevel[world]', x=-855.79, y=83.30, z=148.05] died: Honeyed Archer suffocated in a wall
+[07Sep2025 02:24:33.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2423ms or 48 ticks behind
+[07Sep2025 02:25:15.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto was slain by Mob Masher
+[07Sep2025 02:25:22.042] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2165ms or 43 ticks behind
+[07Sep2025 02:25:29.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Principyto to Melosito_Neo]
+[07Sep2025 02:33:04.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved wrongly!
