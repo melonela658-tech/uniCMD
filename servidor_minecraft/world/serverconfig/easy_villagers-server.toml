@@ -7,13 +7,13 @@
 [auto_trader]
 	#The maximum amount of time in ticks the auto trader takes to restock
 	#Range: > 2
-	max_restock_time = 10
+	max_restock_time = 20
 	#The cooldown in ticks for the auto trader to do a trade
 	#Range: > 1
-	trade_cooldown = 1
+	trade_cooldown = 4
 	#The minimum amount of time in ticks the auto trader takes to restock
 	#Range: > 1
-	min_restock_time = 1200
+	min_restock_time = 20
 
 [converter]
 	#The time in ticks the converter takes to convert a villager

@@ -15472,6 +15472,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-07 00:26:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-09-06 23:02:31 +0000"
