@@ -16002,15 +16002,39 @@
     },
     "done": true
   },
+  "mekanism:chemical_crystallizer": {
+    "criteria": {
+      "chemical_crystallizer": "2025-09-07 05:47:39 +0000"
+    },
+    "done": false
+  },
   "jetboots:recipes/misc/shock_absorber_upgrade": {
     "criteria": {
       "has_rocketboots": "2025-09-07 04:38:14 +0000"
     },
     "done": true
   },
+  "expatternprovider:recipes/misc/epp_alt": {
+    "criteria": {
+      "has_item": "2025-09-07 05:53:26 +0000"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/epp": {
+    "criteria": {
+      "has_item": "2025-09-07 05:53:26 +0000"
+    },
+    "done": true
+  },
   "jetboots:recipes/misc/thruster_upgrade_smithing": {
     "criteria": {
       "has_jetboots": "2025-09-07 04:38:16 +0000"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/ex_charger": {
+    "criteria": {
+      "has_item": "2025-09-07 05:59:30 +0000"
     },
     "done": true
   },
