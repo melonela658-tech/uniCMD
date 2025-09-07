@@ -240,3 +240,8 @@
 [07Sep2025 06:12:32.119] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2341ms or 46 ticks behind
 [07Sep2025 06:16:37.229] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [07Sep2025 06:16:37.229] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[07Sep2025 06:41:16.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! 203.77137607587122,-1.5,-543.0180014632169
+[07Sep2025 06:41:47.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! 2673.0,-64.5,1618.0
+[07Sep2025 06:43:02.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has reached the goal [Trapped Inside]
+[07Sep2025 06:43:24.182] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/1037365, l='ServerLevel[world]', x=-710.45, y=65.25, z=117.65] died: Honeyed Archer suffocated in a wall
+[07Sep2025 06:43:45.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! 2674.0335152629295,-64.5,1615.3177736093826

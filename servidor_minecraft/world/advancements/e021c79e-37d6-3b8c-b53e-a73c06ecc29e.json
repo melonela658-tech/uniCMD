@@ -16002,6 +16002,12 @@
     },
     "done": true
   },
+  "mekanism:digital_miner": {
+    "criteria": {
+      "digital_miner": "2025-09-07 06:43:02 +0000"
+    },
+    "done": true
+  },
   "mekanism:chemical_crystallizer": {
     "criteria": {
       "chemical_crystallizer": "2025-09-07 05:47:39 +0000"
