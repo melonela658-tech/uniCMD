@@ -236,3 +236,7 @@
 [07Sep2025 05:52:18.283] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/974755, l='ServerLevel[world]', x=-686.49, y=62.34, z=194.57] died: Honeyed Archer suffocated in a wall
 [07Sep2025 05:54:42.786] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/984764, l='ServerLevel[world]', x=-798.08, y=73.00, z=748.70] died, message: 'Farmer was slain by Zombie'
 [07Sep2025 06:07:58.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! -200.490894792797,0.5,544.2824968763796
+[07Sep2025 06:10:47.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! 205.4541555517011,-1.5,-542.5037453015947
+[07Sep2025 06:12:32.119] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2341ms or 46 ticks behind
+[07Sep2025 06:16:37.229] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[07Sep2025 06:16:37.229] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
