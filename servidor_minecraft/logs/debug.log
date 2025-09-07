@@ -21740,3 +21740,759 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [07Sep2025 02:30:47.344] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Sep2025 02:30:47.366] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [07Sep2025 02:33:04.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved wrongly!
+[07Sep2025 02:34:46.012] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2f9893f2: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[07Sep2025 02:34:46.996] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2f9893f2: RandomSpreadSearchWorker succeeded with 3140 radius, 11 samples
+[07Sep2025 02:35:47.494] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Sep2025 02:35:47.525] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Sep2025 02:36:48.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Principyto> t
+[07Sep2025 02:37:00.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Principyto to Melosito_Neo]
+[07Sep2025 02:40:47.553] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Sep2025 02:40:47.648] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Sep2025 02:41:20.105] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1280, y=-28, z=-2240}
+[07Sep2025 02:41:20.629] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1280, y=-28, z=-2240}
+[07Sep2025 02:41:21.359] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1280, y=-28, z=-2240}
+[07Sep2025 02:41:21.573] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1238, y=-28, z=-2191}
+[07Sep2025 02:41:25.382] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1280, y=-28, z=-2240}
+[07Sep2025 02:41:25.422] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1280, y=-28, z=-2240}
+[07Sep2025 02:41:25.833] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1280, y=-28, z=-2240}
+[07Sep2025 02:41:28.291] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1317, y=-28, z=-2219}
+[07Sep2025 02:41:28.292] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1318, y=-28, z=-2229}
+[07Sep2025 02:41:28.294] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1311, y=-14, z=-2231}
+[07Sep2025 02:41:28.294] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1318, y=-14, z=-2213}
+[07Sep2025 02:41:28.294] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1316, y=-14, z=-2224}
+[07Sep2025 02:41:28.798] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1318, y=-28, z=-2229}
+[07Sep2025 02:41:29.163] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1294, y=-28, z=-2220}
+[07Sep2025 02:41:29.164] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1311, y=-28, z=-2219}
+[07Sep2025 02:41:29.164] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1311, y=-14, z=-2231}
+[07Sep2025 02:41:29.164] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1318, y=-14, z=-2213}
+[07Sep2025 02:41:29.164] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1310, y=-14, z=-2214}
+[07Sep2025 02:41:29.526] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1280, y=-28, z=-2240}
+[07Sep2025 02:41:29.537] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1293, y=-30, z=-2218}
+[07Sep2025 02:41:29.539] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1294, y=-28, z=-2220}
+[07Sep2025 02:41:29.633] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1280, y=-28, z=-2240}
+[07Sep2025 02:41:30.558] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1302, y=-28, z=-2225}
+[07Sep2025 02:41:30.559] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1326, y=-21, z=-2232}
+[07Sep2025 02:41:30.560] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1311, y=-14, z=-2231}
+[07Sep2025 02:41:30.941] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1317, y=-28, z=-2219}
+[07Sep2025 02:41:30.942] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1318, y=-28, z=-2229}
+[07Sep2025 02:41:30.943] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1327, y=-21, z=-2244}
+[07Sep2025 02:41:30.944] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1326, y=-21, z=-2232}
+[07Sep2025 02:41:30.946] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1311, y=-14, z=-2231}
+[07Sep2025 02:41:31.099] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1318, y=-28, z=-2229}
+[07Sep2025 02:41:31.101] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1327, y=-21, z=-2244}
+[07Sep2025 02:41:31.101] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1336, y=-21, z=-2243}
+[07Sep2025 02:41:31.625] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1280, y=-28, z=-2240}
+[07Sep2025 02:41:31.628] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1293, y=-30, z=-2218}
+[07Sep2025 02:41:31.958] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1280, y=-28, z=-2240}
+[07Sep2025 02:41:33.806] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1334, y=-21, z=-2255}
+[07Sep2025 02:41:34.688] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1327, y=-21, z=-2244}
+[07Sep2025 02:41:34.689] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1336, y=-21, z=-2243}
+[07Sep2025 02:41:34.689] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1329, y=-21, z=-2262}
+[07Sep2025 02:41:34.690] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1334, y=-21, z=-2255}
+[07Sep2025 02:41:34.691] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1328, y=-21, z=-2245}
+[07Sep2025 02:41:34.778] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1327, y=-21, z=-2244}
+[07Sep2025 02:41:34.779] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1326, y=-21, z=-2232}
+[07Sep2025 02:41:35.103] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1326, y=-21, z=-2232}
+[07Sep2025 02:41:36.832] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1329, y=-21, z=-2262}
+[07Sep2025 02:41:36.833] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1327, y=-21, z=-2277}
+[07Sep2025 02:41:36.833] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1336, y=-21, z=-2275}
+[07Sep2025 02:41:37.186] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1327, y=-21, z=-2277}
+[07Sep2025 02:41:37.187] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1326, y=-21, z=-2265}
+[07Sep2025 02:41:37.270] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1269, y=-28, z=-2275}
+[07Sep2025 02:41:37.703] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1327, y=-21, z=-2277}
+[07Sep2025 02:41:37.703] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1326, y=-21, z=-2278}
+[07Sep2025 02:41:37.703] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1336, y=-21, z=-2275}
+[07Sep2025 02:41:38.548] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1327, y=-21, z=-2277}
+[07Sep2025 02:41:38.549] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1326, y=-21, z=-2265}
+[07Sep2025 02:41:38.549] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1326, y=-21, z=-2278}
+[07Sep2025 02:41:39.466] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1269, y=-28, z=-2275}
+[07Sep2025 02:41:39.607] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1256, y=-28, z=-2261}
+[07Sep2025 02:41:44.292] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1256, y=-28, z=-2261}
+[07Sep2025 02:41:44.293] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1264, y=-28, z=-2279}
+[07Sep2025 02:41:44.293] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1269, y=-28, z=-2275}
+[07Sep2025 02:41:44.627] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1264, y=-28, z=-2279}
+[07Sep2025 02:41:44.627] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1264, y=-28, z=-2297}
+[07Sep2025 02:41:44.628] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1269, y=-28, z=-2275}
+[07Sep2025 02:41:44.629] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1269, y=-28, z=-2302}
+[07Sep2025 02:41:44.850] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1264, y=-28, z=-2297}
+[07Sep2025 02:41:44.850] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1269, y=-28, z=-2302}
+[07Sep2025 02:41:48.315] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1280, y=-28, z=-2240}
+[07Sep2025 02:41:48.323] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1251, y=-28, z=-2212}
+[07Sep2025 02:41:48.426] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1280, y=-28, z=-2240}
+[07Sep2025 02:41:48.436] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1251, y=-28, z=-2212}
+[07Sep2025 02:41:48.436] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1239, y=-15, z=-2238}
+[07Sep2025 02:41:48.484] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1256, y=-28, z=-2261}
+[07Sep2025 02:41:48.486] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1238, y=-28, z=-2249}
+[07Sep2025 02:41:48.486] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1245, y=-28, z=-2254}
+[07Sep2025 02:41:48.486] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1255, y=-28, z=-2248}
+[07Sep2025 02:41:48.816] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1256, y=-28, z=-2261}
+[07Sep2025 02:41:48.817] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1245, y=-28, z=-2254}
+[07Sep2025 02:41:48.818] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1263, y=-30, z=-2264}
+[07Sep2025 02:41:48.820] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1243, y=-28, z=-2260}
+[07Sep2025 02:41:48.820] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1249, y=-15, z=-2270}
+[07Sep2025 02:41:48.983] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1263, y=-30, z=-2264}
+[07Sep2025 02:41:48.985] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1254, y=-15, z=-2281}
+[07Sep2025 02:41:48.985] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1261, y=-15, z=-2276}
+[07Sep2025 02:41:48.986] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1262, y=-15, z=-2291}
+[07Sep2025 02:41:49.387] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1263, y=-30, z=-2264}
+[07Sep2025 02:41:49.388] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1261, y=-15, z=-2276}
+[07Sep2025 02:41:49.389] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1262, y=-15, z=-2291}
+[07Sep2025 02:41:49.389] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1262, y=-15, z=-2302}
+[07Sep2025 02:41:52.696] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1243, y=-28, z=-2194}
+[07Sep2025 02:41:52.697] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1244, y=-28, z=-2204}
+[07Sep2025 02:41:52.697] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1238, y=-28, z=-2191}
+[07Sep2025 02:41:52.789] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1251, y=-28, z=-2212}
+[07Sep2025 02:41:52.790] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1243, y=-28, z=-2194}
+[07Sep2025 02:41:52.805] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1251, y=-28, z=-2212}
+[07Sep2025 02:41:52.805] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1239, y=-15, z=-2238}
+[07Sep2025 02:41:52.806] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1238, y=-15, z=-2246}
+[07Sep2025 02:41:53.145] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1238, y=-15, z=-2246}
+[07Sep2025 02:41:53.145] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1238, y=-28, z=-2249}
+[07Sep2025 02:41:53.146] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1245, y=-28, z=-2254}
+[07Sep2025 02:41:53.146] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1255, y=-28, z=-2248}
+[07Sep2025 02:41:53.146] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1232, y=-28, z=-2254}
+[07Sep2025 02:41:53.146] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1231, y=-15, z=-2264}
+[07Sep2025 02:41:53.651] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1245, y=-28, z=-2254}
+[07Sep2025 02:41:53.651] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1263, y=-30, z=-2264}
+[07Sep2025 02:41:53.653] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1231, y=-15, z=-2264}
+[07Sep2025 02:41:53.653] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1243, y=-28, z=-2260}
+[07Sep2025 02:41:53.653] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1231, y=-15, z=-2282}
+[07Sep2025 02:41:53.654] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1247, y=-15, z=-2276}
+[07Sep2025 02:41:53.654] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1249, y=-15, z=-2270}
+[07Sep2025 02:41:53.663] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1263, y=-30, z=-2264}
+[07Sep2025 02:41:53.664] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1231, y=-15, z=-2282}
+[07Sep2025 02:41:53.665] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1254, y=-15, z=-2281}
+[07Sep2025 02:41:53.665] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1237, y=-15, z=-2282}
+[07Sep2025 02:41:53.666] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1247, y=-15, z=-2276}
+[07Sep2025 02:41:57.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto moved wrongly!
+[07Sep2025 02:41:57.816] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1263, y=-30, z=-2264}
+[07Sep2025 02:41:57.818] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1237, y=-15, z=-2282}
+[07Sep2025 02:41:59.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved wrongly!
+[07Sep2025 02:42:02.266] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1230, y=-15, z=-2247}
+[07Sep2025 02:42:02.267] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1226, y=-15, z=-2282}
+[07Sep2025 02:42:02.268] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1225, y=-15, z=-2254}
+[07Sep2025 02:42:02.268] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1231, y=-15, z=-2264}
+[07Sep2025 02:42:02.269] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1231, y=-28, z=-2239}
+[07Sep2025 02:42:02.270] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1225, y=-15, z=-2271}
+[07Sep2025 02:42:02.270] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1231, y=-15, z=-2282}
+[07Sep2025 02:42:02.739] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1226, y=-15, z=-2282}
+[07Sep2025 02:42:02.740] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1225, y=-15, z=-2271}
+[07Sep2025 02:42:02.741] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1231, y=-15, z=-2282}
+[07Sep2025 02:42:07.555] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[07Sep2025 02:42:08.314] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1238, y=-15, z=-2246}
+[07Sep2025 02:42:08.315] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1231, y=-28, z=-2239}
+[07Sep2025 02:42:08.324] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1238, y=-15, z=-2246}
+[07Sep2025 02:42:08.324] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1230, y=-15, z=-2247}
+[07Sep2025 02:42:08.324] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1225, y=-15, z=-2254}
+[07Sep2025 02:42:08.325] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1231, y=-15, z=-2264}
+[07Sep2025 02:42:08.325] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1231, y=-28, z=-2239}
+[07Sep2025 02:42:08.418] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1238, y=-28, z=-2191}
+[07Sep2025 02:42:08.426] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1238, y=-28, z=-2191}
+[07Sep2025 02:42:12.990] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1225, y=-15, z=-2271}
+[07Sep2025 02:42:13.326] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1225, y=-15, z=-2271}
+[07Sep2025 02:42:20.501] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[07Sep2025 02:42:22.681] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (948 | 35 | -2556).
+[07Sep2025 02:42:22.681] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[07Sep2025 02:42:22.682] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 3(0) Rooms
+[07Sep2025 02:42:22.682] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[07Sep2025 02:42:22.682] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 7(0) Nodes and 6(0) Rooms
+[07Sep2025 02:42:22.682] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[07Sep2025 02:42:22.682] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 9(2) Nodes and 6(0) Rooms
+[07Sep2025 02:42:22.682] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[07Sep2025 02:42:22.682] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 7(5) Nodes and 5(0) Rooms
+[07Sep2025 02:42:22.682] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[07Sep2025 02:42:22.682] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 7(3) Nodes and 4(0) Rooms
+[07Sep2025 02:42:29.357] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[07Sep2025 02:42:39.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Eye Spy]
+[07Sep2025 02:42:51.812] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation NONE at (1088 | -1 | -2479)
+[07Sep2025 02:42:51.980] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation NONE at (1088 | -1 | -2479)
+[07Sep2025 02:42:53.250] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation NONE at (1088 | -1 | -2479)
+[07Sep2025 02:42:53.250] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation NONE at (1088 | -1 | -2479)
+[07Sep2025 02:42:54.238] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (1088 | 26 | -2482)
+[07Sep2025 02:42:54.238] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (1088 | 26 | -2482)
+[07Sep2025 02:42:54.239] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation NONE at (1090 | 26 | -2486)
+[07Sep2025 02:42:54.239] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation NONE at (1090 | 26 | -2486)
+[07Sep2025 02:42:54.239] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1083 | 8 | -2475)
+[07Sep2025 02:42:54.240] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1083 | 8 | -2475)
+[07Sep2025 02:42:54.249] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (1083 | 8 | -2475)
+[07Sep2025 02:42:54.249] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (1083 | 8 | -2475)
+[07Sep2025 02:42:54.250] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1092 | 8 | -2484)
+[07Sep2025 02:42:54.251] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1092 | 8 | -2484)
+[07Sep2025 02:42:54.254] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (1092 | 8 | -2484)
+[07Sep2025 02:42:54.255] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (1092 | 8 | -2484)
+[07Sep2025 02:42:54.255] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation COUNTERCLOCKWISE_90 at (1093 | 8 | -2475)
+[07Sep2025 02:42:54.255] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation COUNTERCLOCKWISE_90 at (1093 | 8 | -2475)
+[07Sep2025 02:42:54.255] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (1093 | 8 | -2475)
+[07Sep2025 02:42:54.255] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (1093 | 8 | -2475)
+[07Sep2025 02:42:54.255] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (1093 | 8 | -2466)
+[07Sep2025 02:42:54.255] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (1093 | 8 | -2466)
+[07Sep2025 02:42:54.255] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/corridor at (1093 | 8 | -2466)
+[07Sep2025 02:42:54.255] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/corridor at (1093 | 8 | -2466)
+[07Sep2025 02:42:54.255] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation NONE at (1094 | 6 | -2473)
+[07Sep2025 02:42:54.255] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation NONE at (1094 | 6 | -2473)
+[07Sep2025 02:42:54.255] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation NONE at (1088 | -1 | -2479)
+[07Sep2025 02:42:54.259] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation NONE at (1088 | -1 | -2479)
+[07Sep2025 02:42:54.376] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation NONE at (1083 | 8 | -2456)
+[07Sep2025 02:42:54.376] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation NONE at (1083 | 8 | -2456)
+[07Sep2025 02:42:54.376] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (1083 | 8 | -2456)
+[07Sep2025 02:42:54.376] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (1083 | 8 | -2456)
+[07Sep2025 02:42:54.376] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest with rotation COUNTERCLOCKWISE_90 at (1093 | 8 | -2463)
+[07Sep2025 02:42:54.376] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest with rotation COUNTERCLOCKWISE_90 at (1093 | 8 | -2463)
+[07Sep2025 02:42:54.376] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/chest at (1093 | 8 | -2463)
+[07Sep2025 02:42:54.377] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/chest at (1093 | 8 | -2463)
+[07Sep2025 02:42:54.377] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_90 at (1098 | 8 | -2463)
+[07Sep2025 02:42:54.377] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_90 at (1098 | 8 | -2463)
+[07Sep2025 02:42:54.377] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/default at (1098 | 8 | -2463)
+[07Sep2025 02:42:54.377] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/default at (1098 | 8 | -2463)
+[07Sep2025 02:42:54.377] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (1093 | 8 | -2466)
+[07Sep2025 02:42:54.377] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (1093 | 8 | -2466)
+[07Sep2025 02:42:54.377] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/corridor at (1093 | 8 | -2466)
+[07Sep2025 02:42:54.377] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/corridor at (1093 | 8 | -2466)
+[07Sep2025 02:42:54.377] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_top with rotation NONE at (1092 | 8 | -2457)
+[07Sep2025 02:42:54.378] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_top with rotation NONE at (1092 | 8 | -2457)
+[07Sep2025 02:42:54.378] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/stairs_top at (1092 | 8 | -2457)
+[07Sep2025 02:42:54.378] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/stairs_top at (1092 | 8 | -2457)
+[07Sep2025 02:42:54.378] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (1093 | -1 | -2462)
+[07Sep2025 02:42:54.378] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (1093 | -1 | -2462)
+[07Sep2025 02:42:54.378] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation NONE at (1088 | -1 | -2479)
+[07Sep2025 02:42:54.379] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation NONE at (1088 | -1 | -2479)
+[07Sep2025 02:42:54.379] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (1092 | -1 | -2457)
+[07Sep2025 02:42:54.379] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (1092 | -1 | -2457)
+[07Sep2025 02:42:54.726] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_90 at (1098 | -1 | -2445)
+[07Sep2025 02:42:54.727] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_90 at (1098 | -1 | -2445)
+[07Sep2025 02:42:54.727] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation COUNTERCLOCKWISE_90 at (1093 | -1 | -2445)
+[07Sep2025 02:42:54.727] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation COUNTERCLOCKWISE_90 at (1093 | -1 | -2445)
+[07Sep2025 02:42:54.727] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (1093 | -1 | -2448)
+[07Sep2025 02:42:54.728] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (1093 | -1 | -2448)
+[07Sep2025 02:42:54.728] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_90 at (1098 | -1 | -2436)
+[07Sep2025 02:42:54.728] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_90 at (1098 | -1 | -2436)
+[07Sep2025 02:42:54.728] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (1093 | -1 | -2436)
+[07Sep2025 02:42:54.728] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (1093 | -1 | -2436)
+[07Sep2025 02:42:54.728] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (1093 | -1 | -2439)
+[07Sep2025 02:42:54.728] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (1093 | -1 | -2439)
+[07Sep2025 02:42:54.769] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_180 at (1087 | -1 | -2429)
+[07Sep2025 02:42:54.769] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_180 at (1087 | -1 | -2429)
+[07Sep2025 02:42:54.769] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (1093 | -1 | -2439)
+[07Sep2025 02:42:54.769] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (1093 | -1 | -2439)
+[07Sep2025 02:42:54.770] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/room/empty_room with rotation NONE at (1092 | -1 | -2430)
+[07Sep2025 02:42:54.770] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/room/empty_room with rotation NONE at (1092 | -1 | -2430)
+[07Sep2025 02:42:54.770] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (1093 | -1 | -2421)
+[07Sep2025 02:42:54.770] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (1093 | -1 | -2421)
+[07Sep2025 02:42:54.823] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (1093 | -1 | -2421)
+[07Sep2025 02:42:54.824] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (1093 | -1 | -2421)
+[07Sep2025 02:42:54.824] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1092 | -1 | -2412)
+[07Sep2025 02:42:54.824] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1092 | -1 | -2412)
+[07Sep2025 02:42:59.414] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (1088 | 26 | -2482)
+[07Sep2025 02:42:59.414] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (1088 | 26 | -2482)
+[07Sep2025 02:42:59.414] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation NONE at (1090 | 26 | -2486)
+[07Sep2025 02:42:59.415] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation NONE at (1090 | 26 | -2486)
+[07Sep2025 02:42:59.415] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation NONE at (1080 | 17 | -2505)
+[07Sep2025 02:42:59.415] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation NONE at (1080 | 17 | -2505)
+[07Sep2025 02:42:59.415] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation COUNTERCLOCKWISE_90 at (1094 | 8 | -2498)
+[07Sep2025 02:42:59.415] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation COUNTERCLOCKWISE_90 at (1094 | 8 | -2498)
+[07Sep2025 02:42:59.415] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (1094 | 8 | -2498)
+[07Sep2025 02:42:59.415] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (1094 | 8 | -2498)
+[07Sep2025 02:42:59.416] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation COUNTERCLOCKWISE_90 at (1093 | 8 | -2493)
+[07Sep2025 02:42:59.416] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation COUNTERCLOCKWISE_90 at (1093 | 8 | -2493)
+[07Sep2025 02:42:59.416] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (1093 | 8 | -2493)
+[07Sep2025 02:42:59.416] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (1093 | 8 | -2493)
+[07Sep2025 02:42:59.416] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1092 | 8 | -2484)
+[07Sep2025 02:42:59.416] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1092 | 8 | -2484)
+[07Sep2025 02:42:59.416] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (1092 | 8 | -2484)
+[07Sep2025 02:42:59.417] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (1092 | 8 | -2484)
+[07Sep2025 02:43:02.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Principyto to Melosito_Neo]
+[07Sep2025 02:43:02.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [Eye Spy]
+[07Sep2025 02:43:19.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Dungeon Delving]
+[07Sep2025 02:43:29.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Principyto to Melosito_Neo]
+[07Sep2025 02:43:39.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [Dungeon Delving]
+[07Sep2025 02:44:31.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Principyto to Melosito_Neo]
+[07Sep2025 02:45:45.388] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:45:45.388] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:45:45.639] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:45:45.639] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:45:45.888] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:45:45.888] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:45:46.139] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:45:46.140] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:45:46.386] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:45:46.386] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:45:46.637] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:45:46.637] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:45:46.889] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:45:46.889] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:45:47.137] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:45:47.137] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:45:47.358] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Sep2025 02:45:47.379] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Sep2025 02:45:47.461] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:45:47.461] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:45:47.644] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:45:47.644] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:45:47.890] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:45:47.890] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:45:48.144] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:45:48.144] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:45:48.394] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:45:48.395] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:45:48.640] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:45:48.640] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:45:48.891] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:45:48.891] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:45:49.141] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:45:49.141] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:45:49.389] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:45:49.389] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:45:49.637] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:45:49.637] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:45:49.889] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:45:49.889] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:45:50.138] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:45:50.138] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:45:50.389] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:45:50.389] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:46:37.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has completed the challenge [Necronomicon]
+[07Sep2025 02:47:11.391] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:47:11.391] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:47:11.645] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:47:11.645] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:47:11.895] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:47:11.895] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:47:12.140] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:47:12.140] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:47:12.394] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:47:12.394] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:47:12.643] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:47:12.644] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:47:12.890] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:47:12.890] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Sep2025 02:47:40.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has completed the challenge [Necronomicon]
+[07Sep2025 02:48:38.001] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2f9893f2: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[07Sep2025 02:48:38.043] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2f9893f2: RandomSpreadSearchWorker succeeded with 107 radius, 4 samples
+[07Sep2025 02:48:42.241] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation CLOCKWISE_90 at (1076 | 22 | -2428)
+[07Sep2025 02:48:42.241] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation CLOCKWISE_90 at (1076 | 22 | -2428)
+[07Sep2025 02:48:42.241] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (1082 | 17 | -2433)
+[07Sep2025 02:48:42.242] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (1082 | 17 | -2433)
+[07Sep2025 02:48:42.242] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (1070 | 17 | -2433)
+[07Sep2025 02:48:42.242] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (1070 | 17 | -2433)
+[07Sep2025 02:48:42.242] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (1082 | 17 | -2429)
+[07Sep2025 02:48:42.242] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (1082 | 17 | -2429)
+[07Sep2025 02:48:42.243] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/large_wall with rotation CLOCKWISE_90 at (1076 | 17 | -2422)
+[07Sep2025 02:48:42.243] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/large_wall with rotation CLOCKWISE_90 at (1076 | 17 | -2422)
+[07Sep2025 02:48:42.243] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (1071 | 17 | -2429)
+[07Sep2025 02:48:42.243] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (1071 | 17 | -2429)
+[07Sep2025 02:48:42.243] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (1070 | 17 | -2434)
+[07Sep2025 02:48:42.244] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (1070 | 17 | -2434)
+[07Sep2025 02:48:42.244] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_180 at (1087 | -1 | -2429)
+[07Sep2025 02:48:42.244] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_180 at (1087 | -1 | -2429)
+[07Sep2025 02:48:42.244] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (1070 | -2 | -2434)
+[07Sep2025 02:48:42.245] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (1070 | -2 | -2434)
+[07Sep2025 02:48:42.287] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (1070 | 17 | -2433)
+[07Sep2025 02:48:42.287] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (1070 | 17 | -2433)
+[07Sep2025 02:48:42.287] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (1071 | 17 | -2429)
+[07Sep2025 02:48:42.287] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (1071 | 17 | -2429)
+[07Sep2025 02:48:42.287] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (1070 | 17 | -2434)
+[07Sep2025 02:48:42.287] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (1070 | 17 | -2434)
+[07Sep2025 02:48:42.287] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_90 at (1043 | 7 | -2434)
+[07Sep2025 02:48:42.288] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_90 at (1043 | 7 | -2434)
+[07Sep2025 02:48:42.288] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (1043 | 7 | -2434)
+[07Sep2025 02:48:42.288] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (1043 | 7 | -2434)
+[07Sep2025 02:48:42.288] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/room/empty_room with rotation NONE at (1056 | -1 | -2430)
+[07Sep2025 02:48:42.289] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/room/empty_room with rotation NONE at (1056 | -1 | -2430)
+[07Sep2025 02:48:42.289] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (1065 | -1 | -2429)
+[07Sep2025 02:48:42.290] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (1065 | -1 | -2429)
+[07Sep2025 02:48:42.290] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (1070 | -2 | -2434)
+[07Sep2025 02:48:42.290] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (1070 | -2 | -2434)
+[07Sep2025 02:50:34.986] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2f9893f2: ConcentricRingsSearchWorker starting with 100000 max samples
+[07Sep2025 02:50:36.917] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2f9893f2: ConcentricRingsSearchWorker failed with 128 samples
+[07Sep2025 02:50:44.703] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2f9893f2: ConcentricRingsSearchWorker starting with 100000 max samples
+[07Sep2025 02:50:44.748] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2f9893f2: ConcentricRingsSearchWorker failed with 128 samples
+[07Sep2025 02:50:47.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Sep2025 02:50:47.386] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Sep2025 02:50:55.001] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2f9893f2: ConcentricRingsSearchWorker starting with 100000 max samples
+[07Sep2025 02:50:55.056] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2f9893f2: ConcentricRingsSearchWorker failed with 128 samples
+[07Sep2025 02:51:08.365] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_90 at (1025 | 16 | -2434)
+[07Sep2025 02:51:08.366] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_90 at (1025 | 16 | -2434)
+[07Sep2025 02:51:08.366] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation CLOCKWISE_90 at (1049 | 14 | -2428)
+[07Sep2025 02:51:08.366] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation CLOCKWISE_90 at (1049 | 14 | -2428)
+[07Sep2025 02:51:08.366] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/flat at (1049 | 14 | -2428)
+[07Sep2025 02:51:08.366] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/flat at (1049 | 14 | -2428)
+[07Sep2025 02:51:08.366] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_90 at (1043 | 7 | -2434)
+[07Sep2025 02:51:08.367] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_90 at (1043 | 7 | -2434)
+[07Sep2025 02:51:08.367] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (1043 | 7 | -2434)
+[07Sep2025 02:51:08.369] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (1043 | 7 | -2434)
+[07Sep2025 02:51:08.369] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (1040 | 6 | -2428)
+[07Sep2025 02:51:08.369] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (1040 | 6 | -2428)
+[07Sep2025 02:51:08.369] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (1051 | -1 | -2429)
+[07Sep2025 02:51:08.369] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (1051 | -1 | -2429)
+[07Sep2025 02:51:08.369] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (1034 | -1 | -2434)
+[07Sep2025 02:51:08.370] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (1034 | -1 | -2434)
+[07Sep2025 02:51:14.452] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2f9893f2: ConcentricRingsSearchWorker starting with 100000 max samples
+[07Sep2025 02:51:14.509] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2f9893f2: ConcentricRingsSearchWorker failed with 128 samples
+[07Sep2025 02:52:20.809] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2f9893f2: ConcentricRingsSearchWorker starting with 100000 max samples
+[07Sep2025 02:52:20.857] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2f9893f2: ConcentricRingsSearchWorker failed with 128 samples
+[07Sep2025 02:53:07.655] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2f9893f2: ConcentricRingsSearchWorker starting with 100000 max samples
+[07Sep2025 02:53:07.702] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2f9893f2: ConcentricRingsSearchWorker failed with 128 samples
+[07Sep2025 02:53:17.825] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_90 at (1061 | 26 | -2452)
+[07Sep2025 02:53:17.826] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_90 at (1061 | 26 | -2452)
+[07Sep2025 02:53:17.826] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (1075 | 17 | -2448)
+[07Sep2025 02:53:17.827] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (1075 | 17 | -2448)
+[07Sep2025 02:53:17.827] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (1082 | 17 | -2433)
+[07Sep2025 02:53:17.828] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (1082 | 17 | -2433)
+[07Sep2025 02:53:17.828] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (1070 | 17 | -2433)
+[07Sep2025 02:53:17.828] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (1070 | 17 | -2433)
+[07Sep2025 02:53:17.828] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (1075 | 17 | -2439)
+[07Sep2025 02:53:17.829] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (1075 | 17 | -2439)
+[07Sep2025 02:53:17.829] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (1070 | 17 | -2434)
+[07Sep2025 02:53:17.829] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (1070 | 17 | -2434)
+[07Sep2025 02:53:17.829] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (1070 | -2 | -2434)
+[07Sep2025 02:53:17.830] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (1070 | -2 | -2434)
+[07Sep2025 02:53:17.886] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_90 at (1061 | 26 | -2452)
+[07Sep2025 02:53:17.887] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_90 at (1061 | 26 | -2452)
+[07Sep2025 02:53:17.887] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (1070 | 17 | -2433)
+[07Sep2025 02:53:17.888] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (1070 | 17 | -2433)
+[07Sep2025 02:53:17.888] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (1070 | 17 | -2434)
+[07Sep2025 02:53:17.888] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (1070 | 17 | -2434)
+[07Sep2025 02:53:17.888] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_90 at (1043 | 7 | -2434)
+[07Sep2025 02:53:17.888] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_90 at (1043 | 7 | -2434)
+[07Sep2025 02:53:17.888] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (1043 | 7 | -2434)
+[07Sep2025 02:53:17.888] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (1043 | 7 | -2434)
+[07Sep2025 02:53:17.889] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (1070 | -2 | -2434)
+[07Sep2025 02:53:17.889] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (1070 | -2 | -2434)
+[07Sep2025 02:53:19.329] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (1066 | 26 | -2466)
+[07Sep2025 02:53:19.329] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (1066 | 26 | -2466)
+[07Sep2025 02:53:19.329] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (1066 | 26 | -2457)
+[07Sep2025 02:53:19.329] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (1066 | 26 | -2457)
+[07Sep2025 02:53:19.329] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_90 at (1061 | 26 | -2452)
+[07Sep2025 02:53:19.330] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_90 at (1061 | 26 | -2452)
+[07Sep2025 02:53:19.330] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (1066 | 17 | -2466)
+[07Sep2025 02:53:19.330] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (1066 | 17 | -2466)
+[07Sep2025 02:53:19.330] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1065 | 17 | -2457)
+[07Sep2025 02:53:19.330] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1065 | 17 | -2457)
+[07Sep2025 02:53:19.330] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1074 | 17 | -2457)
+[07Sep2025 02:53:19.330] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1074 | 17 | -2457)
+[07Sep2025 02:53:19.330] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1065 | 8 | -2457)
+[07Sep2025 02:53:19.331] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1065 | 8 | -2457)
+[07Sep2025 02:53:19.331] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (1065 | 8 | -2457)
+[07Sep2025 02:53:19.331] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (1065 | 8 | -2457)
+[07Sep2025 02:53:19.331] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation NONE at (1077 | 8 | -2456)
+[07Sep2025 02:53:19.331] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation NONE at (1077 | 8 | -2456)
+[07Sep2025 02:53:19.331] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/bookshelf at (1077 | 8 | -2456)
+[07Sep2025 02:53:19.331] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/bookshelf at (1077 | 8 | -2456)
+[07Sep2025 02:53:19.331] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_180 at (1077 | 8 | -2451)
+[07Sep2025 02:53:19.332] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_180 at (1077 | 8 | -2451)
+[07Sep2025 02:53:19.332] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/spawner at (1077 | 8 | -2451)
+[07Sep2025 02:53:19.332] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/spawner at (1077 | 8 | -2451)
+[07Sep2025 02:53:19.332] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation NONE at (1074 | 8 | -2456)
+[07Sep2025 02:53:19.332] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation NONE at (1074 | 8 | -2456)
+[07Sep2025 02:53:19.332] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/corridor at (1074 | 8 | -2456)
+[07Sep2025 02:53:19.333] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/corridor at (1074 | 8 | -2456)
+[07Sep2025 02:53:19.333] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation NONE at (1083 | 8 | -2456)
+[07Sep2025 02:53:19.333] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation NONE at (1083 | 8 | -2456)
+[07Sep2025 02:53:19.333] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (1083 | 8 | -2456)
+[07Sep2025 02:53:19.333] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (1083 | 8 | -2456)
+[07Sep2025 02:53:19.368] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (1066 | 26 | -2466)
+[07Sep2025 02:53:19.368] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (1066 | 26 | -2466)
+[07Sep2025 02:53:19.368] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (1066 | 26 | -2457)
+[07Sep2025 02:53:19.368] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (1066 | 26 | -2457)
+[07Sep2025 02:53:19.368] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_90 at (1061 | 26 | -2452)
+[07Sep2025 02:53:19.369] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_90 at (1061 | 26 | -2452)
+[07Sep2025 02:53:19.369] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (1062 | 17 | -2463)
+[07Sep2025 02:53:19.369] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (1062 | 17 | -2463)
+[07Sep2025 02:53:19.369] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest with rotation COUNTERCLOCKWISE_90 at (1057 | 17 | -2463)
+[07Sep2025 02:53:19.369] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest with rotation COUNTERCLOCKWISE_90 at (1057 | 17 | -2463)
+[07Sep2025 02:53:19.369] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (1057 | 17 | -2466)
+[07Sep2025 02:53:19.369] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (1057 | 17 | -2466)
+[07Sep2025 02:53:19.369] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_top with rotation NONE at (1056 | 17 | -2457)
+[07Sep2025 02:53:19.369] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_top with rotation NONE at (1056 | 17 | -2457)
+[07Sep2025 02:53:19.370] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (1066 | 17 | -2466)
+[07Sep2025 02:53:19.370] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (1066 | 17 | -2466)
+[07Sep2025 02:53:19.370] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1065 | 17 | -2457)
+[07Sep2025 02:53:19.370] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1065 | 17 | -2457)
+[07Sep2025 02:53:19.370] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation COUNTERCLOCKWISE_90 at (1058 | 8 | -2462)
+[07Sep2025 02:53:19.370] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation COUNTERCLOCKWISE_90 at (1058 | 8 | -2462)
+[07Sep2025 02:53:19.371] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (1058 | 8 | -2462)
+[07Sep2025 02:53:19.371] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (1058 | 8 | -2462)
+[07Sep2025 02:53:19.371] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/fountain with rotation NONE at (1052 | 7 | -2479)
+[07Sep2025 02:53:19.371] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/fountain with rotation NONE at (1052 | 7 | -2479)
+[07Sep2025 02:53:19.371] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/fountain at (1052 | 7 | -2479)
+[07Sep2025 02:53:19.371] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/fountain at (1052 | 7 | -2479)
+[07Sep2025 02:53:19.371] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (1056 | 8 | -2457)
+[07Sep2025 02:53:19.372] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (1056 | 8 | -2457)
+[07Sep2025 02:53:19.372] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/stairs_bottom at (1056 | 8 | -2457)
+[07Sep2025 02:53:19.372] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/stairs_bottom at (1056 | 8 | -2457)
+[07Sep2025 02:53:19.372] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1065 | 8 | -2457)
+[07Sep2025 02:53:19.372] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1065 | 8 | -2457)
+[07Sep2025 02:53:19.372] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (1065 | 8 | -2457)
+[07Sep2025 02:53:19.373] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (1065 | 8 | -2457)
+[07Sep2025 02:53:19.373] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/lava_hall with rotation NONE at (1043 | -1 | -2479)
+[07Sep2025 02:53:19.373] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/lava_hall with rotation NONE at (1043 | -1 | -2479)
+[07Sep2025 02:53:20.621] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_top with rotation NONE at (1065 | 26 | -2484)
+[07Sep2025 02:53:20.622] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_top with rotation NONE at (1065 | 26 | -2484)
+[07Sep2025 02:53:20.622] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_90 at (1071 | 26 | -2472)
+[07Sep2025 02:53:20.622] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_90 at (1071 | 26 | -2472)
+[07Sep2025 02:53:20.622] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (1066 | 26 | -2475)
+[07Sep2025 02:53:20.622] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (1066 | 26 | -2475)
+[07Sep2025 02:53:20.622] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (1066 | 26 | -2466)
+[07Sep2025 02:53:20.622] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (1066 | 26 | -2466)
+[07Sep2025 02:53:20.622] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_180 at (1075 | 26 | -2478)
+[07Sep2025 02:53:20.622] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_180 at (1075 | 26 | -2478)
+[07Sep2025 02:53:20.622] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_180 at (1079 | 26 | -2478)
+[07Sep2025 02:53:20.622] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_180 at (1079 | 26 | -2478)
+[07Sep2025 02:53:20.622] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation NONE at (1074 | 26 | -2482)
+[07Sep2025 02:53:20.622] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation NONE at (1074 | 26 | -2482)
+[07Sep2025 02:53:20.622] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation NONE at (1083 | 26 | -2483)
+[07Sep2025 02:53:20.622] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation NONE at (1083 | 26 | -2483)
+[07Sep2025 02:53:20.622] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (1065 | 17 | -2484)
+[07Sep2025 02:53:20.622] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (1065 | 17 | -2484)
+[07Sep2025 02:53:20.622] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner_room with rotation CLOCKWISE_90 at (1071 | 17 | -2473)
+[07Sep2025 02:53:20.623] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner_room with rotation CLOCKWISE_90 at (1071 | 17 | -2473)
+[07Sep2025 02:53:20.623] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (1066 | 17 | -2475)
+[07Sep2025 02:53:20.623] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (1066 | 17 | -2475)
+[07Sep2025 02:53:20.623] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (1066 | 17 | -2466)
+[07Sep2025 02:53:20.623] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (1066 | 17 | -2466)
+[07Sep2025 02:53:20.623] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (1069 | 8 | -2474)
+[07Sep2025 02:53:20.623] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (1069 | 8 | -2474)
+[07Sep2025 02:53:20.623] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (1069 | 8 | -2474)
+[07Sep2025 02:53:20.623] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (1069 | 8 | -2474)
+[07Sep2025 02:53:20.623] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation NONE at (1074 | 8 | -2474)
+[07Sep2025 02:53:20.623] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation NONE at (1074 | 8 | -2474)
+[07Sep2025 02:53:20.624] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (1074 | 8 | -2474)
+[07Sep2025 02:53:20.624] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (1074 | 8 | -2474)
+[07Sep2025 02:53:20.624] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1083 | 8 | -2475)
+[07Sep2025 02:53:20.624] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1083 | 8 | -2475)
+[07Sep2025 02:53:20.625] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (1083 | 8 | -2475)
+[07Sep2025 02:53:20.625] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (1083 | 8 | -2475)
+[07Sep2025 02:53:20.625] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_180 at (1065 | -1 | -2474)
+[07Sep2025 02:53:20.625] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_180 at (1065 | -1 | -2474)
+[07Sep2025 02:53:20.625] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation COUNTERCLOCKWISE_90 at (1075 | -1 | -2484)
+[07Sep2025 02:53:20.625] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation COUNTERCLOCKWISE_90 at (1075 | -1 | -2484)
+[07Sep2025 02:53:20.625] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1074 | -1 | -2475)
+[07Sep2025 02:53:20.626] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1074 | -1 | -2475)
+[07Sep2025 02:53:20.626] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (1083 | -1 | -2474)
+[07Sep2025 02:53:20.626] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (1083 | -1 | -2474)
+[07Sep2025 02:53:20.664] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_top with rotation NONE at (1065 | 26 | -2484)
+[07Sep2025 02:53:20.665] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_top with rotation NONE at (1065 | 26 | -2484)
+[07Sep2025 02:53:20.665] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_90 at (1071 | 26 | -2472)
+[07Sep2025 02:53:20.665] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_90 at (1071 | 26 | -2472)
+[07Sep2025 02:53:20.665] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner with rotation COUNTERCLOCKWISE_90 at (1066 | 26 | -2472)
+[07Sep2025 02:53:20.665] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner with rotation COUNTERCLOCKWISE_90 at (1066 | 26 | -2472)
+[07Sep2025 02:53:20.665] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (1066 | 26 | -2475)
+[07Sep2025 02:53:20.666] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (1066 | 26 | -2475)
+[07Sep2025 02:53:20.666] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (1066 | 26 | -2466)
+[07Sep2025 02:53:20.666] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (1066 | 26 | -2466)
+[07Sep2025 02:53:20.666] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1056 | 17 | -2484)
+[07Sep2025 02:53:20.667] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1056 | 17 | -2484)
+[07Sep2025 02:53:20.667] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner_room with rotation CLOCKWISE_90 at (1062 | 17 | -2473)
+[07Sep2025 02:53:20.667] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner_room with rotation CLOCKWISE_90 at (1062 | 17 | -2473)
+[07Sep2025 02:53:20.667] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner_room with rotation COUNTERCLOCKWISE_90 at (1053 | 17 | -2473)
+[07Sep2025 02:53:20.667] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner_room with rotation COUNTERCLOCKWISE_90 at (1053 | 17 | -2473)
+[07Sep2025 02:53:20.667] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (1057 | 17 | -2475)
+[07Sep2025 02:53:20.667] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (1057 | 17 | -2475)
+[07Sep2025 02:53:20.667] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (1057 | 17 | -2466)
+[07Sep2025 02:53:20.667] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (1057 | 17 | -2466)
+[07Sep2025 02:53:20.667] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (1065 | 17 | -2484)
+[07Sep2025 02:53:20.667] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (1065 | 17 | -2484)
+[07Sep2025 02:53:20.667] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner_room with rotation CLOCKWISE_90 at (1071 | 17 | -2473)
+[07Sep2025 02:53:20.667] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner_room with rotation CLOCKWISE_90 at (1071 | 17 | -2473)
+[07Sep2025 02:53:20.667] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation COUNTERCLOCKWISE_90 at (1066 | 17 | -2472)
+[07Sep2025 02:53:20.668] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation COUNTERCLOCKWISE_90 at (1066 | 17 | -2472)
+[07Sep2025 02:53:20.668] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (1066 | 17 | -2475)
+[07Sep2025 02:53:20.668] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (1066 | 17 | -2475)
+[07Sep2025 02:53:20.668] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (1066 | 17 | -2466)
+[07Sep2025 02:53:20.668] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (1066 | 17 | -2466)
+[07Sep2025 02:53:20.668] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (1069 | 8 | -2474)
+[07Sep2025 02:53:20.668] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (1069 | 8 | -2474)
+[07Sep2025 02:53:20.668] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (1069 | 8 | -2474)
+[07Sep2025 02:53:20.668] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (1069 | 8 | -2474)
+[07Sep2025 02:53:20.668] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/fountain with rotation NONE at (1052 | 7 | -2479)
+[07Sep2025 02:53:20.669] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/fountain with rotation NONE at (1052 | 7 | -2479)
+[07Sep2025 02:53:20.669] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/fountain at (1052 | 7 | -2479)
+[07Sep2025 02:53:20.671] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/fountain at (1052 | 7 | -2479)
+[07Sep2025 02:53:20.671] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (1060 | -1 | -2474)
+[07Sep2025 02:53:20.671] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (1060 | -1 | -2474)
+[07Sep2025 02:53:20.671] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/lava_hall with rotation NONE at (1043 | -1 | -2479)
+[07Sep2025 02:53:20.671] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/lava_hall with rotation NONE at (1043 | -1 | -2479)
+[07Sep2025 02:53:20.671] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_180 at (1065 | -1 | -2474)
+[07Sep2025 02:53:20.671] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_180 at (1065 | -1 | -2474)
+[07Sep2025 02:53:22.385] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (1026 | 17 | -2460)
+[07Sep2025 02:53:22.385] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (1026 | 17 | -2460)
+[07Sep2025 02:53:22.385] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_90 at (1025 | 16 | -2434)
+[07Sep2025 02:53:22.385] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_90 at (1025 | 16 | -2434)
+[07Sep2025 02:53:22.385] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (1036 | 8 | -2449)
+[07Sep2025 02:53:22.385] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (1036 | 8 | -2449)
+[07Sep2025 02:53:22.385] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (1036 | 8 | -2449)
+[07Sep2025 02:53:22.385] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (1036 | 8 | -2449)
+[07Sep2025 02:53:22.385] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (1025 | 8 | -2461)
+[07Sep2025 02:53:22.385] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (1025 | 8 | -2461)
+[07Sep2025 02:53:22.385] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (1025 | 8 | -2461)
+[07Sep2025 02:53:22.385] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (1025 | 8 | -2461)
+[07Sep2025 02:53:22.385] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_90 at (1053 | 8 | -2445)
+[07Sep2025 02:53:22.386] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_90 at (1053 | 8 | -2445)
+[07Sep2025 02:53:22.386] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/bookshelf at (1053 | 8 | -2445)
+[07Sep2025 02:53:22.386] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/bookshelf at (1053 | 8 | -2445)
+[07Sep2025 02:53:22.386] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner with rotation COUNTERCLOCKWISE_90 at (1048 | 8 | -2445)
+[07Sep2025 02:53:22.386] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner with rotation COUNTERCLOCKWISE_90 at (1048 | 8 | -2445)
+[07Sep2025 02:53:22.386] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/spawner at (1048 | 8 | -2445)
+[07Sep2025 02:53:22.386] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/spawner at (1048 | 8 | -2445)
+[07Sep2025 02:53:22.386] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (1048 | 8 | -2448)
+[07Sep2025 02:53:22.386] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (1048 | 8 | -2448)
+[07Sep2025 02:53:22.386] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/corridor at (1048 | 8 | -2448)
+[07Sep2025 02:53:22.386] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/corridor at (1048 | 8 | -2448)
+[07Sep2025 02:53:22.386] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (1048 | 8 | -2439)
+[07Sep2025 02:53:22.387] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (1048 | 8 | -2439)
+[07Sep2025 02:53:22.387] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (1048 | 8 | -2439)
+[07Sep2025 02:53:22.387] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (1048 | 8 | -2439)
+[07Sep2025 02:53:22.387] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_90 at (1043 | 7 | -2434)
+[07Sep2025 02:53:22.387] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_90 at (1043 | 7 | -2434)
+[07Sep2025 02:53:22.387] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (1043 | 7 | -2434)
+[07Sep2025 02:53:22.387] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (1043 | 7 | -2434)
+[07Sep2025 02:53:22.387] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (1034 | -1 | -2434)
+[07Sep2025 02:53:22.387] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (1034 | -1 | -2434)
+[07Sep2025 02:53:22.405] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (1041 | 17 | -2455)
+[07Sep2025 02:53:22.405] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (1041 | 17 | -2455)
+[07Sep2025 02:53:22.405] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (1042 | 17 | -2456)
+[07Sep2025 02:53:22.405] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (1042 | 17 | -2456)
+[07Sep2025 02:53:22.405] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (1026 | 17 | -2460)
+[07Sep2025 02:53:22.406] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (1026 | 17 | -2460)
+[07Sep2025 02:53:22.406] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/light with rotation CLOCKWISE_180 at (1050 | 22 | -2454)
+[07Sep2025 02:53:22.406] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/light with rotation CLOCKWISE_180 at (1050 | 22 | -2454)
+[07Sep2025 02:53:22.406] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/light_switch with rotation CLOCKWISE_180 at (1050 | 17 | -2451)
+[07Sep2025 02:53:22.406] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/light_switch with rotation CLOCKWISE_180 at (1050 | 17 | -2451)
+[07Sep2025 02:53:22.406] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner_room with rotation NONE at (1049 | 17 | -2460)
+[07Sep2025 02:53:22.407] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner_room with rotation NONE at (1049 | 17 | -2460)
+[07Sep2025 02:53:22.407] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_light with rotation CLOCKWISE_180 at (1047 | 17 | -2456)
+[07Sep2025 02:53:22.407] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_light with rotation CLOCKWISE_180 at (1047 | 17 | -2456)
+[07Sep2025 02:53:22.407] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (1036 | 8 | -2449)
+[07Sep2025 02:53:22.407] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (1036 | 8 | -2449)
+[07Sep2025 02:53:22.407] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (1036 | 8 | -2449)
+[07Sep2025 02:53:22.407] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (1036 | 8 | -2449)
+[07Sep2025 02:53:22.407] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (1042 | 8 | -2455)
+[07Sep2025 02:53:22.407] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (1042 | 8 | -2455)
+[07Sep2025 02:53:22.407] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (1042 | 8 | -2455)
+[07Sep2025 02:53:22.407] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (1042 | 8 | -2455)
+[07Sep2025 02:53:22.407] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (1025 | 8 | -2461)
+[07Sep2025 02:53:22.408] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (1025 | 8 | -2461)
+[07Sep2025 02:53:22.408] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (1025 | 8 | -2461)
+[07Sep2025 02:53:22.408] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (1025 | 8 | -2461)
+[07Sep2025 02:53:22.408] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1047 | 8 | -2457)
+[07Sep2025 02:53:22.408] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1047 | 8 | -2457)
+[07Sep2025 02:53:22.408] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (1047 | 8 | -2457)
+[07Sep2025 02:53:22.409] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (1047 | 8 | -2457)
+[07Sep2025 02:53:22.409] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/fountain with rotation NONE at (1052 | 7 | -2479)
+[07Sep2025 02:53:22.409] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/fountain with rotation NONE at (1052 | 7 | -2479)
+[07Sep2025 02:53:22.409] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/fountain at (1052 | 7 | -2479)
+[07Sep2025 02:53:22.409] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/fountain at (1052 | 7 | -2479)
+[07Sep2025 02:53:22.409] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/lava_hall with rotation NONE at (1043 | -1 | -2479)
+[07Sep2025 02:53:22.409] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/lava_hall with rotation NONE at (1043 | -1 | -2479)
+[07Sep2025 02:53:22.421] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner_room with rotation COUNTERCLOCKWISE_90 at (1053 | 17 | -2473)
+[07Sep2025 02:53:22.421] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner_room with rotation COUNTERCLOCKWISE_90 at (1053 | 17 | -2473)
+[07Sep2025 02:53:22.421] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_180 at (1041 | 8 | -2469)
+[07Sep2025 02:53:22.421] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_180 at (1041 | 8 | -2469)
+[07Sep2025 02:53:22.422] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/variant_2 at (1041 | 8 | -2469)
+[07Sep2025 02:53:22.422] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/variant_2 at (1041 | 8 | -2469)
+[07Sep2025 02:53:22.422] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation NONE at (1041 | 8 | -2474)
+[07Sep2025 02:53:22.422] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation NONE at (1041 | 8 | -2474)
+[07Sep2025 02:53:22.422] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/default at (1041 | 8 | -2474)
+[07Sep2025 02:53:22.422] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/default at (1041 | 8 | -2474)
+[07Sep2025 02:53:22.422] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (1038 | 8 | -2474)
+[07Sep2025 02:53:22.422] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (1038 | 8 | -2474)
+[07Sep2025 02:53:22.422] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/corridor at (1038 | 8 | -2474)
+[07Sep2025 02:53:22.422] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/corridor at (1038 | 8 | -2474)
+[07Sep2025 02:53:22.422] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (1047 | 8 | -2474)
+[07Sep2025 02:53:22.422] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (1047 | 8 | -2474)
+[07Sep2025 02:53:22.422] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (1047 | 8 | -2474)
+[07Sep2025 02:53:22.422] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (1047 | 8 | -2474)
+[07Sep2025 02:53:22.422] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/fountain with rotation NONE at (1052 | 7 | -2479)
+[07Sep2025 02:53:22.423] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/fountain with rotation NONE at (1052 | 7 | -2479)
+[07Sep2025 02:53:22.423] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/fountain at (1052 | 7 | -2479)
+[07Sep2025 02:53:22.423] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/fountain at (1052 | 7 | -2479)
+[07Sep2025 02:53:22.423] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (1038 | -1 | -2474)
+[07Sep2025 02:53:22.423] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (1038 | -1 | -2474)
+[07Sep2025 02:53:22.423] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/lava_hall with rotation NONE at (1043 | -1 | -2479)
+[07Sep2025 02:53:22.424] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/lava_hall with rotation NONE at (1043 | -1 | -2479)
+[07Sep2025 02:53:23.828] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (1066 | 26 | -2498)
+[07Sep2025 02:53:23.828] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (1066 | 26 | -2498)
+[07Sep2025 02:53:23.828] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (1071 | 26 | -2492)
+[07Sep2025 02:53:23.828] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (1071 | 26 | -2492)
+[07Sep2025 02:53:23.828] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_90 at (1071 | 26 | -2488)
+[07Sep2025 02:53:23.828] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_90 at (1071 | 26 | -2488)
+[07Sep2025 02:53:23.828] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_top with rotation NONE at (1065 | 26 | -2484)
+[07Sep2025 02:53:23.828] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_top with rotation NONE at (1065 | 26 | -2484)
+[07Sep2025 02:53:23.828] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/fire with rotation NONE at (1075 | 26 | -2485)
+[07Sep2025 02:53:23.828] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/fire with rotation NONE at (1075 | 26 | -2485)
+[07Sep2025 02:53:23.828] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner with rotation NONE at (1079 | 26 | -2483)
+[07Sep2025 02:53:23.828] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner with rotation NONE at (1079 | 26 | -2483)
+[07Sep2025 02:53:23.828] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation NONE at (1074 | 26 | -2482)
+[07Sep2025 02:53:23.829] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation NONE at (1074 | 26 | -2482)
+[07Sep2025 02:53:23.829] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation NONE at (1083 | 26 | -2483)
+[07Sep2025 02:53:23.829] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation NONE at (1083 | 26 | -2483)
+[07Sep2025 02:53:23.829] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1065 | 17 | -2502)
+[07Sep2025 02:53:23.829] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1065 | 17 | -2502)
+[07Sep2025 02:53:23.829] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation COUNTERCLOCKWISE_90 at (1066 | 17 | -2493)
+[07Sep2025 02:53:23.829] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation COUNTERCLOCKWISE_90 at (1066 | 17 | -2493)
+[07Sep2025 02:53:23.829] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (1065 | 17 | -2484)
+[07Sep2025 02:53:23.829] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (1065 | 17 | -2484)
+[07Sep2025 02:53:23.829] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (1079 | 17 | -2500)
+[07Sep2025 02:53:23.830] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (1079 | 17 | -2500)
+[07Sep2025 02:53:23.830] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (1074 | 17 | -2501)
+[07Sep2025 02:53:23.830] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (1074 | 17 | -2501)
+[07Sep2025 02:53:23.830] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation NONE at (1080 | 17 | -2505)
+[07Sep2025 02:53:23.830] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation NONE at (1080 | 17 | -2505)
+[07Sep2025 02:53:23.831] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (1076 | -1 | -2490)
+[07Sep2025 02:53:23.831] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (1076 | -1 | -2490)
+[07Sep2025 02:53:23.831] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (1075 | -1 | -2489)
+[07Sep2025 02:53:23.831] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (1075 | -1 | -2489)
+[07Sep2025 02:53:23.831] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (1071 | -1 | -2505)
+[07Sep2025 02:53:23.832] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (1071 | -1 | -2505)
+[07Sep2025 02:53:23.832] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation COUNTERCLOCKWISE_90 at (1075 | -1 | -2484)
+[07Sep2025 02:53:23.832] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation COUNTERCLOCKWISE_90 at (1075 | -1 | -2484)
+[07Sep2025 02:53:23.931] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (1066 | 26 | -2498)
+[07Sep2025 02:53:23.931] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (1066 | 26 | -2498)
+[07Sep2025 02:53:23.931] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (1071 | 26 | -2492)
+[07Sep2025 02:53:23.931] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (1071 | 26 | -2492)
+[07Sep2025 02:53:23.931] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_90 at (1071 | 26 | -2488)
+[07Sep2025 02:53:23.931] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_90 at (1071 | 26 | -2488)
+[07Sep2025 02:53:23.931] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/fire with rotation COUNTERCLOCKWISE_90 at (1064 | 26 | -2492)
+[07Sep2025 02:53:23.931] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/fire with rotation COUNTERCLOCKWISE_90 at (1064 | 26 | -2492)
+[07Sep2025 02:53:23.931] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation COUNTERCLOCKWISE_90 at (1066 | 26 | -2488)
+[07Sep2025 02:53:23.931] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation COUNTERCLOCKWISE_90 at (1066 | 26 | -2488)
+[07Sep2025 02:53:23.931] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (1067 | 26 | -2493)
+[07Sep2025 02:53:23.931] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (1067 | 26 | -2493)
+[07Sep2025 02:53:23.931] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_top with rotation NONE at (1065 | 26 | -2484)
+[07Sep2025 02:53:23.931] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_top with rotation NONE at (1065 | 26 | -2484)
+[07Sep2025 02:53:23.931] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_180 at (1059 | 17 | -2496)
+[07Sep2025 02:53:23.932] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_180 at (1059 | 17 | -2496)
+[07Sep2025 02:53:23.932] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (1056 | 17 | -2501)
+[07Sep2025 02:53:23.932] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (1056 | 17 | -2501)
+[07Sep2025 02:53:23.932] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1056 | 17 | -2493)
+[07Sep2025 02:53:23.932] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1056 | 17 | -2493)
+[07Sep2025 02:53:23.932] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1056 | 17 | -2484)
+[07Sep2025 02:53:23.933] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1056 | 17 | -2484)
+[07Sep2025 02:53:23.933] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1065 | 17 | -2502)
+[07Sep2025 02:53:23.933] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1065 | 17 | -2502)
+[07Sep2025 02:53:23.933] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation COUNTERCLOCKWISE_90 at (1066 | 17 | -2493)
+[07Sep2025 02:53:23.933] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation COUNTERCLOCKWISE_90 at (1066 | 17 | -2493)
+[07Sep2025 02:53:23.933] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (1065 | 17 | -2484)
+[07Sep2025 02:53:23.933] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (1065 | 17 | -2484)
+[07Sep2025 02:53:23.933] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (1071 | -1 | -2505)
+[07Sep2025 02:53:23.933] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (1071 | -1 | -2505)
+[07Sep2025 02:53:23.948] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_90 at (1053 | 35 | -2497)
+[07Sep2025 02:53:23.948] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_90 at (1053 | 35 | -2497)
+[07Sep2025 02:53:23.949] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest_room with rotation COUNTERCLOCKWISE_90 at (1044 | 35 | -2498)
+[07Sep2025 02:53:23.949] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest_room with rotation COUNTERCLOCKWISE_90 at (1044 | 35 | -2498)
+[07Sep2025 02:53:23.949] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (1049 | 35 | -2502)
+[07Sep2025 02:53:23.949] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (1049 | 35 | -2502)
+[07Sep2025 02:53:23.949] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (1047 | 35 | -2493)
+[07Sep2025 02:53:23.949] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (1047 | 35 | -2493)
+[07Sep2025 02:53:23.950] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation NONE at (1040 | 23 | -2500)
+[07Sep2025 02:53:23.950] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation NONE at (1040 | 23 | -2500)
+[07Sep2025 02:53:23.950] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_180 at (1051 | 17 | -2500)
+[07Sep2025 02:53:23.950] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_180 at (1051 | 17 | -2500)
+[07Sep2025 02:53:23.950] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_straight with rotation NONE at (1034 | 16 | -2506)
+[07Sep2025 02:53:23.950] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_straight with rotation NONE at (1034 | 16 | -2506)
+[07Sep2025 02:53:23.950] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_dead_end with rotation COUNTERCLOCKWISE_90 at (1025 | 7 | -2506)
+[07Sep2025 02:53:23.950] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_dead_end with rotation COUNTERCLOCKWISE_90 at (1025 | 7 | -2506)
+[07Sep2025 02:53:23.950] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (1025 | 7 | -2506)
+[07Sep2025 02:53:23.950] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (1025 | 7 | -2506)
+[07Sep2025 02:54:02.625] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2f9893f2: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[07Sep2025 02:54:02.655] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2f9893f2: RandomSpreadSearchWorker succeeded with 3059 radius, 11 samples

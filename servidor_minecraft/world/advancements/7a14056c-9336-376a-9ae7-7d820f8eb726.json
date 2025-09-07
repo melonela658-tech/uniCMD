@@ -3142,6 +3142,7 @@
       "mediterranean_forest": "2025-09-03 05:05:10 +0000",
       "coniferous_forest": "2025-09-03 00:28:50 +0000",
       "forested_field": "2025-09-03 00:54:08 +0000",
+      "spider_nest": "2025-09-07 02:44:17 +0000",
       "redwood_forest": "2025-09-02 22:58:39 +0000",
       "aspen_glade": "2025-09-04 08:49:54 +0000",
       "dune_beach": "2025-09-04 01:51:35 +0000",
@@ -11255,6 +11256,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-09-07 02:43:02 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/naga_banner_pattern": {
     "criteria": {
       "has_trophy": "2025-09-07 00:06:08 +0000"
@@ -11264,6 +11271,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-09-07 00:17:37 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/enter_catacombs": {
+    "criteria": {
+      "in_catacombs": "2025-09-07 02:43:39 +0000"
     },
     "done": true
   },
@@ -11278,6 +11291,12 @@
       "raw_venison": "2025-09-07 00:04:33 +0000"
     },
     "done": false
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_dead_king": {
+    "criteria": {
+      "requirement": "2025-09-07 02:47:40 +0000"
+    },
+    "done": true
   },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {

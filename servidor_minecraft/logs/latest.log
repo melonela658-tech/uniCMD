@@ -35,3 +35,34 @@
 [07Sep2025 02:25:22.042] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2165ms or 43 ticks behind
 [07Sep2025 02:25:29.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Principyto to Melosito_Neo]
 [07Sep2025 02:33:04.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved wrongly!
+[07Sep2025 02:34:46.012] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2f9893f2: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[07Sep2025 02:34:46.996] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2f9893f2: RandomSpreadSearchWorker succeeded with 3140 radius, 11 samples
+[07Sep2025 02:36:48.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Principyto> t
+[07Sep2025 02:37:00.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Principyto to Melosito_Neo]
+[07Sep2025 02:41:57.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto moved wrongly!
+[07Sep2025 02:41:59.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved wrongly!
+[07Sep2025 02:42:39.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Eye Spy]
+[07Sep2025 02:43:02.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Principyto to Melosito_Neo]
+[07Sep2025 02:43:02.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [Eye Spy]
+[07Sep2025 02:43:19.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Dungeon Delving]
+[07Sep2025 02:43:29.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Principyto to Melosito_Neo]
+[07Sep2025 02:43:39.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [Dungeon Delving]
+[07Sep2025 02:44:31.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Principyto to Melosito_Neo]
+[07Sep2025 02:46:37.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has completed the challenge [Necronomicon]
+[07Sep2025 02:47:40.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has completed the challenge [Necronomicon]
+[07Sep2025 02:48:38.001] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2f9893f2: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[07Sep2025 02:48:38.043] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2f9893f2: RandomSpreadSearchWorker succeeded with 107 radius, 4 samples
+[07Sep2025 02:50:34.986] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2f9893f2: ConcentricRingsSearchWorker starting with 100000 max samples
+[07Sep2025 02:50:36.917] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2f9893f2: ConcentricRingsSearchWorker failed with 128 samples
+[07Sep2025 02:50:44.703] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2f9893f2: ConcentricRingsSearchWorker starting with 100000 max samples
+[07Sep2025 02:50:44.748] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2f9893f2: ConcentricRingsSearchWorker failed with 128 samples
+[07Sep2025 02:50:55.001] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2f9893f2: ConcentricRingsSearchWorker starting with 100000 max samples
+[07Sep2025 02:50:55.056] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2f9893f2: ConcentricRingsSearchWorker failed with 128 samples
+[07Sep2025 02:51:14.452] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2f9893f2: ConcentricRingsSearchWorker starting with 100000 max samples
+[07Sep2025 02:51:14.509] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2f9893f2: ConcentricRingsSearchWorker failed with 128 samples
+[07Sep2025 02:52:20.809] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2f9893f2: ConcentricRingsSearchWorker starting with 100000 max samples
+[07Sep2025 02:52:20.857] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2f9893f2: ConcentricRingsSearchWorker failed with 128 samples
+[07Sep2025 02:53:07.655] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2f9893f2: ConcentricRingsSearchWorker starting with 100000 max samples
+[07Sep2025 02:53:07.702] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2f9893f2: ConcentricRingsSearchWorker failed with 128 samples
+[07Sep2025 02:54:02.625] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2f9893f2: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[07Sep2025 02:54:02.655] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2f9893f2: RandomSpreadSearchWorker succeeded with 3059 radius, 11 samples
