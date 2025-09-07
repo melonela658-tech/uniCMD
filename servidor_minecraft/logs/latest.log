@@ -199,3 +199,13 @@
 [07Sep2025 04:08:18.184] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/587486, l='ServerLevel[world]', x=-685.51, y=68.25, z=73.19] died: Honeyed Archer suffocated in a wall
 [07Sep2025 04:14:49.826] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4298ms or 85 ticks behind
 [07Sep2025 04:15:22.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2322ms or 46 ticks behind
+[07Sep2025 04:25:20.841] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/752823, l='ServerLevel[world]', x=-532.44, y=93.39, z=99.08] died: Honeyed Archer burned to death
+[07Sep2025 04:29:17.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Spectator Mode]
+[07Sep2025 04:29:21.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Creative Mode]
+[07Sep2025 04:29:34.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
+[07Sep2025 04:33:17.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! 2743.0,-54.5,1499.0
+[07Sep2025 04:33:17.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! 2743.0,-54.5,1499.0
+[07Sep2025 04:36:09.430] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[07Sep2025 04:36:09.431] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[07Sep2025 04:36:31.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto moved too quickly! 1.493798068122942,-24.0,-0.6602106386393416
+[07Sep2025 04:36:47.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto moved wrongly!
