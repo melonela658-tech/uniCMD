@@ -15978,9 +15978,27 @@
     },
     "done": true
   },
+  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
+    "criteria": {
+      "has_item": "2025-09-07 04:56:16 +0000"
+    },
+    "done": true
+  },
   "jetboots:recipes/misc/engine_upgrade_smithing": {
     "criteria": {
       "has_jetboots": "2025-09-07 04:38:16 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/noai": {
+    "criteria": {
+      "modifier": "2025-09-07 04:52:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_chestplate_repairing": {
+    "criteria": {
+      "has_netherite_chestplate": "2025-09-07 04:56:16 +0000"
     },
     "done": true
   },
