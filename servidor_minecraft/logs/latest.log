@@ -1,3 +1,7 @@
 [07Sep2025 00:02:17.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has reached the goal [Bring Out Your Dead]
 [07Sep2025 00:06:02.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto moved too quickly! -4.97581037134114,-1.7261668967449353,-9.224129405662666
 [07Sep2025 00:09:08.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto moved wrongly!
+[07Sep2025 00:13:31.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Principyto to Melosito_Neo]
+[07Sep2025 00:17:36.609] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4681ms or 93 ticks behind
+[07Sep2025 00:17:58.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Melosito_Neo]
+[07Sep2025 00:18:00.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Principyto]

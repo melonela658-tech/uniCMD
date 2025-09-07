@@ -10870,7 +10870,8 @@
   },
   "twilightforest:arborist": {
     "criteria": {
-      "dark_slab": "2025-09-06 07:09:18 +0000"
+      "dark_slab": "2025-09-06 07:09:18 +0000",
+      "twilight_oak_sapling": "2025-09-07 00:10:51 +0000"
     },
     "done": false
   },
@@ -11239,6 +11240,24 @@
   "twilightforest:recipes/misc/lich_banner_pattern": {
     "criteria": {
       "has_trophy": "2025-09-07 00:05:26 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/twilight_scepter": {
+    "criteria": {
+      "has_item": "2025-09-07 00:05:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/naga_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-09-07 00:06:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-09-07 00:17:37 +0000"
     },
     "done": true
   },

@@ -15376,6 +15376,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/advanced_void_upgrade": {
+    "criteria": {
+      "has_void_upgrade": "2025-09-07 00:10:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
     "criteria": {
       "has_netherite_block": "2025-09-06 23:34:58 +0000"
@@ -15439,6 +15445,12 @@
   "create:fan_processing": {
     "criteria": {
       "0": "2025-09-06 22:41:39 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_void_upgrade_from_storage_void_upgrade": {
+    "criteria": {
+      "has_storage_upgrade": "2025-09-07 00:10:43 +0000"
     },
     "done": true
   },
