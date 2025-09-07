@@ -7865,21 +7865,25 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:crag_gardens": "2025-09-07 00:33:53 +0000",
       "biomeswevegone:rugged_badlands": "2025-09-06 00:41:22 +0000",
       "biomeswevegone:sakura_grove": "2025-09-05 01:50:34 +0000",
       "biomeswevegone:zelkova_forest": "2025-09-02 23:38:45 +0000",
       "biomeswevegone:temperate_grove": "2025-09-04 06:23:37 +0000",
       "biomeswevegone:forgotten_forest": "2025-09-04 02:16:42 +0000",
       "biomeswevegone:coconino_meadow": "2025-09-05 01:42:01 +0000",
+      "biomeswevegone:lush_stacks": "2025-09-07 00:33:55 +0000",
       "biomeswevegone:maple_taiga": "2025-09-04 10:01:44 +0000",
       "biomeswevegone:orchard": "2025-09-03 22:03:38 +0000",
+      "biomeswevegone:amaranth_grassland": "2025-09-07 00:33:43 +0000",
       "biomeswevegone:weeping_witch_forest": "2025-09-03 06:54:58 +0000",
       "biomeswevegone:prairie": "2025-09-03 22:04:17 +0000",
       "biomeswevegone:howling_peaks": "2025-09-05 01:50:10 +0000",
       "biomeswevegone:skyrise_vale": "2025-09-06 04:12:07 +0000",
       "biomeswevegone:dead_sea": "2025-09-06 00:40:10 +0000",
       "biomeswevegone:allium_shrubland": "2025-09-03 22:05:29 +0000",
-      "biomeswevegone:pumpkin_valley": "2025-09-04 06:05:11 +0000"
+      "biomeswevegone:pumpkin_valley": "2025-09-04 06:05:11 +0000",
+      "biomeswevegone:baobab_savanna": "2025-09-07 00:33:40 +0000"
     },
     "done": false
   },
@@ -15382,6 +15386,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_red_rock_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-09-07 00:33:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
     "criteria": {
       "has_netherite_block": "2025-09-06 23:34:58 +0000"
@@ -15442,9 +15452,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-09-07 00:33:58 +0000"
+    },
+    "done": true
+  },
   "create:fan_processing": {
     "criteria": {
       "0": "2025-09-06 22:41:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mossy_black_sand": {
+    "criteria": {
+      "has_moss_block": "2025-09-07 00:33:58 +0000"
     },
     "done": true
   },
@@ -15457,6 +15479,12 @@
   "tconstruct:smeltery/sand_casting": {
     "criteria": {
       "crafted_cast": "2025-09-06 23:26:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-09-07 00:33:58 +0000"
     },
     "done": true
   },
@@ -15502,9 +15530,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-09-07 00:33:58 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/tables/tinkers_forge": {
     "criteria": {
       "has_item": "2025-09-06 23:34:58 +0000"
+    },
+    "done": true
+  },
+  "mekanism:heat_transport": {
+    "criteria": {
+      "basic_thermodynamic_conductor": "2025-09-07 01:10:05 +0000"
     },
     "done": true
   },
@@ -15517,6 +15557,12 @@
   "tconstruct:recipes/decorations/tables/cast_chest": {
     "criteria": {
       "has_item": "2025-09-06 23:28:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-09-07 00:33:58 +0000"
     },
     "done": true
   },

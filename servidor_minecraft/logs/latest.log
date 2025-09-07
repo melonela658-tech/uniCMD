@@ -6,3 +6,19 @@
 [07Sep2025 00:17:58.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Melosito_Neo]
 [07Sep2025 00:18:00.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Principyto]
 [07Sep2025 00:28:04.447] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2620ms or 52 ticks behind
+[07Sep2025 00:32:05.185] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[07Sep2025 00:32:05.724] [Server thread/INFO] [naturescompass/]: Search succeeded: 1796 radius, 1622 samples
+[07Sep2025 00:33:00.581] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[07Sep2025 00:33:00.582] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[07Sep2025 00:35:11.259] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2681ms or 53 ticks behind
+[07Sep2025 00:36:04.396] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/300249, l='ServerLevel[world]', x=-756.99, y=80.25, z=647.65] died: Honeyed Archer suffocated in a wall
+[07Sep2025 00:36:09.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved wrongly! 0.4521660598420567
+[07Sep2025 00:36:09.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved wrongly! 0.5077944121308064
+[07Sep2025 00:36:09.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved wrongly! 0.532441429737446
+[07Sep2025 00:36:09.859] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved wrongly! 0.5404246762655021
+[07Sep2025 00:50:40.312] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto moved too quickly! -4.709271659694423,0.0,9.1862217373872
+[07Sep2025 00:57:02.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved wrongly! 0.6151296173825358
+[07Sep2025 00:57:02.122] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved wrongly! 0.5540441516052397
+[07Sep2025 00:57:02.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved wrongly! 0.4942645202959284
+[07Sep2025 00:57:02.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved wrongly! 0.43485293396315683
+[07Sep2025 00:57:02.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved wrongly! 0.26014437201934015
