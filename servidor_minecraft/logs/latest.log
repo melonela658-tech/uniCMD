@@ -209,3 +209,13 @@
 [07Sep2025 04:36:09.431] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
 [07Sep2025 04:36:31.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto moved too quickly! 1.493798068122942,-24.0,-0.6602106386393416
 [07Sep2025 04:36:47.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto moved wrongly!
+[07Sep2025 04:39:52.854] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto lost connection: Disconnected
+[07Sep2025 04:39:52.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto left the game
+[07Sep2025 04:41:48.402] [ForkJoinPool.commonPool-worker-29/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[07Sep2025 04:41:48.475] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Principyto[/127.37.108.24:59317] logged in with entity id 801000 at (-3642.4769688519355, 114.0, 504.5891204839629)
+[07Sep2025 04:41:48.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto joined the game
+[07Sep2025 04:41:48.592] [Server thread/INFO] [Jade/]: Syncing config to Principyto (7a14056c-9336-376a-9ae7-7d820f8eb726)
+[07Sep2025 04:41:55.579] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[07Sep2025 04:41:55.580] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[07Sep2025 04:44:32.710] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto lost connection: Disconnected
+[07Sep2025 04:44:32.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto left the game

@@ -15930,15 +15930,81 @@
     },
     "done": true
   },
+  "jetboots:recipes/misc/muffled_upgrade": {
+    "criteria": {
+      "has_jetboots": "2025-09-07 04:38:16 +0000"
+    },
+    "done": true
+  },
+  "jetboots:recipes/misc/underwater_upgrade": {
+    "criteria": {
+      "has_jetboots": "2025-09-07 04:38:16 +0000"
+    },
+    "done": true
+  },
+  "jetboots:recipes/misc/thruster_upgrade": {
+    "criteria": {
+      "has_jetboots": "2025-09-07 04:38:16 +0000"
+    },
+    "done": true
+  },
+  "jetboots:recipes/misc/muffled_upgrade_smithing": {
+    "criteria": {
+      "has_jetboots": "2025-09-07 04:38:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/elytra": {
     "criteria": {
       "elytra": "2025-09-07 03:33:22 +0000"
     },
     "done": true
   },
+  "jetboots:recipes/misc/shock_absorber_upgrade_rocket_smithing": {
+    "criteria": {
+      "has_rocketboots": "2025-09-07 04:38:14 +0000"
+    },
+    "done": true
+  },
+  "jetboots:recipes/misc/underwater_upgrade_smithing": {
+    "criteria": {
+      "has_jetboots": "2025-09-07 04:38:16 +0000"
+    },
+    "done": true
+  },
+  "jetboots:recipes/misc/engine_upgrade": {
+    "criteria": {
+      "has_jetboots": "2025-09-07 04:38:16 +0000"
+    },
+    "done": true
+  },
+  "jetboots:recipes/misc/engine_upgrade_smithing": {
+    "criteria": {
+      "has_jetboots": "2025-09-07 04:38:16 +0000"
+    },
+    "done": true
+  },
+  "jetboots:recipes/misc/shock_absorber_upgrade": {
+    "criteria": {
+      "has_rocketboots": "2025-09-07 04:38:14 +0000"
+    },
+    "done": true
+  },
+  "jetboots:recipes/misc/thruster_upgrade_smithing": {
+    "criteria": {
+      "has_jetboots": "2025-09-07 04:38:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/find_end_city": {
     "criteria": {
       "in_city": "2025-09-07 03:33:19 +0000"
+    },
+    "done": true
+  },
+  "jetboots:recipes/misc/shock_absorber_upgrade_smithing": {
+    "criteria": {
+      "has_jetboots": "2025-09-07 04:38:16 +0000"
     },
     "done": true
   },
