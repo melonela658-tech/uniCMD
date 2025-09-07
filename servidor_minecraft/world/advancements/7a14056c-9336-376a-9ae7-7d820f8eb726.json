@@ -10815,9 +10815,10 @@
   },
   "twilightforest:progress_lich": {
     "criteria": {
+      "kill_lich": "2025-09-07 00:02:17 +0000",
       "kill_naga": "2025-09-06 07:04:21 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_naga": {
     "criteria": {
@@ -11149,7 +11150,25 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2025-09-06 21:35:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-09-06 21:47:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-09-06 21:47:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2025-09-06 21:47:01 +0000"
     },
@@ -11161,27 +11180,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_carpet": {
+  "aether:recipes/combat/leather_boots_repairing": {
     "criteria": {
-      "has_light_gray_wool": "2025-09-06 21:47:01 +0000"
-    },
-    "done": true
-  },
-  "aether:valkyrie_loot": {
-    "criteria": {
-      "valkyrie_gloves": "2025-09-06 22:32:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/summon_wither": {
-    "criteria": {
-      "summoned": "2025-09-06 22:18:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_banner": {
-    "criteria": {
-      "has_light_gray_wool": "2025-09-06 21:47:01 +0000"
+      "has_leather_boots": "2025-09-06 22:05:07 +0000"
     },
     "done": true
   },
@@ -11191,27 +11192,83 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-09-06 22:18:56 +0000"
+    },
+    "done": true
+  },
+  "aether:valkyrie_loot": {
+    "criteria": {
+      "valkyrie_gloves": "2025-09-06 22:32:48 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/gravitite_chestplate_repairing": {
     "criteria": {
       "has_gravitite_chestplate": "2025-09-06 23:03:50 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/leather_boots_repairing": {
-    "criteria": {
-      "has_leather_boots": "2025-09-06 22:05:07 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/sunbird_blessing": {
-    "criteria": {
-      "all_effects": "2025-09-06 21:35:02 +0000"
-    },
-    "done": true
-  },
   "aether:gravitite_armor": {
     "criteria": {
-      "gravitite_chestplate": "2025-09-06 23:03:50 +0000"
+      "gravitite_chestplate": "2025-09-06 23:03:50 +0000",
+      "gravitite_gloves": "2025-09-06 23:17:25 +0000",
+      "gravitite_leggings": "2025-09-06 23:39:10 +0000"
+    },
+    "done": false
+  },
+  "aether:regen_stone": {
+    "criteria": {
+      "regen_stone": "2025-09-06 23:17:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/gravitite_gloves_repairing": {
+    "criteria": {
+      "has_gravitite_gloves": "2025-09-06 23:17:25 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/gravitite_leggings_repairing": {
+    "criteria": {
+      "has_gravitite_leggings": "2025-09-06 23:39:10 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/lich_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-09-07 00:05:26 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "raw_venison": "2025-09-07 00:04:33 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2025-09-07 00:02:17 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2025-09-07 00:02:17 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/tools/zanite_pickaxe_repairing": {
+    "criteria": {
+      "has_zanite_pickaxe": "2025-09-06 23:33:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2025-09-07 00:02:17 +0000"
     },
     "done": false
   },

@@ -15352,6 +15352,36 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/gold_casting": {
+    "criteria": {
+      "crafted_cast": "2025-09-06 23:28:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-09-06 23:49:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-09-06 23:29:27 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/scorched_anvil": {
+    "criteria": {
+      "has_item": "2025-09-06 23:34:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2025-09-06 23:34:58 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/common/materials/cobalt_ingot_smelting": {
     "criteria": {
       "has_item": "2025-09-06 22:56:39 +0000"
@@ -15370,11 +15400,23 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/tables/tinkers_anvil": {
+    "criteria": {
+      "has_item": "2025-09-06 23:34:58 +0000"
+    },
+    "done": true
+  },
   "create:encased_fan": {
     "criteria": {
       "0": "2025-09-06 22:38:50 +0000"
     },
     "done": true
+  },
+  "tconstruct:smeltery/cast_collector": {
+    "criteria": {
+      "ingot": "2025-09-06 23:28:00 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/beacon": {
     "criteria": {
@@ -15400,9 +15442,21 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/sand_casting": {
+    "criteria": {
+      "crafted_cast": "2025-09-06 23:26:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-09-06 22:02:17 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/scorched_forge": {
+    "criteria": {
+      "has_item": "2025-09-06 23:34:58 +0000"
     },
     "done": true
   },
@@ -15430,9 +15484,21 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/tables/tinkers_forge": {
+    "criteria": {
+      "has_item": "2025-09-06 23:34:58 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/common/materials/raw_cobalt_block_from_raws": {
     "criteria": {
       "has_item": "2025-09-06 22:56:39 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/cast_chest": {
+    "criteria": {
+      "has_item": "2025-09-06 23:28:00 +0000"
     },
     "done": true
   },
