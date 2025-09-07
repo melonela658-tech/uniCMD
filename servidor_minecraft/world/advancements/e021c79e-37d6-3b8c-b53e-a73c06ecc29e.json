@@ -15465,6 +15465,12 @@
     },
     "done": false
   },
+  "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_omega_tier_from_storage_stack_upgrade_omega_tier": {
+    "criteria": {
+      "has_storage_stack_upgrade": "2025-09-07 01:53:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2025-09-06 22:19:31 +0000"
@@ -15543,9 +15549,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/storage_stack_upgrade_omega_tier_from_backpack_stack_upgrade_omega_tier": {
+    "criteria": {
+      "has_backpack_stack_upgrade": "2025-09-07 01:51:11 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2025-09-07 00:26:34 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/players": {
+    "criteria": {
+      "modifier": "2025-09-07 01:56:38 +0000"
     },
     "done": true
   },
