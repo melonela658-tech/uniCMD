@@ -223,3 +223,10 @@
 [07Sep2025 05:06:21.865] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/846086, l='ServerLevel[world]', x=-629.32, y=64.00, z=76.70] died: Honeyed Archer was slain by Melosito_Neo
 [07Sep2025 05:17:10.953] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Annie the Ninja'/895096, l='ServerLevel[world]', x=-3628.04, y=103.00, z=-851.23] died: Annie the Ninja was slain by Melosito_Neo
 [07Sep2025 05:17:31.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! 2944.1122590443565,-56.5,953.569926038727
+[07Sep2025 05:33:05.473] [Server thread/ERROR] [mekanism.common.Mekanism/]: Different orphan transmitter was already registered at location! [Coord4D: -709, 51, 121, dim=minecraft:overworld]
+[07Sep2025 05:33:05.473] [Server thread/ERROR] [mekanism.common.Mekanism/]: Different orphan transmitter was registered at location during removal! [Coord4D: -709, 51, 121, dim=minecraft:overworld]
+[07Sep2025 05:34:21.325] [Server thread/ERROR] [mekanism.common.Mekanism/]: Different orphan transmitter was already registered at location! [Coord4D: -709, 51, 121, dim=minecraft:overworld]
+[07Sep2025 05:34:21.325] [Server thread/ERROR] [mekanism.common.Mekanism/]: Different orphan transmitter was registered at location during removal! [Coord4D: -709, 51, 121, dim=minecraft:overworld]
+[07Sep2025 05:34:46.674] [Server thread/ERROR] [mekanism.common.Mekanism/]: Different orphan transmitter was already registered at location! [Coord4D: -710, 50, 121, dim=minecraft:overworld]
+[07Sep2025 05:34:46.674] [Server thread/ERROR] [mekanism.common.Mekanism/]: Different orphan transmitter was registered at location during removal! [Coord4D: -710, 50, 121, dim=minecraft:overworld]
+[07Sep2025 05:36:08.067] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! -177.80000001192093,-2.5,545.4830149152705
