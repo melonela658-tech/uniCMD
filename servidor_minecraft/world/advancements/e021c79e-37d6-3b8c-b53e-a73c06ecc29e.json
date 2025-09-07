@@ -3783,6 +3783,7 @@
       "minecraft:zombified_piglin": "2025-09-03 00:35:44 +0000",
       "minecraft:witch": "2025-09-02 22:15:17 +0000",
       "minecraft:wither_skeleton": "2025-09-02 23:49:20 +0000",
+      "minecraft:shulker": "2025-09-07 03:04:53 +0000",
       "minecraft:cave_spider": "2025-09-02 21:07:04 +0000",
       "minecraft:piglin": "2025-09-04 00:09:48 +0000",
       "minecraft:enderman": "2025-09-02 20:15:57 +0000",
@@ -15353,6 +15354,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-09-07 03:04:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-09-07 01:25:57 +0000"
@@ -15497,6 +15504,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-09-07 03:04:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2025-09-07 03:00:28 +0000"
@@ -15560,6 +15573,12 @@
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2025-09-06 22:19:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/netherite_axe_repairing": {
+    "criteria": {
+      "has_netherite_axe": "2025-09-07 03:04:54 +0000"
     },
     "done": true
   },
@@ -15719,6 +15738,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-09-07 03:05:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-09-07 02:49:28 +0000"
@@ -15758,6 +15783,12 @@
   "create:recipes/building_blocks/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-09-07 02:49:28 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic": {
+    "criteria": {
+      "sword": "2025-09-07 03:04:54 +0000"
     },
     "done": true
   },

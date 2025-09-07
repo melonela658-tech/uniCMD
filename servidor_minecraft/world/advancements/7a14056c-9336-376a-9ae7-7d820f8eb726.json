@@ -3312,6 +3312,7 @@
       "cooked_mutton": "2025-09-02 19:41:51 +0000",
       "sweet_berries": "2025-09-05 11:06:03 +0000",
       "cooked_beef": "2025-09-02 20:59:15 +0000",
+      "chorus_fruit": "2025-09-07 03:07:51 +0000",
       "beef": "2025-09-06 22:09:21 +0000",
       "porkchop": "2025-09-03 05:39:04 +0000",
       "apple": "2025-09-03 07:09:41 +0000",
@@ -3357,6 +3358,7 @@
       "minecraft:witch": "2025-09-03 04:07:55 +0000",
       "minecraft:wither_skeleton": "2025-09-04 11:44:46 +0000",
       "minecraft:husk": "2025-09-04 04:25:49 +0000",
+      "minecraft:shulker": "2025-09-07 03:08:03 +0000",
       "minecraft:cave_spider": "2025-09-03 04:53:16 +0000",
       "minecraft:stray": "2025-09-02 23:48:31 +0000",
       "minecraft:silverfish": "2025-09-06 04:33:47 +0000",
@@ -11310,6 +11312,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/netherite_axe_repairing": {
+    "criteria": {
+      "has_netherite_axe": "2025-09-07 03:05:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-09-07 03:00:39 +0000"
@@ -11333,6 +11341,12 @@
       "kill_lich": "2025-09-07 00:02:17 +0000"
     },
     "done": false
+  },
+  "apotheosis:affix/mythic": {
+    "criteria": {
+      "sword": "2025-09-07 03:05:02 +0000"
+    },
+    "done": true
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
