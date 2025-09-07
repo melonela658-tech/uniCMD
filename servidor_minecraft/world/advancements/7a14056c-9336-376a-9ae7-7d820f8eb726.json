@@ -11231,6 +11231,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-09-07 01:13:28 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/gravitite_leggings_repairing": {
     "criteria": {
       "has_gravitite_leggings": "2025-09-06 23:39:10 +0000"
@@ -11258,6 +11264,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-09-07 00:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2025-09-07 01:14:58 +0000"
     },
     "done": true
   },

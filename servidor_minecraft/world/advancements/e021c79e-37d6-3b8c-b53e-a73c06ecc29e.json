@@ -7878,6 +7878,7 @@
       "biomeswevegone:amaranth_grassland": "2025-09-07 00:33:43 +0000",
       "biomeswevegone:weeping_witch_forest": "2025-09-03 06:54:58 +0000",
       "biomeswevegone:prairie": "2025-09-03 22:04:17 +0000",
+      "biomeswevegone:dacite_shore": "2025-09-07 01:18:25 +0000",
       "biomeswevegone:howling_peaks": "2025-09-05 01:50:10 +0000",
       "biomeswevegone:skyrise_vale": "2025-09-06 04:12:07 +0000",
       "biomeswevegone:dead_sea": "2025-09-06 00:40:10 +0000",
@@ -15350,9 +15351,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-07 01:25:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2025-09-06 23:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/silence_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-09-07 01:26:31 +0000"
     },
     "done": true
   },
@@ -15365,6 +15378,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-09-06 23:49:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-07 01:25:57 +0000"
     },
     "done": true
   },
@@ -15392,6 +15411,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/silence_armor_trim_smithing_template": {
+    "criteria": {
+      "has_silence_armor_trim_smithing_template": "2025-09-07 01:26:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
     "criteria": {
       "has_netherite_block": "2025-09-06 23:34:58 +0000"
@@ -15413,6 +15438,12 @@
   "create:recipes/misc/crafting/kinetics/nozzle": {
     "criteria": {
       "has_item": "2025-09-06 22:38:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-07 01:25:57 +0000"
     },
     "done": true
   },
@@ -15500,9 +15531,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-07 01:25:57 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_advanced_void_upgrade_from_backpack_advanced_void_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-09-07 01:46:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2025-09-07 00:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-07 01:25:57 +0000"
     },
     "done": true
   },
@@ -15512,9 +15561,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-07 01:25:57 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/common/glass/vanilla/beacon": {
     "criteria": {
       "has_nether_star": "2025-09-06 22:19:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-07 01:25:57 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_stack_upgrade_tier_5_from_backpack_stack_upgrade_tier_4": {
+    "criteria": {
+      "has_backpack_stack_upgrade": "2025-09-07 01:49:57 +0000"
     },
     "done": true
   },
@@ -15530,6 +15597,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-07 01:25:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-07 01:25:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-09-07 00:33:58 +0000"
@@ -15542,15 +15621,39 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_omega_tier": {
+    "criteria": {
+      "has_stack_upgrade_tier_4": "2025-09-07 01:49:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-09-07 01:25:03 +0000"
+    },
+    "done": true
+  },
   "mekanism:heat_transport": {
     "criteria": {
       "basic_thermodynamic_conductor": "2025-09-07 01:10:05 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-07 01:25:57 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/common/materials/raw_cobalt_block_from_raws": {
     "criteria": {
       "has_item": "2025-09-06 22:56:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-07 01:25:57 +0000"
     },
     "done": true
   },
@@ -15563,6 +15666,12 @@
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2025-09-07 00:33:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-07 01:25:57 +0000"
     },
     "done": true
   },
