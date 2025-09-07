@@ -11396,5 +11396,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2025-09-07 04:15:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
+    "criteria": {
+      "has_item": "2025-09-07 04:16:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_chestplate_repairing": {
+    "criteria": {
+      "has_netherite_chestplate": "2025-09-07 04:16:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-09-07 04:15:44 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -196,3 +196,6 @@
 [07Sep2025 03:53:59.840] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:netherite_helmet/apotheosis:mythic/ABILITY/0.3!
 [07Sep2025 04:01:21.997] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:netherite_helmet/apotheosis:mythic/ABILITY/0.3!
 [07Sep2025 04:04:27.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Principyto: Teleported Principyto to Melosito_Neo]
+[07Sep2025 04:08:18.184] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/587486, l='ServerLevel[world]', x=-685.51, y=68.25, z=73.19] died: Honeyed Archer suffocated in a wall
+[07Sep2025 04:14:49.826] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4298ms or 85 ticks behind
+[07Sep2025 04:15:22.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2322ms or 46 ticks behind
