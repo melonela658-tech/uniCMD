@@ -162,3 +162,10 @@
 [07Sep2025 03:13:30.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! -8.738056086732172,5.124460845281035,0.1948398435396541
 [07Sep2025 03:13:30.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6673ms or 133 ticks behind
 [07Sep2025 03:13:30.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> a
+[07Sep2025 03:16:01.720] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Shulker['Alana'/516342, l='ServerLevel[world]', x=2229.50, y=59.00, z=-242.50] died: death.attack.apotheosis:execute.item
+[07Sep2025 03:16:28.194] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:diamond_helmet/apotheosis:mythic/ABILITY/0.3!
+[07Sep2025 03:18:37.699] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Evoker['Helena the Sage'/531724, l='ServerLevel[world]', x=2087.45, y=59.00, z=-266.73] died: death.attack.apotheosis:execute.item
+[07Sep2025 03:20:19.098] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:diamond_helmet/apotheosis:mythic/ABILITY/0.3!
+[07Sep2025 03:20:51.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [The City at the End of the Game]
+[07Sep2025 03:21:03.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Principyto]
+[07Sep2025 03:24:36.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Mastering the Inferno]

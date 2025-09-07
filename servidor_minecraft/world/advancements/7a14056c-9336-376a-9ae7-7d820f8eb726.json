@@ -11324,6 +11324,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-09-07 03:13:00 +0000"
+    },
+    "done": true
+  },
   "twilightforest:twilight_dinner": {
     "criteria": {
       "raw_venison": "2025-09-07 00:04:33 +0000"
@@ -11357,6 +11363,12 @@
   "aether:recipes/tools/zanite_pickaxe_repairing": {
     "criteria": {
       "has_zanite_pickaxe": "2025-09-06 23:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-09-07 03:20:51 +0000"
     },
     "done": true
   },
