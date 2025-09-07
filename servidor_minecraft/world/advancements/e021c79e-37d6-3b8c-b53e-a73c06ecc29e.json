@@ -15371,6 +15371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-09-07 03:00:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2025-09-06 23:02:31 +0000"
@@ -15380,6 +15386,12 @@
   "minecraft:recipes/misc/silence_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-09-07 01:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-09-07 02:58:58 +0000"
     },
     "done": true
   },
@@ -15455,6 +15467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-09-07 03:00:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold_betterstrongholds": "2025-09-07 02:42:39 +0000"
@@ -15476,6 +15494,12 @@
   "create:recipes/misc/crafting/kinetics/nozzle": {
     "criteria": {
       "has_item": "2025-09-06 22:38:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-09-07 03:00:28 +0000"
     },
     "done": true
   },
@@ -15518,6 +15542,12 @@
   "create:recipes/building_blocks/polished_cut_veridium_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-09-07 02:49:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-09-07 03:00:38 +0000"
     },
     "done": true
   },
@@ -15593,6 +15623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-09-07 03:00:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-09-07 00:33:58 +0000"
@@ -15638,6 +15674,12 @@
   "apotheosis:spawner/players": {
     "criteria": {
       "modifier": "2025-09-07 01:56:38 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/common/glass/vanilla/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-09-07 02:58:58 +0000"
     },
     "done": true
   },
@@ -15698,6 +15740,12 @@
   "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
     "criteria": {
       "has_deepslate_bricks": "2025-09-07 01:25:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-09-07 02:58:58 +0000"
     },
     "done": true
   },
@@ -15815,6 +15863,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-09-07 03:00:28 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/tables/cast_chest": {
     "criteria": {
       "has_item": "2025-09-06 23:28:00 +0000"
@@ -15830,6 +15884,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-09-07 01:25:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-09-07 03:00:38 +0000"
     },
     "done": true
   },

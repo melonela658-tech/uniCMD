@@ -22496,3 +22496,28 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [07Sep2025 02:53:23.950] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (1025 | 7 | -2506)
 [07Sep2025 02:54:02.625] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2f9893f2: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
 [07Sep2025 02:54:02.655] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 2f9893f2: RandomSpreadSearchWorker succeeded with 3059 radius, 11 samples
+[07Sep2025 02:54:57.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to 1360.500000, 63.000000, -2239.500000]
+[07Sep2025 02:55:21.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Spectator Mode]
+[07Sep2025 02:55:33.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
+[07Sep2025 02:55:47.377] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Sep2025 02:55:47.401] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Sep2025 02:55:52.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Principyto to Melosito_Neo]
+[07Sep2025 02:56:28.619] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[07Sep2025 02:56:34.869] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[07Sep2025 02:57:05.324] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[07Sep2025 02:57:11.654] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[07Sep2025 02:57:31.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Melosito_Neo to Principyto]
+[07Sep2025 03:00:28.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [The End?]
+[07Sep2025 03:00:29.326] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
+[07Sep2025 03:00:29.350] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
+[07Sep2025 03:00:30.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has made the advancement [The End?]
+[07Sep2025 03:00:30.374] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2246ms or 44 ticks behind
+[07Sep2025 03:00:30.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto moved too quickly! -1183.1070129987274,80.52208223330592,2245.863130039809
+[07Sep2025 03:00:49.560] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Sep2025 03:00:49.583] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Sep2025 03:00:56.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Principyto to Melosito_Neo]
+[07Sep2025 03:03:33.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto moved wrongly!
+[07Sep2025 03:03:44.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved wrongly!
+[07Sep2025 03:04:53.967] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Shulker['Franklin the Professional Animator'/509648, l='ServerLevel[world]', x=1088.50, y=66.00, z=-134.50] died: Franklin the Professional Animator was slain by Melosito_Neo
+[07Sep2025 03:04:54.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has completed the challenge [Titan-Forged]
+[07Sep2025 03:05:02.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto has completed the challenge [Titan-Forged]

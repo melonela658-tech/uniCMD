@@ -11232,6 +11232,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-09-07 03:00:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_lantern": {
     "criteria": {
       "has_soul_torch": "2025-09-07 01:13:28 +0000"
@@ -11256,6 +11262,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-09-07 03:00:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold_betterstrongholds": "2025-09-07 02:43:02 +0000"
@@ -11274,15 +11286,33 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-09-07 03:00:30 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/enter_catacombs": {
     "criteria": {
       "in_catacombs": "2025-09-07 02:43:39 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-09-07 03:00:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/music_disc_5": {
     "criteria": {
       "has_disc_fragment_5": "2025-09-07 01:14:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-09-07 03:00:39 +0000"
     },
     "done": true
   },
@@ -11321,6 +11351,18 @@
       "previous_progression": "2025-09-07 00:02:17 +0000"
     },
     "done": false
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-09-07 03:00:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-09-07 03:00:39 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
