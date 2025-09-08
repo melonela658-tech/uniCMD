@@ -1889,3 +1889,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [08Sep2025 02:54:55.777] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/161, l='ServerLevel[world]', x=-708.71, y=52.00, z=139.51, removed=DISCARDED]
 [08Sep2025 02:54:55.777] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/159, l='ServerLevel[world]', x=-708.76, y=52.00, z=139.30, removed=DISCARDED]
 [08Sep2025 02:54:55.778] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/160, l='ServerLevel[world]', x=-708.71, y=52.00, z=139.51, removed=DISCARDED]
+[08Sep2025 02:55:32.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set the time to 1000]
+[08Sep2025 03:00:11.496] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/158, l='ServerLevel[world]', x=-708.76, y=52.00, z=139.30, removed=DISCARDED]
+[08Sep2025 03:00:11.502] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/161, l='ServerLevel[world]', x=-708.71, y=52.00, z=139.51, removed=DISCARDED]
+[08Sep2025 03:00:11.503] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/159, l='ServerLevel[world]', x=-708.76, y=52.00, z=139.30, removed=DISCARDED]
+[08Sep2025 03:00:11.503] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/160, l='ServerLevel[world]', x=-708.71, y=52.00, z=139.51, removed=DISCARDED]
+[08Sep2025 03:04:15.871] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto lost connection: Disconnected
+[08Sep2025 03:04:15.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto left the game
