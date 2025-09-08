@@ -1561,3 +1561,25 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [08Sep2025 02:22:04.159] [Server thread/INFO] [Jade/]: Syncing config to Melosito_Neo (e021c79e-37d6-3b8c-b53e-a73c06ecc29e)
 [08Sep2025 02:22:04.222] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3950ms or 79 ticks behind
 [08Sep2025 02:22:15.710] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Principyto) moved wrongly! 0.4256888570234878
+[08Sep2025 02:26:46.574] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/158, l='ServerLevel[world]', x=-708.76, y=52.00, z=139.30, removed=DISCARDED]
+[08Sep2025 02:26:46.575] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/161, l='ServerLevel[world]', x=-708.71, y=52.00, z=139.51, removed=DISCARDED]
+[08Sep2025 02:26:46.575] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/159, l='ServerLevel[world]', x=-708.76, y=52.00, z=139.30, removed=DISCARDED]
+[08Sep2025 02:26:46.576] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/160, l='ServerLevel[world]', x=-708.71, y=52.00, z=139.51, removed=DISCARDED]
+[08Sep2025 02:27:56.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Teleported Principyto to Melosito_Neo]
+[08Sep2025 02:29:20.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto moved wrongly!
+[08Sep2025 02:30:31.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3533ms or 70 ticks behind
+[08Sep2025 02:30:50.793] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto lost connection: Disconnected
+[08Sep2025 02:30:50.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto left the game
+[08Sep2025 02:35:20.354] [ForkJoinPool.commonPool-worker-8/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[08Sep2025 02:35:20.426] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Principyto[/127.164.16.131:47587] logged in with entity id 51945 at (-3621.1447688245157, 81.0, 533.6625942323394)
+[08Sep2025 02:35:20.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto joined the game
+[08Sep2025 02:35:20.565] [Server thread/INFO] [Jade/]: Syncing config to Principyto (7a14056c-9336-376a-9ae7-7d820f8eb726)
+[08Sep2025 02:39:10.676] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/158, l='ServerLevel[world]', x=-708.76, y=52.00, z=139.30, removed=DISCARDED]
+[08Sep2025 02:39:10.677] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/161, l='ServerLevel[world]', x=-708.71, y=52.00, z=139.51, removed=DISCARDED]
+[08Sep2025 02:39:10.677] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/159, l='ServerLevel[world]', x=-708.76, y=52.00, z=139.30, removed=DISCARDED]
+[08Sep2025 02:39:10.678] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/160, l='ServerLevel[world]', x=-708.71, y=52.00, z=139.51, removed=DISCARDED]
+[08Sep2025 02:42:27.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set the time to 1000]
+[08Sep2025 02:42:40.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/60790, l='ServerLevel[world]', x=-3598.97, y=80.41, z=-774.15] died: Undead Knight suffocated in a wall
+[08Sep2025 02:43:21.203] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto lost connection: Disconnected
+[08Sep2025 02:43:21.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto left the game
+[08Sep2025 02:43:21.249] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
