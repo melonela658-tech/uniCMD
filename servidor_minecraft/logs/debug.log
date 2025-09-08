@@ -17447,3 +17447,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [08Sep2025 03:45:53.223] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/159, l='ServerLevel[world]', x=-708.76, y=52.00, z=139.30, removed=DISCARDED]
 [08Sep2025 03:45:53.224] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/160, l='ServerLevel[world]', x=-708.71, y=52.00, z=139.51, removed=DISCARDED]
 [08Sep2025 03:45:53.224] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/158, l='ServerLevel[world]', x=-708.76, y=52.00, z=139.30, removed=DISCARDED]
+[08Sep2025 03:47:40.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Sep2025 03:47:40.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Sep2025 03:52:13.833] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xmekanism:steel_casing: NO_SUITABLE_CPU_FOUND [Detail: UnsuitableCpus[offline=0, busy=3, tooSmall=0, excluded=0]]
+[08Sep2025 03:52:40.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Sep2025 03:52:40.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -16081,6 +16081,12 @@
     },
     "done": true
   },
+  "mekanism:chemical_tank": {
+    "criteria": {
+      "basic_chemical_tank": "2025-09-08 03:45:05 +0000"
+    },
+    "done": true
+  },
   "mekanism:dictionary": {
     "criteria": {
       "dictionary": "2025-09-08 02:34:23 +0000"
