@@ -1955,3 +1955,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [08Sep2025 04:18:42.423] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [08Sep2025 04:18:42.424] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
 [08Sep2025 04:20:32.178] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/131966, l='ServerLevel[world]', x=-3532.98, y=104.41, z=-805.85] died: Undead Knight suffocated in a wall
+[08Sep2025 04:37:04.162] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! 2955.322874236262,-56.5,949.5145708412102
+[08Sep2025 04:37:04.174] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/161, l='ServerLevel[world]', x=-708.71, y=52.00, z=139.51, removed=DISCARDED]
+[08Sep2025 04:37:04.174] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/159, l='ServerLevel[world]', x=-708.76, y=52.00, z=139.30, removed=DISCARDED]
+[08Sep2025 04:37:04.175] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/160, l='ServerLevel[world]', x=-708.71, y=52.00, z=139.51, removed=DISCARDED]
+[08Sep2025 04:37:04.175] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/158, l='ServerLevel[world]', x=-708.76, y=52.00, z=139.30, removed=DISCARDED]
