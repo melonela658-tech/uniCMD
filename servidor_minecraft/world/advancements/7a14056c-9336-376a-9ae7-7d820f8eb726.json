@@ -11498,5 +11498,23 @@
     },
     "done": true
   },
+  "twilightforest:fiery_set": {
+    "criteria": {
+      "fiery_boots": "2025-09-08 00:59:14 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/decorations/firefly_jar": {
+    "criteria": {
+      "has_item": "2025-09-08 00:58:11 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hedge": {
+    "criteria": {
+      "hedge_spider": "2025-09-08 00:58:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
