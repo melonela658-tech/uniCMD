@@ -1556,3 +1556,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [08Sep2025 00:30:26.936] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Principyto[/127.164.16.131:41423] logged in with entity id 2045 at (-817.7448264916538, 71.98244192008544, 7.384553309160388)
 [08Sep2025 00:30:26.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto joined the game
 [08Sep2025 00:30:27.134] [Server thread/INFO] [Jade/]: Syncing config to Principyto (7a14056c-9336-376a-9ae7-7d820f8eb726)
+[08Sep2025 00:34:59.949] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto lost connection: Disconnected
+[08Sep2025 00:34:59.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto left the game
+[08Sep2025 00:35:42.040] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@12997ea8[id=<null>,name=Principyto,properties={},legacy=false] (/127.164.16.131:59897) lost connection: Disconnected
+[08Sep2025 00:35:56.464] [ForkJoinPool.commonPool-worker-7/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[08Sep2025 00:35:56.524] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Principyto[/127.164.16.131:50645] logged in with entity id 16799 at (-678.6322444170012, 40.0, 117.33116163397499)
+[08Sep2025 00:35:56.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto joined the game
+[08Sep2025 00:35:56.679] [Server thread/INFO] [Jade/]: Syncing config to Principyto (7a14056c-9336-376a-9ae7-7d820f8eb726)
+[08Sep2025 00:43:04.661] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RedcapSapper['Fishidthor the Undoubtable'/29434, l='ServerLevel[world]', x=-5748.45, y=0.00, z=392.55] died: Fishidthor the Undoubtable was slain by Principyto using [Franklin's Annihilating Hellborn Hatchet of the Executioner]
