@@ -17461,3 +17461,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [08Sep2025 04:02:40.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Sep2025 04:02:40.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [08Sep2025 04:05:07.039] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/130214, l='ServerLevel[world]', x=-3636.57, y=102.85, z=-826.57] died: Honeyed Archer was slain by Melosito_Neo
+[08Sep2025 04:07:40.873] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Sep2025 04:07:40.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Sep2025 04:12:40.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Sep2025 04:12:40.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Sep2025 04:17:40.882] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Sep2025 04:17:40.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Sep2025 04:18:42.423] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[08Sep2025 04:18:42.424] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[08Sep2025 04:20:32.178] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/131966, l='ServerLevel[world]', x=-3532.98, y=104.41, z=-805.85] died: Undead Knight suffocated in a wall
+[08Sep2025 04:22:40.872] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Sep2025 04:22:40.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Sep2025 04:27:40.871] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Sep2025 04:27:40.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

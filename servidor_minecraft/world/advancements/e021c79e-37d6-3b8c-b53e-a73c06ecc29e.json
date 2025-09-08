@@ -16035,6 +16035,7 @@
   },
   "mekanism:chemical_crystallizer": {
     "criteria": {
+      "chemical_dissolution_chamber": "2025-09-08 04:21:06 +0000",
       "chemical_crystallizer": "2025-09-07 05:47:39 +0000"
     },
     "done": false
