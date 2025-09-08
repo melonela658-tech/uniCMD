@@ -1537,3 +1537,22 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [08Sep2025 00:14:15.820] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:kamikaze has no valid items
 [08Sep2025 00:14:15.820] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:withershield has no valid items
 [08Sep2025 00:14:15.983] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[08Sep2025 00:25:55.542] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[08Sep2025 00:28:02.990] [ForkJoinPool.commonPool-worker-3/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[08Sep2025 00:28:03.224] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Principyto[/127.164.16.131:50293] logged in with entity id 94 at (-811.4478843164273, 71.0, 12.5903925514915)
+[08Sep2025 00:28:03.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto joined the game
+[08Sep2025 00:28:04.012] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.TamableAnimal from interface com.hollingsworth.arsnouveau.common.entity.IFollowingSummon
+[08Sep2025 00:28:04.126] [Server thread/INFO] [Jade/]: Syncing config to Principyto (7a14056c-9336-376a-9ae7-7d820f8eb726)
+[08Sep2025 00:28:08.288] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySkunk['Skunk'/1019, l='ServerLevel[world]', x=-690.43, y=64.00, z=-65.35]
+[08Sep2025 00:28:25.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] pim poms
+[08Sep2025 00:28:31.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] estoy desde sel
+[08Sep2025 00:28:32.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08Sep2025 00:28:32.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uwu<--[HERE]
+[08Sep2025 00:28:34.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] uwu
+[08Sep2025 00:29:18.401] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Principyto lost connection: Timed out
+[08Sep2025 00:29:18.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto left the game
+[08Sep2025 00:30:14.194] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2d4bf2dd[id=<null>,name=Principyto,properties={},legacy=false] (/127.164.16.131:34533) lost connection: Disconnected
+[08Sep2025 00:30:26.857] [ForkJoinPool.commonPool-worker-5/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[08Sep2025 00:30:26.936] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Principyto[/127.164.16.131:41423] logged in with entity id 2045 at (-817.7448264916538, 71.98244192008544, 7.384553309160388)
+[08Sep2025 00:30:26.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Principyto joined the game
+[08Sep2025 00:30:27.134] [Server thread/INFO] [Jade/]: Syncing config to Principyto (7a14056c-9336-376a-9ae7-7d820f8eb726)
