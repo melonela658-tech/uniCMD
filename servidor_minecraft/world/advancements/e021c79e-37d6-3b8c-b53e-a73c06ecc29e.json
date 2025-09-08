@@ -16082,6 +16082,12 @@
     },
     "done": true
   },
+  "mekanism:yellow_cake": {
+    "criteria": {
+      "yellow_cake_uranium": "2025-09-08 04:47:21 +0000"
+    },
+    "done": true
+  },
   "mekanism:chemical_tank": {
     "criteria": {
       "basic_chemical_tank": "2025-09-08 03:45:05 +0000"
