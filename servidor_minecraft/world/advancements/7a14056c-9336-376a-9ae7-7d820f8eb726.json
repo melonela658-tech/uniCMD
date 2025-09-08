@@ -3318,6 +3318,7 @@
       "apple": "2025-09-03 07:09:41 +0000",
       "spider_eye": "2025-09-06 04:09:22 +0000",
       "potato": "2025-09-06 11:13:56 +0000",
+      "rabbit": "2025-09-08 02:20:34 +0000",
       "mutton": "2025-09-06 22:33:06 +0000",
       "bread": "2025-09-02 20:21:13 +0000",
       "golden_apple": "2025-09-02 23:48:05 +0000",
@@ -11498,12 +11499,6 @@
     },
     "done": true
   },
-  "twilightforest:fiery_set": {
-    "criteria": {
-      "fiery_boots": "2025-09-08 00:59:14 +0000"
-    },
-    "done": false
-  },
   "twilightforest:recipes/decorations/firefly_jar": {
     "criteria": {
       "has_item": "2025-09-08 00:58:11 +0000"
@@ -11515,6 +11510,12 @@
       "hedge_spider": "2025-09-08 00:58:24 +0000"
     },
     "done": true
+  },
+  "twilightforest:fiery_set": {
+    "criteria": {
+      "fiery_boots": "2025-09-08 00:59:14 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

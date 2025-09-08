@@ -15930,6 +15930,30 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-09-07 03:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-09-07 03:33:22 +0000"
+    },
+    "done": true
+  },
+  "jetboots:recipes/misc/shock_absorber_upgrade_rocket_smithing": {
+    "criteria": {
+      "has_rocketboots": "2025-09-07 04:38:14 +0000"
+    },
+    "done": true
+  },
+  "jetboots:recipes/misc/shock_absorber_upgrade": {
+    "criteria": {
+      "has_rocketboots": "2025-09-07 04:38:14 +0000"
+    },
+    "done": true
+  },
   "jetboots:recipes/misc/muffled_upgrade": {
     "criteria": {
       "has_jetboots": "2025-09-07 04:38:16 +0000"
@@ -15954,18 +15978,6 @@
     },
     "done": true
   },
-  "minecraft:end/elytra": {
-    "criteria": {
-      "elytra": "2025-09-07 03:33:22 +0000"
-    },
-    "done": true
-  },
-  "jetboots:recipes/misc/shock_absorber_upgrade_rocket_smithing": {
-    "criteria": {
-      "has_rocketboots": "2025-09-07 04:38:14 +0000"
-    },
-    "done": true
-  },
   "jetboots:recipes/misc/underwater_upgrade_smithing": {
     "criteria": {
       "has_jetboots": "2025-09-07 04:38:16 +0000"
@@ -15978,13 +15990,19 @@
     },
     "done": true
   },
-  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
+  "jetboots:recipes/misc/engine_upgrade_smithing": {
     "criteria": {
-      "has_item": "2025-09-07 04:56:16 +0000"
+      "has_jetboots": "2025-09-07 04:38:16 +0000"
     },
     "done": true
   },
-  "jetboots:recipes/misc/engine_upgrade_smithing": {
+  "jetboots:recipes/misc/thruster_upgrade_smithing": {
+    "criteria": {
+      "has_jetboots": "2025-09-07 04:38:16 +0000"
+    },
+    "done": true
+  },
+  "jetboots:recipes/misc/shock_absorber_upgrade_smithing": {
     "criteria": {
       "has_jetboots": "2025-09-07 04:38:16 +0000"
     },
@@ -15996,15 +16014,21 @@
     },
     "done": true
   },
+  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
+    "criteria": {
+      "has_item": "2025-09-07 04:56:16 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/netherite_chestplate_repairing": {
     "criteria": {
       "has_netherite_chestplate": "2025-09-07 04:56:16 +0000"
     },
     "done": true
   },
-  "mekanism:digital_miner": {
+  "mekanism:atomic_alloy": {
     "criteria": {
-      "digital_miner": "2025-09-07 06:43:02 +0000"
+      "alloy_atomic": "2025-09-07 05:35:36 +0000"
     },
     "done": true
   },
@@ -16013,12 +16037,6 @@
       "chemical_crystallizer": "2025-09-07 05:47:39 +0000"
     },
     "done": false
-  },
-  "jetboots:recipes/misc/shock_absorber_upgrade": {
-    "criteria": {
-      "has_rocketboots": "2025-09-07 04:38:14 +0000"
-    },
-    "done": true
   },
   "expatternprovider:recipes/misc/epp_alt": {
     "criteria": {
@@ -16032,33 +16050,15 @@
     },
     "done": true
   },
-  "jetboots:recipes/misc/thruster_upgrade_smithing": {
-    "criteria": {
-      "has_jetboots": "2025-09-07 04:38:16 +0000"
-    },
-    "done": true
-  },
   "expatternprovider:recipes/misc/ex_charger": {
     "criteria": {
       "has_item": "2025-09-07 05:59:30 +0000"
     },
     "done": true
   },
-  "mekanism:atomic_alloy": {
+  "mekanism:digital_miner": {
     "criteria": {
-      "alloy_atomic": "2025-09-07 05:35:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/find_end_city": {
-    "criteria": {
-      "in_city": "2025-09-07 03:33:19 +0000"
-    },
-    "done": true
-  },
-  "jetboots:recipes/misc/shock_absorber_upgrade_smithing": {
-    "criteria": {
-      "has_jetboots": "2025-09-07 04:38:16 +0000"
+      "digital_miner": "2025-09-07 06:43:02 +0000"
     },
     "done": true
   },
